@@ -7,6 +7,9 @@
 <meta name="robots" content="noindex">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="icon" href="favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600;14..32,700&display=swap">
@@ -72,8 +75,20 @@ header.top { display: flex; align-items: center; justify-content: space-between;
 .maj { color: var(--muted); font-size: 13px; text-align: right; font-variant-numeric: tabular-nums; }
 .maj .live { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--pos); margin-right: 6px; vertical-align: 1px; box-shadow: 0 0 0 3px var(--pos-soft); }
 
+/* Navigation entre pages */
+.pages { display: flex; gap: 2px; padding: 3px; background: var(--elev); border-radius: 999px; width: fit-content; max-width: 100%; overflow-x: auto; scrollbar-width: none; margin-top: 20px; }
+.pages::-webkit-scrollbar { display: none; }
+.pages a { flex: none; text-decoration: none; padding: 8px 16px; border-radius: 999px; font-weight: 500; font-size: 14px; color: var(--fg-2); display: inline-flex; gap: 7px; align-items: center; }
+.pages a .n { color: var(--muted); font-variant-numeric: tabular-nums; }
+.pages a[aria-current="page"] { background: var(--bg); color: var(--fg); box-shadow: var(--shadow-sm); font-weight: 600; }
+.pages a .dot { width: 7px; height: 7px; border-radius: 50%; }
+.pages a .dot.ok { background: var(--pos); } .pages a .dot.ko { background: var(--neg); }
+.page-head { display: flex; flex-direction: column; gap: 8px; }
+.page-head h1 { font-size: clamp(40px, 8vw, 72px); font-weight: 700; line-height: 1; letter-spacing: -.045em; }
+.page-head p { margin: 0; color: var(--muted); font-size: 15px; }
+
 /* Chiffre clé */
-.hero { display: flex; flex-direction: column; gap: 14px; margin-top: -16px; }
+.hero { display: flex; flex-direction: column; gap: 14px; }
 .hero .eyebrow { color: var(--muted); font-size: 15px; font-weight: 500; }
 .hero h1 { font-size: clamp(44px, 9vw, 88px); font-weight: 700; line-height: 1; letter-spacing: -.045em; font-variant-numeric: tabular-nums; }
 .hero h1 .unit { color: var(--muted); font-weight: 600; }
@@ -136,7 +151,8 @@ select { appearance: none; -webkit-appearance: none; border: 0; background: tran
 .card { display: flex; flex-direction: column; gap: 16px; min-width: 0; }
 .card.refuse { opacity: .4; }
 .ph { position: relative; overflow: hidden; aspect-ratio: 4 / 3; max-width: 100%; background: var(--elev); border-radius: var(--r-lg); display: grid; place-items: center; color: var(--muted); font-size: 13px; }
-.ph img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.ph { touch-action: pan-y; -webkit-user-select: none; user-select: none; }
+.ph img { -webkit-user-drag: none; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
 .ph .nav { position: absolute; top: 50%; transform: translateY(-50%); width: 34px; height: 34px; border-radius: 50%; border: 0; background: var(--glass); color: var(--fg); cursor: pointer; font-size: 18px; line-height: 1;
   -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); opacity: 0; transition: opacity .2s; }
 .ph:hover .nav, .ph:focus-within .nav { opacity: 1; }
@@ -172,12 +188,18 @@ dd .clamp { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: ver
 .src > a:first-child { display: inline-flex; align-items: center; gap: 6px; background: var(--ink); color: var(--on-ink); text-decoration: none; font-weight: 600; padding: 9px 16px; border-radius: 999px; }
 .src > a:first-child::after { content: "↗"; font-weight: 500; }
 .src .hint a { color: var(--fg-2); }
+.actions { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.actions button { border: 0; border-radius: 999px; padding: 12px 10px; font-weight: 600; font-size: 15px; cursor: pointer; background: var(--elev); color: var(--fg); display: inline-flex; align-items: center; justify-content: center; gap: 8px; transition: background .15s, color .15s; }
+.actions button svg { width: 16px; height: 16px; flex: none; }
+.actions .ok:hover { background: var(--pos-soft); color: var(--pos); }
+.actions .ko:hover { background: var(--neg-soft); color: var(--neg); }
+.actions .ok[aria-pressed="true"] { background: var(--pos); color: #fff; }
+.actions .ko[aria-pressed="true"] { background: var(--neg); color: #fff; }
+.card { transition: opacity .25s, transform .25s; }
+.card.sortie { opacity: 0; transform: scale(.97); }
+.toast { position: fixed; left: 50%; bottom: 24px; transform: translate(-50%, 20px); opacity: 0; pointer-events: none; background: var(--ink); color: var(--on-ink); padding: 11px 18px; border-radius: 999px; font-size: 14px; font-weight: 600; transition: opacity .2s, transform .2s; z-index: 30; white-space: nowrap; }
+.toast.on { opacity: 1; transform: translate(-50%, 0); }
 .suivi { display: flex; flex-direction: column; gap: 10px; margin-top: auto; padding-top: 4px; }
-.st { display: flex; flex-wrap: wrap; gap: 6px; }
-.st button { border: 0; background: var(--elev); border-radius: 999px; padding: 7px 13px; font-size: 13px; font-weight: 500; cursor: pointer; color: var(--fg-2); transition: background .15s, color .15s; }
-.st button:hover { background: var(--elev-2); }
-.st button[aria-pressed="true"] { background: var(--ink); color: var(--on-ink); }
-.st button[data-v="refuse"][aria-pressed="true"] { background: var(--neg); color: #fff; }
 textarea { width: 100%; min-height: 46px; resize: vertical; border: 0; border-radius: var(--r-md); padding: 11px 14px; background: var(--elev); font-size: 14px; }
 textarea::placeholder { color: var(--muted); }
 .saved { font-size: 12px; color: var(--muted); min-height: 1em; }
@@ -203,20 +225,27 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
 <body>
 
 <div class="wrap">
-  <header class="top">
-    <div class="brand"><span class="mark">AB</span>Appart Bordeaux</div>
-    <div class="maj" id="maj">Chargement…</div>
-  </header>
+  <nav class="pages" aria-label="Pages">
+    <a href="#" data-page="trier">À trier <span class="n" id="n-trier"></span></a>
+    <a href="#validees" data-page="validees"><span class="dot ok"></span>Validées <span class="n" id="n-validees"></span></a>
+    <a href="#refusees" data-page="refusees"><span class="dot ko"></span>Refusées <span class="n" id="n-refusees"></span></a>
+  </nav>
 
-  <section class="hero" aria-live="polite">
+  <section class="page-head" id="page-head" hidden>
+    <h1 id="page-titre"></h1>
+    <p id="page-sous"></p>
+  </section>
+
+  <section class="hero vue-trier" aria-live="polite">
     <span class="eyebrow">Logements qui cochent tous vos critères</span>
     <h1 id="hero-n">… <span class="unit">annonces</span></h1>
     <div class="stats" id="hero-stats"></div>
+    <div class="maj" id="maj" style="text-align:left">Chargement…</div>
   </section>
 
   <div class="notice" id="notice" hidden></div>
 
-  <section class="panel" aria-labelledby="crit-titre">
+  <section class="panel vue-trier" aria-labelledby="crit-titre">
     <div class="panel-head">
       <h2 id="crit-titre">Vos critères</h2>
       <span class="hint">Recherche automatique chaque jour à 8 h 17 et 19 h 17</span>
@@ -236,21 +265,11 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     </details>
   </section>
 
-  <h2 class="sec-title" style="margin-bottom:-36px">Annonces</h2>
+  <h2 class="sec-title vue-trier" style="margin-bottom:-36px">Annonces à trier</h2>
 
   <div class="filters" id="filters">
     <div class="tabs" id="tabs" role="group" aria-label="Classement des annonces"></div>
     <div class="row">
-      <label for="f-suivi">Mon suivi
-        <select id="f-suivi">
-          <option value="">Tous</option>
-          <option value="aucun">Pas encore traité</option>
-          <option value="interesse">Intéressant</option>
-          <option value="contacte">Contacté</option>
-          <option value="visite">Visite prévue</option>
-          <option value="refuse">Refusé</option>
-        </select>
-      </label>
       <label for="f-ville">Commune <select id="f-ville"><option value="">Toutes</option></select></label>
       <label for="f-tri">Trier par
         <select id="f-tri">
@@ -265,7 +284,8 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
 
   <div class="grid" id="grid"></div>
   <div class="empty" id="empty" hidden></div>
-  <footer>Votre suivi (statuts et notes) est enregistré dans ce navigateur. Les annonces restent la propriété des sites qui les publient.</footer>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <footer>Vos choix (validées, refusées) et vos notes sont enregistrés dans ce navigateur. Les annonces restent la propriété des sites qui les publient.</footer>
 </div>
 
 <script>
@@ -278,12 +298,19 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     ["tous", "Toutes"],
   ];
   const LIB_STATUT = { correspond: "Correspond", a_verifier: "À vérifier", incomplete: "Incomplète", rejetee: "Écartée" };
-  const SUIVI = [["interesse", "Intéressant"], ["contacte", "Contacté"], ["visite", "Visite prévue"], ["refuse", "Refusé"]];
-  const state = { annonces: [], suivi: {}, config: null, idx: {}, onglet: "correspond", fSuivi: "", fVille: "", tri: "loyer", loaded: false };
+  const ICO_OK = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 8.5l3.2 3.2L13 5"/></svg>';
+  const ICO_KO = '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><path d="M4 4l8 8M12 4l-8 8"/></svg>';
+  const PAGES = {
+    validees: ["Validées", "Les annonces que vous avez gardées. Retirez la validation pour les renvoyer dans À trier."],
+    refusees: ["Refusées", "Les annonces que vous avez écartées. Elles restent ici si vous changez d'avis."],
+  };
+  const state = { annonces: [], suivi: {}, config: null, idx: {}, onglet: "correspond", fVille: "", tri: "loyer", loaded: false, page: "trier" };
+  const choix = a => { const v = (state.suivi[a.id] || {}).statut; return v === "valide" || v === "refuse" ? v : null; };
+  function lirePage() { const h = location.hash.replace("#", ""); state.page = PAGES[h] ? h : "trier"; }
 
   function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
   function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
-  ["onglet", "fSuivi", "fVille", "tri"].forEach(k => { const v = lsGet("ab." + k); if (v !== null) state[k] = v; });
+  ["onglet", "fVille", "tri"].forEach(k => { const v = lsGet("ab." + k); if (v !== null) state[k] = v; });
 
   const $ = id => document.getElementById(id);
   const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -324,12 +351,13 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
 
   function filtrees() {
     let l = state.annonces.filter(a => !a.expiree);
-    if (state.onglet !== "tous") l = l.filter(a => a.statut === state.onglet);
+    if (state.page === "validees") l = l.filter(a => choix(a) === "valide");
+    else if (state.page === "refusees") l = l.filter(a => choix(a) === "refuse");
+    else {
+      l = l.filter(a => !choix(a));
+      if (state.onglet !== "tous") l = l.filter(a => a.statut === state.onglet);
+    }
     if (state.fVille) l = l.filter(a => (a.ville || "") === state.fVille);
-    if (state.fSuivi) l = l.filter(a => {
-      const s = (state.suivi[a.id] || {}).statut || "aucun";
-      return s === state.fSuivi;
-    });
     const t = state.tri;
     l.sort((x, y) => {
       if (t === "surface") return (y.surface_m2 || 0) - (x.surface_m2 || 0);
@@ -341,15 +369,24 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
   }
 
   function renderTabs() {
-    const actives = state.annonces.filter(a => !a.expiree);
+    const toutes = state.annonces.filter(a => !a.expiree);
+    const actives = toutes.filter(a => !choix(a));
+    $("n-trier").textContent = actives.length;
+    $("n-validees").textContent = toutes.filter(a => choix(a) === "valide").length;
+    $("n-refusees").textContent = toutes.filter(a => choix(a) === "refuse").length;
+    document.querySelectorAll(".pages a").forEach(x => { if (x.dataset.page === state.page) x.setAttribute("aria-current", "page"); else x.removeAttribute("aria-current"); });
+    const autre = state.page !== "trier";
+    document.querySelectorAll(".vue-trier").forEach(x => { x.hidden = autre; });
+    $("tabs").hidden = autre;
+    $("page-head").hidden = !autre;
+    if (autre) { $("page-titre").textContent = PAGES[state.page][0]; $("page-sous").textContent = PAGES[state.page][1]; }
     $("tabs").innerHTML = STATUTS.map(([k, lib]) => {
       const n = k === "tous" ? actives.length : actives.filter(a => a.statut === k).length;
       return `<button class="tab" type="button" data-k="${k}" aria-pressed="${state.onglet === k}">${lib}<span class="n">${n}</span></button>`;
     }).join("");
-    const villes = [...new Set(actives.map(a => a.ville).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
+    const villes = [...new Set(toutes.map(a => a.ville).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
     const sel = $("f-ville");
     sel.innerHTML = `<option value="">Toutes</option>` + villes.map(v => `<option ${v === state.fVille ? "selected" : ""}>${esc(v)}</option>`).join("");
-    $("f-suivi").value = state.fSuivi;
     $("f-tri").value = state.tri;
   }
 
@@ -360,7 +397,7 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     const verif = (a.points_a_verifier || []).length ? `<div class="verif">À vérifier : ${esc(a.points_a_verifier.join(", "))}</div>` : "";
     const rejet = (a.raisons_rejet || []).length ? `<div class="rejet">Écartée : ${esc(a.raisons_rejet.join(", "))}</div>` : "";
     const autres = (a.autres_urls || []).map(u => { let h = u; try { h = new URL(u).hostname.replace("www.", ""); } catch (e) {} return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join("");
-    return `<article class="card ${s.statut === "refuse" ? "refuse" : ""}" data-id="${esc(a.id)}">
+    return `<article class="card" data-id="${esc(a.id)}">
       <div class="ph" data-nb="${nb}">
         ${nb ? `<span class="hint">Photo…</span>` : `<span>Pas de photo récupérée, voir l'annonce</span>`}
         <span class="badge">${nouveau ? `<span class="pill nouveau">Nouvelle</span> ` : ""}<span class="pill ${esc(a.statut)}">${esc(LIB_STATUT[a.statut] || a.statut)}</span></span>
@@ -379,7 +416,10 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
         ${verif}${rejet}
         <div class="src"><a href="${esc(a.url)}" target="_blank" rel="noopener">Voir l'annonce sur ${esc(a.site || "le site")}</a>${autres ? `<span class="hint">Aussi sur ${autres}</span>` : ""}</div>
         <div class="suivi">
-          <div class="st" role="group" aria-label="Mon suivi">${SUIVI.map(([v, l]) => `<button type="button" data-v="${v}" aria-pressed="${s.statut === v}">${l}</button>`).join("")}</div>
+          <div class="actions" role="group" aria-label="Mon choix">
+            <button type="button" class="ok" data-v="valide" aria-pressed="${s.statut === "valide"}">${ICO_OK}${s.statut === "valide" ? "Validée" : "Valider"}</button>
+            <button type="button" class="ko" data-v="refuse" aria-pressed="${s.statut === "refuse"}">${ICO_KO}${s.statut === "refuse" ? "Refusée" : "Refuser"}</button>
+          </div>
           <textarea id="note-${esc(a.id)}" placeholder="Ma note : contact, date de visite, impressions…">${esc(s.note || "")}</textarea>
           <span class="saved" aria-live="polite"></span>
         </div>
@@ -388,7 +428,7 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
   }
 
   function renderHero() {
-    const actives = state.annonces.filter(a => !a.expiree);
+    const actives = state.annonces.filter(a => !a.expiree && !choix(a));
     const ok = actives.filter(a => a.statut === "correspond");
     const nouv = ok.filter(a => String(a.trouvee_le || "").slice(0, 10) === today).length;
     const loyers = ok.map(a => a.loyer_total).filter(Boolean);
@@ -396,7 +436,7 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     const sites = state.config && state.config.sites ? state.config.sites.length : 0;
     $("hero-stats").innerHTML = (nouv ? `<span class="delta">+${nouv} aujourd'hui</span>` : "") +
       (loyers.length ? `<span>À partir de <b>${eur(Math.min(...loyers))}</b></span>` : "") +
-      `<span><b>${actives.length}</b> analysées</span>` + (sites ? `<span><b>${sites}</b> sites surveillés</span>` : "");
+      `<span><b>${actives.length}</b> à trier</span>` + (sites ? `<span><b>${sites}</b> sites surveillés</span>` : "");
   }
 
   function render() {
@@ -407,7 +447,9 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     const empty = $("empty");
     if (!state.loaded) { empty.hidden = false; empty.textContent = "Chargement des annonces…"; }
     else if (!state.annonces.length) { empty.hidden = false; empty.textContent = "Aucune annonce pour le moment. La recherche automatique remplira cette page à son prochain passage."; }
-    else if (!l.length) { empty.hidden = false; empty.textContent = "Aucune annonce avec ces filtres. Essayez l'onglet Toutes ou retirez un filtre."; }
+    else if (!l.length && state.page === "validees") { empty.hidden = false; empty.textContent = "Aucune annonce validée pour l'instant. Touchez Valider sur une annonce pour la retrouver ici."; }
+    else if (!l.length && state.page === "refusees") { empty.hidden = false; empty.textContent = "Aucune annonce refusée."; }
+    else if (!l.length) { empty.hidden = false; empty.textContent = "Rien à trier avec ces filtres. Essayez l'onglet Toutes ou retirez un filtre."; }
     else empty.hidden = true;
     observer && document.querySelectorAll(".ph[data-nb]").forEach(el => { if (+el.dataset.nb) observer.observe(el); });
   }
@@ -426,6 +468,27 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
   const observer = "IntersectionObserver" in window ? new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { observer.unobserve(e.target); afficherPhoto(e.target); } }), { rootMargin: "300px" }) : null;
 
   try { state.suivi = JSON.parse(lsGet("ab.suivi") || "{}") || {}; } catch (e) { state.suivi = {}; }
+  let toastTimer = null;
+  function toast(msg) { const t = $("toast"); t.textContent = msg; t.classList.add("on"); clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("on"), 1800); }
+  function changerPhoto(ph, sens) {
+    const card = ph.closest(".card"); const a = state.annonces.find(x => x.id === card.dataset.id);
+    const n = (a && a.photos_urls || []).length; if (n < 2) return;
+    state.idx[a.id] = ((state.idx[a.id] || 0) + sens + n) % n;
+    afficherPhoto(ph);
+  }
+  let glisse = null;
+  document.addEventListener("touchstart", e => {
+    const ph = e.target.closest(".ph"); if (!ph || e.touches.length !== 1) { glisse = null; return; }
+    glisse = { ph, x: e.touches[0].clientX, y: e.touches[0].clientY };
+  }, { passive: true });
+  document.addEventListener("touchend", e => {
+    if (!glisse) return;
+    const t = e.changedTouches[0]; const dx = t.clientX - glisse.x; const dy = t.clientY - glisse.y;
+    if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy) * 1.5) changerPhoto(glisse.ph, dx < 0 ? 1 : -1);
+    glisse = null;
+  }, { passive: true });
+  window.addEventListener("hashchange", () => { lirePage(); render(); window.scrollTo(0, 0); });
+  lirePage();
   function ecrireSuivi(id, patch, card) {
     const saved = card.querySelector(".saved");
     state.suivi[id] = Object.assign({ statut: null, note: "" }, state.suivi[id] || {}, patch, { maj: new Date().toISOString() });
@@ -438,23 +501,21 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     if (tab) { state.onglet = tab.dataset.k; lsSet("ab.onglet", state.onglet); render(); return; }
     const nav = e.target.closest(".ph .nav");
     if (nav) {
-      const card = nav.closest(".card"); const a = state.annonces.find(x => x.id === card.dataset.id); const n = a.photos_urls.length;
-      state.idx[a.id] = ((state.idx[a.id] || 0) + (nav.classList.contains("next") ? 1 : -1) + n) % n;
-      afficherPhoto(nav.closest(".ph")); return;
+      changerPhoto(nav.closest(".ph"), nav.classList.contains("next") ? 1 : -1); return;
     }
-    const b = e.target.closest(".st button");
+    const b = e.target.closest(".actions button");
     if (b) {
       const card = b.closest(".card"); const id = card.dataset.id;
       const actuel = (state.suivi[id] || {}).statut;
       const v = actuel === b.dataset.v ? null : b.dataset.v;
-      card.querySelectorAll(".st button").forEach(x => x.setAttribute("aria-pressed", String(x.dataset.v === v)));
-      card.classList.toggle("refuse", v === "refuse");
       ecrireSuivi(id, { statut: v }, card);
+      toast(v === "valide" ? "Ajoutée aux validées" : v === "refuse" ? "Ajoutée aux refusées" : "Renvoyée dans À trier");
+      card.classList.add("sortie");
+      setTimeout(render, 260);
     }
   });
   document.addEventListener("change", e => {
-    if (e.target.id === "f-suivi") { state.fSuivi = e.target.value; lsSet("ab.fSuivi", state.fSuivi); render(); }
-    else if (e.target.id === "f-ville") { state.fVille = e.target.value; lsSet("ab.fVille", state.fVille); render(); }
+    if (e.target.id === "f-ville") { state.fVille = e.target.value; lsSet("ab.fVille", state.fVille); render(); }
     else if (e.target.id === "f-tri") { state.tri = e.target.value; lsSet("ab.tri", state.tri); render(); }
     else if (e.target.matches("textarea[id^='note-']")) {
       const card = e.target.closest(".card"); const id = card.dataset.id;
