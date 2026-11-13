@@ -1,0 +1,17 @@
+{
+  "type": "location",
+  "ville": "Bordeaux Métropole",
+  "loyer_max_cc": 700,
+  "tolerance_loyer_cc": 750,
+  "pieces_min": 2,
+  "pieces_max": 3,
+  "surface_min_m2": 35,
+  "exterieur_obligatoire": true,
+  "parking_obligatoire": true,
+  "trajet_max_minutes": 40,
+  "lieux_de_travail": [
+    {"nom": "Travail 1", "adresse": "136 quai des Chartrons, 33300 Bordeaux", "arrets_proches": ["Tram B Chartrons", "Tram B Cours du Médoc"]},
+    {"nom": "Travail 2", "adresse": "127 rue de Turenne, 33000 Bordeaux", "arrets_proches": ["Tram D Croix de Seguey", "Tram D Fondaudège Muséum"]}
+  ],
+  "notes": "Exterieur = balcon, terrasse, loggia ou jardin. Parking = place, box ou garage (inclus ou en option au loyer, dans ce cas l'ajouter au total). Le trajet maximal s'applique aux DEUX lieux de travail."
+}

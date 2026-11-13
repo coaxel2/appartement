@@ -1,0 +1,26 @@
+{
+  "_description": "Estimation du temps de trajet porte à porte en transports TBM (tram, bus, marche) vers le lieu de travail le plus éloigné des deux (quai des Chartrons et rue de Turenne). Valeurs indicatives : vérifier les cas limites (statut 'limite') sur infotbm.com ou Google Maps.",
+  "zones": [
+    {"nom": "Bordeaux Chartrons / Jardin Public", "codes_postaux": ["33300", "33000"], "minutes": 15, "statut": "ok"},
+    {"nom": "Bordeaux Saint-Seurin / Fondaudège", "codes_postaux": ["33000"], "minutes": 15, "statut": "ok"},
+    {"nom": "Bordeaux Grand Parc", "codes_postaux": ["33300"], "minutes": 15, "statut": "ok"},
+    {"nom": "Bordeaux Triangle / Hypercentre / Saint-Pierre", "codes_postaux": ["33000"], "minutes": 20, "statut": "ok"},
+    {"nom": "Bordeaux Bassins à flot / Bacalan", "codes_postaux": ["33300"], "minutes": 25, "statut": "ok"},
+    {"nom": "Bordeaux Caudéran", "codes_postaux": ["33200"], "minutes": 25, "statut": "ok"},
+    {"nom": "Bordeaux Saint-Michel / Capucins / Victoire", "codes_postaux": ["33800", "33000"], "minutes": 30, "statut": "ok"},
+    {"nom": "Bordeaux Bastide (rive droite)", "codes_postaux": ["33100"], "minutes": 30, "statut": "ok"},
+    {"nom": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier", "codes_postaux": ["33800"], "minutes": 35, "statut": "ok"},
+    {"nom": "Le Bouscat", "codes_postaux": ["33110"], "minutes": 20, "statut": "ok"},
+    {"nom": "Bruges", "codes_postaux": ["33520"], "minutes": 30, "statut": "ok"},
+    {"nom": "Eysines (proche tram D)", "codes_postaux": ["33320"], "minutes": 35, "statut": "limite"},
+    {"nom": "Talence (proche tram B)", "codes_postaux": ["33400"], "minutes": 35, "statut": "limite"},
+    {"nom": "Mérignac centre / Arlac / Capeyron (proche tram A)", "codes_postaux": ["33700"], "minutes": 38, "statut": "limite"},
+    {"nom": "Bègles (proche tram C)", "codes_postaux": ["33130"], "minutes": 38, "statut": "limite"},
+    {"nom": "Cenon / Lormont / Floirac (proche tram A)", "codes_postaux": ["33150", "33310", "33270"], "minutes": 38, "statut": "limite"},
+    {"nom": "Blanquefort (tram C)", "codes_postaux": ["33290"], "minutes": 38, "statut": "limite"},
+    {"nom": "Pessac centre (tram B)", "codes_postaux": ["33600"], "minutes": 42, "statut": "limite"},
+    {"nom": "Le Haillan / Saint-Médard-en-Jalles", "codes_postaux": ["33185", "33160"], "minutes": 50, "statut": "trop_loin"},
+    {"nom": "Villenave-d'Ornon / Gradignan", "codes_postaux": ["33140", "33170"], "minutes": 50, "statut": "trop_loin"},
+    {"nom": "Bassens / Ambarès / Artigues / Carbon-Blanc", "codes_postaux": ["33530", "33440", "33370", "33560"], "minutes": 50, "statut": "trop_loin"}
+  ]
+}

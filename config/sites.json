@@ -1,0 +1,33 @@
+{
+  "_description": "Sites à couvrir à chaque exécution. 'lecture_directe' = la page d'annonce peut être lue avec WebFetch/curl. Les sites protégés par anti-robot sont couverts uniquement via la recherche web (WebSearch) : ne jamais contourner leurs protections.",
+  "sites": [
+    {"nom": "Leboncoin", "domaine": "leboncoin.fr", "lecture_directe": false},
+    {"nom": "SeLoger", "domaine": "seloger.com", "lecture_directe": false},
+    {"nom": "PAP", "domaine": "pap.fr", "lecture_directe": false},
+    {"nom": "Logic-Immo", "domaine": "logic-immo.com", "lecture_directe": false},
+    {"nom": "Ouest-France Immo", "domaine": "ouestfrance-immo.com", "lecture_directe": false},
+    {"nom": "AVendreALouer", "domaine": "avendrealouer.fr", "lecture_directe": false},
+    {"nom": "Bien'ici", "domaine": "bienici.com", "lecture_directe": true},
+    {"nom": "Le Figaro Immobilier", "domaine": "immobilier.lefigaro.fr", "lecture_directe": true},
+    {"nom": "ParuVendu", "domaine": "paruvendu.fr", "lecture_directe": true},
+    {"nom": "LocService", "domaine": "locservice.fr", "lecture_directe": true},
+    {"nom": "123loger", "domaine": "123loger.com", "lecture_directe": true},
+    {"nom": "Location-Etudiant", "domaine": "location-etudiant.fr", "lecture_directe": true},
+    {"nom": "Foncia", "domaine": "fr.foncia.com", "lecture_directe": true},
+    {"nom": "Orpi", "domaine": "orpi.com", "lecture_directe": true},
+    {"nom": "Century 21", "domaine": "century21.fr", "lecture_directe": true},
+    {"nom": "Laforêt", "domaine": "laforet.com", "lecture_directe": true},
+    {"nom": "Square Habitat", "domaine": "squarehabitat.fr", "lecture_directe": false},
+    {"nom": "Trovit", "domaine": "immo.trovit.fr", "lecture_directe": false},
+    {"nom": "Superimmo", "domaine": "superimmo.com", "lecture_directe": false},
+    {"nom": "Capifrance", "domaine": "capifrance.fr", "lecture_directe": false}
+  ],
+  "requetes_types": [
+    "location appartement T2 {ville} balcon parking",
+    "location appartement T3 {ville} terrasse garage",
+    "location T2 {ville} loggia place de parking 700 € charges comprises",
+    "appartement à louer {ville} 2 pièces balcon parking",
+    "site:{domaine} location appartement {ville} parking balcon"
+  ],
+  "villes": ["Bordeaux", "Le Bouscat", "Bruges", "Talence", "Mérignac", "Bègles", "Eysines", "Cenon", "Lormont", "Floirac", "Blanquefort", "Pessac"]
+}
