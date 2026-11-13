@@ -73,7 +73,7 @@ header.top { display: flex; align-items: center; justify-content: space-between;
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 600; letter-spacing: -.01em; font-size: 16px; }
 .brand .mark { width: 28px; height: 28px; border-radius: 8px; background: var(--ink); color: var(--on-ink); display: grid; place-items: center; font-size: 13px; font-weight: 700; letter-spacing: -.02em; }
 .maj { color: var(--muted); font-size: 13px; text-align: right; font-variant-numeric: tabular-nums; }
-.maj .live { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--pos); margin-right: 6px; vertical-align: 1px; box-shadow: 0 0 0 3px var(--pos-soft); }
+.maj .dot-live { display: inline-block; width: 7px; height: 7px; border-radius: 50%; background: var(--pos); margin-right: 6px; vertical-align: 1px; box-shadow: 0 0 0 3px var(--pos-soft); }
 
 /* Navigation entre pages */
 .pages { display: flex; gap: 2px; padding: 3px; background: var(--elev); border-radius: 999px; width: fit-content; max-width: 100%; overflow-x: auto; scrollbar-width: none; margin-top: 20px; }
@@ -86,6 +86,24 @@ header.top { display: flex; align-items: center; justify-content: space-between;
 .page-head { display: flex; flex-direction: column; gap: 8px; }
 .page-head h1 { font-size: clamp(40px, 8vw, 72px); font-weight: 700; line-height: 1; letter-spacing: -.045em; }
 .page-head p { margin: 0; color: var(--muted); font-size: 15px; }
+
+/* Bandeau recherche automatique */
+.live { border-radius: var(--r-lg); background: var(--elev); padding: 16px 18px; display: flex; flex-direction: column; gap: 12px; margin-top: -28px; }
+.live-top { display: flex; align-items: center; justify-content: space-between; gap: 10px 16px; flex-wrap: wrap; }
+.live-title { display: flex; align-items: center; gap: 10px; font-weight: 600; letter-spacing: -.01em; }
+.live-title .when { font-variant-numeric: tabular-nums; }
+.live-title .sub { color: var(--muted); font-weight: 500; }
+.pulse { width: 9px; height: 9px; border-radius: 50%; background: var(--muted); flex: none; }
+.live.run .pulse { background: var(--pos); box-shadow: 0 0 0 0 var(--pos-soft); animation: pulse 1.6s infinite; }
+@keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(48, 209, 88, .45); } 70% { box-shadow: 0 0 0 10px rgba(48, 209, 88, 0); } 100% { box-shadow: 0 0 0 0 rgba(48, 209, 88, 0); } }
+.live-last { color: var(--muted); font-size: 13px; }
+.live-now { margin-bottom: 10px; font-size: 20px; font-weight: 700; letter-spacing: -.02em; line-height: 1.25; }
+.live-steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0; border-top: 1px solid var(--line); }
+.live-steps li { display: grid; grid-template-columns: 52px 1fr; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--line); font-size: 14px; }
+.live-steps time { color: var(--muted); font-variant-numeric: tabular-nums; font-weight: 500; }
+.live-steps small { display: block; color: var(--muted); font-weight: 400; font-size: 12px; }
+.live .btn { border: 0; background: var(--ink); color: var(--on-ink); border-radius: 999px; padding: 8px 14px; font-weight: 600; font-size: 13px; cursor: pointer; }
+@media (prefers-reduced-motion: reduce) { .live.run .pulse { animation: none; } }
 
 /* Chiffre clé */
 .hero { display: flex; flex-direction: column; gap: 14px; }
@@ -240,6 +258,18 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     <a href="#refusees" data-page="refusees"><span class="dot ko"></span>Refusées <span class="n" id="n-refusees"></span></a>
   </nav>
 
+  <section class="live" id="live" aria-live="polite">
+    <div class="live-top">
+      <div class="live-title"><span class="pulse"></span><span id="live-titre">Recherche automatique</span></div>
+      <span class="live-last" id="live-last"></span>
+    </div>
+    <div id="live-corps" hidden>
+      <div class="live-now" id="live-now"></div>
+      <ol class="live-steps" id="live-steps"></ol>
+    </div>
+    <div id="live-fini" hidden><button class="btn" type="button" id="live-recharger">Afficher les nouveaux résultats</button></div>
+  </section>
+
   <section class="page-head" id="page-head" hidden>
     <h1 id="page-titre"></h1>
     <p id="page-sous"></p>
@@ -350,7 +380,7 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     $("sites").innerHTML = (c.sites || []).map(s => `<span class="chip ${s.lecture_directe ? "direct" : ""}"><span class="dot"></span>${esc(s.nom)}</span>`).join("");
     if (c.mise_a_jour) {
       const d = new Date(c.mise_a_jour);
-            $("maj").innerHTML = '<span class="live"></span>' + "Mis à jour le " + d.toLocaleDateString("fr-FR", { day: "numeric", month: "long" }) + " à " + d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
+            $("maj").innerHTML = '<span class="dot-live"></span>' + "Annonces mises à jour le " + d.toLocaleDateString("fr-FR", { day: "numeric", month: "long" }) + " à " + d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
     }
   }
 
@@ -542,6 +572,78 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
       if ((state.suivi[id] || {}).note !== e.target.value) ecrireSuivi(id, { note: e.target.value }, card);
     }
   });
+
+  /* Recherche automatique : prochaine exécution et suivi en direct */
+  const STATUT_GH = "https://api.github.com/repos/coaxel2/appartement/contents/site/statut.json?ref=claude/wizardly-babbage-v4rr4a";
+  const live = { statut: null, timer: null, etaitEnCours: null };
+  function heureParis(d) { return new Intl.DateTimeFormat("fr-FR", { timeZone: "Europe/Paris", hour: "2-digit", minute: "2-digit" }).format(d); }
+  function partiesParis(d) {
+    const f = new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/Paris", year: "numeric", month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+    const o = {}; f.formatToParts(d).forEach(p => { o[p.type] = p.value; });
+    return o;
+  }
+  function prochaine(horaires) {
+    const now = new Date(); const p = partiesParis(now);
+    const minutesNow = (+p.hour) * 60 + (+p.minute);
+    const liste = (horaires || []).map(h => { const [a, b] = h.split(":").map(Number); return a * 60 + b; }).sort((a, b) => a - b);
+    if (!liste.length) return null;
+    let cible = liste.find(m => m > minutesNow); let jour = 0;
+    if (cible === undefined) { cible = liste[0]; jour = 1; }
+    const delta = (jour * 1440 + cible - minutesNow);
+    const hh = String(Math.floor(cible / 60)).padStart(2, "0"), mm = String(cible % 60).padStart(2, "0");
+    return { texte: (jour ? "demain" : "aujourd'hui") + " à " + hh + " h " + mm, dans: delta };
+  }
+  function duree(min) { const h = Math.floor(min / 60), m = min % 60; return h ? h + " h " + String(m).padStart(2, "0") : m + " min"; }
+  function renderLive() {
+    const st = live.statut || {};
+    const horaires = st.horaires || ["08:17", "11:17", "15:17", "19:17"];
+    const debut = st.debut ? new Date(st.debut) : null;
+    const age = debut ? (Date.now() - debut.getTime()) / 60000 : 0;
+    const enCours = !!st.en_cours && age < 90;
+    const box = $("live");
+    box.classList.toggle("run", enCours);
+    $("live-corps").hidden = !enCours;
+    if (enCours) {
+      $("live-titre").innerHTML = 'Recherche en cours <span class="sub">depuis ' + duree(Math.max(1, Math.round(age))) + "</span>";
+      const der = (st.etapes || [])[(st.etapes || []).length - 1] || {};
+      $("live-now").innerHTML = esc(st.etape || "Recherche…") + (der.detail ? `<small style="display:block;font-size:13px;font-weight:500;color:var(--muted);letter-spacing:0">${esc(der.detail)}</small>` : "");
+      const etapes = (st.etapes || []).slice().reverse().slice(1, 9);
+      $("live-steps").innerHTML = etapes.map(e => `<li><time>${esc(heureParis(new Date(e.heure)))}</time><span>${esc(e.texte)}${e.detail ? `<small>${esc(e.detail)}</small>` : ""}</span></li>`).join("");
+      $("live-last").textContent = "Mise à jour toutes les 30 s";
+    } else {
+      const n = prochaine(horaires);
+      $("live-titre").innerHTML = n ? 'Prochaine recherche <span class="when">' + esc(n.texte) + '</span> <span class="sub">dans ' + duree(n.dans) + "</span>" : "Recherche automatique";
+      let last = "";
+      if (st.en_cours && age >= 90) last = "La dernière recherche ne s'est pas terminée correctement.";
+      else if (st.erreur) last = "Dernière recherche interrompue : " + st.erreur;
+      else if (st.fin) last = "Dernière recherche terminée à " + heureParis(new Date(st.fin)) + (st.resume ? " · " + st.resume : "");
+      $("live-last").textContent = last || "Chaque jour à " + horaires.map(h => h.replace(":", " h ")).join(", ");
+    }
+    $("live-fini").hidden = !(live.etaitEnCours === true && !enCours);
+  }
+  async function chargerStatut() {
+    let st = null;
+    try {
+      const r = await fetch(STATUT_GH, { headers: { Accept: "application/vnd.github.raw+json" }, cache: "no-store" });
+      if (r.ok) st = await r.json();
+    } catch (e) {}
+    if (!st) { try { const r = await fetch("statut.json", { cache: "no-store" }); if (r.ok) st = await r.json(); } catch (e) {} }
+    if (st) {
+      const enCours = !!st.en_cours && st.debut && (Date.now() - new Date(st.debut).getTime()) / 60000 < 90;
+      if (live.etaitEnCours === null) live.etaitEnCours = enCours ? true : false;
+      else if (enCours) live.etaitEnCours = true;
+      live.statut = st;
+    }
+    renderLive();
+    clearTimeout(live.timer);
+    const enCours = live.statut && live.statut.en_cours;
+    live.timer = setTimeout(chargerStatut, enCours ? 30000 : 300000);
+  }
+  $("live-recharger").addEventListener("click", () => location.reload());
+  document.addEventListener("visibilitychange", () => { if (!document.hidden) chargerStatut(); });
+  setInterval(renderLive, 30000);
+  renderLive();
+  chargerStatut();
 
   render();
 

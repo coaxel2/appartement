@@ -2,6 +2,24 @@
   "outputDirectory": "site",
   "cleanUrls": true,
   "headers": [
-    { "source": "/donnees.json", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }
-  ]
+    {
+      "source": "/donnees.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
+    },
+    {
+      "source": "/statut.json",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "no-cache"
+        }
+      ]
+    }
+  ],
+  "ignoreCommand": "git diff HEAD^ HEAD --quiet -- . ':(exclude)site/statut.json'"
 }

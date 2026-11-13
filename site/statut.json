@@ -1,0 +1,17 @@
+{
+ "en_cours": false,
+ "debut": null,
+ "fin": null,
+ "etape": null,
+ "etapes": [],
+ "resume": null,
+ "erreur": null,
+ "horaires": [
+  "08:17",
+  "11:17",
+  "15:17",
+  "19:17"
+ ],
+ "fuseau": "Europe/Paris",
+ "maj": null
+}

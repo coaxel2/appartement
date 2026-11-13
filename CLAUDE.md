@@ -18,9 +18,22 @@ Ce dépôt est piloté par une tâche planifiée Claude. A chaque exécution, Cl
 - `outils/annonces.py` : fusion, dédoublonnage, évaluation, rapport.
 - `rapports/DERNIER.md` et `rapports/AAAA-MM-JJ.md` : rapports générés.
 - `site/index.html` et `site/donnees.json` : site web déployé sur Vercel à chaque push. `donnees.json` est regénéré par la commande `rapport`.
+- `site/statut.json` et `outils/statut.py` : avancement de la recherche, affiché en direct sur le site.
+
+## Suivi en direct sur le site
+
+Le site affiche ce que fait la recherche pendant qu'elle tourne. Il faut donc publier l'avancement avec `outils/statut.py`, qui committe et pousse `site/statut.json` à chaque appel :
+
+- tout au début : `python3 outils/statut.py debut` ;
+- à chaque étape, et au moins toutes les 5 requêtes web : `python3 outils/statut.py etape "Recherche web 6 / 25 : T2 balcon parking à Talence" --detail "SeLoger, PAP"`. Le texte dit concrètement ce qui est cherché ou lu (site, commune, type de bien, annonce ouverte, trajet vérifié) ;
+- à la fin, après le push des résultats : `python3 outils/statut.py fin --resume "N nouvelles annonces qui correspondent"` ;
+- en cas d'échec bloquant : `python3 outils/statut.py erreur "raison courte"`.
+
+Viser une dizaine d'étapes par exécution, pas davantage.
 
 ## Procédure d'une exécution
 
+0. Lancer `python3 outils/statut.py debut`.
 1. Lire `config/criteres.json`, `config/sites.json` et lancer `python3 outils/annonces.py stats`.
 2. Collecte directe : `python3 outils/collecte_locservice.py /tmp/locservice.json` puis `python3 outils/annonces.py ajouter /tmp/locservice.json`. Relire les extraits `exterieur` et `parking` des annonces retenues et corriger si l'outil s'est trompé.
 3. Recherche large avec WebSearch : pour chaque site de `config/sites.json` et chaque commune de la liste, combiner les requêtes types (au moins 25 requêtes au total, en variant T2 / T3, balcon / terrasse / jardin, parking / garage, et en ajoutant le mois en cours pour favoriser les annonces récentes). Ajouter quelques requêtes sans site imposé pour découvrir d'autres sources (agences locales, sites de particuliers, résidences).
@@ -30,5 +43,5 @@ Ce dépôt est piloté par une tâche planifiée Claude. A chaque exécution, Cl
 7. Ecrire les annonces dans un fichier JSON temporaire (liste d'objets au format décrit en tête de `outils/annonces.py`) puis lancer `python3 outils/annonces.py ajouter <fichier>`.
 8. Si une annonce déjà connue n'existe plus (page 404 ou mention louée), la marquer `"expiree": true` en la réajoutant avec ce champ.
 9. Lancer `python3 outils/annonces.py rapport`.
-10. Commit des fichiers `data/`, `rapports/` et `site/donnees.json` avec un message du type `Recherche du AAAA-MM-JJ : N nouvelles annonces pertinentes`, puis push.
+10. Commit des fichiers `data/`, `rapports/` et `site/donnees.json` avec un message du type `Recherche du AAAA-MM-JJ : N nouvelles annonces pertinentes`, puis push. Ensuite lancer `python3 outils/statut.py fin --resume "..."`.
 11. Terminer par un résumé court : nombre d'annonces nouvelles qui correspondent, les 3 meilleures avec lien, loyer, surface, ville, trajet Omnes et trajet Link, et une photo chacune.
