@@ -13,15 +13,17 @@
    "trajet_max_minutes": 40,
    "lieux_de_travail": [
     {
-     "nom": "Travail 1",
+     "nom": "Omnes",
+     "cle": "omnes",
      "adresse": "136 quai des Chartrons, 33300 Bordeaux",
      "arrets_proches": [
       "Tram B Chartrons",
-      "Tram B Cours du Médoc"
+      "Tram C Cours du Médoc"
      ]
     },
     {
-     "nom": "Travail 2",
+     "nom": "Link",
+     "cle": "link",
      "adresse": "127 rue de Turenne, 33000 Bordeaux",
      "arrets_proches": [
       "Tram D Croix de Seguey",
@@ -29,7 +31,7 @@
      ]
     }
    ],
-   "notes": "Exterieur = balcon, terrasse, loggia ou jardin. Parking = place, box ou garage (inclus ou en option au loyer, dans ce cas l'ajouter au total). Le trajet maximal s'applique aux DEUX lieux de travail."
+   "notes": "Exterieur = balcon, terrasse, loggia ou jardin. Parking = place, box ou garage (inclus ou en option au loyer, dans ce cas l'ajouter au total). Le trajet maximal s'applique aux DEUX trajets : Omnes (quai des Chartrons) et Link (rue de Turenne)."
   },
   "zones": [
    {
@@ -39,7 +41,15 @@
      "33000"
     ],
     "minutes": 15,
-    "statut": "ok"
+    "statut": "ok",
+    "omnes": {
+     "minutes": 10,
+     "itineraire": "à pied ou tram B"
+    },
+    "link": {
+     "minutes": 15,
+     "itineraire": "à pied ou bus"
+    }
    },
    {
     "nom": "Bordeaux Saint-Seurin / Fondaudège",
@@ -47,7 +57,15 @@
      "33000"
     ],
     "minutes": 15,
-    "statut": "ok"
+    "statut": "ok",
+    "omnes": {
+     "minutes": 15,
+     "itineraire": "tram D puis à pied"
+    },
+    "link": {
+     "minutes": 8,
+     "itineraire": "à pied ou tram D"
+    }
    },
    {
     "nom": "Bordeaux Grand Parc",
@@ -55,31 +73,63 @@
      "33300"
     ],
     "minutes": 15,
-    "statut": "ok"
+    "statut": "ok",
+    "omnes": {
+     "minutes": 15,
+     "itineraire": "tram C (Cours du Médoc)"
+    },
+    "link": {
+     "minutes": 15,
+     "itineraire": "bus ou à pied"
+    }
    },
    {
     "nom": "Bordeaux Triangle / Hypercentre / Saint-Pierre",
     "codes_postaux": [
      "33000"
     ],
-    "minutes": 20,
-    "statut": "ok"
+    "minutes": 18,
+    "statut": "ok",
+    "omnes": {
+     "minutes": 15,
+     "itineraire": "tram B direct"
+    },
+    "link": {
+     "minutes": 18,
+     "itineraire": "tram D depuis Quinconces"
+    }
    },
    {
     "nom": "Bordeaux Bassins à flot / Bacalan",
     "codes_postaux": [
      "33300"
     ],
-    "minutes": 25,
-    "statut": "ok"
+    "minutes": 28,
+    "statut": "ok",
+    "omnes": {
+     "minutes": 12,
+     "itineraire": "tram B direct"
+    },
+    "link": {
+     "minutes": 28,
+     "itineraire": "tram B puis tram D"
+    }
    },
    {
     "nom": "Bordeaux Caudéran",
     "codes_postaux": [
      "33200"
     ],
-    "minutes": 25,
-    "statut": "ok"
+    "minutes": 30,
+    "statut": "ok",
+    "omnes": {
+     "minutes": 30,
+     "itineraire": "bus Lianes puis tram"
+    },
+    "link": {
+     "minutes": 20,
+     "itineraire": "bus Lianes"
+    }
    },
    {
     "nom": "Bordeaux Saint-Michel / Capucins / Victoire",
@@ -87,32 +137,64 @@
      "33800",
      "33000"
     ],
-    "minutes": 30,
-    "statut": "ok"
+    "minutes": 28,
+    "statut": "ok",
+    "omnes": {
+     "minutes": 25,
+     "itineraire": "tram B direct"
+    },
+    "link": {
+     "minutes": 28,
+     "itineraire": "tram B puis tram D"
+    }
    },
    {
     "nom": "Bordeaux Bastide (rive droite)",
     "codes_postaux": [
      "33100"
     ],
-    "minutes": 30,
-    "statut": "ok"
+    "minutes": 28,
+    "statut": "ok",
+    "omnes": {
+     "minutes": 25,
+     "itineraire": "tram A puis tram B"
+    },
+    "link": {
+     "minutes": 28,
+     "itineraire": "tram A puis tram D"
+    }
    },
    {
     "nom": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier",
     "codes_postaux": [
      "33800"
     ],
-    "minutes": 35,
-    "statut": "ok"
+    "minutes": 33,
+    "statut": "limite",
+    "omnes": {
+     "minutes": 30,
+     "itineraire": "tram C direct (Cours du Médoc)"
+    },
+    "link": {
+     "minutes": 33,
+     "itineraire": "tram C puis tram D"
+    }
    },
    {
     "nom": "Le Bouscat",
     "codes_postaux": [
      "33110"
     ],
-    "minutes": 20,
-    "statut": "ok"
+    "minutes": 25,
+    "statut": "ok",
+    "omnes": {
+     "minutes": 25,
+     "itineraire": "tram D puis bus ou tram C"
+    },
+    "link": {
+     "minutes": 12,
+     "itineraire": "tram D direct"
+    }
    },
    {
     "nom": "Bruges",
@@ -120,7 +202,15 @@
      "33520"
     ],
     "minutes": 30,
-    "statut": "ok"
+    "statut": "ok",
+    "omnes": {
+     "minutes": 22,
+     "itineraire": "tram C direct (Cours du Médoc)"
+    },
+    "link": {
+     "minutes": 30,
+     "itineraire": "tram C puis bus"
+    }
    },
    {
     "nom": "Eysines (proche tram D)",
@@ -128,15 +218,31 @@
      "33320"
     ],
     "minutes": 35,
-    "statut": "limite"
+    "statut": "limite",
+    "omnes": {
+     "minutes": 35,
+     "itineraire": "tram D puis tram C"
+    },
+    "link": {
+     "minutes": 25,
+     "itineraire": "tram D direct"
+    }
    },
    {
     "nom": "Talence (proche tram B)",
     "codes_postaux": [
      "33400"
     ],
-    "minutes": 35,
-    "statut": "limite"
+    "minutes": 38,
+    "statut": "limite",
+    "omnes": {
+     "minutes": 32,
+     "itineraire": "tram B direct"
+    },
+    "link": {
+     "minutes": 38,
+     "itineraire": "tram B puis tram D"
+    }
    },
    {
     "nom": "Mérignac centre / Arlac / Capeyron (proche tram A)",
@@ -144,15 +250,31 @@
      "33700"
     ],
     "minutes": 38,
-    "statut": "limite"
+    "statut": "limite",
+    "omnes": {
+     "minutes": 38,
+     "itineraire": "tram A puis tram B"
+    },
+    "link": {
+     "minutes": 38,
+     "itineraire": "tram A puis tram D ou bus"
+    }
    },
    {
     "nom": "Bègles (proche tram C)",
     "codes_postaux": [
      "33130"
     ],
-    "minutes": 38,
-    "statut": "limite"
+    "minutes": 40,
+    "statut": "limite",
+    "omnes": {
+     "minutes": 35,
+     "itineraire": "tram C direct (Cours du Médoc)"
+    },
+    "link": {
+     "minutes": 40,
+     "itineraire": "tram C puis tram D"
+    }
    },
    {
     "nom": "Cenon / Lormont / Floirac (proche tram A)",
@@ -162,23 +284,47 @@
      "33270"
     ],
     "minutes": 38,
-    "statut": "limite"
+    "statut": "limite",
+    "omnes": {
+     "minutes": 35,
+     "itineraire": "tram A puis tram B"
+    },
+    "link": {
+     "minutes": 38,
+     "itineraire": "tram A puis tram D"
+    }
    },
    {
     "nom": "Blanquefort (tram C)",
     "codes_postaux": [
      "33290"
     ],
-    "minutes": 38,
-    "statut": "limite"
+    "minutes": 40,
+    "statut": "limite",
+    "omnes": {
+     "minutes": 30,
+     "itineraire": "tram C direct (Cours du Médoc)"
+    },
+    "link": {
+     "minutes": 40,
+     "itineraire": "tram C puis bus"
+    }
    },
    {
     "nom": "Pessac centre (tram B)",
     "codes_postaux": [
      "33600"
     ],
-    "minutes": 42,
-    "statut": "limite"
+    "minutes": 45,
+    "statut": "trop_loin",
+    "omnes": {
+     "minutes": 40,
+     "itineraire": "tram B direct"
+    },
+    "link": {
+     "minutes": 45,
+     "itineraire": "tram B puis tram D"
+    }
    },
    {
     "nom": "Le Haillan / Saint-Médard-en-Jalles",
@@ -187,7 +333,15 @@
      "33160"
     ],
     "minutes": 50,
-    "statut": "trop_loin"
+    "statut": "trop_loin",
+    "omnes": {
+     "minutes": 50,
+     "itineraire": "bus puis tram"
+    },
+    "link": {
+     "minutes": 45,
+     "itineraire": "bus puis tram D"
+    }
    },
    {
     "nom": "Villenave-d'Ornon / Gradignan",
@@ -195,8 +349,16 @@
      "33140",
      "33170"
     ],
-    "minutes": 50,
-    "statut": "trop_loin"
+    "minutes": 55,
+    "statut": "trop_loin",
+    "omnes": {
+     "minutes": 50,
+     "itineraire": "bus puis tram B ou C"
+    },
+    "link": {
+     "minutes": 55,
+     "itineraire": "bus puis tram"
+    }
    },
    {
     "nom": "Bassens / Ambarès / Artigues / Carbon-Blanc",
@@ -206,8 +368,16 @@
      "33370",
      "33560"
     ],
-    "minutes": 50,
-    "statut": "trop_loin"
+    "minutes": 55,
+    "statut": "trop_loin",
+    "omnes": {
+     "minutes": 50,
+     "itineraire": "bus puis tram"
+    },
+    "link": {
+     "minutes": 55,
+     "itineraire": "bus puis tram"
+    }
    }
   ],
   "sites": [
@@ -335,7 +505,7 @@
     "a_verifier": 4
    }
   },
-  "mise_a_jour": "2026-11-13T15:05"
+  "mise_a_jour": "2026-11-13T15:44"
  },
  "annonces": [
   {
@@ -352,9 +522,15 @@
    "code_postal": "33400",
    "quartier": null,
    "zone": "Talence (proche tram B)",
-   "trajet_estime_min": 35,
+   "trajet_estime_min": 38,
    "trajet_verifie_min": null,
    "exterieur": "balcon",
+   "trajet_omnes_min": 32,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
    "parking": "stationnement en sous-sol",
    "meuble": false,
    "disponible": null,
@@ -362,7 +538,7 @@
    "statut": "correspond",
    "raisons_rejet": [],
    "points_a_verifier": [
-    "trajet estimé ~35 min, à confirmer"
+    "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -389,9 +565,15 @@
    "code_postal": "33130",
    "quartier": null,
    "zone": "Bègles (proche tram C)",
-   "trajet_estime_min": 38,
+   "trajet_estime_min": 40,
    "trajet_verifie_min": null,
    "exterieur": "L'appartement d'une surface habitable de 45 m2 avec balcon de 10 m2 exposé SUD/EST, se situe au 3éme étage avec ascenseur",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 40,
+   "trajet_link_itineraire": "tram C puis tram D",
+   "trajet_link_verifie": false,
    "parking": "Une place de parking sécurisée en sous-sol et local vélo",
    "meuble": false,
    "disponible": null,
@@ -399,7 +581,7 @@
    "statut": "correspond",
    "raisons_rejet": [],
    "points_a_verifier": [
-    "trajet estimé ~38 min, à confirmer"
+    "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -432,6 +614,12 @@
    "trajet_estime_min": null,
    "trajet_verifie_min": null,
    "exterieur": "Jardin commun avec terrasse",
+   "trajet_omnes_min": null,
+   "trajet_omnes_itineraire": null,
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": null,
+   "trajet_link_itineraire": null,
+   "trajet_link_verifie": false,
    "parking": "Parking public gratuit au pied de l'immeuble",
    "meuble": true,
    "disponible": null,
@@ -466,6 +654,12 @@
    "trajet_estime_min": 38,
    "trajet_verifie_min": null,
    "exterieur": "e 5.40 M2 équipée d'un placard 1 Séjour de 20.6 M2 donnant sur grand balcon de 7.50 M2 1 Cuisine séparée de 6.31 M2 donnant également sur l",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D",
+   "trajet_link_verifie": false,
    "parking": "(TRAM 4 minutes à pied) ET ESPACES VERTS A PROXIMITE AVEC 1 PLACE DE PARKING 1 entrée de 5.40 M2 équipée d'un placard 1 Séjour de 20.6 M2 d",
    "meuble": false,
    "disponible": null,
@@ -473,7 +667,7 @@
    "statut": "correspond",
    "raisons_rejet": [],
    "points_a_verifier": [
-    "trajet estimé ~38 min, à confirmer"
+    "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -505,6 +699,12 @@
    "trajet_estime_min": 35,
    "trajet_verifie_min": null,
    "exterieur": null,
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram D puis tram C",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 25,
+   "trajet_link_itineraire": "tram D direct",
+   "trajet_link_verifie": false,
    "parking": null,
    "meuble": false,
    "disponible": null,
@@ -514,7 +714,7 @@
    "points_a_verifier": [
     "extérieur non précisé",
     "parking non précisé",
-    "trajet estimé ~35 min, à confirmer"
+    "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -545,9 +745,15 @@
    "code_postal": "33000",
    "quartier": null,
    "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
-   "trajet_estime_min": 30,
+   "trajet_estime_min": 28,
    "trajet_verifie_min": null,
    "exterieur": "4,4 m² de balcon offrent à ce bien de l'espace supplémentaire bienvenu",
+   "trajet_omnes_min": 25,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
    "parking": "s : parmi les emplacements disponibles dans l'immeuble, une place de stationnement est réservée pour l'appartement",
    "meuble": false,
    "disponible": null,
@@ -584,6 +790,12 @@
    "trajet_estime_min": 38,
    "trajet_verifie_min": null,
    "exterieur": "d'une vue imprenable tout en savourant votre café du matin sur votre balcon ensoleillé",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D",
+   "trajet_link_verifie": false,
    "parking": "Et parce qu'on ne peut pas tout transporter à la main, un parking est également à votre disposition",
    "meuble": false,
    "disponible": null,
@@ -591,7 +803,7 @@
    "statut": "correspond",
    "raisons_rejet": [],
    "points_a_verifier": [
-    "trajet estimé ~38 min, à confirmer"
+    "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -617,9 +829,15 @@
    "code_postal": "33000",
    "quartier": null,
    "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
-   "trajet_estime_min": 30,
+   "trajet_estime_min": 28,
    "trajet_verifie_min": null,
    "exterieur": null,
+   "trajet_omnes_min": 25,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
    "parking": "Place de parking",
    "meuble": false,
    "disponible": null,
@@ -661,6 +879,12 @@
    "trajet_estime_min": 38,
    "trajet_verifie_min": null,
    "exterieur": "nt T2 meublé d'environ 46.57m2, composé d'une entrée, d'un salon sur balcon, d'une cuisine aménagée et équipée (lave-vaisselle, lave-linge)",
+   "trajet_omnes_min": 38,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D ou bus",
+   "trajet_link_verifie": false,
    "parking": "place de parking sécurisée",
    "meuble": true,
    "disponible": null,
@@ -669,7 +893,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [
     "loyer 720.0 € légèrement au dessus de 700 €",
-    "trajet estimé ~38 min, à confirmer"
+    "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -701,6 +925,12 @@
    "trajet_estime_min": 30,
    "trajet_verifie_min": null,
    "exterieur": null,
+   "trajet_omnes_min": 22,
+   "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 30,
+   "trajet_link_itineraire": "tram C puis bus",
+   "trajet_link_verifie": false,
    "parking": "De plus, un emplacement de parking est inclus, un atout précieux dans cette zone",
    "meuble": true,
    "disponible": null,
@@ -734,9 +964,15 @@
    "code_postal": "33000",
    "quartier": null,
    "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
-   "trajet_estime_min": 30,
+   "trajet_estime_min": 28,
    "trajet_verifie_min": null,
    "exterieur": null,
+   "trajet_omnes_min": 25,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
    "parking": null,
    "meuble": false,
    "disponible": null,
@@ -775,9 +1011,15 @@
    "code_postal": "33400",
    "quartier": null,
    "zone": "Talence (proche tram B)",
-   "trajet_estime_min": 35,
+   "trajet_estime_min": 38,
    "trajet_verifie_min": null,
    "exterieur": null,
+   "trajet_omnes_min": 32,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
    "parking": "e des services tels qu'une salle de fitness, une laverie ainsi qu'un parking",
    "meuble": true,
    "disponible": null,
@@ -786,7 +1028,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [
     "extérieur non précisé",
-    "trajet estimé ~35 min, à confirmer"
+    "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -810,9 +1052,15 @@
    "code_postal": "33000",
    "quartier": null,
    "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
-   "trajet_estime_min": 30,
+   "trajet_estime_min": 28,
    "trajet_verifie_min": null,
    "exterieur": null,
+   "trajet_omnes_min": 25,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
    "parking": null,
    "meuble": false,
    "disponible": null,
@@ -846,9 +1094,15 @@
    "code_postal": "33290",
    "quartier": null,
    "zone": "Blanquefort (tram C)",
-   "trajet_estime_min": 38,
+   "trajet_estime_min": 40,
    "trajet_verifie_min": null,
    "exterieur": null,
+   "trajet_omnes_min": 30,
+   "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 40,
+   "trajet_link_itineraire": "tram C puis bus",
+   "trajet_link_verifie": false,
    "parking": null,
    "meuble": true,
    "disponible": null,
@@ -859,7 +1113,7 @@
     "loyer 750.0 € légèrement au dessus de 700 €",
     "extérieur non précisé",
     "parking non précisé",
-    "trajet estimé ~38 min, à confirmer"
+    "trajets estimés (Omnes ~30 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -890,9 +1144,15 @@
    "code_postal": "33130",
    "quartier": null,
    "zone": "Bègles (proche tram C)",
-   "trajet_estime_min": 38,
+   "trajet_estime_min": 40,
    "trajet_verifie_min": null,
    "exterieur": "Les + de cette location Stationnement possible Balcon ou terrasse Sans vis-à-vis Cuisine équipée Proximité transport",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 40,
+   "trajet_link_itineraire": "tram C puis tram D",
+   "trajet_link_verifie": false,
    "parking": "Les + de cette location Stationnement possible Balcon ou terrasse Sans vis-à-vis Cuisine équip",
    "meuble": true,
    "disponible": null,
@@ -900,7 +1160,7 @@
    "statut": "correspond",
    "raisons_rejet": [],
    "points_a_verifier": [
-    "trajet estimé ~38 min, à confirmer"
+    "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",
@@ -929,9 +1189,15 @@
    "code_postal": "33000",
    "quartier": null,
    "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
-   "trajet_estime_min": 30,
+   "trajet_estime_min": 28,
    "trajet_verifie_min": null,
    "exterieur": "t savoir sur ce bien À LOUER : APPARTEMENT T2 NON MEUBLE ET RECENT + BALCON - BORDEAUX BASTIDE / AVENUE THIERS Appartement neuf T2 à Bordea",
+   "trajet_omnes_min": 25,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
    "parking": null,
    "meuble": false,
    "disponible": null,
@@ -969,6 +1235,12 @@
    "trajet_estime_min": null,
    "trajet_verifie_min": null,
    "exterieur": "Les + de cette location Balcon ou terrasse Baignoire Sans vis-à-vis Grand séjour Cuisine équip",
+   "trajet_omnes_min": null,
+   "trajet_omnes_itineraire": null,
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": null,
+   "trajet_link_itineraire": null,
+   "trajet_link_verifie": false,
    "parking": null,
    "meuble": false,
    "disponible": null,
@@ -1005,6 +1277,12 @@
    "trajet_estime_min": 38,
    "trajet_verifie_min": null,
    "exterieur": "De plus, l'appartement dispose d'un balcon bien orienté",
+   "trajet_omnes_min": 38,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D ou bus",
+   "trajet_link_verifie": false,
    "parking": "Pour votre confort, une place de parking est incluse, facilitant ainsi le stationnement de votre véhicu",
    "meuble": false,
    "disponible": null,
@@ -1012,7 +1290,7 @@
    "statut": "correspond",
    "raisons_rejet": [],
    "points_a_verifier": [
-    "trajet estimé ~38 min, à confirmer"
+    "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
    "vue_le": "2026-11-13T14:52",

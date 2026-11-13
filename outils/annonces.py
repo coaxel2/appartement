@@ -103,19 +103,29 @@ def evaluer(a):
     notes = []
     z = zone_de(a)
     a["zone"] = z["nom"] if z else None
-    a["trajet_estime_min"] = a.get("trajet_verifie_min") or (z["minutes"] if z else None)
     cps_connus = {cp for zone in ZONES for cp in zone["codes_postaux"]}
-    if a.get("trajet_verifie_min"):
-        if a["trajet_verifie_min"] > c["trajet_max_minutes"]:
-            raisons.append(f"trajet vérifié {a['trajet_verifie_min']} min")
-    elif z is None and a.get("code_postal") and str(a["code_postal"]) not in cps_connus:
+    noms = {"omnes": "Omnes", "link": "Link"}
+    trajets, verifies = {}, True
+    for p in ("omnes", "link"):
+        verifie = a.get(f"trajet_{p}_verifie_min") or a.get("trajet_verifie_min")
+        estime = (z.get(p) or {}).get("minutes") if z else None
+        a[f"trajet_{p}_min"] = verifie or estime
+        a[f"trajet_{p}_verifie"] = bool(verifie)
+        a[f"trajet_{p}_itineraire"] = a.get(f"trajet_{p}_itineraire_verifie") or ((z.get(p) or {}).get("itineraire") if z else None)
+        trajets[p] = a[f"trajet_{p}_min"]
+        verifies = verifies and bool(verifie)
+    connus = [m for m in trajets.values() if m]
+    a["trajet_estime_min"] = max(connus) if connus else None
+    if not connus and z is None and a.get("code_postal") and str(a["code_postal"]) not in cps_connus:
         raisons.append("commune hors zone de trajet")
-    elif z is None:
+    elif len(connus) < 2:
         manques.append("trajet à vérifier")
-    elif z["minutes"] > c["trajet_max_minutes"]:
-        raisons.append(f"trajet estimé {z['minutes']} min")
-    elif z["statut"] == "limite":
-        notes.append(f"trajet estimé ~{z['minutes']} min, à confirmer")
+    else:
+        trop = [f"{noms[p]} {m} min" for p, m in trajets.items() if m > c["trajet_max_minutes"]]
+        if trop:
+            raisons.append(("trajet vérifié " if verifies else "trajet estimé ") + ", ".join(trop))
+        elif not verifies and max(connus) > 30:
+            notes.append(f"trajets estimés (Omnes ~{trajets['omnes']} min, Link ~{trajets['link']} min), à confirmer")
 
     if raisons:
         statut = "rejetee"
@@ -192,7 +202,8 @@ def bloc(a, nouveau):
         f"- Loyer total : **{f(a.get('loyer_total'), ' €')}** (CC, parking inclus si en supplément)",
         f"- Surface : {f(a.get('surface_m2'), ' m²')}, {f(a.get('pieces'))} pièce(s)",
         f"- Localisation : {f(a.get('ville'))} {a.get('code_postal') or ''} {('(' + a['quartier'] + ')') if a.get('quartier') else ''}".rstrip(),
-        f"- Trajet estimé : {f(a.get('trajet_estime_min'), ' min')} ({a.get('zone') or 'zone inconnue'})",
+        f"- Trajet Omnes (quai des Chartrons) : {f(a.get('trajet_omnes_min'), ' min')}, {a.get('trajet_omnes_itineraire') or 'itinéraire à vérifier'}",
+        f"- Trajet Link (rue de Turenne) : {f(a.get('trajet_link_min'), ' min')}, {a.get('trajet_link_itineraire') or 'itinéraire à vérifier'}",
         f"- Extérieur : {f(a.get('exterieur'))}",
         f"- Parking : {f(a.get('parking'))}",
         f"- Disponible : {f(a.get('disponible'))}, publiée le {f(a.get('publie_le'))}",
@@ -228,7 +239,7 @@ def rapport():
         f"- Location, loyer charges comprises max {c['loyer_max_cc']} € (tolérance {c['tolerance_loyer_cc']} €)",
         f"- T{c['pieces_min']} ou T{c['pieces_max']}, {c['surface_min_m2']} m² minimum",
         "- Extérieur (balcon, terrasse, jardin) et parking",
-        f"- Max {c['trajet_max_minutes']} min en transports vers le quai des Chartrons et la rue de Turenne\n",
+        f"- Max {c['trajet_max_minutes']} min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)\n",
     ]
     for titre, statut in sections:
         liste = sorted([a for a in actives if a.get("statut") == statut], key=tri)
@@ -261,6 +272,8 @@ def export_site():
         d = {k: a.get(k) for k in (
             "titre", "site", "url", "autres_urls", "loyer_total", "loyer_cc", "charges", "surface_m2", "pieces",
             "ville", "code_postal", "quartier", "zone", "trajet_estime_min", "trajet_verifie_min", "exterieur",
+            "trajet_omnes_min", "trajet_omnes_itineraire", "trajet_omnes_verifie",
+            "trajet_link_min", "trajet_link_itineraire", "trajet_link_verifie",
             "parking", "meuble", "disponible", "publie_le", "statut", "raisons_rejet", "points_a_verifier",
             "trouvee_le", "vue_le", "expiree", "contact")}
         d["id"] = cle

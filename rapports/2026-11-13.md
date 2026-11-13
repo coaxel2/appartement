@@ -5,7 +5,7 @@
 - Location, loyer charges comprises max 700 € (tolérance 750 €)
 - T2 ou T3, 35 m² minimum
 - Extérieur (balcon, terrasse, jardin) et parking
-- Max 40 min en transports vers le quai des Chartrons et la rue de Turenne
+- Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
 ## Annonces qui cochent tous les critères (6)
 
@@ -19,11 +19,12 @@
 - Loyer total : **642 €** (CC, parking inclus si en supplément)
 - Surface : 48 m², 2 pièce(s)
 - Localisation : Cenon 33150
-- Trajet estimé : 38 min (Cenon / Lormont / Floirac (proche tram A))
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
 - Extérieur : e 5.40 M2 équipée d'un placard 1 Séjour de 20.6 M2 donnant sur grand balcon de 7.50 M2 1 Cuisine séparée de 6.31 M2 donnant également sur l
 - Parking : (TRAM 4 minutes à pied) ET ESPACES VERTS A PROXIMITE AVEC 1 PLACE DE PARKING 1 entrée de 5.40 M2 équipée d'un placard 1 Séjour de 20.6 M2 d
 - Disponible : ?, publiée le ?
-- A vérifier : trajet estimé ~38 min, à confirmer
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-cenon/200813)
 
 ### Appartement T2 à louer (nouvelle)
@@ -33,11 +34,12 @@
 - Loyer total : **663 €** (CC, parking inclus si en supplément)
 - Surface : 43 m², 2 pièce(s)
 - Localisation : Lormont 33310
-- Trajet estimé : 38 min (Cenon / Lormont / Floirac (proche tram A))
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
 - Extérieur : d'une vue imprenable tout en savourant votre café du matin sur votre balcon ensoleillé
 - Parking : Et parce qu'on ne peut pas tout transporter à la main, un parking est également à votre disposition
 - Disponible : ?, publiée le ?
-- A vérifier : trajet estimé ~38 min, à confirmer
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742)
 
 ### Appartement T2 à louer (nouvelle)
@@ -50,11 +52,12 @@
 - Loyer total : **678 €** (CC, parking inclus si en supplément)
 - Surface : 44 m², 2 pièce(s)
 - Localisation : Bègles 33130
-- Trajet estimé : 38 min (Bègles (proche tram C))
+- Trajet Omnes (quai des Chartrons) : 35 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 40 min, tram C puis tram D
 - Extérieur : L'appartement d'une surface habitable de 45 m2 avec balcon de 10 m2 exposé SUD/EST, se situe au 3éme étage avec ascenseur
 - Parking : Une place de parking sécurisée en sous-sol et local vélo
 - Disponible : ?, publiée le ?
-- A vérifier : trajet estimé ~38 min, à confirmer
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/p-cf-113073450803)
 
 ### Appartement T2 à louer (nouvelle)
@@ -64,11 +67,12 @@
 - Loyer total : **686 €** (CC, parking inclus si en supplément)
 - Surface : 48 m², 2 pièce(s)
 - Localisation : Mérignac 33700
-- Trajet estimé : 38 min (Mérignac centre / Arlac / Capeyron (proche tram A))
+- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
 - Extérieur : De plus, l'appartement dispose d'un balcon bien orienté
 - Parking : Pour votre confort, une place de parking est incluse, facilitant ainsi le stationnement de votre véhicu
 - Disponible : ?, publiée le ?
-- A vérifier : trajet estimé ~38 min, à confirmer
+- A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767)
 
 ### T2 38 m² non meublé avec balcon et parking, Talence (nouvelle)
@@ -79,11 +83,12 @@
 - Loyer total : **695 €** (CC, parking inclus si en supplément)
 - Surface : 38 m², 2 pièce(s)
 - Localisation : Talence 33400
-- Trajet estimé : 35 min (Talence (proche tram B))
+- Trajet Omnes (quai des Chartrons) : 32 min, tram B direct
+- Trajet Link (rue de Turenne) : 38 min, tram B puis tram D
 - Extérieur : balcon
 - Parking : stationnement en sous-sol
 - Disponible : ?, publiée le ?
-- A vérifier : trajet estimé ~35 min, à confirmer
+- A vérifier : trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer
 - Source : [123loger](https://www.123loger.com/location/talence-33400/appartement/6985a286eca3/)
 
 ### Appartement T2 meublé à louer (nouvelle)
@@ -96,11 +101,12 @@
 - Loyer total : **700 €** (CC, parking inclus si en supplément)
 - Surface : 50 m², 2 pièce(s)
 - Localisation : Bègles 33130
-- Trajet estimé : 38 min (Bègles (proche tram C))
+- Trajet Omnes (quai des Chartrons) : 35 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 40 min, tram C puis tram D
 - Extérieur : Les + de cette location Stationnement possible Balcon ou terrasse Sans vis-à-vis Cuisine équipée Proximité transport
 - Parking : Les + de cette location Stationnement possible Balcon ou terrasse Sans vis-à-vis Cuisine équip
 - Disponible : ?, publiée le ?
-- A vérifier : trajet estimé ~38 min, à confirmer
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
 ## Annonces à vérifier (un seul point incertain) (4)
@@ -112,7 +118,8 @@
 - Loyer total : **625 €** (CC, parking inclus si en supplément)
 - Surface : 45 m², 2 pièce(s)
 - Localisation : Bruges 33520
-- Trajet estimé : 30 min (Bruges)
+- Trajet Omnes (quai des Chartrons) : 22 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 30 min, tram C puis bus
 - Extérieur : ?
 - Parking : De plus, un emplacement de parking est inclus, un atout précieux dans cette zone
 - Disponible : ?, publiée le ?
@@ -124,11 +131,12 @@
 - Loyer total : **690 €** (CC, parking inclus si en supplément)
 - Surface : 39 m², 2 pièce(s)
 - Localisation : Talence 33400
-- Trajet estimé : 35 min (Talence (proche tram B))
+- Trajet Omnes (quai des Chartrons) : 32 min, tram B direct
+- Trajet Link (rue de Turenne) : 38 min, tram B puis tram D
 - Extérieur : ?
 - Parking : e des services tels qu'une salle de fitness, une laverie ainsi qu'un parking
 - Disponible : ?, publiée le ?
-- A vérifier : extérieur non précisé, trajet estimé ~35 min, à confirmer
+- A vérifier : extérieur non précisé, trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471)
 
 ### Appartement T2 meublé à louer (nouvelle)
@@ -141,11 +149,12 @@
 - Loyer total : **720 €** (CC, parking inclus si en supplément)
 - Surface : 47 m², 2 pièce(s)
 - Localisation : Mérignac 33700
-- Trajet estimé : 38 min (Mérignac centre / Arlac / Capeyron (proche tram A))
+- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
 - Extérieur : nt T2 meublé d'environ 46.57m2, composé d'une entrée, d'un salon sur balcon, d'une cuisine aménagée et équipée (lave-vaisselle, lave-linge)
 - Parking : place de parking sécurisée
 - Disponible : ?, publiée le ?
-- A vérifier : loyer 720.0 € légèrement au dessus de 700 €, trajet estimé ~38 min, à confirmer
+- A vérifier : loyer 720.0 € légèrement au dessus de 700 €, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659)
 
 ### Appartement T2 à louer (nouvelle)
@@ -155,7 +164,8 @@
 - Loyer total : **733 €** (CC, parking inclus si en supplément)
 - Surface : 45 m², 2 pièce(s)
 - Localisation : Bordeaux 33000
-- Trajet estimé : 30 min (Bordeaux Saint-Michel / Capucins / Victoire)
+- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
 - Extérieur : 4,4 m² de balcon offrent à ce bien de l'espace supplémentaire bienvenu
 - Parking : s : parmi les emplacements disponibles dans l'immeuble, une place de stationnement est réservée pour l'appartement
 - Disponible : ?, publiée le ?
@@ -174,11 +184,12 @@
 - Loyer total : **619 €** (CC, parking inclus si en supplément)
 - Surface : 46 m², 2 pièce(s)
 - Localisation : Eysines 33320
-- Trajet estimé : 35 min (Eysines (proche tram D))
+- Trajet Omnes (quai des Chartrons) : 35 min, tram D puis tram C
+- Trajet Link (rue de Turenne) : 25 min, tram D direct
 - Extérieur : ?
 - Parking : ?
 - Disponible : ?, publiée le ?
-- A vérifier : extérieur non précisé, parking non précisé, trajet estimé ~35 min, à confirmer
+- A vérifier : extérieur non précisé, parking non précisé, trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113103084392)
 
 ### Appartement T2 à louer (nouvelle)
@@ -191,7 +202,8 @@
 - Loyer total : **706 €** (CC, parking inclus si en supplément)
 - Surface : 41 m², 2 pièce(s)
 - Localisation : Bordeaux 33000
-- Trajet estimé : 30 min (Bordeaux Saint-Michel / Capucins / Victoire)
+- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
 - Extérieur : ?
 - Parking : Place de parking
 - Disponible : ?, publiée le ?
@@ -208,7 +220,8 @@
 - Loyer total : **713 €** (CC, parking inclus si en supplément)
 - Surface : 44 m², 2 pièce(s)
 - Localisation : Bordeaux 33000
-- Trajet estimé : 30 min (Bordeaux Saint-Michel / Capucins / Victoire)
+- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
 - Extérieur : ?
 - Parking : ?
 - Disponible : ?, publiée le ?
@@ -220,7 +233,8 @@
 - Loyer total : **730 €** (CC, parking inclus si en supplément)
 - Surface : 48 m², 2 pièce(s)
 - Localisation : Bordeaux 33000
-- Trajet estimé : 30 min (Bordeaux Saint-Michel / Capucins / Victoire)
+- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
 - Extérieur : ?
 - Parking : ?
 - Disponible : ?, publiée le ?
@@ -234,7 +248,8 @@
 - Loyer total : **731 €** (CC, parking inclus si en supplément)
 - Surface : 44 m², 2 pièce(s)
 - Localisation : Bordeaux 33000
-- Trajet estimé : 30 min (Bordeaux Saint-Michel / Capucins / Victoire)
+- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
 - Extérieur : t savoir sur ce bien À LOUER : APPARTEMENT T2 NON MEUBLE ET RECENT + BALCON - BORDEAUX BASTIDE / AVENUE THIERS Appartement neuf T2 à Bordea
 - Parking : ?
 - Disponible : ?, publiée le ?
@@ -251,11 +266,12 @@
 - Loyer total : **750 €** (CC, parking inclus si en supplément)
 - Surface : 40 m², 2 pièce(s)
 - Localisation : Parempuyre 33290
-- Trajet estimé : 38 min (Blanquefort (tram C))
+- Trajet Omnes (quai des Chartrons) : 30 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 40 min, tram C puis bus
 - Extérieur : ?
 - Parking : ?
 - Disponible : ?, publiée le ?
-- A vérifier : loyer 750.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé, trajet estimé ~38 min, à confirmer
+- A vérifier : loyer 750.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé, trajets estimés (Omnes ~30 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-parempuyre/p-cf-113592213649)
 
 ## Annonces écartées (2)

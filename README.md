@@ -16,9 +16,9 @@ Voir [rapports/DERNIER.md](rapports/DERNIER.md). Chaque exécution ajoute aussi 
 - T2 ou T3, 35 m² minimum
 - Extérieur obligatoire : balcon, terrasse, loggia ou jardin
 - Parking obligatoire : place, box ou garage
-- Bordeaux et métropole, à 40 minutes maximum en transports en commun de chacun des deux lieux de travail :
-  - 136 quai des Chartrons, Bordeaux
-  - 127 rue de Turenne, Bordeaux
+- Bordeaux et métropole, à 40 minutes maximum en transports en commun pour chacun :
+  - Omnes : 136 quai des Chartrons, Bordeaux
+  - Link : 127 rue de Turenne, Bordeaux
 
 Pour modifier un critère, éditer `config/criteres.json`. Les temps de trajet estimés par commune sont dans `config/zones.json`.
 

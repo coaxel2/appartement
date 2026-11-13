@@ -10,8 +10,24 @@
   "parking_obligatoire": true,
   "trajet_max_minutes": 40,
   "lieux_de_travail": [
-    {"nom": "Travail 1", "adresse": "136 quai des Chartrons, 33300 Bordeaux", "arrets_proches": ["Tram B Chartrons", "Tram B Cours du Médoc"]},
-    {"nom": "Travail 2", "adresse": "127 rue de Turenne, 33000 Bordeaux", "arrets_proches": ["Tram D Croix de Seguey", "Tram D Fondaudège Muséum"]}
+    {
+      "nom": "Omnes",
+      "cle": "omnes",
+      "adresse": "136 quai des Chartrons, 33300 Bordeaux",
+      "arrets_proches": [
+        "Tram B Chartrons",
+        "Tram C Cours du Médoc"
+      ]
+    },
+    {
+      "nom": "Link",
+      "cle": "link",
+      "adresse": "127 rue de Turenne, 33000 Bordeaux",
+      "arrets_proches": [
+        "Tram D Croix de Seguey",
+        "Tram D Fondaudège Muséum"
+      ]
+    }
   ],
-  "notes": "Exterieur = balcon, terrasse, loggia ou jardin. Parking = place, box ou garage (inclus ou en option au loyer, dans ce cas l'ajouter au total). Le trajet maximal s'applique aux DEUX lieux de travail."
+  "notes": "Exterieur = balcon, terrasse, loggia ou jardin. Parking = place, box ou garage (inclus ou en option au loyer, dans ce cas l'ajouter au total). Le trajet maximal s'applique aux DEUX trajets : Omnes (quai des Chartrons) et Link (rue de Turenne)."
 }

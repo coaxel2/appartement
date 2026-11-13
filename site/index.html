@@ -180,6 +180,15 @@ dt, dd { padding: 9px 0; border-bottom: 1px solid var(--line); }
 dt { color: var(--muted); }
 dd { margin: 0; min-width: 0; overflow-wrap: anywhere; color: var(--fg-2); }
 dd .clamp { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.trajets { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.tj { background: var(--elev); border-radius: var(--r-md); padding: 10px 12px; display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+.tj .who { font-size: 12px; color: var(--muted); font-weight: 600; display: flex; align-items: center; gap: 6px; }
+.tj .who::before { content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--muted); }
+.tj.vert .who::before { background: var(--pos); } .tj.orange .who::before { background: var(--warn); } .tj.rouge .who::before { background: var(--neg); }
+.tj .min { font-size: 20px; font-weight: 700; letter-spacing: -.02em; font-variant-numeric: tabular-nums; }
+.tj .min small { font-size: 12px; font-weight: 500; color: var(--muted); letter-spacing: 0; }
+.tj .via { font-size: 12px; color: var(--fg-2); line-height: 1.35; }
+td small { display: block; color: var(--muted); font-size: 12px; }
 .verif, .rejet { font-size: 13px; display: flex; gap: 8px; align-items: flex-start; color: var(--fg-2); }
 .verif::before, .rejet::before { content: ""; flex: none; width: 6px; height: 6px; border-radius: 50%; margin-top: 7px; }
 .verif::before { background: var(--warn); }
@@ -255,8 +264,8 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     </div>
     <div class="lieux" id="lieux"></div>
     <details>
-      <summary>Communes et temps de trajet estimés</summary>
-      <div class="tbl-wrap"><table id="zones"><thead><tr><th>Secteur</th><th>Codes postaux</th><th style="text-align:right">Trajet max</th><th>Verdict</th></tr></thead><tbody></tbody></table></div>
+      <summary>Temps de trajet par secteur, pour Omnes et Link</summary>
+      <div class="tbl-wrap"><table id="zones"><thead><tr><th>Secteur</th><th>Omnes</th><th>Link</th><th>Verdict</th></tr></thead><tbody></tbody></table></div>
     </details>
     <details>
       <summary>Sites surveillés</summary>
@@ -275,7 +284,9 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
         <select id="f-tri">
           <option value="loyer">Loyer croissant</option>
           <option value="surface">Surface décroissante</option>
-          <option value="trajet">Trajet le plus court</option>
+          <option value="trajet">Trajet le plus court (les deux)</option>
+          <option value="omnes">Trajet Omnes le plus court</option>
+          <option value="link">Trajet Link le plus court</option>
           <option value="recent">Plus récentes</option>
         </select>
       </label>
@@ -329,12 +340,13 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
       ["Surface", (k.surface_min_m2 || "?") + " m²", "minimum"],
       ["Extérieur", k.exterieur_obligatoire ? "Obligatoire" : "Souhaité", "balcon, terrasse, loggia ou jardin"],
       ["Parking", k.parking_obligatoire ? "Obligatoire" : "Souhaité", "place, box ou garage"],
-      ["Trajet", (k.trajet_max_minutes || "?") + " min", "max en transports, vers chaque bureau"],
+      ["Trajet", (k.trajet_max_minutes || "?") + " min", "max en transports, pour Omnes et pour Link"],
     ];
     $("crit-grid").innerHTML = items.map(i => `<div class="crit"><span class="lbl">${esc(i[0])}</span><span class="val">${esc(i[1])}</span><span class="det">${esc(i[2])}</span></div>`).join("");
-    $("lieux").innerHTML = (k.lieux_de_travail || []).map((l, n) => `<div class="lieu"><span class="pin">${n + 1}</span><div><b>${esc(l.adresse)}</b><small>Arrêts proches : ${esc((l.arrets_proches || []).join(", "))}</small></div></div>`).join("");
+    $("lieux").innerHTML = (k.lieux_de_travail || []).map(l => `<div class="lieu"><span class="pin">${esc((l.nom || "?").slice(0, 1))}</span><div><b>${esc(l.nom || "")} · ${esc(l.adresse)}</b><small>Arrêts proches : ${esc((l.arrets_proches || []).join(", "))}</small></div></div>`).join("");
     const verdict = { ok: "Dans la limite", limite: "Limite, à confirmer", trop_loin: "Trop loin" };
-    $("zones").querySelector("tbody").innerHTML = (c.zones || []).map(z => `<tr><td>${esc(z.nom)}</td><td>${esc((z.codes_postaux || []).join(", "))}</td><td class="num">${esc(z.minutes)} min</td><td>${esc(verdict[z.statut] || z.statut)}</td></tr>`).join("");
+    const cel = t => t ? `<b class="num">${esc(t.minutes)} min</b><small>${esc(t.itineraire || "")}</small>` : "?";
+    $("zones").querySelector("tbody").innerHTML = (c.zones || []).map(z => `<tr><td>${esc(z.nom)}<small>${esc((z.codes_postaux || []).join(", "))}</small></td><td>${cel(z.omnes)}</td><td>${cel(z.link)}</td><td>${esc(verdict[z.statut] || z.statut)}</td></tr>`).join("");
     $("sites").innerHTML = (c.sites || []).map(s => `<span class="chip ${s.lecture_directe ? "direct" : ""}"><span class="dot"></span>${esc(s.nom)}</span>`).join("");
     if (c.mise_a_jour) {
       const d = new Date(c.mise_a_jour);
@@ -346,6 +358,13 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     const m = a.trajet_verifie_min || a.trajet_estime_min;
     if (!m) return "à vérifier";
     return (a.trajet_verifie_min ? "" : "≈ ") + m + " min" + (a.zone ? " (" + a.zone + ")" : "");
+  }
+  function blocTrajet(a, p, nom) {
+    const m = a["trajet_" + p + "_min"];
+    const max = (state.config && state.config.criteres && state.config.criteres.trajet_max_minutes) || 40;
+    const cls = !m ? "" : m <= 30 ? "vert" : m <= max ? "orange" : "rouge";
+    const v = a["trajet_" + p + "_verifie"];
+    return `<div class="tj ${cls}"><span class="who">${nom}</span><span class="min">${m ? (v ? "" : "≈ ") + m + " min" : "?"}${m && !v ? " <small>estimé</small>" : ""}</span><span class="via">${esc(a["trajet_" + p + "_itineraire"] || "itinéraire à vérifier")}</span></div>`;
   }
   function oui(v) { return v === false ? "Non" : (v == null || v === "" ? "Non précisé" : v); }
 
@@ -361,6 +380,7 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     const t = state.tri;
     l.sort((x, y) => {
       if (t === "surface") return (y.surface_m2 || 0) - (x.surface_m2 || 0);
+      if (t === "omnes" || t === "link") return (x["trajet_" + t + "_min"] || 99) - (y["trajet_" + t + "_min"] || 99);
       if (t === "trajet") return (x.trajet_verifie_min || x.trajet_estime_min || 99) - (y.trajet_verifie_min || y.trajet_estime_min || 99);
       if (t === "recent") return String(y.trouvee_le || "").localeCompare(String(x.trouvee_le || ""));
       return (x.loyer_total || 9999) - (y.loyer_total || 9999);
@@ -407,8 +427,8 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
       <div class="body">
         <div class="prix"><span class="eur">${eur(a.loyer_total)} <small>/ mois CC</small></span><span class="meta">${a.surface_m2 ? Math.round(a.surface_m2) + " m²" : "? m²"} · T${esc(a.pieces || "?")}${a.meuble ? " meublé" : ""}</span></div>
         <div class="lieu-l">${esc(a.ville || "Commune inconnue")} <small>${esc(a.code_postal || "")}${a.quartier ? " · " + esc(a.quartier) : ""}</small></div>
+        <div class="trajets">${blocTrajet(a, "omnes", "Omnes")}${blocTrajet(a, "link", "Link")}</div>
         <dl>
-          <dt>Trajet</dt><dd>${esc(trajet(a))}</dd>
           <dt>Extérieur</dt><dd><span class="clamp">${esc(oui(a.exterieur))}</span></dd>
           <dt>Parking</dt><dd><span class="clamp">${esc(oui(a.parking))}</span></dd>
           ${a.disponible ? `<dt>Disponible</dt><dd>${esc(a.disponible)}</dd>` : ""}
