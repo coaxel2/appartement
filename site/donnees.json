@@ -1,0 +1,1028 @@
+{
+ "config": {
+  "criteres": {
+   "type": "location",
+   "ville": "Bordeaux Métropole",
+   "loyer_max_cc": 700,
+   "tolerance_loyer_cc": 750,
+   "pieces_min": 2,
+   "pieces_max": 3,
+   "surface_min_m2": 35,
+   "exterieur_obligatoire": true,
+   "parking_obligatoire": true,
+   "trajet_max_minutes": 40,
+   "lieux_de_travail": [
+    {
+     "nom": "Travail 1",
+     "adresse": "136 quai des Chartrons, 33300 Bordeaux",
+     "arrets_proches": [
+      "Tram B Chartrons",
+      "Tram B Cours du Médoc"
+     ]
+    },
+    {
+     "nom": "Travail 2",
+     "adresse": "127 rue de Turenne, 33000 Bordeaux",
+     "arrets_proches": [
+      "Tram D Croix de Seguey",
+      "Tram D Fondaudège Muséum"
+     ]
+    }
+   ],
+   "notes": "Exterieur = balcon, terrasse, loggia ou jardin. Parking = place, box ou garage (inclus ou en option au loyer, dans ce cas l'ajouter au total). Le trajet maximal s'applique aux DEUX lieux de travail."
+  },
+  "zones": [
+   {
+    "nom": "Bordeaux Chartrons / Jardin Public",
+    "codes_postaux": [
+     "33300",
+     "33000"
+    ],
+    "minutes": 15,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bordeaux Saint-Seurin / Fondaudège",
+    "codes_postaux": [
+     "33000"
+    ],
+    "minutes": 15,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bordeaux Grand Parc",
+    "codes_postaux": [
+     "33300"
+    ],
+    "minutes": 15,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bordeaux Triangle / Hypercentre / Saint-Pierre",
+    "codes_postaux": [
+     "33000"
+    ],
+    "minutes": 20,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bordeaux Bassins à flot / Bacalan",
+    "codes_postaux": [
+     "33300"
+    ],
+    "minutes": 25,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bordeaux Caudéran",
+    "codes_postaux": [
+     "33200"
+    ],
+    "minutes": 25,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bordeaux Saint-Michel / Capucins / Victoire",
+    "codes_postaux": [
+     "33800",
+     "33000"
+    ],
+    "minutes": 30,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bordeaux Bastide (rive droite)",
+    "codes_postaux": [
+     "33100"
+    ],
+    "minutes": 30,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier",
+    "codes_postaux": [
+     "33800"
+    ],
+    "minutes": 35,
+    "statut": "ok"
+   },
+   {
+    "nom": "Le Bouscat",
+    "codes_postaux": [
+     "33110"
+    ],
+    "minutes": 20,
+    "statut": "ok"
+   },
+   {
+    "nom": "Bruges",
+    "codes_postaux": [
+     "33520"
+    ],
+    "minutes": 30,
+    "statut": "ok"
+   },
+   {
+    "nom": "Eysines (proche tram D)",
+    "codes_postaux": [
+     "33320"
+    ],
+    "minutes": 35,
+    "statut": "limite"
+   },
+   {
+    "nom": "Talence (proche tram B)",
+    "codes_postaux": [
+     "33400"
+    ],
+    "minutes": 35,
+    "statut": "limite"
+   },
+   {
+    "nom": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+    "codes_postaux": [
+     "33700"
+    ],
+    "minutes": 38,
+    "statut": "limite"
+   },
+   {
+    "nom": "Bègles (proche tram C)",
+    "codes_postaux": [
+     "33130"
+    ],
+    "minutes": 38,
+    "statut": "limite"
+   },
+   {
+    "nom": "Cenon / Lormont / Floirac (proche tram A)",
+    "codes_postaux": [
+     "33150",
+     "33310",
+     "33270"
+    ],
+    "minutes": 38,
+    "statut": "limite"
+   },
+   {
+    "nom": "Blanquefort (tram C)",
+    "codes_postaux": [
+     "33290"
+    ],
+    "minutes": 38,
+    "statut": "limite"
+   },
+   {
+    "nom": "Pessac centre (tram B)",
+    "codes_postaux": [
+     "33600"
+    ],
+    "minutes": 42,
+    "statut": "limite"
+   },
+   {
+    "nom": "Le Haillan / Saint-Médard-en-Jalles",
+    "codes_postaux": [
+     "33185",
+     "33160"
+    ],
+    "minutes": 50,
+    "statut": "trop_loin"
+   },
+   {
+    "nom": "Villenave-d'Ornon / Gradignan",
+    "codes_postaux": [
+     "33140",
+     "33170"
+    ],
+    "minutes": 50,
+    "statut": "trop_loin"
+   },
+   {
+    "nom": "Bassens / Ambarès / Artigues / Carbon-Blanc",
+    "codes_postaux": [
+     "33530",
+     "33440",
+     "33370",
+     "33560"
+    ],
+    "minutes": 50,
+    "statut": "trop_loin"
+   }
+  ],
+  "sites": [
+   {
+    "nom": "Leboncoin",
+    "domaine": "leboncoin.fr",
+    "lecture_directe": false
+   },
+   {
+    "nom": "SeLoger",
+    "domaine": "seloger.com",
+    "lecture_directe": false
+   },
+   {
+    "nom": "PAP",
+    "domaine": "pap.fr",
+    "lecture_directe": false
+   },
+   {
+    "nom": "Logic-Immo",
+    "domaine": "logic-immo.com",
+    "lecture_directe": false
+   },
+   {
+    "nom": "Ouest-France Immo",
+    "domaine": "ouestfrance-immo.com",
+    "lecture_directe": false
+   },
+   {
+    "nom": "AVendreALouer",
+    "domaine": "avendrealouer.fr",
+    "lecture_directe": false
+   },
+   {
+    "nom": "Bien'ici",
+    "domaine": "bienici.com",
+    "lecture_directe": true
+   },
+   {
+    "nom": "Le Figaro Immobilier",
+    "domaine": "immobilier.lefigaro.fr",
+    "lecture_directe": true
+   },
+   {
+    "nom": "ParuVendu",
+    "domaine": "paruvendu.fr",
+    "lecture_directe": true
+   },
+   {
+    "nom": "LocService",
+    "domaine": "locservice.fr",
+    "lecture_directe": true
+   },
+   {
+    "nom": "123loger",
+    "domaine": "123loger.com",
+    "lecture_directe": true
+   },
+   {
+    "nom": "Location-Etudiant",
+    "domaine": "location-etudiant.fr",
+    "lecture_directe": true
+   },
+   {
+    "nom": "Foncia",
+    "domaine": "fr.foncia.com",
+    "lecture_directe": true
+   },
+   {
+    "nom": "Orpi",
+    "domaine": "orpi.com",
+    "lecture_directe": true
+   },
+   {
+    "nom": "Century 21",
+    "domaine": "century21.fr",
+    "lecture_directe": true
+   },
+   {
+    "nom": "Laforêt",
+    "domaine": "laforet.com",
+    "lecture_directe": true
+   },
+   {
+    "nom": "Square Habitat",
+    "domaine": "squarehabitat.fr",
+    "lecture_directe": false
+   },
+   {
+    "nom": "Trovit",
+    "domaine": "immo.trovit.fr",
+    "lecture_directe": false
+   },
+   {
+    "nom": "Superimmo",
+    "domaine": "superimmo.com",
+    "lecture_directe": false
+   },
+   {
+    "nom": "Capifrance",
+    "domaine": "capifrance.fr",
+    "lecture_directe": false
+   }
+  ],
+  "villes": [
+   "Bordeaux",
+   "Le Bouscat",
+   "Bruges",
+   "Talence",
+   "Mérignac",
+   "Bègles",
+   "Eysines",
+   "Cenon",
+   "Lormont",
+   "Floirac",
+   "Blanquefort",
+   "Pessac"
+  ],
+  "stats": {
+   "total": 18,
+   "par_statut": {
+    "correspond": 6,
+    "rejetee": 2,
+    "incomplete": 6,
+    "a_verifier": 4
+   }
+  },
+  "mise_a_jour": "2026-11-13T15:05"
+ },
+ "annonces": [
+  {
+   "titre": "T2 38 m² non meublé avec balcon et parking, Talence",
+   "site": "123loger",
+   "url": "https://www.123loger.com/location/talence-33400/appartement/6985a286eca3/",
+   "autres_urls": null,
+   "loyer_total": 695,
+   "loyer_cc": 695,
+   "charges": 55,
+   "surface_m2": 38,
+   "pieces": 2,
+   "ville": "Talence",
+   "code_postal": "33400",
+   "quartier": null,
+   "zone": "Talence (proche tram B)",
+   "trajet_estime_min": 35,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "parking": "stationnement en sous-sol",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajet estimé ~35 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": "Propriétaire via 123loger",
+   "id": "0005295da097",
+   "photos_urls": [
+    "https://www.123loger.com/location/uploads/properties/images/6985a286eca3/aed832d53d090eb2dc93bb082d97c939@1200x1050.webp",
+    "https://www.123loger.com/location/uploads/properties/images/6985a286eca3/1f5963f06018ea9d79af10fafa489c47@1200x1050.webp"
+   ],
+   "description": "Appartement non meublé 2 pièces 38 m², balcon, parking voiture, DPE B, dépôt de garantie 695 €."
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/p-cf-113073450803",
+   "autres_urls": null,
+   "loyer_total": 678.0,
+   "loyer_cc": 678.0,
+   "charges": null,
+   "surface_m2": 44.0,
+   "pieces": 2,
+   "ville": "Bègles",
+   "code_postal": "33130",
+   "quartier": null,
+   "zone": "Bègles (proche tram C)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "L'appartement d'une surface habitable de 45 m2 avec balcon de 10 m2 exposé SUD/EST, se situe au 3éme étage avec ascenseur",
+   "parking": "Une place de parking sécurisée en sous-sol et local vélo",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajet estimé ~38 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "1542f2ba470a",
+   "photos_urls": [
+    "https://img.locservice.fr/NilcptAIkL34eHTxZ0d1QDIWYsT9MseWHPV4M9cEdS4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0ZDItNDlj/My03ZjVkLTk0MDYt/OGQ2Mjk4ZGNhMDgw/LTFjYjYyNjU4NGNl/OGRiZDgzNjlmMjNh/OTBkYWRhZTA2ZmMy/MDRhYWQuanBn.jpg",
+    "https://img.locservice.fr/_LLxDwTEyIAxxBoXb7yeDxd1CqP9y-8uEc0BATtTMhI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0ZDItNDlj/My03ZjVkLTk0MDYt/OGQ2Mjk4ZGNhMDgw/LTc1ZWJhZDExZTgy/MTM0MTg4MmUxYjgx/ZGRlY2QzNDA2NDJm/MWZiYjMuanBn.jpg",
+    "https://img.locservice.fr/cIRJXdViJsUo9N6feGnItIz7KiQIr3B3NJvxivsCtTs/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0ZDItNDlj/My03ZjVkLTk0MDYt/OGQ2Mjk4ZGNhMDgw/LWZmOWMxNmRmNTFl/NzM0NTdlMDU0NDc4/MDFiMjFhOTk5YmUw/ZDVmMmIuanBn.jpg",
+    "https://img.locservice.fr/GygEdaI_TAIJLB6xaCjRrhn3AwIiZmpIN16YTsOICMI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0ZDItNDlj/My03ZjVkLTk0MDYt/OGQ2Mjk4ZGNhMDgw/LTJiYzU2OGRkMWY2/ZjI1MWQwMmIyNDI0/YzMyNjIxOTJiM2U3/MjgwNmIuanBn.jpg",
+    "https://img.locservice.fr/nyDZ1cOioLOc_39uEfuJLtxLPZ4Ll0uuGrQttvTleZs/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0ZDItNDlj/My03ZjVkLTk0MDYt/OGQ2Mjk4ZGNhMDgw/LTZmOTk0ZGY1NGM2/NjEyODQwZmI4OTQ4/MGE3NjY5OWVjMzdl/NTQxM2YuanBn.jpg"
+   ],
+   "description": "Location appartement à Bègles - 678 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bègles Location Bègles Location appartement Bègles Location appartement 2 pièces Bègles Location appartement 44 m² 678 € Location appartement T2 à Bègles 678 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (wi"
+  },
+  {
+   "titre": "Appartement T2 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
+   "autres_urls": null,
+   "loyer_total": 650.0,
+   "loyer_cc": 650.0,
+   "charges": null,
+   "surface_m2": 43.0,
+   "pieces": 2,
+   "ville": "Fronsac",
+   "code_postal": "33126",
+   "quartier": null,
+   "zone": null,
+   "trajet_estime_min": null,
+   "trajet_verifie_min": null,
+   "exterieur": "Jardin commun avec terrasse",
+   "parking": "Parking public gratuit au pied de l'immeuble",
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "rejetee",
+   "raisons_rejet": [
+    "commune hors zone de trajet"
+   ],
+   "points_a_verifier": [],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "1f65a9e265ab",
+   "photos_urls": [],
+   "description": "Location appartement meublé à Fronsac - 650 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Fronsac Location Fronsac Location particulier Fronsac Location appartement 43 m² 650 € Appartement T2 meublé avec cuisine équipée à louer à Fronsac entre particuliers 650 € / mois charges comprises Ré"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/200813",
+   "autres_urls": null,
+   "loyer_total": 642.0,
+   "loyer_cc": 642.0,
+   "charges": null,
+   "surface_m2": 48.0,
+   "pieces": 2,
+   "ville": "Cenon",
+   "code_postal": "33150",
+   "quartier": null,
+   "zone": "Cenon / Lormont / Floirac (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "e 5.40 M2 équipée d'un placard 1 Séjour de 20.6 M2 donnant sur grand balcon de 7.50 M2 1 Cuisine séparée de 6.31 M2 donnant également sur l",
+   "parking": "(TRAM 4 minutes à pied) ET ESPACES VERTS A PROXIMITE AVEC 1 PLACE DE PARKING 1 entrée de 5.40 M2 équipée d'un placard 1 Séjour de 20.6 M2 d",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajet estimé ~38 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "28f98e5645e1",
+   "photos_urls": [
+    "https://img.locservice.fr/W7VQbrgTygcGa-18Oj6St7B9mYy8OiMfOvKjtCGyyNg/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yMDA4MTMvMDE4/ZjU0NjYtZThmNy03/OWFlLWE3ZGMtMWEy/MzNlOGMxNTRm.jpg",
+    "https://img.locservice.fr/bKu7hwy8hHK8BNXxOsKNcUho-w7kVQyAJbl5Ln6DSSc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yMDA4MTMvMDE4/ZjU0NjYtZTlhOC03/MzVlLWE0YjctMDVh/MzIyOTZlZDcz.jpg",
+    "https://img.locservice.fr/Wb0NvXtbsurXzkhGj_zah6B8W0k4UWYLJGmtnV9xQDc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yMDA4MTMvMDE4/ZjU0NjYtZWEzNC03/YzE0LTk2MjItNDUz/MmJhZmNkYzg5.jpg",
+    "https://img.locservice.fr/zaN9pIYgOgyDI-gTRHySiW6q9lQGNxq4STI2UCOOvpQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yMDA4MTMvMDE4/ZjU0NjYtZWFiMi03/YjlhLWIxYTctYzI1/ZmFmNzA1YzQz.jpg"
+   ],
+   "description": "Location appartement à Cenon - 642 € - 48 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Cenon Location Cenon Location particulier Cenon Location appartement Cenon Location appartement particulier Cenon Location appartement 2 pièces Cenon Location appartement 48 m² 642 € Appartement T2 sans vis-à-"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113103084392",
+   "autres_urls": null,
+   "loyer_total": 619.0,
+   "loyer_cc": 619.0,
+   "charges": null,
+   "surface_m2": 46.0,
+   "pieces": 2,
+   "ville": "Eysines",
+   "code_postal": "33320",
+   "quartier": null,
+   "zone": "Eysines (proche tram D)",
+   "trajet_estime_min": 35,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "parking": null,
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "extérieur non précisé",
+    "parking non précisé",
+    "trajet estimé ~35 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "2b66ed829479",
+   "photos_urls": [
+    "https://img.locservice.fr/11RNCL6RuWsNpAXw5fKOupTU0NtaXhO37mNngg254Xk/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFhNGItZTRh/OC03NTMwLThkYTkt/ZWRkZmRkNWRmNjFi/LTgzMGYwMTJmM2Iy/MjVkNTQ5ODc3NjU5/YjY3MGU0OTY4N2Yy/ZTJhN2YuanBn.jpg",
+    "https://img.locservice.fr/7ZySnuR7WGFike2sCqRlG-ew_Fv9slRj3MKqOVrmTxs/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFhNGItZTRh/OC03NTMwLThkYTkt/ZWRkZmRkNWRmNjFi/LTVhNzg0YzM1MDI3/NmUwY2M4OTU4NWNh/YzQ5MmMwMDEwNjI4/MTQ5MWMuanBn.jpg",
+    "https://img.locservice.fr/6ILLLspbVTEl2OlP9LCHHfvUokq9coDS1zSLtwPbBfQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFhNGItZTRh/OC03NTMwLThkYTkt/ZWRkZmRkNWRmNjFi/LTViMjRhYjk5NjYw/MWNlZTBkNTQ3Nzdj/OGM2ZGFjOWZlNDFj/YjlkNWYuanBn.jpg",
+    "https://img.locservice.fr/CFZcWmem-ujBmUemCYMNHdjikGZ4yBJilt3vJ0WHiJY/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFhNGItZTRh/OC03NTMwLThkYTkt/ZWRkZmRkNWRmNjFi/LTVmMGVhNWRjNjI4/Y2FmNTc1MjcyZTYx/NDdkZjQ5NTNkZTRi/N2ZmMmEuanBn.jpg",
+    "https://img.locservice.fr/WFpSOZxLWyxSmb1kmsRKwOV8aqGX1FrLczwnYvoGrws/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFhNGItZTRh/OC03NTMwLThkYTkt/ZWRkZmRkNWRmNjFi/LTA5OTM1YWU0ZjM4/NWRmZGY4NWFmODgy/MDJkNzMxNzBlNDVm/ODc2ODUuanBn.jpg",
+    "https://img.locservice.fr/ayaoc16QoZ9MovAp_zhXrw7BjO2gC_4cx2JgaLugibk/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFhNGItZTRh/OC03NTMwLThkYTkt/ZWRkZmRkNWRmNjFi/LTAyODJiZWZiMGEy/ZDQzMTk4YjMwN2Rj/OGMxY2FlZWE2Yzg1/Y2QxMDQuanBn.jpg"
+   ],
+   "description": "Location appartement à Eysines - 619 € - 46 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Eysines Location Eysines Location appartement Eysines Location appartement 2 pièces Eysines Location appartement 46 m² 619 € Appartement T2 à louer à Eysines 619 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732",
+   "autres_urls": null,
+   "loyer_total": 733.0,
+   "loyer_cc": 733.0,
+   "charges": null,
+   "surface_m2": 45.0,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33000",
+   "quartier": null,
+   "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": "4,4 m² de balcon offrent à ce bien de l'espace supplémentaire bienvenu",
+   "parking": "s : parmi les emplacements disponibles dans l'immeuble, une place de stationnement est réservée pour l'appartement",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 733.0 € légèrement au dessus de 700 €"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "3331658056fe",
+   "photos_urls": [
+    "https://img.locservice.fr/HxMhqN8D5wTwJ68jLw3lz72_O_h2wkT8evD67OfsKXQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFmZmItMDFi/Yy03MzU5LWFiYjMt/NmIxMjRmNGM0NThi/LWFjYTMyODU2MjIz/MWVlOWM3NjMzZjY3/MGYyZTY2MDU1NDBj/YTMyOTIuanBn.jpg"
+   ],
+   "description": "Location appartement à Bordeaux - 733 € - 45 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 45 m² 733 € Location appartement T2 à Bordeaux 733 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
+   "autres_urls": null,
+   "loyer_total": 663.0,
+   "loyer_cc": 663.0,
+   "charges": null,
+   "surface_m2": 43.0,
+   "pieces": 2,
+   "ville": "Lormont",
+   "code_postal": "33310",
+   "quartier": null,
+   "zone": "Cenon / Lormont / Floirac (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "d'une vue imprenable tout en savourant votre café du matin sur votre balcon ensoleillé",
+   "parking": "Et parce qu'on ne peut pas tout transporter à la main, un parking est également à votre disposition",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajet estimé ~38 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "7a90aa69b983",
+   "photos_urls": [
+    "https://img.locservice.fr/p2ZkDYtBosQrYWWN_hUtpMmsNKLXugaWEJ-2TFtEuXc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWM4NzEtMDMx/Zi03N2U5LThiMGIt/YmMxZWE3N2ZkMmYz/LTMxZGY5NDI5YmNm/N2QzMmFhNzBkZmU5/MmFkZjU4YjU4OGEy/OTYyNDIuanBn.jpg"
+   ],
+   "description": "Location appartement à Lormont - 663 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Lormont Location Lormont Location appartement Lormont Location appartement 2 pièces Lormont Location appartement 43 m² 663 € Appartement T2 à louer à Lormont 663 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103007824",
+   "autres_urls": null,
+   "loyer_total": 706.0,
+   "loyer_cc": 706.0,
+   "charges": null,
+   "surface_m2": 41.0,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33000",
+   "quartier": null,
+   "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "parking": "Place de parking",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 706.0 € légèrement au dessus de 700 €",
+    "extérieur non précisé"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "8a0d1f644ead",
+   "photos_urls": [
+    "https://img.locservice.fr/Sst1YQih3RUe5PlCVJSGTc_D_fHd1RvMFAlwVISXMVA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE5MWMtZTgz/Zi03MzUyLWI2ZmYt/MDM1OTA1MzQwYjZj/LWU4ZGI5Y2ZmM2Zh/ODcxYzkzMmQ3MDNh/YjRiMjYzYTMxYTk1/NDE3NWIuanBn.jpg",
+    "https://img.locservice.fr/xKdIbW7pfPhL40peR2BWPNyGM-Bqi6kYhQ3cBcs_pMA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE5MWMtZTgz/Zi03MzUyLWI2ZmYt/MDM1OTA1MzQwYjZj/LTMxZGIwODJiYTIx/Y2VjZDRmMDI3MzA1/NjU0MDBjMmU2ZmY2/NzcyNTEuanBn.jpg",
+    "https://img.locservice.fr/qxaD_RLkEZo8zO93NP6AbkA8WpNQiodiNxn0hnJP2-A/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE5MWMtZTgz/Zi03MzUyLWI2ZmYt/MDM1OTA1MzQwYjZj/LWRmOWNkYmRmNDkw/ZGI1YTJmMDRlY2Rl/Y2JmNzNmZWMxYTBh/ZjI2ODEuanBn.jpg",
+    "https://img.locservice.fr/HMNIT5bfCmLM925M83Pju2o8gXmFFot0qi4Ijjq9TMg/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE5MWMtZTgz/Zi03MzUyLWI2ZmYt/MDM1OTA1MzQwYjZj/LTRiMDVhMTNiY2M5/ZjE3NjBiYjY3YWEz/NmMyMjllZGE0NjFk/NTQxZTQuanBn.jpg",
+    "https://img.locservice.fr/IfPhMcai7jORzLI9Y4SSFnodiKQVmstF1QKNqVBUU0s/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE5MWMtZTgz/Zi03MzUyLWI2ZmYt/MDM1OTA1MzQwYjZj/LTQxYmRhMzhiOWM1/YjlhNDNjNjhmMjZk/MGQzMjZlZDEzYTE4/NWNmYTcuanBn.jpg"
+   ],
+   "description": "Location appartement à Bordeaux - 706 € - 41 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 41 m² 706 € Location appartement T2 à Bordeaux 706 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px"
+  },
+  {
+   "titre": "Appartement T2 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659",
+   "autres_urls": null,
+   "loyer_total": 720.0,
+   "loyer_cc": 720.0,
+   "charges": null,
+   "surface_m2": 47.0,
+   "pieces": 2,
+   "ville": "Mérignac",
+   "code_postal": "33700",
+   "quartier": null,
+   "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "nt T2 meublé d'environ 46.57m2, composé d'une entrée, d'un salon sur balcon, d'une cuisine aménagée et équipée (lave-vaisselle, lave-linge)",
+   "parking": "place de parking sécurisée",
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 720.0 € légèrement au dessus de 700 €",
+    "trajet estimé ~38 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "9064cfc381dc",
+   "photos_urls": [
+    "https://img.locservice.fr/3iEdvXaqZMLRCsl6yn4cSa80cSO4pusarRl-um9klCQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYWZk/MS03MDk0LTk1ZjEt/NGI4YTBkNGFiOTcx/LWVmMzgxZWIwYmQ3/YTA2ODY5MDBjOTVi/YmQzMGJkNmQ0YTY5/NWE2MTYuanBn.jpg",
+    "https://img.locservice.fr/-jGEUvYhpQpg12orNKmJIaljpDLnL0Gg3UmGN4V3jng/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYWZk/MS03MDk0LTk1ZjEt/NGI4YTBkNGFiOTcx/LWEwOTg1MDJkY2Uz/YTdiNDUzYWQ0Y2M1/ODlkZDkxMjlhZjUw/YjdmZTYuanBn.jpg",
+    "https://img.locservice.fr/VC4HRWQjjcyUXiGpwC1Au7R7zP0n_3iMsJWPvLfjY7k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYWZk/MS03MDk0LTk1ZjEt/NGI4YTBkNGFiOTcx/LTYzM2I3OTQyODkz/N2UzMTFmZWRlYTY4/YzNlNjk1NDMxYzhl/MTFmODQuanBn.jpg",
+    "https://img.locservice.fr/cTpY1rJpnK18epY-4he9n5OkOgbXQlt6YEnKvdjVqq0/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYWZk/MS03MDk0LTk1ZjEt/NGI4YTBkNGFiOTcx/LTkyM2VmMjI4OGFh/M2Q5M2ZlN2EyNTgx/NmIxMDA2MTI4YTU4/YmE4NDcuanBn.jpg"
+   ],
+   "description": "Location appartement meublé à Mérignac - 720 € - 47 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Mérignac Location Mérignac Location appartement Mérignac Location appartement 2 pièces Mérignac Location appartement 47 m² 720 € Appartement T2 meublé à louer à Mérignac 720 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (w"
+  },
+  {
+   "titre": "Appartement T2 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465",
+   "autres_urls": null,
+   "loyer_total": 625.0,
+   "loyer_cc": 625.0,
+   "charges": null,
+   "surface_m2": 45.0,
+   "pieces": 2,
+   "ville": "Bruges",
+   "code_postal": "33520",
+   "quartier": null,
+   "zone": "Bruges",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "parking": "De plus, un emplacement de parking est inclus, un atout précieux dans cette zone",
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "extérieur non précisé"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "a358a5e47dad",
+   "photos_urls": [
+    "https://img.locservice.fr/8uJ8krV8C4gazZfwhCJ6BWhMhjWUoxbaST5mCEjRX7k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0N2YtZWMw/Ni03MTI2LTlkZTIt/NmNkYzM5MjY4MWVl/LTUzOWY3YTdjZTZh/YmY4MzFjZjRlMjJh/NmJlODJjY2E5ZTVi/MWM4ZDMuanBn.jpg"
+   ],
+   "description": "Location appartement meublé à Bruges - 625 € - 45 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bruges Location Bruges Location appartement Bruges Location appartement 2 pièces Bruges Location appartement 45 m² 625 € Appartement T2 meublé à louer à Bruges 625 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768p"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113053569229",
+   "autres_urls": null,
+   "loyer_total": 713.0,
+   "loyer_cc": 713.0,
+   "charges": null,
+   "surface_m2": 44.0,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33000",
+   "quartier": null,
+   "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "parking": null,
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 713.0 € légèrement au dessus de 700 €",
+    "extérieur non précisé",
+    "parking non précisé"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "b07a5dd84b1b",
+   "photos_urls": [
+    "https://img.locservice.fr/PqlNgJEEtX9j6xpL43QVAj0zuvVOxnZ6BIHElzRvoOI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWEzZjYtODcz/MC03NmUyLWJmMWYt/Y2Q0ZDU1MWY2ZWU4/LTA1NmRlZTNjMGU3/M2JhMWQzMGZkOTA1/ZDliNWJlMTQ3MGYx/ODg3MjQuanBn.jpg",
+    "https://img.locservice.fr/TZYQloCyVDArwfEj8wLIUC-4UOXn2qfNAbdrXIr4cw4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWEzZjYtODcz/MC03NmUyLWJmMWYt/Y2Q0ZDU1MWY2ZWU4/LWVjNjJlZWNjYjFl/NWEwODNmN2YwYzdl/ZTg2NGM1ZGY4M2Jm/YmE0MDkuanBn.jpg",
+    "https://img.locservice.fr/-VpGw2NWkTE7TUGC8iB5Z2FhutsNp3UoYfT7ofkRhCw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWEzZjYtODcz/MC03NmUyLWJmMWYt/Y2Q0ZDU1MWY2ZWU4/LTE3MmVmMTQ3YmNh/YTliZjdiMTAyYzll/ZjY2YWUxNzAwNjA4/YmRmN2YuanBn.jpg",
+    "https://img.locservice.fr/sxVwOyGkKTmmbzmABDgSKWaYGqihBjT5MRjHs8DWhC8/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWEzZjYtODcz/MC03NmUyLWJmMWYt/Y2Q0ZDU1MWY2ZWU4/LTgzNjM4M2ViNWJl/NTA5YWJjOGQ0OWM5/MjRhNThiYmE3MDZk/YjA4ZjUuanBn.jpg"
+   ],
+   "description": "Location appartement à Bordeaux - 713 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 44 m² 713 € Location appartement T2 à Bordeaux 713 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px"
+  },
+  {
+   "titre": "Appartement T2 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
+   "autres_urls": null,
+   "loyer_total": 690.0,
+   "loyer_cc": 690.0,
+   "charges": null,
+   "surface_m2": 39.0,
+   "pieces": 2,
+   "ville": "Talence",
+   "code_postal": "33400",
+   "quartier": null,
+   "zone": "Talence (proche tram B)",
+   "trajet_estime_min": 35,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "parking": "e des services tels qu'une salle de fitness, une laverie ainsi qu'un parking",
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "extérieur non précisé",
+    "trajet estimé ~35 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "b2d4bac6de0e",
+   "photos_urls": [],
+   "description": "Location appartement étudiant Talence - à partir de 690 € - 39 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Location résidence étudiante Gironde Talence Location Talence Location appartement Talence Location appartement 2 pièces Talence Location résidence étudiante Talence Location appartement 39 m² 690 € Location appartement T2 meublé pour étudiant à Talence À pa"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032",
+   "autres_urls": null,
+   "loyer_total": 730.0,
+   "loyer_cc": 730.0,
+   "charges": null,
+   "surface_m2": 48.0,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33000",
+   "quartier": null,
+   "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "parking": null,
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 730.0 € légèrement au dessus de 700 €",
+    "extérieur non précisé",
+    "parking non précisé"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "b2eab699b18c",
+   "photos_urls": [],
+   "description": "Location appartement à Bordeaux - 730 € - 48 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 48 m² 730 € Location appartement T2 à Bordeaux 730 € / mois charges comprises Récent Bordeaux (33000) 48 m² 2 pièces Non meublé Disponible immédiatement Logeme"
+  },
+  {
+   "titre": "Appartement T2 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-parempuyre/p-cf-113592213649",
+   "autres_urls": null,
+   "loyer_total": 750.0,
+   "loyer_cc": 750.0,
+   "charges": null,
+   "surface_m2": 40.0,
+   "pieces": 2,
+   "ville": "Parempuyre",
+   "code_postal": "33290",
+   "quartier": null,
+   "zone": "Blanquefort (tram C)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "parking": null,
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 750.0 € légèrement au dessus de 700 €",
+    "extérieur non précisé",
+    "parking non précisé",
+    "trajet estimé ~38 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "c21e22863806",
+   "photos_urls": [
+    "https://img.locservice.fr/ypWYMm6GhgMDX8hJn62VyPQMmiTg8VDPqIqBW4iXbuc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LTdlNjIwMjZhYzc2/ZmY4YThmNWZjODk3/MWJkMjIyNmZjNDg1/MWM3MGMuanBn.jpg",
+    "https://img.locservice.fr/jsVW9kTMf-oECcO9wAE4qyiQ-RWBSTf4huZrdhoWIYQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LWZiN2FkNTYyOTU0/ODI5OTFjMjEzYjY1/ZjM4ZTFjMzRiOWI5/NDM4ZTMuanBn.jpg",
+    "https://img.locservice.fr/2Lhh83HF3kVDIa0PnnBIMXWrjDQn4ePpgfjmS9Hqffw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LTFmNTM2YjRlYjhk/M2JhZjlmYjI2YTQ4/MzM5YmZmZWMwYjVj/ZGIyNjYuanBn.jpg",
+    "https://img.locservice.fr/KypSbUUVDipQAQQ_GcbxUrdIUoKzoDz1q5VNMW_Pzu4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LWNjZDNiNDE1MWI4/YzNiZTRiODUyMDc5/NTc1ODI4Mjk0MmU3/YmEwNjIuanBn.jpg",
+    "https://img.locservice.fr/xHWTN2xG4xNigofci9eIrS5Wn4Q9ecdTBugxEd2tJX0/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LTc4YjU1NTljODQ5/MDc4YjUyMzQxY2Y1/N2Q3MDBhY2IzYzEy/ZWM4NWMuanBn.jpg",
+    "https://img.locservice.fr/JXinDVHQRa_ed2HlgQaQnTU0f-3_02kYI6xajhH4FRI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LWRkYTM4ZjMxZjQ4/YjYwYmM5Yzc4MmI1/ZGU2YTg5ZTNiMjll/MjNlZmQuanBn.jpg"
+   ],
+   "description": "Location appartement meublé à Parempuyre - 750 € - 40 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Parempuyre Location Parempuyre Location appartement Parempuyre Location appartement 2 pièces Parempuyre Location appartement 40 m² 750 € Appartement T2 meublé à louer à Parempuyre 750 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992p"
+  },
+  {
+   "titre": "Appartement T2 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
+   "autres_urls": null,
+   "loyer_total": 700.0,
+   "loyer_cc": 700.0,
+   "charges": null,
+   "surface_m2": 50.0,
+   "pieces": 2,
+   "ville": "Bègles",
+   "code_postal": "33130",
+   "quartier": null,
+   "zone": "Bègles (proche tram C)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "Les + de cette location Stationnement possible Balcon ou terrasse Sans vis-à-vis Cuisine équipée Proximité transport",
+   "parking": "Les + de cette location Stationnement possible Balcon ou terrasse Sans vis-à-vis Cuisine équip",
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajet estimé ~38 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "ca769047a1e2",
+   "photos_urls": [
+    "https://img.locservice.fr/Dpxyite3UB0egacwkfEY7f0aQxpAoMh9zk6E7WuK0Fc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg",
+    "https://img.locservice.fr/h3sVj-yFm5JlmIGaU3aKr_Q1Ds1YcKDrAaINh5AZVZU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWY4NDIt/NzVkMS1iNWNjLTkw/ZjIyMmZiNmRiMA.jpg",
+    "https://img.locservice.fr/YYrJEnWWyCc9sHKu9qJQZIzblUB7GFANFP4lLhujJYI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTAzMDIt/NzY4My1iMTZiLWVk/YWMyOWRhYzIzNQ.jpg",
+    "https://img.locservice.fr/Miyz08IFETpEJg95MmTe0PPLuoxZzdOrTnAw0vhQfEM/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTA3OGYt/N2NmZi1iOTQ1LTYx/NzZhYjI5MGFmOA.jpg"
+   ],
+   "description": "Location appartement meublé à Bègles - 700 € - 50 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Bègles Location Bègles Location particulier Bègles Location appartement Bègles Location appartement particulier Bègles Location appartement 2 pièces Bègles Location appartement 50 m² 700 € Location app"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-112982843187",
+   "autres_urls": null,
+   "loyer_total": 731.0,
+   "loyer_cc": 731.0,
+   "charges": null,
+   "surface_m2": 44.0,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33000",
+   "quartier": null,
+   "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": "t savoir sur ce bien À LOUER : APPARTEMENT T2 NON MEUBLE ET RECENT + BALCON - BORDEAUX BASTIDE / AVENUE THIERS Appartement neuf T2 à Bordea",
+   "parking": null,
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 731.0 € légèrement au dessus de 700 €",
+    "parking non précisé"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "eaf01c958cc2",
+   "photos_urls": [
+    "https://img.locservice.fr/BxwfkXw-dnSLxRC8q3eDDfw7ARjik-74unqIh8onnK4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWEwMzUtZDRk/Mi03NWEwLTkzOTUt/ZTVhMDMzYjc0MmFk/LWU2ZTlmYmNiNDA2/OWIzMDRjZDI0NjFj/NzY1NmJhOWQ5YWRi/NDA3YzQuanBn.jpg"
+   ],
+   "description": "Location appartement à Bordeaux - 731 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 44 m² 731 € Appartement T2 à louer à Bordeaux 731 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px)"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
+   "autres_urls": null,
+   "loyer_total": 700.0,
+   "loyer_cc": 700.0,
+   "charges": null,
+   "surface_m2": 65.0,
+   "pieces": 2,
+   "ville": "Castelnau-de-Médoc",
+   "code_postal": "33480",
+   "quartier": null,
+   "zone": null,
+   "trajet_estime_min": null,
+   "trajet_verifie_min": null,
+   "exterieur": "Les + de cette location Balcon ou terrasse Baignoire Sans vis-à-vis Grand séjour Cuisine équip",
+   "parking": null,
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "rejetee",
+   "raisons_rejet": [
+    "commune hors zone de trajet"
+   ],
+   "points_a_verifier": [
+    "parking non précisé"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "fa057336eb66",
+   "photos_urls": [],
+   "description": "Location appartement à Castelnau-de-Médoc - 700 € - 65 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Castelnau-de-Médoc Location Castelnau-de-Médoc Location particulier Castelnau-de-Médoc Location appartement Castelnau-de-Médoc Location appartement particulier Castelnau-de-Médoc Location appartem"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767",
+   "autres_urls": null,
+   "loyer_total": 686.0,
+   "loyer_cc": 686.0,
+   "charges": null,
+   "surface_m2": 48.0,
+   "pieces": 2,
+   "ville": "Mérignac",
+   "code_postal": "33700",
+   "quartier": null,
+   "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "De plus, l'appartement dispose d'un balcon bien orienté",
+   "parking": "Pour votre confort, une place de parking est incluse, facilitant ainsi le stationnement de votre véhicu",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajet estimé ~38 min, à confirmer"
+   ],
+   "trouvee_le": "2026-11-13T14:52",
+   "vue_le": "2026-11-13T14:52",
+   "expiree": null,
+   "contact": null,
+   "id": "fac20ab1b55e",
+   "photos_urls": [
+    "https://img.locservice.fr/8endgg1eKYXL9F61vizljpYFUWbr4snAzvKDbU148cc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMzOWQtMDM4/My03Y2Y0LWEwOWIt/ZWY3NGQ2OTQyMGY0/LTNkN2U4ZGNhZDhk/ZDYwODQwNTc5MTJi/OWQ0NGQwMmE4MjE3/NmY5M2UuanBn.jpg"
+   ],
+   "description": "Location appartement à Mérignac - 686 € - 48 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Mérignac Location Mérignac Location appartement Mérignac Location appartement 2 pièces Mérignac Location appartement 48 m² 686 € Appartement T2 à louer à Mérignac 686 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px)"
+  }
+ ]
+}

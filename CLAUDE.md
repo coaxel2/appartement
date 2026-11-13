@@ -17,6 +17,7 @@ Ce dépôt est piloté par une tâche planifiée Claude. A chaque exécution, Cl
 - `data/annonces.json` : toutes les annonces déjà vues (ne pas éditer à la main, passer par l'outil).
 - `outils/annonces.py` : fusion, dédoublonnage, évaluation, rapport.
 - `rapports/DERNIER.md` et `rapports/AAAA-MM-JJ.md` : rapports générés.
+- `site/index.html` et `site/donnees.json` : site web déployé sur Vercel à chaque push. `donnees.json` est regénéré par la commande `rapport`.
 
 ## Procédure d'une exécution
 
@@ -29,5 +30,5 @@ Ce dépôt est piloté par une tâche planifiée Claude. A chaque exécution, Cl
 7. Ecrire les annonces dans un fichier JSON temporaire (liste d'objets au format décrit en tête de `outils/annonces.py`) puis lancer `python3 outils/annonces.py ajouter <fichier>`.
 8. Si une annonce déjà connue n'existe plus (page 404 ou mention louée), la marquer `"expiree": true` en la réajoutant avec ce champ.
 9. Lancer `python3 outils/annonces.py rapport`.
-10. Commit des fichiers `data/` et `rapports/` avec un message du type `Recherche du AAAA-MM-JJ : N nouvelles annonces pertinentes`, puis push.
+10. Commit des fichiers `data/`, `rapports/` et `site/donnees.json` avec un message du type `Recherche du AAAA-MM-JJ : N nouvelles annonces pertinentes`, puis push.
 11. Terminer par un résumé court : nombre d'annonces nouvelles qui correspondent, les 3 meilleures avec lien, loyer, surface, ville, et une photo chacune.

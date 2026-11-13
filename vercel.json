@@ -1,0 +1,7 @@
+{
+  "outputDirectory": "site",
+  "cleanUrls": true,
+  "headers": [
+    { "source": "/donnees.json", "headers": [{ "key": "Cache-Control", "value": "no-cache" }] }
+  ]
+}

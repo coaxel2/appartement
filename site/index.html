@@ -1,0 +1,407 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Appart Bordeaux</title>
+<meta name="robots" content="noindex">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Manrope:wght@400;500;600;700&display=swap">
+<style>
+/* Mise en page : bandeau des critères appliqués, barre de filtres collante, grille de fiches annonces */
+:root {
+  --bg: #f4f3f6;
+  --surface: #ffffff;
+  --surface-2: #ece9f0;
+  --fg: #1f1a24;
+  --muted: #655d6e;
+  --line: #ddd8e3;
+  --accent: #82203f;
+  --accent-soft: #f3e3e9;
+  --ok: #1d7448;
+  --ok-soft: #e1f2e8;
+  --warn: #94600b;
+  --warn-soft: #f8ecd6;
+  --bad: #a3302f;
+  --bad-soft: #f7e2e1;
+  --info: #3a4f8f;
+  --info-soft: #e3e8f6;
+  --shadow: 0 1px 2px rgba(31, 26, 36, .06), 0 4px 16px rgba(31, 26, 36, .05);
+  --font-display: "Bricolage Grotesque", "Manrope", system-ui, sans-serif;
+  --font-body: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #17141b; --surface: #211d27; --surface-2: #2b2632; --fg: #efeaf3; --muted: #a79fb1; --line: #3a3442;
+    --accent: #e0849f; --accent-soft: #3b2230; --ok: #6fd19c; --ok-soft: #1c3428; --warn: #e6b45c; --warn-soft: #3a2e17;
+    --bad: #f08f8c; --bad-soft: #3d2222; --info: #9fb2ef; --info-soft: #242c45; --shadow: 0 1px 2px rgba(0,0,0,.3);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #17141b; --surface: #211d27; --surface-2: #2b2632; --fg: #efeaf3; --muted: #a79fb1; --line: #3a3442;
+  --accent: #e0849f; --accent-soft: #3b2230; --ok: #6fd19c; --ok-soft: #1c3428; --warn: #e6b45c; --warn-soft: #3a2e17;
+  --bad: #f08f8c; --bad-soft: #3d2222; --info: #9fb2ef; --info-soft: #242c45; --shadow: 0 1px 2px rgba(0,0,0,.3);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--bg); color: var(--fg); font-family: var(--font-body); font-size: 15px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 0 48px;
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 1180px; margin: 0 auto; display: flex; flex-direction: column; gap: 20px; }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; }
+a { color: var(--accent); }
+button, select, input, textarea { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+header.top { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px; padding-top: 28px; }
+header.top h1 { font-size: clamp(28px, 5vw, 40px); font-weight: 700; letter-spacing: -.02em; }
+header.top h1 span { color: var(--accent); }
+.sub { color: var(--muted); font-size: 14px; }
+.maj { color: var(--muted); font-size: 13px; text-align: right; font-variant-numeric: tabular-nums; }
+
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px; display: flex; flex-direction: column; gap: 16px; }
+.panel h2 { font-size: 19px; font-weight: 700; }
+.panel-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; flex-wrap: wrap; }
+.hint { color: var(--muted); font-size: 13px; }
+.crit-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; }
+.crit { background: var(--surface-2); border-radius: 10px; padding: 12px 14px; display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.crit .lbl { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); font-weight: 600; }
+.crit .val { font-family: var(--font-display); font-size: 20px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.crit .det { font-size: 13px; color: var(--muted); }
+.lieux { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+.lieu { display: flex; gap: 10px; align-items: flex-start; padding: 12px 14px; border: 1px dashed var(--line); border-radius: 10px; }
+.lieu .pin { flex: none; width: 28px; height: 28px; border-radius: 50%; background: var(--accent-soft); color: var(--accent); display: grid; place-items: center; font-weight: 700; font-size: 13px; }
+.lieu b { display: block; }
+.lieu small { color: var(--muted); }
+details { border-top: 1px solid var(--line); padding-top: 12px; }
+details summary { cursor: pointer; font-weight: 600; }
+details[open] summary { margin-bottom: 12px; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; padding: 3px 10px; border-radius: 999px; font-size: 13px; background: var(--surface-2); border: 1px solid var(--line); }
+.chip .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--muted); }
+.chip.direct .dot { background: var(--ok); }
+.tbl-wrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+th { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); font-weight: 600; }
+td.num { font-variant-numeric: tabular-nums; text-align: right; }
+
+.filters { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 10px; display: flex; flex-direction: column; gap: 10px; }
+.tabs { display: flex; gap: 6px; overflow-x: auto; padding-bottom: 2px; }
+.tab { flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 14px; cursor: pointer; font-weight: 600; font-size: 14px; display: inline-flex; gap: 8px; align-items: center; }
+.tab .n { font-variant-numeric: tabular-nums; color: var(--muted); font-weight: 500; }
+.tab[aria-pressed="true"] { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+.tab[aria-pressed="true"] .n { color: inherit; opacity: .75; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.row label { font-size: 13px; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
+select { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 5px 8px; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+@media (max-width: 420px) { .grid { grid-template-columns: 1fr; } }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; overflow: hidden; display: flex; flex-direction: column; box-shadow: var(--shadow); min-width: 0; }
+.card.refuse { opacity: .55; }
+.ph { position: relative; overflow: hidden; aspect-ratio: 16 / 10; max-width: 100%; background: var(--surface-2); display: grid; place-items: center; color: var(--muted); font-size: 13px; }
+.ph img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+.ph .nav { position: absolute; top: 50%; transform: translateY(-50%); width: 34px; height: 34px; border-radius: 50%; border: 0; background: rgba(20, 16, 24, .55); color: #fff; cursor: pointer; font-size: 18px; line-height: 1; }
+.ph .prev { left: 8px; } .ph .next { right: 8px; }
+.ph .count { position: absolute; right: 8px; bottom: 8px; background: rgba(20, 16, 24, .6); color: #fff; font-size: 12px; padding: 2px 8px; border-radius: 999px; font-variant-numeric: tabular-nums; }
+.ph .badge { position: absolute; left: 8px; top: 8px; }
+.pill { display: inline-block; font-size: 12px; font-weight: 700; padding: 2px 9px; border-radius: 999px; letter-spacing: .02em; }
+.pill.correspond { background: var(--ok-soft); color: var(--ok); }
+.pill.a_verifier { background: var(--warn-soft); color: var(--warn); }
+.pill.incomplete { background: var(--info-soft); color: var(--info); }
+.pill.rejetee { background: var(--bad-soft); color: var(--bad); }
+.pill.nouveau { background: var(--accent); color: #fff; }
+.body { padding: 14px 16px 16px; display: flex; flex-direction: column; gap: 10px; flex: 1; }
+.prix { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; }
+.prix .eur { font-family: var(--font-display); font-size: 26px; font-weight: 700; font-variant-numeric: tabular-nums; }
+.prix .eur small { font-size: 13px; font-family: var(--font-body); color: var(--muted); font-weight: 500; }
+.prix .meta { font-weight: 600; font-variant-numeric: tabular-nums; }
+.lieu-l { font-weight: 600; }
+.lieu-l small { color: var(--muted); font-weight: 500; }
+dl { margin: 0; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: 14px; }
+dt { color: var(--muted); }
+dd { margin: 0; min-width: 0; overflow-wrap: anywhere; }
+.verif { font-size: 13px; background: var(--warn-soft); color: var(--warn); border-radius: 8px; padding: 6px 10px; }
+.rejet { font-size: 13px; background: var(--bad-soft); color: var(--bad); border-radius: 8px; padding: 6px 10px; }
+.src { font-size: 14px; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.suivi { border-top: 1px solid var(--line); padding-top: 10px; display: flex; flex-direction: column; gap: 8px; margin-top: auto; }
+.st { display: flex; flex-wrap: wrap; gap: 6px; }
+.st button { border: 1px solid var(--line); background: var(--surface); border-radius: 8px; padding: 4px 10px; font-size: 13px; cursor: pointer; }
+.st button[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: #fff; }
+.st button[data-v="refuse"][aria-pressed="true"] { background: var(--bad); border-color: var(--bad); }
+textarea { width: 100%; min-height: 54px; resize: vertical; border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; background: var(--surface-2); font-size: 14px; }
+.saved { font-size: 12px; color: var(--muted); min-height: 1em; }
+.empty { text-align: center; color: var(--muted); padding: 40px 16px; border: 1px dashed var(--line); border-radius: 14px; }
+.notice { background: var(--info-soft); color: var(--info); border-radius: 10px; padding: 10px 14px; font-size: 14px; }
+@media (prefers-reduced-motion: no-preference) { .card { transition: opacity .2s; } }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Appart <span>Bordeaux</span></h1>
+      <div class="sub">Location T2 ou T3 avec extérieur et parking, Bordeaux Métropole</div>
+    </div>
+    <div class="maj" id="maj">Chargement des annonces…</div>
+  </header>
+
+  <div class="notice" id="notice" hidden></div>
+
+  <section class="panel" aria-labelledby="crit-titre">
+    <div class="panel-head">
+      <h2 id="crit-titre">Critères appliqués à la recherche</h2>
+      <span class="hint">Recherche automatique à 8 h 17 et 19 h 17. Votre suivi est enregistré dans ce navigateur.</span>
+    </div>
+    <div class="crit-grid" id="crit-grid">
+      <div class="crit"><span class="lbl">Loyer max</span><span class="val">…</span></div>
+    </div>
+    <div class="lieux" id="lieux"></div>
+    <details>
+      <summary>Communes et temps de trajet estimés</summary>
+      <div class="tbl-wrap"><table id="zones"><thead><tr><th>Secteur</th><th>Codes postaux</th><th style="text-align:right">Trajet max</th><th>Verdict</th></tr></thead><tbody></tbody></table></div>
+    </details>
+    <details>
+      <summary>Sites surveillés</summary>
+      <div class="chips" id="sites"></div>
+      <p class="hint">Point vert : la fiche est lue directement. Point gris : site protégé, couvert seulement par la recherche web.</p>
+    </details>
+  </section>
+
+  <div class="filters" id="filters">
+    <div class="tabs" id="tabs" role="group" aria-label="Classement des annonces"></div>
+    <div class="row">
+      <label for="f-suivi">Mon suivi
+        <select id="f-suivi">
+          <option value="">Tous</option>
+          <option value="aucun">Pas encore traité</option>
+          <option value="interesse">Intéressant</option>
+          <option value="contacte">Contacté</option>
+          <option value="visite">Visite prévue</option>
+          <option value="refuse">Refusé</option>
+        </select>
+      </label>
+      <label for="f-ville">Commune <select id="f-ville"><option value="">Toutes</option></select></label>
+      <label for="f-tri">Trier par
+        <select id="f-tri">
+          <option value="loyer">Loyer croissant</option>
+          <option value="surface">Surface décroissante</option>
+          <option value="trajet">Trajet le plus court</option>
+          <option value="recent">Plus récentes</option>
+        </select>
+      </label>
+    </div>
+  </div>
+
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" hidden></div>
+</div>
+
+<script>
+(function () {
+  const STATUTS = [
+    ["correspond", "Correspondent"],
+    ["a_verifier", "À vérifier"],
+    ["incomplete", "Incomplètes"],
+    ["rejetee", "Écartées"],
+    ["tous", "Toutes"],
+  ];
+  const LIB_STATUT = { correspond: "Correspond", a_verifier: "À vérifier", incomplete: "Incomplète", rejetee: "Écartée" };
+  const SUIVI = [["interesse", "Intéressant"], ["contacte", "Contacté"], ["visite", "Visite prévue"], ["refuse", "Refusé"]];
+  const state = { annonces: [], suivi: {}, config: null, idx: {}, onglet: "correspond", fSuivi: "", fVille: "", tri: "loyer", loaded: false };
+
+  function lsGet(k) { try { return localStorage.getItem(k); } catch (e) { return null; } }
+  function lsSet(k, v) { try { localStorage.setItem(k, v); } catch (e) {} }
+  ["onglet", "fSuivi", "fVille", "tri"].forEach(k => { const v = lsGet("ab." + k); if (v !== null) state[k] = v; });
+
+  const $ = id => document.getElementById(id);
+  const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const eur = n => n == null ? "?" : Math.round(n).toLocaleString("fr-FR") + " €";
+  const today = new Date().toISOString().slice(0, 10);
+
+  function notice(msg) { const n = $("notice"); n.textContent = msg || ""; n.hidden = !msg; }
+
+  function renderConfig() {
+    const c = state.config;
+    if (!c) return;
+    const k = c.criteres || {};
+    const items = [
+      ["Loyer max", eur(k.loyer_max_cc), "charges comprises, tolérance " + eur(k.tolerance_loyer_cc)],
+      ["Type", "T" + k.pieces_min + " ou T" + k.pieces_max, (k.type || "location")],
+      ["Surface", (k.surface_min_m2 || "?") + " m²", "minimum"],
+      ["Extérieur", k.exterieur_obligatoire ? "Obligatoire" : "Souhaité", "balcon, terrasse, loggia ou jardin"],
+      ["Parking", k.parking_obligatoire ? "Obligatoire" : "Souhaité", "place, box ou garage"],
+      ["Trajet", (k.trajet_max_minutes || "?") + " min", "max en transports, vers chaque bureau"],
+    ];
+    $("crit-grid").innerHTML = items.map(i => `<div class="crit"><span class="lbl">${esc(i[0])}</span><span class="val">${esc(i[1])}</span><span class="det">${esc(i[2])}</span></div>`).join("");
+    $("lieux").innerHTML = (k.lieux_de_travail || []).map((l, n) => `<div class="lieu"><span class="pin">${n + 1}</span><div><b>${esc(l.adresse)}</b><small>Arrêts proches : ${esc((l.arrets_proches || []).join(", "))}</small></div></div>`).join("");
+    const verdict = { ok: "Dans la limite", limite: "Limite, à confirmer", trop_loin: "Trop loin" };
+    $("zones").querySelector("tbody").innerHTML = (c.zones || []).map(z => `<tr><td>${esc(z.nom)}</td><td>${esc((z.codes_postaux || []).join(", "))}</td><td class="num">${esc(z.minutes)} min</td><td>${esc(verdict[z.statut] || z.statut)}</td></tr>`).join("");
+    $("sites").innerHTML = (c.sites || []).map(s => `<span class="chip ${s.lecture_directe ? "direct" : ""}"><span class="dot"></span>${esc(s.nom)}</span>`).join("");
+    if (c.mise_a_jour) {
+      const d = new Date(c.mise_a_jour);
+      const total = (c.stats && c.stats.total) || 0;
+      $("maj").textContent = "Dernière recherche le " + d.toLocaleDateString("fr-FR", { day: "numeric", month: "long" }) + " à " + d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" }) + " · " + total + " annonces analysées";
+    }
+  }
+
+  function trajet(a) {
+    const m = a.trajet_verifie_min || a.trajet_estime_min;
+    if (!m) return "à vérifier";
+    return (a.trajet_verifie_min ? "" : "≈ ") + m + " min" + (a.zone ? " (" + a.zone + ")" : "");
+  }
+  function oui(v) { return v === false ? "Non" : (v == null || v === "" ? "Non précisé" : v); }
+
+  function filtrees() {
+    let l = state.annonces.filter(a => !a.expiree);
+    if (state.onglet !== "tous") l = l.filter(a => a.statut === state.onglet);
+    if (state.fVille) l = l.filter(a => (a.ville || "") === state.fVille);
+    if (state.fSuivi) l = l.filter(a => {
+      const s = (state.suivi[a.id] || {}).statut || "aucun";
+      return s === state.fSuivi;
+    });
+    const t = state.tri;
+    l.sort((x, y) => {
+      if (t === "surface") return (y.surface_m2 || 0) - (x.surface_m2 || 0);
+      if (t === "trajet") return (x.trajet_verifie_min || x.trajet_estime_min || 99) - (y.trajet_verifie_min || y.trajet_estime_min || 99);
+      if (t === "recent") return String(y.trouvee_le || "").localeCompare(String(x.trouvee_le || ""));
+      return (x.loyer_total || 9999) - (y.loyer_total || 9999);
+    });
+    return l;
+  }
+
+  function renderTabs() {
+    const actives = state.annonces.filter(a => !a.expiree);
+    $("tabs").innerHTML = STATUTS.map(([k, lib]) => {
+      const n = k === "tous" ? actives.length : actives.filter(a => a.statut === k).length;
+      return `<button class="tab" type="button" data-k="${k}" aria-pressed="${state.onglet === k}">${lib}<span class="n">${n}</span></button>`;
+    }).join("");
+    const villes = [...new Set(actives.map(a => a.ville).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
+    const sel = $("f-ville");
+    sel.innerHTML = `<option value="">Toutes</option>` + villes.map(v => `<option ${v === state.fVille ? "selected" : ""}>${esc(v)}</option>`).join("");
+    $("f-suivi").value = state.fSuivi;
+    $("f-tri").value = state.tri;
+  }
+
+  function carte(a) {
+    const s = state.suivi[a.id] || {};
+    const nouveau = String(a.trouvee_le || "").slice(0, 10) === today;
+    const nb = (a.photos_urls || []).length;
+    const verif = (a.points_a_verifier || []).length ? `<div class="verif">À vérifier : ${esc(a.points_a_verifier.join(", "))}</div>` : "";
+    const rejet = (a.raisons_rejet || []).length ? `<div class="rejet">Écartée : ${esc(a.raisons_rejet.join(", "))}</div>` : "";
+    const autres = (a.autres_urls || []).map(u => { let h = u; try { h = new URL(u).hostname.replace("www.", ""); } catch (e) {} return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join("");
+    return `<article class="card ${s.statut === "refuse" ? "refuse" : ""}" data-id="${esc(a.id)}">
+      <div class="ph" data-nb="${nb}">
+        ${nb ? `<span class="hint">Photo…</span>` : `<span>Pas de photo récupérée, voir l'annonce</span>`}
+        <span class="badge">${nouveau ? `<span class="pill nouveau">Nouvelle</span> ` : ""}<span class="pill ${esc(a.statut)}">${esc(LIB_STATUT[a.statut] || a.statut)}</span></span>
+        ${nb > 1 ? `<button class="nav prev" type="button" aria-label="Photo précédente">‹</button><button class="nav next" type="button" aria-label="Photo suivante">›</button>` : ""}
+        ${nb ? `<span class="count">1 / ${nb}</span>` : ""}
+      </div>
+      <div class="body">
+        <div class="prix"><span class="eur">${eur(a.loyer_total)} <small>/ mois CC</small></span><span class="meta">${a.surface_m2 ? Math.round(a.surface_m2) + " m²" : "? m²"} · T${esc(a.pieces || "?")}${a.meuble ? " meublé" : ""}</span></div>
+        <div class="lieu-l">${esc(a.ville || "Commune inconnue")} <small>${esc(a.code_postal || "")}${a.quartier ? " · " + esc(a.quartier) : ""}</small></div>
+        <dl>
+          <dt>Trajet</dt><dd>${esc(trajet(a))}</dd>
+          <dt>Extérieur</dt><dd>${esc(oui(a.exterieur))}</dd>
+          <dt>Parking</dt><dd>${esc(oui(a.parking))}</dd>
+          ${a.disponible ? `<dt>Disponible</dt><dd>${esc(a.disponible)}</dd>` : ""}
+        </dl>
+        ${verif}${rejet}
+        <div class="src"><a href="${esc(a.url)}" target="_blank" rel="noopener">Voir l'annonce sur ${esc(a.site || "le site")}</a>${autres ? `<span class="hint">Aussi sur ${autres}</span>` : ""}</div>
+        <div class="suivi">
+          <div class="st" role="group" aria-label="Mon suivi">${SUIVI.map(([v, l]) => `<button type="button" data-v="${v}" aria-pressed="${s.statut === v}">${l}</button>`).join("")}</div>
+          <textarea id="note-${esc(a.id)}" placeholder="Ma note : contact, date de visite, impressions…">${esc(s.note || "")}</textarea>
+          <span class="saved" aria-live="polite"></span>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function render() {
+    renderTabs();
+    const l = filtrees();
+    $("grid").innerHTML = l.map(carte).join("");
+    const empty = $("empty");
+    if (!state.loaded) { empty.hidden = false; empty.textContent = "Chargement des annonces…"; }
+    else if (!state.annonces.length) { empty.hidden = false; empty.textContent = "Aucune annonce pour le moment. La recherche automatique remplira cette page à son prochain passage."; }
+    else if (!l.length) { empty.hidden = false; empty.textContent = "Aucune annonce avec ces filtres. Essayez l'onglet Toutes ou retirez un filtre."; }
+    else empty.hidden = true;
+    observer && document.querySelectorAll(".ph[data-nb]").forEach(el => { if (+el.dataset.nb) observer.observe(el); });
+  }
+
+  function afficherPhoto(ph) {
+    const card = ph.closest(".card");
+    const a = state.annonces.find(x => x.id === card.dataset.id);
+    if (!a || !(a.photos_urls || []).length) return;
+    const i = state.idx[a.id] || 0;
+    const src = a.photos_urls[i];
+    let img = ph.querySelector("img");
+    if (!img) { ph.querySelector(".hint") && ph.querySelector(".hint").remove(); img = document.createElement("img"); img.decoding = "async"; img.referrerPolicy = "no-referrer"; img.onerror = () => { img.remove(); if (!ph.querySelector(".hint")) { const h = document.createElement("span"); h.className = "hint"; h.textContent = "Photo indisponible, voir l'annonce"; ph.prepend(h); } }; img.alt = "Photo de l'annonce à " + (a.ville || ""); ph.prepend(img); }
+    img.src = src;
+    const c = ph.querySelector(".count"); if (c) c.textContent = (i + 1) + " / " + a.photos_urls.length;
+  }
+  const observer = "IntersectionObserver" in window ? new IntersectionObserver(es => es.forEach(e => { if (e.isIntersecting) { observer.unobserve(e.target); afficherPhoto(e.target); } }), { rootMargin: "300px" }) : null;
+
+  try { state.suivi = JSON.parse(lsGet("ab.suivi") || "{}") || {}; } catch (e) { state.suivi = {}; }
+  function ecrireSuivi(id, patch, card) {
+    const saved = card.querySelector(".saved");
+    state.suivi[id] = Object.assign({ statut: null, note: "" }, state.suivi[id] || {}, patch, { maj: new Date().toISOString() });
+    try { localStorage.setItem("ab.suivi", JSON.stringify(state.suivi)); saved.textContent = "Enregistré sur cet appareil"; }
+    catch (e) { saved.textContent = "Ce navigateur bloque l'enregistrement local."; }
+  }
+
+  document.addEventListener("click", e => {
+    const tab = e.target.closest(".tab");
+    if (tab) { state.onglet = tab.dataset.k; lsSet("ab.onglet", state.onglet); render(); return; }
+    const nav = e.target.closest(".ph .nav");
+    if (nav) {
+      const card = nav.closest(".card"); const a = state.annonces.find(x => x.id === card.dataset.id); const n = a.photos_urls.length;
+      state.idx[a.id] = ((state.idx[a.id] || 0) + (nav.classList.contains("next") ? 1 : -1) + n) % n;
+      afficherPhoto(nav.closest(".ph")); return;
+    }
+    const b = e.target.closest(".st button");
+    if (b) {
+      const card = b.closest(".card"); const id = card.dataset.id;
+      const actuel = (state.suivi[id] || {}).statut;
+      const v = actuel === b.dataset.v ? null : b.dataset.v;
+      card.querySelectorAll(".st button").forEach(x => x.setAttribute("aria-pressed", String(x.dataset.v === v)));
+      card.classList.toggle("refuse", v === "refuse");
+      ecrireSuivi(id, { statut: v }, card);
+    }
+  });
+  document.addEventListener("change", e => {
+    if (e.target.id === "f-suivi") { state.fSuivi = e.target.value; lsSet("ab.fSuivi", state.fSuivi); render(); }
+    else if (e.target.id === "f-ville") { state.fVille = e.target.value; lsSet("ab.fVille", state.fVille); render(); }
+    else if (e.target.id === "f-tri") { state.tri = e.target.value; lsSet("ab.tri", state.tri); render(); }
+    else if (e.target.matches("textarea[id^='note-']")) {
+      const card = e.target.closest(".card"); const id = card.dataset.id;
+      if ((state.suivi[id] || {}).note !== e.target.value) ecrireSuivi(id, { note: e.target.value }, card);
+    }
+  });
+
+  render();
+
+  (async function demarrer() {
+    try {
+      const r = await fetch("donnees.json", { cache: "no-store" });
+      if (!r.ok) throw new Error(r.status);
+      const d = await r.json();
+      state.config = d.config; renderConfig();
+      state.annonces = d.annonces || [];
+    } catch (e) {
+      notice("Impossible de charger les annonces. Rechargez la page dans un instant.");
+    }
+    state.loaded = true;
+    render();
+  })();
+})();
+</script>
+
+</body>
+</html>

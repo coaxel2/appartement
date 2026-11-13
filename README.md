@@ -2,6 +2,10 @@
 
 Projet de veille automatique des annonces de location sur Bordeaux Métropole, piloté par une tâche planifiée Claude.
 
+## Site web
+
+Le dossier `site/` est un site statique déployé sur Vercel : il affiche les annonces trouvées avec leurs photos, les critères appliqués, et permet de noter chaque annonce (intéressant, contacté, visite prévue, refusé). Ce suivi est enregistré dans le navigateur. Vercel redéploie le site à chaque push de la recherche automatique.
+
 ## Dernier rapport
 
 Voir [rapports/DERNIER.md](rapports/DERNIER.md). Chaque exécution ajoute aussi un rapport daté dans `rapports/`.

@@ -3,7 +3,7 @@
 
 Usage :
   python3 outils/annonces.py ajouter nouvelles.json   # fusionne des annonces trouvées
-  python3 outils/annonces.py rapport                  # écrit rapports/AAAA-MM-JJ.md et rapports/DERNIER.md
+  python3 outils/annonces.py rapport                  # écrit les rapports et site/donnees.json
   python3 outils/annonces.py stats                    # résumé rapide
 
 Format d'une annonce (champs inconnus = null) :
@@ -246,7 +246,37 @@ def rapport():
     (RACINE / "rapports").mkdir(exist_ok=True)
     (RACINE / "rapports" / f"{aujourd}.md").write_text(texte, encoding="utf-8")
     (RACINE / "rapports" / "DERNIER.md").write_text(texte, encoding="utf-8")
+    export_site()
     stats()
+
+
+def export_site():
+    """Ecrit site/donnees.json, lu par le site web (déployé sur Vercel)."""
+    base = charger()["annonces"]
+    sites = json.loads((RACINE / "config" / "sites.json").read_text(encoding="utf-8"))
+    compte = {}
+    annonces = []
+    for cle, a in base.items():
+        compte[a.get("statut")] = compte.get(a.get("statut"), 0) + 1
+        d = {k: a.get(k) for k in (
+            "titre", "site", "url", "autres_urls", "loyer_total", "loyer_cc", "charges", "surface_m2", "pieces",
+            "ville", "code_postal", "quartier", "zone", "trajet_estime_min", "trajet_verifie_min", "exterieur",
+            "parking", "meuble", "disponible", "publie_le", "statut", "raisons_rejet", "points_a_verifier",
+            "trouvee_le", "vue_le", "expiree", "contact")}
+        d["id"] = cle
+        d["photos_urls"] = [] if a.get("statut") == "rejetee" else (a.get("photos") or [])[:6]
+        d["description"] = (a.get("description") or "")[:700]
+        annonces.append(d)
+    donnees = {
+        "config": {
+            "criteres": CRITERES, "zones": ZONES, "sites": sites.get("sites", []), "villes": sites.get("villes", []),
+            "stats": {"total": len(base), "par_statut": compte},
+            "mise_a_jour": dt.datetime.now().isoformat(timespec="minutes"),
+        },
+        "annonces": annonces,
+    }
+    (RACINE / "site").mkdir(exist_ok=True)
+    (RACINE / "site" / "donnees.json").write_text(json.dumps(donnees, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
 def stats():
