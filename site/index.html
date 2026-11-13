@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Appart Bordeaux</title>
 <meta name="robots" content="noindex">
 <meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
@@ -53,10 +53,9 @@ html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0; background: var(--bg); color: var(--fg); font-family: var(--font); font-size: 15px; line-height: 1.47;
   -webkit-font-smoothing: antialiased; font-feature-settings: "cv11", "ss01";
-  padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px));
-  padding-block: env(safe-area-inset-top, 0px) 80px;
+  padding-left: 20px; padding-right: 20px;
+  padding-top: 12px; padding-bottom: 80px;
 }
-body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 20; background: var(--bg); }
 img { max-width: 100%; }
 [hidden] { display: none !important; }
 .wrap { max-width: 1120px; margin: 0 auto; display: flex; flex-direction: column; gap: 56px; }
@@ -67,7 +66,7 @@ button, select, input, textarea { font: inherit; color: inherit; }
 .num { font-variant-numeric: tabular-nums; }
 
 /* En-tête */
-header.top { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-top: 22px; }
+header.top { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding-top: 24px; }
 .brand { display: flex; align-items: center; gap: 10px; font-weight: 600; letter-spacing: -.01em; font-size: 16px; }
 .brand .mark { width: 28px; height: 28px; border-radius: 8px; background: var(--ink); color: var(--on-ink); display: grid; place-items: center; font-size: 13px; font-weight: 700; letter-spacing: -.02em; }
 .maj { color: var(--muted); font-size: 13px; text-align: right; font-variant-numeric: tabular-nums; }
@@ -115,10 +114,9 @@ th { font-size: 12px; color: var(--muted); font-weight: 500; }
 td.num { font-variant-numeric: tabular-nums; text-align: right; }
 
 /* Barre de filtres */
-.filters { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; padding-block: 12px; margin-block: -12px; display: flex; flex-direction: column; gap: 12px;
+.filters { position: sticky; top: 0; z-index: 10; padding-block: 12px; margin-block: -12px; display: flex; flex-direction: column; gap: 12px;
   background: var(--glass); -webkit-backdrop-filter: saturate(180%) blur(20px); backdrop-filter: saturate(180%) blur(20px);
-  margin-left: calc(-1 * max(20px, env(safe-area-inset-left, 0px))); margin-right: calc(-1 * max(20px, env(safe-area-inset-right, 0px)));
-  padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px)); }
+  margin-left: -20px; margin-right: -20px; padding-left: 20px; padding-right: 20px; }
 .filters > * { max-width: 1120px; width: 100%; margin: 0 auto; }
 .tabs { display: flex; gap: 2px; overflow-x: auto; padding: 3px; background: var(--elev); border-radius: 999px; width: fit-content; max-width: 100%; scrollbar-width: none; }
 .tabs::-webkit-scrollbar { display: none; }
