@@ -569,12 +569,16 @@
       "contact": "Foncia, dossier sur foncia.com",
       "description": "Résidence récente et sécurisée, rez-de-chaussée : entrée, séjour, cuisine équipée, chambre avec placard, salle d'eau avec wc, terrasse, place de parking. Eau froide incluse, chauffage gaz individuel. Pré-visite virtuelle sur le site Foncia. Trajets à confirmer depuis Mérignac Soleil.",
       "disponible": null,
+      "expiree": true,
       "exterieur": "terrasse",
       "loyer_cc": 616.02,
       "loyer_total": 616.02,
       "meuble": false,
       "parking": "place de parking",
-      "photos": [],
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/64850e805e6c5e2ccf89a562/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/64850e80bb8ea657f61b925a/1/1920/1024"
+      ],
       "pieces": 2,
       "points_a_verifier": [
         "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
@@ -596,7 +600,7 @@
       "trouvee_le": "2026-11-15T18:23",
       "url": "https://fr.foncia.com/location/merignac-33700/appartement/331722224.htm",
       "ville": "Mérignac",
-      "vue_le": "2026-11-15T18:23",
+      "vue_le": "2026-11-15T18:56",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "a358a5e47dad": {
@@ -917,12 +921,16 @@
       "contact": "Foncia, dossier sur foncia.com",
       "description": "Programme neuf : séjour avec cuisine, chambre, salle d'eau avec wc, place de parking. Eau non comprise, chauffage et eau chaude gaz individuel (Loi Pinel). Extérieur non mentionné dans l'annonce : à demander à l'agence.",
       "disponible": null,
+      "expiree": true,
       "exterieur": null,
       "loyer_cc": 578,
       "loyer_total": 578,
       "meuble": false,
       "parking": "place de parking",
-      "photos": [],
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/64850e8005bde530132ed441/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/64850e801a20dc14194483e0/1/1920/1024"
+      ],
       "pieces": 2,
       "points_a_verifier": [
         "extérieur non précisé",
@@ -945,7 +953,7 @@
       "trouvee_le": "2026-11-15T18:23",
       "url": "https://fr.foncia.com/location/talence-33400/appartement/331713062.htm",
       "ville": "Talence",
-      "vue_le": "2026-11-15T18:23",
+      "vue_le": "2026-11-15T18:56",
       "zone": "Talence (proche tram B)"
     },
     "d6674ab60027": {

@@ -505,7 +505,7 @@
     "a_verifier": 7
    }
   },
-  "mise_a_jour": "2026-11-15T18:23"
+  "mise_a_jour": "2026-11-15T18:56"
  },
  "annonces": [
   {
@@ -1215,12 +1215,15 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-15T18:23",
-   "expiree": null,
+   "vue_le": "2026-11-15T18:56",
+   "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "927121ed812e",
-   "photos_urls": [],
+   "photos_urls": [
+    "https://storage.fonciamillenium.net/thumbnail/64850e805e6c5e2ccf89a562/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/64850e80bb8ea657f61b925a/1/1920/1024"
+   ],
    "description": "Résidence récente et sécurisée, rez-de-chaussée : entrée, séjour, cuisine équipée, chambre avec placard, salle d'eau avec wc, terrasse, place de parking. Eau froide incluse, chauffage gaz individuel. Pré-visite virtuelle sur le site Foncia. Trajets à confirmer depuis Mérignac Soleil."
   },
   {
@@ -1619,12 +1622,15 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-15T18:23",
-   "expiree": null,
+   "vue_le": "2026-11-15T18:56",
+   "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "ce5abd9ade5b",
-   "photos_urls": [],
+   "photos_urls": [
+    "https://storage.fonciamillenium.net/thumbnail/64850e8005bde530132ed441/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/64850e801a20dc14194483e0/1/1920/1024"
+   ],
    "description": "Programme neuf : séjour avec cuisine, chambre, salle d'eau avec wc, place de parking. Eau non comprise, chauffage et eau chaude gaz individuel (Loi Pinel). Extérieur non mentionné dans l'annonce : à demander à l'agence."
   },
   {
