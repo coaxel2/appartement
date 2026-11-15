@@ -1,8 +1,8 @@
 {
- "en_cours": true,
+ "en_cours": false,
  "debut": "2026-11-15T18:34:37+01:00",
- "fin": null,
- "etape": "Rapport : évaluation des annonces et mise à jour du site",
+ "fin": "2026-11-15T18:43:00+01:00",
+ "etape": "Recherche terminée",
  "etapes": [
   {
    "heure": "2026-11-15T18:34:37+01:00",
@@ -62,9 +62,14 @@
    "heure": "2026-11-15T18:42:24+01:00",
    "texte": "Rapport : évaluation des annonces et mise à jour du site",
    "detail": "rapports/DERNIER.md, site/donnees.json"
+  },
+  {
+   "heure": "2026-11-15T18:43:00+01:00",
+   "texte": "Recherche terminée",
+   "detail": "8 nouvelles annonces qui correspondent, 2 à vérifier"
   }
  ],
- "resume": null,
+ "resume": "8 nouvelles annonces qui correspondent, 2 à vérifier",
  "erreur": null,
  "horaires": [
   "08:17",
@@ -73,5 +78,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-15T18:42:24+01:00"
+ "maj": "2026-11-15T18:43:00+01:00"
 }
