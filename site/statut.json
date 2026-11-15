@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-15T18:34:37+01:00",
  "fin": null,
- "etape": "Lecture des fiches : 3 T2 Foncia à Mérignac et Bordeaux, T2 Foncia et 123loger à Bègles",
+ "etape": "Recherche web 13 à 19 / 26 : T2 et T3 balcon, terrasse ou jardin avec parking à Cenon, Lormont, Floirac, Blanquefort, Bruges, Bordeaux",
  "etapes": [
   {
    "heure": "2026-11-15T18:34:37+01:00",
@@ -32,6 +32,11 @@
    "heure": "2026-11-15T18:38:06+01:00",
    "texte": "Lecture des fiches : 3 T2 Foncia à Mérignac et Bordeaux, T2 Foncia et 123loger à Bègles",
    "detail": "Foncia, 123loger"
+  },
+  {
+   "heure": "2026-11-15T18:39:01+01:00",
+   "texte": "Recherche web 13 à 19 / 26 : T2 et T3 balcon, terrasse ou jardin avec parking à Cenon, Lormont, Floirac, Blanquefort, Bruges, Bordeaux",
+   "detail": "Bien'ici, Figaro Immobilier, Location-Etudiant, PAP, Logic-Immo (extraits)"
   }
  ],
  "resume": null,
@@ -43,5 +48,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-15T18:38:06+01:00"
+ "maj": "2026-11-15T18:39:01+01:00"
 }
