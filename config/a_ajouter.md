@@ -6,6 +6,7 @@ La recherche automatique traite cette liste en premier à chaque passage, puis d
 
 ## A traiter
 
-- https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT (Bruges 33520, infos à compléter)
 
 ## Déjà ajoutées
+
+- https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT (Bruges 33520, infos à compléter) : ajoutée le 15/11/2026 comme incomplète
