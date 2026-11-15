@@ -1,9 +1,14 @@
 {
- "en_cours": false,
- "debut": null,
+ "en_cours": true,
+ "debut": "2026-11-15T18:34:37+01:00",
  "fin": null,
- "etape": null,
- "etapes": [],
+ "etape": "Démarrage de la recherche",
+ "etapes": [
+  {
+   "heure": "2026-11-15T18:34:37+01:00",
+   "texte": "Démarrage de la recherche"
+  }
+ ],
  "resume": null,
  "erreur": null,
  "horaires": [
@@ -13,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": null
+ "maj": "2026-11-15T18:34:37+01:00"
 }
