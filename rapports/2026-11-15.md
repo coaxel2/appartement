@@ -7,7 +7,20 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (12)
+## Annonces qui cochent tous les critères (13)
+
+### T2 42,46 m² en RDC avec terrasse et parking, Mérignac Soleil (nouvelle)
+
+- Loyer total : **616.02 €** (CC, parking inclus si en supplément)
+- Surface : 42.46 m², 2 pièce(s)
+- Localisation : Mérignac 33700 (Mérignac Soleil)
+- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
+- Extérieur : terrasse
+- Parking : place de parking
+- Disponible : ?, publiée le 2026-10-14
+- A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
+- Source : [Foncia](https://fr.foncia.com/location/merignac-33700/appartement/331722224.htm)
 
 ### T2 39,85 m² récent (2022) avec balcon et stationnement, Cenon gare (nouvelle)
 
@@ -207,7 +220,20 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (6)
+## Annonces à vérifier (un seul point incertain) (7)
+
+### T2 41,75 m² programme neuf avec parking, Talence (nouvelle)
+
+- Loyer total : **578 €** (CC, parking inclus si en supplément)
+- Surface : 41.75 m², 2 pièce(s)
+- Localisation : Talence 33400
+- Trajet Omnes (quai des Chartrons) : 32 min, tram B direct
+- Trajet Link (rue de Turenne) : 38 min, tram B puis tram D
+- Extérieur : ?
+- Parking : place de parking
+- Disponible : ?, publiée le 2026-10-01
+- A vérifier : extérieur non précisé, trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer
+- Source : [Foncia](https://fr.foncia.com/location/talence-33400/appartement/331713062.htm)
 
 ### Appartement T2 meublé à louer
 
