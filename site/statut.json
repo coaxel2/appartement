@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-15T18:34:37+01:00",
  "fin": null,
- "etape": "Recherche web 1 à 6 / 26 : T2 et T3 balcon parking à Bordeaux, Le Bouscat, Bruges",
+ "etape": "Recherche web 7 à 12 / 26 : T2 et T3 balcon ou terrasse avec parking à Talence, Mérignac, Bègles, Eysines, Pessac",
  "etapes": [
   {
    "heure": "2026-11-15T18:34:37+01:00",
@@ -22,6 +22,11 @@
    "heure": "2026-11-15T18:37:07+01:00",
    "texte": "Recherche web 1 à 6 / 26 : T2 et T3 balcon parking à Bordeaux, Le Bouscat, Bruges",
    "detail": "Bien'ici, Orpi, Century 21, Laforêt, Foncia, ParuVendu"
+  },
+  {
+   "heure": "2026-11-15T18:37:47+01:00",
+   "texte": "Recherche web 7 à 12 / 26 : T2 et T3 balcon ou terrasse avec parking à Talence, Mérignac, Bègles, Eysines, Pessac",
+   "detail": "Foncia, 123loger, Location-Etudiant, Leboncoin, SeLoger (extraits seulement)"
   }
  ],
  "resume": null,
@@ -33,5 +38,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-15T18:37:07+01:00"
+ "maj": "2026-11-15T18:37:47+01:00"
 }
