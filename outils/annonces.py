@@ -275,7 +275,7 @@ def export_site():
             "trajet_omnes_min", "trajet_omnes_itineraire", "trajet_omnes_verifie",
             "trajet_link_min", "trajet_link_itineraire", "trajet_link_verifie",
             "parking", "meuble", "disponible", "publie_le", "statut", "raisons_rejet", "points_a_verifier",
-            "trouvee_le", "vue_le", "expiree", "contact")}
+            "trouvee_le", "vue_le", "expiree", "contact", "signalee")}
         d["id"] = cle
         d["photos_urls"] = [] if a.get("statut") == "rejetee" else (a.get("photos") or [])[:6]
         d["description"] = (a.get("description") or "")[:700]

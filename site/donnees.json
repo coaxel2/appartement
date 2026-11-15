@@ -505,7 +505,7 @@
     "a_verifier": 6
    }
   },
-  "mise_a_jour": "2026-11-15T17:42"
+  "mise_a_jour": "2026-11-15T17:45"
  },
  "annonces": [
   {
@@ -544,6 +544,7 @@
    "vue_le": "2026-11-13T14:52",
    "expiree": null,
    "contact": "Propriétaire via 123loger",
+   "signalee": null,
    "id": "0005295da097",
    "photos_urls": [
     "https://www.123loger.com/location/uploads/properties/images/6985a286eca3/aed832d53d090eb2dc93bb082d97c939@1200x1050.webp",
@@ -585,6 +586,7 @@
    "vue_le": "2026-11-15T17:42",
    "expiree": null,
    "contact": "Foncia, dossier sur foncia.com",
+   "signalee": null,
    "id": "0c654dd493f2",
    "photos_urls": [
     "https://storage.fonciamillenium.net/thumbnail/6ae0a1c7ca5077f0f1ec41d9/1/1920/1024",
@@ -630,6 +632,7 @@
    "vue_le": "2026-11-15T17:42",
    "expiree": null,
    "contact": "Foncia Bordeaux, dossier sur foncia.com",
+   "signalee": null,
    "id": "0f1d1ba43bfc",
    "photos_urls": [
     "https://storage.fonciamillenium.net/thumbnail/6acd2d44c8ca3cb580276e24/1/1920/1024",
@@ -677,6 +680,7 @@
    "vue_le": "2026-11-15T17:42",
    "expiree": null,
    "contact": "Foncia, dossier sur foncia.com",
+   "signalee": null,
    "id": "0f57c9ee1fba",
    "photos_urls": [],
    "description": "Près de la gare TER et du tram A, 3e étage avec ascenseur d'une résidence de 2022, chambre séparée de 13 m², balcon et place de stationnement. Disponible fin novembre (Loi Pinel)."
@@ -717,6 +721,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "1542f2ba470a",
    "photos_urls": [
     "https://img.locservice.fr/NilcptAIkL34eHTxZ0d1QDIWYsT9MseWHPV4M9cEdS4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0ZDItNDlj/My03ZjVkLTk0MDYt/OGQ2Mjk4ZGNhMDgw/LTFjYjYyNjU4NGNl/OGRiZDgzNjlmMjNh/OTBkYWRhZTA2ZmMy/MDRhYWQuanBn.jpg",
@@ -763,6 +768,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "1f65a9e265ab",
    "photos_urls": [],
    "description": "Location appartement meublé à Fronsac - 650 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Fronsac Location Fronsac Location particulier Fronsac Location appartement 43 m² 650 € Appartement T2 meublé avec cuisine équipée à louer à Fronsac entre particuliers 650 € / mois charges comprises Ré"
@@ -803,6 +809,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "28f98e5645e1",
    "photos_urls": [
     "https://img.locservice.fr/W7VQbrgTygcGa-18Oj6St7B9mYy8OiMfOvKjtCGyyNg/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yMDA4MTMvMDE4/ZjU0NjYtZThmNy03/OWFlLWE3ZGMtMWEy/MzNlOGMxNTRm.jpg",
@@ -850,6 +857,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "2b66ed829479",
    "photos_urls": [
     "https://img.locservice.fr/11RNCL6RuWsNpAXw5fKOupTU0NtaXhO37mNngg254Xk/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFhNGItZTRh/OC03NTMwLThkYTkt/ZWRkZmRkNWRmNjFi/LTgzMGYwMTJmM2Iy/MjVkNTQ5ODc3NjU5/YjY3MGU0OTY4N2Yy/ZTJhN2YuanBn.jpg",
@@ -897,6 +905,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "3331658056fe",
    "photos_urls": [
     "https://img.locservice.fr/HxMhqN8D5wTwJ68jLw3lz72_O_h2wkT8evD67OfsKXQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFmZmItMDFi/Yy03MzU5LWFiYjMt/NmIxMjRmNGM0NThi/LWFjYTMyODU2MjIz/MWVlOWM3NjMzZjY3/MGYyZTY2MDU1NDBj/YTMyOTIuanBn.jpg"
@@ -939,6 +948,7 @@
    "vue_le": "2026-11-15T17:42",
    "expiree": null,
    "contact": "Foncia, Ma location facile en ligne",
+   "signalee": null,
    "id": "4190951dc430",
    "photos_urls": [],
    "description": "T2 au 1er étage avec balcon : séjour avec coin cuisine, salle d'eau avec WC, place de parking. Eau froide comprise, chauffage gaz individuel. Location 100 % en ligne (Loi Pinel)."
@@ -979,6 +989,7 @@
    "vue_le": "2026-11-15T17:42",
    "expiree": null,
    "contact": "Foncia, dossier sur foncia.com",
+   "signalee": null,
    "id": "58d00cf314fd",
    "photos_urls": [],
    "description": "Résidence sécurisée, 1er étage : séjour avec coin cuisine, chambre avec placard, salle de bains avec wc, balcon, parking en sous-sol. Eau comprise, chauffage collectif gaz."
@@ -1019,6 +1030,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "7a90aa69b983",
    "photos_urls": [
     "https://img.locservice.fr/p2ZkDYtBosQrYWWN_hUtpMmsNKLXugaWEJ-2TFtEuXc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWM4NzEtMDMx/Zi03N2U5LThiMGIt/YmMxZWE3N2ZkMmYz/LTMxZGY5NDI5YmNm/N2QzMmFhNzBkZmU5/MmFkZjU4YjU4OGEy/OTYyNDIuanBn.jpg"
@@ -1062,6 +1074,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "8a0d1f644ead",
    "photos_urls": [
     "https://img.locservice.fr/Sst1YQih3RUe5PlCVJSGTc_D_fHd1RvMFAlwVISXMVA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE5MWMtZTgz/Zi03MzUyLWI2ZmYt/MDM1OTA1MzQwYjZj/LWU4ZGI5Y2ZmM2Zh/ODcxYzkzMmQ3MDNh/YjRiMjYzYTMxYTk1/NDE3NWIuanBn.jpg",
@@ -1109,6 +1122,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "8f0e184a0859",
    "photos_urls": [],
    "description": "Location appartement meublé à Eysines - 690 € - 40 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Eysines Location Eysines Location appartement Eysines Location appartement 2 pièces Eysines Location appartement 40 m² 690 € Appartement T2 meublé à louer à Eysines 690 € / mois charges comprises 🔥 Moins de 7 jours Eysines (33320) 40 m² 2 pièces Meublé Disponible immédi"
@@ -1150,6 +1164,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "9064cfc381dc",
    "photos_urls": [
     "https://img.locservice.fr/3iEdvXaqZMLRCsl6yn4cSa80cSO4pusarRl-um9klCQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYWZk/MS03MDk0LTk1ZjEt/NGI4YTBkNGFiOTcx/LWVmMzgxZWIwYmQ3/YTA2ODY5MDBjOTVi/YmQzMGJkNmQ0YTY5/NWE2MTYuanBn.jpg",
@@ -1195,6 +1210,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "a358a5e47dad",
    "photos_urls": [
     "https://img.locservice.fr/8uJ8krV8C4gazZfwhCJ6BWhMhjWUoxbaST5mCEjRX7k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0N2YtZWMw/Ni03MTI2LTlkZTIt/NmNkYzM5MjY4MWVl/LTUzOWY3YTdjZTZh/YmY4MzFjZjRlMjJh/NmJlODJjY2E5ZTVi/MWM4ZDMuanBn.jpg"
@@ -1239,6 +1255,7 @@
    "vue_le": "2026-11-13T14:52",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "b07a5dd84b1b",
    "photos_urls": [
     "https://img.locservice.fr/PqlNgJEEtX9j6xpL43QVAj0zuvVOxnZ6BIHElzRvoOI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWEzZjYtODcz/MC03NmUyLWJmMWYt/Y2Q0ZDU1MWY2ZWU4/LTA1NmRlZTNjMGU3/M2JhMWQzMGZkOTA1/ZDliNWJlMTQ3MGYx/ODg3MjQuanBn.jpg",
@@ -1285,6 +1302,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "b2d4bac6de0e",
    "photos_urls": [],
    "description": "Location appartement étudiant Talence - à partir de 690 € - 39 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Location résidence étudiante Gironde Talence Location Talence Location appartement Talence Location appartement 2 pièces Talence Location résidence étudiante Talence Location appartement 39 m² 690 € Location appartement T2 meublé pour étudiant à Talence À pa"
@@ -1327,6 +1345,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "b2eab699b18c",
    "photos_urls": [],
    "description": "Location appartement à Bordeaux - 730 € - 48 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 48 m² 730 € Location appartement T2 à Bordeaux 730 € / mois charges comprises Récent Bordeaux (33000) 48 m² 2 pièces Non meublé Disponible immédiatement Logeme"
@@ -1367,6 +1386,7 @@
    "vue_le": "2026-11-15T17:42",
    "expiree": null,
    "contact": "Foncia, dossier sur foncia.com",
+   "signalee": null,
    "id": "bb8ac95bdffe",
    "photos_urls": [
     "https://storage.fonciamillenium.net/thumbnail/69708f2e2e9ed8fa1427d716/1/1920/1024",
@@ -1417,6 +1437,7 @@
    "vue_le": "2026-11-13T14:52",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "c21e22863806",
    "photos_urls": [
     "https://img.locservice.fr/ypWYMm6GhgMDX8hJn62VyPQMmiTg8VDPqIqBW4iXbuc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LTdlNjIwMjZhYzc2/ZmY4YThmNWZjODk3/MWJkMjIyNmZjNDg1/MWM3MGMuanBn.jpg",
@@ -1464,6 +1485,7 @@
    "vue_le": "2026-11-15T17:42",
    "expiree": null,
    "contact": "Foncia, dossier sur foncia.com",
+   "signalee": null,
    "id": "c4ff432d464a",
    "photos_urls": [],
    "description": "Proche du parc du Cypressat, 1er étage sans ascenseur d'une résidence calme avec piscine (2003) : séjour, cuisine, salle de bains, wc, chambre avec placards, balcon, place de parking. Chauffage électrique. Libre."
@@ -1504,6 +1526,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "ca769047a1e2",
    "photos_urls": [
     "https://img.locservice.fr/Dpxyite3UB0egacwkfEY7f0aQxpAoMh9zk6E7WuK0Fc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg",
@@ -1549,6 +1572,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "d6674ab60027",
    "photos_urls": [],
    "description": "Location appartement à Bordeaux - 705 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 43 m² 705 € Location appartement T2 à Bordeaux 705 € / mois charges comprises 🔥 Moins de 7 jours Bordeaux (33000) 43 m² 2 pièces Non meublé Disponible immédiat"
@@ -1589,6 +1613,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "e970227fa170",
    "photos_urls": [],
    "description": "Location appartement à Lormont - 631 € - 42 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Lormont Location Lormont Location appartement Lormont Location appartement 2 pièces Lormont Location appartement 42 m² 631 € Appartement T2 à louer à Lormont 631 € / mois charges comprises 🔥 Moins de 7 jours Lormont (33310) 42 m² 2 pièces Non meublé Disponible immédiatement Lo"
@@ -1630,6 +1655,7 @@
    "vue_le": "2026-11-13T14:52",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "eaf01c958cc2",
    "photos_urls": [
     "https://img.locservice.fr/BxwfkXw-dnSLxRC8q3eDDfw7ARjik-74unqIh8onnK4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWEwMzUtZDRk/Mi03NWEwLTkzOTUt/ZTVhMDMzYjc0MmFk/LWU2ZTlmYmNiNDA2/OWIzMDRjZDI0NjFj/NzY1NmJhOWQ5YWRi/NDA3YzQuanBn.jpg"
@@ -1672,6 +1698,7 @@
    "vue_le": "2026-11-15T17:42",
    "expiree": null,
    "contact": "Foncia Bordeaux, 61 quai Lawton",
+   "signalee": null,
    "id": "ec47dd102543",
    "photos_urls": [],
    "description": "Résidence récente (2018), Loi Pinel : entrée, séjour avec cuisine, chambre, salle d'eau avec wc, balcon et parking. Chauffage au gaz. Quartier de Mérignac non précisé : trajet à confirmer."
@@ -1713,9 +1740,10 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-15T17:35",
-   "vue_le": "2026-11-15T17:35",
+   "vue_le": "2026-11-15T17:45",
    "expiree": null,
    "contact": null,
+   "signalee": true,
    "id": "f6b6c2e0bd0f",
    "photos_urls": [],
    "description": "Annonce signalée par l'utilisateur. Page SeLoger protégée contre les robots, référence introuvable par recherche web : infos à compléter sur l'annonce."
@@ -1758,6 +1786,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "fa057336eb66",
    "photos_urls": [],
    "description": "Location appartement à Castelnau-de-Médoc - 700 € - 65 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Castelnau-de-Médoc Location Castelnau-de-Médoc Location particulier Castelnau-de-Médoc Location appartement Castelnau-de-Médoc Location appartement particulier Castelnau-de-Médoc Location appartem"
@@ -1798,6 +1827,7 @@
    "vue_le": "2026-11-15T17:36",
    "expiree": null,
    "contact": null,
+   "signalee": null,
    "id": "fac20ab1b55e",
    "photos_urls": [
     "https://img.locservice.fr/8endgg1eKYXL9F61vizljpYFUWbr4snAzvKDbU148cc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMzOWQtMDM4/My03Y2Y0LWEwOWIt/ZWY3NGQ2OTQyMGY0/LTNkN2U4ZGNhZDhk/ZDYwODQwNTc5MTJi/OWQ0NGQwMmE4MjE3/NmY5M2UuanBn.jpg"

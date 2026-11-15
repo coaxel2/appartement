@@ -404,7 +404,8 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     else if (state.page === "refusees") l = l.filter(a => choix(a) === "refuse");
     else {
       l = l.filter(a => !choix(a));
-      if (state.onglet !== "tous") l = l.filter(a => a.statut === state.onglet);
+      if (state.onglet === "correspond") l = l.filter(a => a.statut === "correspond" || (a.signalee && a.statut !== "rejetee"));
+      else if (state.onglet !== "tous") l = l.filter(a => a.statut === state.onglet && !(a.signalee && a.statut !== "rejetee"));
     }
     if (state.fVille) l = l.filter(a => (a.ville || "") === state.fVille);
     const t = state.tri;
@@ -431,7 +432,8 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     $("page-head").hidden = !autre;
     if (autre) { $("page-titre").textContent = PAGES[state.page][0]; $("page-sous").textContent = PAGES[state.page][1]; }
     $("tabs").innerHTML = STATUTS.map(([k, lib]) => {
-      const n = k === "tous" ? actives.length : actives.filter(a => a.statut === k).length;
+      const sig = a => a.signalee && a.statut !== "rejetee";
+      const n = k === "tous" ? actives.length : k === "correspond" ? actives.filter(a => a.statut === k || sig(a)).length : actives.filter(a => a.statut === k && !sig(a)).length;
       return `<button class="tab" type="button" data-k="${k}" aria-pressed="${state.onglet === k}">${lib}<span class="n">${n}</span></button>`;
     }).join("");
     const villes = [...new Set(toutes.map(a => a.ville).filter(Boolean))].sort((a, b) => a.localeCompare(b, "fr"));
@@ -444,13 +446,13 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     const s = state.suivi[a.id] || {};
     const nouveau = String(a.trouvee_le || "").slice(0, 10) === today;
     const nb = (a.photos_urls || []).length;
-    const verif = (a.points_a_verifier || []).length ? `<div class="verif">À vérifier : ${esc(a.points_a_verifier.join(", "))}</div>` : "";
+    const verif = (a.points_a_verifier || []).length ? `<div class="verif">${a.signalee && a.statut === "incomplete" ? "Infos à compléter (site protégé) : " : "À vérifier : "}${esc(a.points_a_verifier.join(", "))}</div>` : "";
     const rejet = (a.raisons_rejet || []).length ? `<div class="rejet">Écartée : ${esc(a.raisons_rejet.join(", "))}</div>` : "";
     const autres = (a.autres_urls || []).map(u => { let h = u; try { h = new URL(u).hostname.replace("www.", ""); } catch (e) {} return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join("");
     return `<article class="card" data-id="${esc(a.id)}">
       <div class="ph" data-nb="${nb}">
         ${nb ? `<span class="hint">Photo…</span>` : `<span>Pas de photo récupérée, voir l'annonce</span>`}
-        <span class="badge">${nouveau ? `<span class="pill nouveau">Nouvelle</span> ` : ""}<span class="pill ${esc(a.statut)}">${esc(LIB_STATUT[a.statut] || a.statut)}</span></span>
+        <span class="badge">${a.signalee ? `<span class="pill nouveau">Signalée par vous</span> ` : nouveau ? `<span class="pill nouveau">Nouvelle</span> ` : ""}<span class="pill ${esc(a.statut)}">${esc(LIB_STATUT[a.statut] || a.statut)}</span></span>
         ${nb > 1 ? `<button class="nav prev" type="button" aria-label="Photo précédente">‹</button><button class="nav next" type="button" aria-label="Photo suivante">›</button>` : ""}
         ${nb ? `<span class="count">1 / ${nb}</span>` : ""}
       </div>

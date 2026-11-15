@@ -1016,6 +1016,7 @@
       ],
       "quartier": null,
       "raisons_rejet": [],
+      "signalee": true,
       "site": "SeLoger",
       "statut": "incomplete",
       "surface_m2": null,
@@ -1030,7 +1031,7 @@
       "trouvee_le": "2026-11-15T17:35",
       "url": "https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT",
       "ville": "Bruges",
-      "vue_le": "2026-11-15T17:35",
+      "vue_le": "2026-11-15T17:45",
       "zone": "Bruges"
     },
     "fa057336eb66": {
