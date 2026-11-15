@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-15T18:34:37+01:00",
  "fin": null,
- "etape": "Collecte directe LocService : appartements T2 et T3 de la métropole",
+ "etape": "Recherche web 1 à 6 / 26 : T2 et T3 balcon parking à Bordeaux, Le Bouscat, Bruges",
  "etapes": [
   {
    "heure": "2026-11-15T18:34:37+01:00",
@@ -17,6 +17,11 @@
    "heure": "2026-11-15T18:35:08+01:00",
    "texte": "Collecte directe LocService : appartements T2 et T3 de la métropole",
    "detail": "LocService"
+  },
+  {
+   "heure": "2026-11-15T18:37:07+01:00",
+   "texte": "Recherche web 1 à 6 / 26 : T2 et T3 balcon parking à Bordeaux, Le Bouscat, Bruges",
+   "detail": "Bien'ici, Orpi, Century 21, Laforêt, Foncia, ParuVendu"
   }
  ],
  "resume": null,
@@ -28,5 +33,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-15T18:35:08+01:00"
+ "maj": "2026-11-15T18:37:07+01:00"
 }
