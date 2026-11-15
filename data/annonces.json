@@ -349,7 +349,7 @@
       "contact": "Foncia, Ma location facile en ligne",
       "description": "T2 au 1er étage avec balcon : séjour avec coin cuisine, salle d'eau avec WC, place de parking. Eau froide comprise, chauffage gaz individuel. Location 100 % en ligne (Loi Pinel).",
       "disponible": null,
-      "expiree": true,
+      "expiree": false,
       "exterieur": "balcon",
       "loyer_cc": 545,
       "loyer_total": 545,
@@ -380,7 +380,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/lormont-33310/appartement/331713974.htm",
       "ville": "Lormont",
-      "vue_le": "2026-11-15T17:56",
+      "vue_le": "2026-11-15T18:59",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "58d00cf314fd": {
@@ -389,7 +389,7 @@
       "contact": "Foncia, dossier sur foncia.com",
       "description": "Résidence sécurisée, 1er étage : séjour avec coin cuisine, chambre avec placard, salle de bains avec wc, balcon, parking en sous-sol. Eau comprise, chauffage collectif gaz.",
       "disponible": null,
-      "expiree": true,
+      "expiree": false,
       "exterieur": "balcon",
       "loyer_cc": 585,
       "loyer_total": 585,
@@ -420,7 +420,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/lormont-33310/appartement/331715590.htm",
       "ville": "Lormont",
-      "vue_le": "2026-11-15T17:56",
+      "vue_le": "2026-11-15T18:59",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "7a90aa69b983": {
@@ -569,7 +569,7 @@
       "contact": "Foncia, dossier sur foncia.com",
       "description": "Résidence récente et sécurisée, rez-de-chaussée : entrée, séjour, cuisine équipée, chambre avec placard, salle d'eau avec wc, terrasse, place de parking. Eau froide incluse, chauffage gaz individuel. Pré-visite virtuelle sur le site Foncia. Trajets à confirmer depuis Mérignac Soleil.",
       "disponible": null,
-      "expiree": true,
+      "expiree": false,
       "exterieur": "terrasse",
       "loyer_cc": 616.02,
       "loyer_total": 616.02,
@@ -600,7 +600,7 @@
       "trouvee_le": "2026-11-15T18:23",
       "url": "https://fr.foncia.com/location/merignac-33700/appartement/331722224.htm",
       "ville": "Mérignac",
-      "vue_le": "2026-11-15T18:56",
+      "vue_le": "2026-11-15T18:59",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "a358a5e47dad": {
@@ -921,7 +921,7 @@
       "contact": "Foncia, dossier sur foncia.com",
       "description": "Programme neuf : séjour avec cuisine, chambre, salle d'eau avec wc, place de parking. Eau non comprise, chauffage et eau chaude gaz individuel (Loi Pinel). Extérieur non mentionné dans l'annonce : à demander à l'agence.",
       "disponible": null,
-      "expiree": true,
+      "expiree": false,
       "exterieur": null,
       "loyer_cc": 578,
       "loyer_total": 578,
@@ -953,7 +953,7 @@
       "trouvee_le": "2026-11-15T18:23",
       "url": "https://fr.foncia.com/location/talence-33400/appartement/331713062.htm",
       "ville": "Talence",
-      "vue_le": "2026-11-15T18:56",
+      "vue_le": "2026-11-15T18:59",
       "zone": "Talence (proche tram B)"
     },
     "d6674ab60027": {

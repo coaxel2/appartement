@@ -38,38 +38,26 @@ def uniques(liste):
 
 
 def foncia(url, page):
+    """La page contient les données de l'annonce puis celles d'annonces voisines.
+    On lit le segment qui va de la référence de l'annonce à la référence suivante :
+    sa liste "medias" donne les photos, son champ "status" dit si elle est supprimée."""
     ref = re.search(r"/(\d{6,})\.htm", url)
     texte = page.replace("&q;", '"').replace("&a;", "&")
     photos, expiree = [], False
     if ref:
         i = texte.find(f'"reference":"{ref.group(1)}"')
         if i >= 0:
-            # objet JSON qui contient la référence : on remonte à l'accolade ouvrante
-            prof, debut = 0, i
-            while debut > 0:
-                c = texte[debut]
-                if c == "}":
-                    prof += 1
-                elif c == "{":
-                    if prof == 0:
-                        break
-                    prof -= 1
-                debut -= 1
-            prof, fin = 0, debut
-            while fin < len(texte):
-                c = texte[fin]
-                if c == "{":
-                    prof += 1
-                elif c == "}":
-                    prof -= 1
-                    if prof == 0:
-                        break
-                fin += 1
-            bloc = texte[debut:fin + 1]
-            photos = re.findall(r"https://storage\.fonciamillenium\.net/thumbnail/[0-9a-f]+/\d+/\d+/\d+", bloc)
+            suivante = re.compile(r'"reference":"\d{6,}"').search(texte, i + 20)
+            segment = texte[i:suivante.start() if suivante else len(texte)]
+            medias = re.search(r'"medias":\[(.*?)\]', segment, re.S)
+            source = medias.group(1) if medias else segment
+            photos = re.findall(r"https://storage\.fonciamillenium\.net/thumbnail/[0-9a-f]+/\d+/\d+/\d+", source)
             if not photos:
-                photos = [u + "/lg.jpeg" for u in re.findall(r"https://[a-z0-9]+\.cloudfront\.net/annonces/[0-9a-f/]+[0-9a-f]", bloc)]
-            expiree = '"status":"deleted"' in bloc
+                cdn = re.search(r'"mediasCDN":\[(.*?)\]', segment, re.S)
+                if cdn:
+                    photos = [u + "/lg.jpeg" for u in re.findall(r"https://[a-z0-9]+\.cloudfront\.net/annonces/[0-9a-f/]+[0-9a-f]", cdn.group(1))]
+            st = re.search(r'"status":"(\w+)"', segment)
+            expiree = bool(st) and st.group(1) == "deleted"
     if not photos:
         og = re.search(r'property="og:image" content="([^"]+)"', page)
         photos = [og.group(1)] if og else []

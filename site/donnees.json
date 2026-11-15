@@ -505,7 +505,7 @@
     "a_verifier": 7
    }
   },
-  "mise_a_jour": "2026-11-15T18:56"
+  "mise_a_jour": "2026-11-15T18:59"
  },
  "annonces": [
   {
@@ -947,8 +947,8 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T17:56",
-   "expiree": true,
+   "vue_le": "2026-11-15T18:59",
+   "expiree": false,
    "contact": "Foncia, Ma location facile en ligne",
    "signalee": null,
    "id": "4190951dc430",
@@ -991,8 +991,8 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T17:56",
-   "expiree": true,
+   "vue_le": "2026-11-15T18:59",
+   "expiree": false,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "58d00cf314fd",
@@ -1215,8 +1215,8 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-15T18:56",
-   "expiree": true,
+   "vue_le": "2026-11-15T18:59",
+   "expiree": false,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "927121ed812e",
@@ -1622,8 +1622,8 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-15T18:56",
-   "expiree": true,
+   "vue_le": "2026-11-15T18:59",
+   "expiree": false,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "ce5abd9ade5b",
