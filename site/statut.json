@@ -1,72 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-15T18:34:37+01:00",
- "fin": "2026-11-15T18:43:00+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-15T19:18:48+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-15T18:34:37+01:00",
+   "heure": "2026-11-15T19:18:48+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-15T18:34:53+01:00",
-   "texte": "Annonce signalée à la main : SeLoger à Bruges (réf. 265H172VRXGT)",
-   "detail": "Recherche web sur la référence, SeLoger bloque les robots"
-  },
-  {
-   "heure": "2026-11-15T18:35:08+01:00",
-   "texte": "Collecte directe LocService : appartements T2 et T3 de la métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-15T18:37:07+01:00",
-   "texte": "Recherche web 1 à 6 / 26 : T2 et T3 balcon parking à Bordeaux, Le Bouscat, Bruges",
-   "detail": "Bien'ici, Orpi, Century 21, Laforêt, Foncia, ParuVendu"
-  },
-  {
-   "heure": "2026-11-15T18:37:47+01:00",
-   "texte": "Recherche web 7 à 12 / 26 : T2 et T3 balcon ou terrasse avec parking à Talence, Mérignac, Bègles, Eysines, Pessac",
-   "detail": "Foncia, 123loger, Location-Etudiant, Leboncoin, SeLoger (extraits seulement)"
-  },
-  {
-   "heure": "2026-11-15T18:38:06+01:00",
-   "texte": "Lecture des fiches : 3 T2 Foncia à Mérignac et Bordeaux, T2 Foncia et 123loger à Bègles",
-   "detail": "Foncia, 123loger"
-  },
-  {
-   "heure": "2026-11-15T18:39:01+01:00",
-   "texte": "Recherche web 13 à 19 / 26 : T2 et T3 balcon, terrasse ou jardin avec parking à Cenon, Lormont, Floirac, Blanquefort, Bruges, Bordeaux",
-   "detail": "Bien'ici, Figaro Immobilier, Location-Etudiant, PAP, Logic-Immo (extraits)"
-  },
-  {
-   "heure": "2026-11-15T18:39:27+01:00",
-   "texte": "Lecture des fiches : T2 Foncia à Cenon et Bruges, T2 Location-Etudiant à Cenon et Blanquefort",
-   "detail": "Foncia, Location-Etudiant"
-  },
-  {
-   "heure": "2026-11-15T18:40:09+01:00",
-   "texte": "Recherche web 20 à 26 / 26 : agences locales, résidences et particuliers, T2 et T3 balcon parking dans la métropole",
-   "detail": "Requêtes sans site imposé, Square Habitat, Superimmo, Trovit (extraits)"
-  },
-  {
-   "heure": "2026-11-15T18:40:35+01:00",
-   "texte": "Lecture de 21 fiches Foncia : T2 à Lormont, Floirac, Eysines, Le Bouscat, Bruges et Bordeaux",
-   "detail": "Foncia (loyer, balcon, parking, disponibilité)"
-  },
-  {
-   "heure": "2026-11-15T18:42:15+01:00",
-   "texte": "Trajets Omnes et Link : Le Bouscat centre (tram D), Lormont et Cenon (tram A puis C ou D), Eysines Pinsan et Mérignac",
-   "detail": "Réseau TBM, estimations par secteur à confirmer"
-  },
-  {
-   "heure": "2026-11-15T18:42:24+01:00",
-   "texte": "Rapport : évaluation des annonces et mise à jour du site",
-   "detail": "rapports/DERNIER.md, site/donnees.json"
-  },
-  {
-   "heure": "2026-11-15T18:43:00+01:00",
-   "texte": "Recherche terminée",
-   "detail": "8 nouvelles annonces qui correspondent, 2 à vérifier"
   }
  ],
  "resume": "8 nouvelles annonces qui correspondent, 2 à vérifier",
@@ -78,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-15T18:43:00+01:00"
+ "maj": "2026-11-15T19:18:48+01:00"
 }
