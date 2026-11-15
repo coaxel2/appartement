@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-15T18:34:37+01:00",
  "fin": null,
- "etape": "Recherche web 20 à 26 / 26 : agences locales, résidences et particuliers, T2 et T3 balcon parking dans la métropole",
+ "etape": "Lecture de 21 fiches Foncia : T2 à Lormont, Floirac, Eysines, Le Bouscat, Bruges et Bordeaux",
  "etapes": [
   {
    "heure": "2026-11-15T18:34:37+01:00",
@@ -47,6 +47,11 @@
    "heure": "2026-11-15T18:40:09+01:00",
    "texte": "Recherche web 20 à 26 / 26 : agences locales, résidences et particuliers, T2 et T3 balcon parking dans la métropole",
    "detail": "Requêtes sans site imposé, Square Habitat, Superimmo, Trovit (extraits)"
+  },
+  {
+   "heure": "2026-11-15T18:40:35+01:00",
+   "texte": "Lecture de 21 fiches Foncia : T2 à Lormont, Floirac, Eysines, Le Bouscat, Bruges et Bordeaux",
+   "detail": "Foncia (loyer, balcon, parking, disponibilité)"
   }
  ],
  "resume": null,
@@ -58,5 +63,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-15T18:40:09+01:00"
+ "maj": "2026-11-15T18:40:35+01:00"
 }
