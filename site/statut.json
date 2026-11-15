@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-15T19:18:48+01:00",
  "fin": null,
- "etape": "Recherche web 8 à 14 / 25 : T2 et T3 balcon, loggia ou jardin avec parking au Bouscat, à Bruges, Eysines, Blanquefort, Bordeaux",
+ "etape": "Recherche web 15 à 21 / 25 : T2 et T3 balcon ou terrasse avec parking à Cenon, Lormont, Floirac, Bègles et Bordeaux, recherches libres",
  "etapes": [
   {
    "heure": "2026-11-15T19:18:48+01:00",
@@ -27,6 +27,11 @@
    "heure": "2026-11-15T19:21:53+01:00",
    "texte": "Recherche web 8 à 14 / 25 : T2 et T3 balcon, loggia ou jardin avec parking au Bouscat, à Bruges, Eysines, Blanquefort, Bordeaux",
    "detail": "123loger, Location-Etudiant, ParuVendu, Bien'ici, Leboncoin et SeLoger (extraits)"
+  },
+  {
+   "heure": "2026-11-15T19:22:33+01:00",
+   "texte": "Recherche web 15 à 21 / 25 : T2 et T3 balcon ou terrasse avec parking à Cenon, Lormont, Floirac, Bègles et Bordeaux, recherches libres",
+   "detail": "Square Habitat, Figaro Immobilier, ParuVendu, agences locales (extraits)"
   }
  ],
  "resume": "8 nouvelles annonces qui correspondent, 2 à vérifier",
@@ -38,5 +43,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-15T19:21:53+01:00"
+ "maj": "2026-11-15T19:22:33+01:00"
 }
