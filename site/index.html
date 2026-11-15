@@ -105,6 +105,15 @@ header.top { display: flex; align-items: center; justify-content: space-between;
 .live .btn { border: 0; background: var(--ink); color: var(--on-ink); border-radius: 999px; padding: 8px 14px; font-weight: 600; font-size: 13px; cursor: pointer; }
 @media (prefers-reduced-motion: reduce) { .live.run .pulse { animation: none; } }
 
+/* Liens vers les sites protégés */
+.ext { display: flex; flex-direction: column; gap: 14px; }
+.ext-links { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
+.ext-links a { display: flex; flex-direction: column; gap: 2px; text-decoration: none; background: var(--elev); border-radius: var(--r-md); padding: 12px 14px; transition: background .15s; }
+.ext-links a:hover { background: var(--elev-2); }
+.ext-links b { font-weight: 600; display: flex; justify-content: space-between; align-items: center; }
+.ext-links b::after { content: "↗"; font-weight: 500; color: var(--muted); }
+.ext-links small { color: var(--muted); font-size: 12px; }
+
 /* Chiffre clé */
 .hero { display: flex; flex-direction: column; gap: 14px; }
 .hero .eyebrow { color: var(--muted); font-size: 15px; font-weight: 500; }
@@ -304,6 +313,14 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     </details>
   </section>
 
+  <section class="panel ext vue-trier" aria-labelledby="ext-titre">
+    <div class="panel-head">
+      <h2 id="ext-titre">Chercher sur les sites protégés</h2>
+    </div>
+    <p class="hint" style="margin:0;font-size:14px">Ces sites bloquent la recherche automatique. Les liens ouvrent leur recherche avec vos critères déjà remplis quand le site l'accepte : vérifiez les filtres en arrivant. Une annonce vous plaît ? Envoyez le lien et une capture à Claude pour l'ajouter ici.</p>
+    <div class="ext-links" id="ext-links"></div>
+  </section>
+
   <h2 class="sec-title vue-trier" style="margin-bottom:-36px">Annonces à trier</h2>
 
   <div class="filters" id="filters">
@@ -382,6 +399,23 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
       const d = new Date(c.mise_a_jour);
             $("maj").innerHTML = '<span class="dot-live"></span>' + "Annonces mises à jour le " + d.toLocaleDateString("fr-FR", { day: "numeric", month: "long" }) + " à " + d.toLocaleTimeString("fr-FR", { hour: "2-digit", minute: "2-digit" });
     }
+  }
+
+  function renderLiens() {
+    const k = (state.config && state.config.criteres) || {};
+    const max = k.loyer_max_cc || 700, surf = k.surface_min_m2 || 35, pmin = k.pieces_min || 2, pmax = k.pieces_max || 3;
+    const lbcVilles = ["Bordeaux_33000", "Le Bouscat_33110", "Bruges_33520", "Talence_33400", "Mérignac_33700", "Bègles_33130", "Eysines_33320", "Cenon_33150", "Lormont_33310", "Floirac_33270", "Blanquefort_33290"].join(",");
+    const insee = [330063, 330069, 330075, 330522, 330281, 330039, 330162, 330119, 330249, 330167, 330056];
+    const liens = [
+      ["Leboncoin", "location, prix, surface, pièces, 11 communes", `https://www.leboncoin.fr/recherche?category=10&real_estate_type=2&locations=${encodeURIComponent(lbcVilles)}&price=min-${max}&square=${surf}-max&rooms=${pmin}-${pmax}`],
+      ["SeLoger", "location, prix, surface, pièces, 11 communes", `https://www.seloger.com/list.htm?projects=1&types=1&places=${encodeURIComponent("[" + insee.map(ci => '{"ci":' + ci + "}").join("|") + "]")}&price=NaN%2F${max}&surface=${surf}%2FNaN&rooms=${pmin}%2C${pmax}&enterprise=0&qsVersion=1.0`],
+      ["PAP", "locations d'appartements à Bordeaux", "https://www.pap.fr/annonce/locations-appartement-bordeaux-33-g43588"],
+      ["PAP Bruges", "locations d'appartements à Bruges", "https://www.pap.fr/annonce/locations-appartement-bruges-33520-g20129"],
+      ["Bien'ici", "location, prix, surface, Bordeaux", `https://www.bienici.com/recherche/location/bordeaux-33000/appartement?prix-max=${max}&surface-min=${surf}`],
+      ["Logic-Immo", "location à Bordeaux", "https://www.logic-immo.com/location-immobilier-bordeaux-33000,24027_2/options/groupprptypesids=1"],
+      ["Ouest-France Immo", "location d'appartements à Bordeaux", "https://www.ouestfrance-immo.com/louer/appartement/bordeaux-33-33000/"],
+    ];
+    $("ext-links").innerHTML = liens.map(([n, d, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener"><b>${esc(n)}</b><small>${esc(d)}</small></a>`).join("");
   }
 
   function trajet(a) {
@@ -654,7 +688,7 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
       const r = await fetch("donnees.json", { cache: "no-store" });
       if (!r.ok) throw new Error(r.status);
       const d = await r.json();
-      state.config = d.config; renderConfig();
+      state.config = d.config; renderConfig(); renderLiens();
       state.annonces = d.annonces || [];
     } catch (e) {
       notice("Impossible de charger les annonces. Rechargez la page dans un instant.");
