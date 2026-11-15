@@ -2,11 +2,16 @@
  "en_cours": true,
  "debut": "2026-11-15T19:18:48+01:00",
  "fin": null,
- "etape": "Démarrage de la recherche",
+ "etape": "Collecte directe LocService : T2 et T3 de la métropole",
  "etapes": [
   {
    "heure": "2026-11-15T19:18:48+01:00",
    "texte": "Démarrage de la recherche"
+  },
+  {
+   "heure": "2026-11-15T19:18:56+01:00",
+   "texte": "Collecte directe LocService : T2 et T3 de la métropole",
+   "detail": "LocService"
   }
  ],
  "resume": "8 nouvelles annonces qui correspondent, 2 à vérifier",
@@ -18,5 +23,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-15T19:18:48+01:00"
+ "maj": "2026-11-15T19:18:56+01:00"
 }
