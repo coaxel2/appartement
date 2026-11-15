@@ -7,35 +7,11 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (14)
-
-### T2 43,3 m² au 1er étage avec balcon et parking, Lormont (nouvelle)
-
-- Loyer total : **545 €** (CC, parking inclus si en supplément)
-- Surface : 43.3 m², 2 pièce(s)
-- Localisation : Lormont 33310
-- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
-- Extérieur : balcon
-- Parking : place de parking
-- Disponible : ?, publiée le 2026-11-04
-- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/lormont-33310/appartement/331713974.htm)
-
-### T2 38,4 m² avec balcon et parking en sous-sol, Lormont La Ramade (nouvelle)
-
-- Loyer total : **585 €** (CC, parking inclus si en supplément)
-- Surface : 38.4 m², 2 pièce(s)
-- Localisation : Lormont 33310 (La Ramade)
-- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
-- Extérieur : balcon
-- Parking : place en sous-sol
-- Disponible : ?, publiée le 2026-09-24
-- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/lormont-33310/appartement/331715590.htm)
+## Annonces qui cochent tous les critères (12)
 
 ### T2 39,85 m² récent (2022) avec balcon et stationnement, Cenon gare (nouvelle)
+
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e804c339c4d44b41ef6/1/1920/1024)
 
 - Loyer total : **628.91 €** (CC, parking inclus si en supplément)
 - Surface : 39.85 m², 2 pièce(s)
@@ -95,6 +71,11 @@
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742)
 
 ### T2 46,49 m² résidence récente avec balcon et parking, Mérignac (nouvelle)
+
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e8030c52998e6b77e78/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e80254e589269827fa9/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e8050bb3a0e2ac271be/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e80deda02594841652d/1/1920/1024)
 
 - Loyer total : **664 €** (CC, parking inclus si en supplément)
 - Surface : 46.49 m², 2 pièce(s)

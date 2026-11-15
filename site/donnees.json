@@ -505,7 +505,7 @@
     "a_verifier": 6
    }
   },
-  "mise_a_jour": "2026-11-15T17:45"
+  "mise_a_jour": "2026-11-15T17:56"
  },
  "annonces": [
   {
@@ -677,12 +677,14 @@
     "trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T17:42",
+   "vue_le": "2026-11-15T17:56",
    "expiree": null,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "0f57c9ee1fba",
-   "photos_urls": [],
+   "photos_urls": [
+    "https://storage.fonciamillenium.net/thumbnail/64850e804c339c4d44b41ef6/1/1920/1024"
+   ],
    "description": "Près de la gare TER et du tram A, 3e étage avec ascenseur d'une résidence de 2022, chambre séparée de 13 m², balcon et place de stationnement. Disponible fin novembre (Loi Pinel)."
   },
   {
@@ -945,12 +947,15 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T17:42",
-   "expiree": null,
+   "vue_le": "2026-11-15T17:56",
+   "expiree": true,
    "contact": "Foncia, Ma location facile en ligne",
    "signalee": null,
    "id": "4190951dc430",
-   "photos_urls": [],
+   "photos_urls": [
+    "https://storage.fonciamillenium.net/thumbnail/64850e80447bc938e68e8897/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/64850e80aeac99c478469ad1/1/1920/1024"
+   ],
    "description": "T2 au 1er étage avec balcon : séjour avec coin cuisine, salle d'eau avec WC, place de parking. Eau froide comprise, chauffage gaz individuel. Location 100 % en ligne (Loi Pinel)."
   },
   {
@@ -986,12 +991,15 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T17:42",
-   "expiree": null,
+   "vue_le": "2026-11-15T17:56",
+   "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "58d00cf314fd",
-   "photos_urls": [],
+   "photos_urls": [
+    "https://storage.fonciamillenium.net/thumbnail/64850e808dd85f771b4f5fcc/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/64850e80f2e4ac577729cdcc/1/1920/1024"
+   ],
    "description": "Résidence sécurisée, 1er étage : séjour avec coin cuisine, chambre avec placard, salle de bains avec wc, balcon, parking en sous-sol. Eau comprise, chauffage collectif gaz."
   },
   {
@@ -1695,12 +1703,17 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T17:42",
+   "vue_le": "2026-11-15T17:56",
    "expiree": null,
    "contact": "Foncia Bordeaux, 61 quai Lawton",
    "signalee": null,
    "id": "ec47dd102543",
-   "photos_urls": [],
+   "photos_urls": [
+    "https://storage.fonciamillenium.net/thumbnail/64850e8030c52998e6b77e78/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/64850e80254e589269827fa9/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/64850e8050bb3a0e2ac271be/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/64850e80deda02594841652d/1/1920/1024"
+   ],
    "description": "Résidence récente (2018), Loi Pinel : entrée, séjour avec cuisine, chambre, salle d'eau avec wc, balcon et parking. Chauffage au gaz. Quartier de Mérignac non précisé : trajet à confirmer."
   },
   {

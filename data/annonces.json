@@ -139,7 +139,9 @@
       "loyer_total": 628.91,
       "meuble": false,
       "parking": "place de stationnement",
-      "photos": [],
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/64850e804c339c4d44b41ef6/1/1920/1024"
+      ],
       "pieces": 2,
       "points_a_verifier": [
         "trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer"
@@ -161,7 +163,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/cenon-33150/appartement/331726522.htm",
       "ville": "Cenon",
-      "vue_le": "2026-11-15T17:42",
+      "vue_le": "2026-11-15T17:56",
       "zone": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier"
     },
     "1542f2ba470a": {
@@ -347,12 +349,16 @@
       "contact": "Foncia, Ma location facile en ligne",
       "description": "T2 au 1er étage avec balcon : séjour avec coin cuisine, salle d'eau avec WC, place de parking. Eau froide comprise, chauffage gaz individuel. Location 100 % en ligne (Loi Pinel).",
       "disponible": null,
+      "expiree": true,
       "exterieur": "balcon",
       "loyer_cc": 545,
       "loyer_total": 545,
       "meuble": false,
       "parking": "place de parking",
-      "photos": [],
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/64850e80447bc938e68e8897/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/64850e80aeac99c478469ad1/1/1920/1024"
+      ],
       "pieces": 2,
       "points_a_verifier": [
         "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
@@ -374,7 +380,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/lormont-33310/appartement/331713974.htm",
       "ville": "Lormont",
-      "vue_le": "2026-11-15T17:42",
+      "vue_le": "2026-11-15T17:56",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "58d00cf314fd": {
@@ -383,12 +389,16 @@
       "contact": "Foncia, dossier sur foncia.com",
       "description": "Résidence sécurisée, 1er étage : séjour avec coin cuisine, chambre avec placard, salle de bains avec wc, balcon, parking en sous-sol. Eau comprise, chauffage collectif gaz.",
       "disponible": null,
+      "expiree": true,
       "exterieur": "balcon",
       "loyer_cc": 585,
       "loyer_total": 585,
       "meuble": false,
       "parking": "place en sous-sol",
-      "photos": [],
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/64850e808dd85f771b4f5fcc/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/64850e80f2e4ac577729cdcc/1/1920/1024"
+      ],
       "pieces": 2,
       "points_a_verifier": [
         "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
@@ -410,7 +420,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/lormont-33310/appartement/331715590.htm",
       "ville": "Lormont",
-      "vue_le": "2026-11-15T17:42",
+      "vue_le": "2026-11-15T17:56",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "7a90aa69b983": {
@@ -972,7 +982,12 @@
       "loyer_total": 664,
       "meuble": false,
       "parking": "parking",
-      "photos": [],
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/64850e8030c52998e6b77e78/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/64850e80254e589269827fa9/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/64850e8050bb3a0e2ac271be/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/64850e80deda02594841652d/1/1920/1024"
+      ],
       "pieces": 2,
       "points_a_verifier": [
         "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
@@ -994,7 +1009,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/merignac-33700/appartement/331720465.htm",
       "ville": "Mérignac",
-      "vue_le": "2026-11-15T17:42",
+      "vue_le": "2026-11-15T17:56",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "f6b6c2e0bd0f": {

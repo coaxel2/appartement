@@ -179,6 +179,12 @@ select { appearance: none; -webkit-appearance: none; border: 0; background: tran
 .card.refuse { opacity: .4; }
 .ph { position: relative; overflow: hidden; aspect-ratio: 4 / 3; max-width: 100%; background: var(--elev); border-radius: var(--r-lg); display: grid; place-items: center; color: var(--muted); font-size: 13px; }
 .ph { touch-action: pan-y; -webkit-user-select: none; user-select: none; }
+.plan { position: absolute; inset: 0; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 50% 50%; overflow: hidden; filter: grayscale(.35) contrast(.95); background: var(--elev); }
+.plan img { position: static !important; width: 100%; height: 100%; min-height: 0; object-fit: cover; display: block; }
+.plan-info { position: absolute; left: 12px; bottom: 12px; right: 12px; display: flex; justify-content: space-between; align-items: flex-end; gap: 8px; pointer-events: none; }
+.plan-info span { background: var(--glass); color: var(--fg); -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); font-size: 12px; font-weight: 600; padding: 4px 10px; border-radius: 999px; }
+.plan-info small { background: var(--glass); color: var(--muted); font-size: 10px; padding: 2px 6px; border-radius: 6px; }
+.plan-pin { position: absolute; left: 50%; top: 50%; width: 16px; height: 16px; margin: -8px 0 0 -8px; border-radius: 50%; background: var(--ink); border: 3px solid var(--bg); box-shadow: 0 2px 8px rgba(0,0,0,.3); }
 .ph img { -webkit-user-drag: none; position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
 .ph .nav { position: absolute; top: 50%; transform: translateY(-50%); width: 34px; height: 34px; border-radius: 50%; border: 0; background: var(--glass); color: var(--fg); cursor: pointer; font-size: 18px; line-height: 1;
   -webkit-backdrop-filter: blur(12px); backdrop-filter: blur(12px); opacity: 0; transition: opacity .2s; }
@@ -423,6 +429,20 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     if (!m) return "à vérifier";
     return (a.trajet_verifie_min ? "" : "≈ ") + m + " min" + (a.zone ? " (" + a.zone + ")" : "");
   }
+  const COORD = { "bordeaux": [44.8378, -0.5792], "le bouscat": [44.8653, -0.5986], "bruges": [44.8833, -0.6125], "talence": [44.8086, -0.5883],
+    "merignac": [44.8386, -0.6436], "begles": [44.8086, -0.5478], "eysines": [44.8836, -0.6500], "cenon": [44.8578, -0.5317], "lormont": [44.8792, -0.5217],
+    "floirac": [44.8361, -0.5236], "blanquefort": [44.9106, -0.6364], "pessac": [44.8067, -0.6311], "parempuyre": [44.9500, -0.5947],
+    "castelnau-de-medoc": [45.0300, -0.7980], "fronsac": [44.9200, -0.2700], "villenave-d'ornon": [44.7806, -0.5658], "gradignan": [44.7725, -0.6156] };
+  function plan(a) {
+    const cle = (a.ville || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+    const c = COORD[cle];
+    if (!c) return `<span>Pas de photo publiée, voir l'annonce</span>`;
+    const z = 14, n = 2 ** z, lat = c[0] * Math.PI / 180;
+    const fx = (c[1] + 180) / 360 * n, fy = (1 - Math.log(Math.tan(lat) + 1 / Math.cos(lat)) / Math.PI) / 2 * n;
+    const x0 = Math.round(fx) - 1, y0 = Math.round(fy) - 1;
+    const tuiles = [[0, 0], [1, 0], [0, 1], [1, 1]].map(([dx, dy]) => `<img alt="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" onerror="this.style.visibility='hidden'" src="https://tile.openstreetmap.org/${z}/${x0 + dx}/${y0 + dy}.png">`).join("");
+    return `<div class="plan" aria-hidden="true">${tuiles}</div><span class="plan-pin" aria-hidden="true"></span><div class="plan-info"><span>Pas de photo publiée · secteur ${esc(a.ville)}</span><small>© OpenStreetMap</small></div>`;
+  }
   function blocTrajet(a, p, nom) {
     const m = a["trajet_" + p + "_min"];
     const max = (state.config && state.config.criteres && state.config.criteres.trajet_max_minutes) || 40;
@@ -485,7 +505,7 @@ footer { color: var(--muted); font-size: 12px; border-top: 1px solid var(--line)
     const autres = (a.autres_urls || []).map(u => { let h = u; try { h = new URL(u).hostname.replace("www.", ""); } catch (e) {} return `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(h)}</a>`; }).join("");
     return `<article class="card" data-id="${esc(a.id)}">
       <div class="ph" data-nb="${nb}">
-        ${nb ? `<span class="hint">Photo…</span>` : `<span>Pas de photo récupérée, voir l'annonce</span>`}
+        ${nb ? `<span class="hint">Photo…</span>` : plan(a)}
         <span class="badge">${a.signalee ? `<span class="pill nouveau">Signalée par vous</span> ` : nouveau ? `<span class="pill nouveau">Nouvelle</span> ` : ""}<span class="pill ${esc(a.statut)}">${esc(LIB_STATUT[a.statut] || a.statut)}</span></span>
         ${nb > 1 ? `<button class="nav prev" type="button" aria-label="Photo précédente">‹</button><button class="nav next" type="button" aria-label="Photo suivante">›</button>` : ""}
         ${nb ? `<span class="count">1 / ${nb}</span>` : ""}

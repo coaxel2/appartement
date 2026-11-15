@@ -17,6 +17,7 @@ Ce dépôt est piloté par une tâche planifiée Claude. A chaque exécution, Cl
 - `config/a_ajouter.md` : annonces signalées à la main par l'utilisateur, à traiter en priorité.
 - `data/annonces.json` : toutes les annonces déjà vues (ne pas éditer à la main, passer par l'outil).
 - `outils/annonces.py` : fusion, dédoublonnage, évaluation, rapport.
+- `outils/photos.py` : complète les photos manquantes et repère les annonces retirées.
 - `rapports/DERNIER.md` et `rapports/AAAA-MM-JJ.md` : rapports générés.
 - `site/index.html` et `site/donnees.json` : site web déployé sur Vercel à chaque push. `donnees.json` est regénéré par la commande `rapport`.
 - `site/statut.json` et `outils/statut.py` : avancement de la recherche, affiché en direct sur le site.
@@ -44,6 +45,7 @@ Viser une dizaine d'étapes par exécution, pas davantage.
 6. Trajets : on est deux. Omnes travaille au 136 quai des Chartrons (tram B Chartrons, tram C Cours du Médoc) et Link au 127 rue de Turenne (tram D Croix de Seguey ou Fondaudège Muséum). Chaque trajet doit faire 40 minutes maximum. Les estimations par secteur sont dans `config/zones.json`. Pour les annonces en zone `limite` ou hors table, établir le trajet réel de chacun (recherche web d'itinéraire TBM ou connaissance du réseau), renseigner `ville`, `quartier` et `code_postal` le plus précisément possible, puis noter `trajet_omnes_verifie_min`, `trajet_omnes_itineraire_verifie`, `trajet_link_verifie_min` et `trajet_link_itineraire_verifie` (ex. "tram C direct, 6 min à pied").
 7. Ecrire les annonces dans un fichier JSON temporaire (liste d'objets au format décrit en tête de `outils/annonces.py`) puis lancer `python3 outils/annonces.py ajouter <fichier>`.
 8. Si une annonce déjà connue n'existe plus (page 404 ou mention louée), la marquer `"expiree": true` en la réajoutant avec ce champ.
+8 bis. Lancer `python3 outils/photos.py` : il complète les photos des annonces lisibles (Foncia, LocService, og:image) et marque comme expirées les fiches retirées.
 9. Lancer `python3 outils/annonces.py rapport`.
 10. Commit des fichiers `data/`, `rapports/`, `config/a_ajouter.md` et `site/donnees.json` avec un message du type `Recherche du AAAA-MM-JJ : N nouvelles annonces pertinentes`, puis push. Ensuite lancer `python3 outils/statut.py fin --resume "..."`.
 11. Terminer par un résumé court : nombre d'annonces nouvelles qui correspondent, les 3 meilleures avec lien, loyer, surface, ville, trajet Omnes et trajet Link, et une photo chacune.
