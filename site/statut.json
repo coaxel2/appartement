@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-16T11:18:32+01:00",
  "fin": null,
- "etape": "Recherche web 1 à 7 / 25 : T2 et T3 balcon ou terrasse avec parking à Bordeaux, Talence, Bègles, Le Bouscat",
+ "etape": "Lecture des fiches : T2 Foncia à Bordeaux (Chartrons, Bacalan, Caudéran), T2 Guy Hoquet à Talence, T2 123loger aux Bassins à flot",
  "etapes": [
   {
    "heure": "2026-11-16T11:18:32+01:00",
@@ -17,6 +17,11 @@
    "heure": "2026-11-16T11:20:28+01:00",
    "texte": "Recherche web 1 à 7 / 25 : T2 et T3 balcon ou terrasse avec parking à Bordeaux, Talence, Bègles, Le Bouscat",
    "detail": "Foncia, Square Habitat, Guy Hoquet, Century 21, PAP, SeLoger (extraits)"
+  },
+  {
+   "heure": "2026-11-16T11:20:59+01:00",
+   "texte": "Lecture des fiches : T2 Foncia à Bordeaux (Chartrons, Bacalan, Caudéran), T2 Guy Hoquet à Talence, T2 123loger aux Bassins à flot",
+   "detail": "Foncia, Guy Hoquet, 123loger"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond, 3 à vérifier",
@@ -28,5 +33,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T11:20:28+01:00"
+ "maj": "2026-11-16T11:20:59+01:00"
 }
