@@ -1,62 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-16T08:19:31+01:00",
- "fin": "2026-11-16T08:25:16+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-16T11:18:32+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-16T08:19:31+01:00",
+   "heure": "2026-11-16T11:18:32+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-16T08:19:40+01:00",
-   "texte": "Collecte directe LocService : T2 et T3 de la métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-16T08:21:42+01:00",
-   "texte": "Recherche web 1 à 7 / 25 : T2 et T3 balcon ou terrasse avec parking à Bordeaux, Le Bouscat, Bruges, Eysines",
-   "detail": "Foncia, Orpi, Century 21, Square Habitat, Bien'ici (extraits)"
-  },
-  {
-   "heure": "2026-11-16T08:22:11+01:00",
-   "texte": "Lecture des fiches : T2 Foncia à Bruges, Mérignac et Eysines, T2 Orpi à Bordeaux et Bruges, T2 Echo Etienne aux Chartrons",
-   "detail": "Foncia, Orpi, Echo Etienne"
-  },
-  {
-   "heure": "2026-11-16T08:22:42+01:00",
-   "texte": "Recherche web 8 à 14 / 25 : T2 et T3 balcon, terrasse ou loggia avec parking à Talence, Bègles, Cenon, Lormont, Floirac",
-   "detail": "Foncia, Laforêt, 123loger, ParuVendu, PAP (extraits)"
-  },
-  {
-   "heure": "2026-11-16T08:23:06+01:00",
-   "texte": "Lecture des fiches : T2 Foncia à Lormont, T2 123loger à Cenon",
-   "detail": "Foncia, 123loger"
-  },
-  {
-   "heure": "2026-11-16T08:23:26+01:00",
-   "texte": "Recherche web 15 à 21 / 25 : T2 et T3 jardin, balcon ou loggia avec parking à Mérignac, Pessac, Blanquefort, Le Bouscat, recherches libres",
-   "detail": "Century 21, Logic-Immo, Leboncoin, SeLoger (extraits), agences locales"
-  },
-  {
-   "heure": "2026-11-16T08:23:49+01:00",
-   "texte": "Lecture des fiches : T2 à Mérignac Capeyron (Foncia, Location-Etudiant, Capifrance)",
-   "detail": "Foncia, Location-Etudiant, Capifrance (extrait)"
-  },
-  {
-   "heure": "2026-11-16T08:24:14+01:00",
-   "texte": "Trajets Omnes et Link : Chartrons (à pied ou tram B), Mérignac Eyquems et Capeyron (estimations à confirmer)",
-   "detail": "Réseau TBM"
-  },
-  {
-   "heure": "2026-11-16T08:24:16+01:00",
-   "texte": "Photos et annonces retirées, puis rapport et mise à jour du site",
-   "detail": "outils/photos.py, rapports/DERNIER.md, site/donnees.json"
-  },
-  {
-   "heure": "2026-11-16T08:25:16+01:00",
-   "texte": "Recherche terminée",
-   "detail": "1 nouvelle annonce qui correspond, 3 à vérifier"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond, 3 à vérifier",
@@ -68,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T08:25:16+01:00"
+ "maj": "2026-11-16T11:18:32+01:00"
 }
