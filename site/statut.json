@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-16T08:19:31+01:00",
  "fin": null,
- "etape": "Lecture des fiches : T2 à Mérignac Capeyron (Foncia, Location-Etudiant, Capifrance)",
+ "etape": "Trajets Omnes et Link : Chartrons (à pied ou tram B), Mérignac Eyquems et Capeyron (estimations à confirmer)",
  "etapes": [
   {
    "heure": "2026-11-16T08:19:31+01:00",
@@ -42,6 +42,11 @@
    "heure": "2026-11-16T08:23:49+01:00",
    "texte": "Lecture des fiches : T2 à Mérignac Capeyron (Foncia, Location-Etudiant, Capifrance)",
    "detail": "Foncia, Location-Etudiant, Capifrance (extrait)"
+  },
+  {
+   "heure": "2026-11-16T08:24:14+01:00",
+   "texte": "Trajets Omnes et Link : Chartrons (à pied ou tram B), Mérignac Eyquems et Capeyron (estimations à confirmer)",
+   "detail": "Réseau TBM"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond, 1 à vérifier",
@@ -53,5 +58,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T08:23:49+01:00"
+ "maj": "2026-11-16T08:24:14+01:00"
 }
