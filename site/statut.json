@@ -1,42 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-16T15:23:19+01:00",
- "fin": "2026-11-16T15:29:37+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-16T19:18:46+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-16T15:23:19+01:00",
+   "heure": "2026-11-16T19:18:46+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-16T15:23:22+01:00",
-   "texte": "Collecte directe LocService : T2 et T3 de la métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-16T15:25:11+01:00",
-   "texte": "Lecture des listes ParuVendu : T2 à louer dans 12 communes de la métropole",
-   "detail": "ParuVendu (pages publiques)"
-  },
-  {
-   "heure": "2026-11-16T15:27:20+01:00",
-   "texte": "Lecture de 8 fiches ParuVendu : T2 et T3 balcon ou terrasse avec parking à Lormont, Cenon, Bordeaux, Talence",
-   "detail": "ParuVendu"
-  },
-  {
-   "heure": "2026-11-16T15:28:12+01:00",
-   "texte": "Trajets Omnes et Link : Bordeaux Carle Vernet (tram C et D directs), Bordeaux 33300, Cenon Morlette et Lormont Gravières (tram A)",
-   "detail": "Réseau TBM"
-  },
-  {
-   "heure": "2026-11-16T15:28:14+01:00",
-   "texte": "Photos et annonces retirées, puis rapport et mise à jour du site",
-   "detail": "outils/photos.py, rapports/DERNIER.md, site/donnees.json"
-  },
-  {
-   "heure": "2026-11-16T15:29:37+01:00",
-   "texte": "Recherche terminée",
-   "detail": "3 nouvelles annonces qui correspondent, 3 à vérifier"
   }
  ],
  "resume": "3 nouvelles annonces qui correspondent, 3 à vérifier",
@@ -48,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T15:29:37+01:00"
+ "maj": "2026-11-16T19:18:46+01:00"
 }
