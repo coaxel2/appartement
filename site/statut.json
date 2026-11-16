@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-16T19:18:46+01:00",
  "fin": null,
- "etape": "Trajets Omnes et Link : Bègles rue Pauly (tram C), Mérignac stade du Jard et Peychotte (estimations à confirmer)",
+ "etape": "Photos et annonces retirées, puis rapport et mise à jour du site",
  "etapes": [
   {
    "heure": "2026-11-16T19:18:46+01:00",
@@ -32,6 +32,11 @@
    "heure": "2026-11-16T19:22:28+01:00",
    "texte": "Trajets Omnes et Link : Bègles rue Pauly (tram C), Mérignac stade du Jard et Peychotte (estimations à confirmer)",
    "detail": "Réseau TBM"
+  },
+  {
+   "heure": "2026-11-16T19:22:30+01:00",
+   "texte": "Photos et annonces retirées, puis rapport et mise à jour du site",
+   "detail": "outils/photos.py, rapports/DERNIER.md, site/donnees.json"
   }
  ],
  "resume": "3 nouvelles annonces qui correspondent, 3 à vérifier",
@@ -43,5 +48,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T19:22:28+01:00"
+ "maj": "2026-11-16T19:22:30+01:00"
 }
