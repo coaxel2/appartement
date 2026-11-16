@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 37,
+   "total": 43,
    "par_statut": {
-    "correspond": 17,
+    "correspond": 20,
     "rejetee": 3,
-    "incomplete": 7,
-    "a_verifier": 10
+    "a_verifier": 13,
+    "incomplete": 7
    }
   },
-  "mise_a_jour": "2026-11-16T10:23"
+  "mise_a_jour": "2026-11-16T14:29"
  },
  "annonces": [
   {
@@ -551,6 +551,47 @@
     "https://www.123loger.com/location/uploads/properties/images/6985a286eca3/1f5963f06018ea9d79af10fafa489c47@1200x1050.webp"
    ],
    "description": "Appartement non meublé 2 pièces 38 m², balcon, parking voiture, DPE B, dépôt de garantie 695 €."
+  },
+  {
+   "titre": "T2 47 m² au 3e étage avec balcon et parking, Bordeaux Carle Vernet",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297470374A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 659,
+   "loyer_cc": 659,
+   "charges": 61,
+   "surface_m2": 47,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33800",
+   "quartier": "Carle Vernet / Belcier",
+   "zone": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 28,
+   "trajet_omnes_itineraire": "tram C direct de Carle Vernet ou Belcier à Cours du Médoc, environ 20 min plus marche (estimation réseau, adresse exacte inconnue)",
+   "trajet_omnes_verifie": true,
+   "trajet_link_min": 30,
+   "trajet_link_itineraire": "tram D direct de Carle Vernet à Croix de Seguey, environ 22 min plus marche (estimation réseau)",
+   "trajet_link_verifie": true,
+   "parking": "parking extérieur inclus",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": "2026-11-15",
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [],
+   "trouvee_le": "2026-11-16T14:28",
+   "vue_le": "2026-11-16T14:28",
+   "expiree": null,
+   "contact": "Citya Immobilier Atlantis",
+   "signalee": null,
+   "id": "014a8d0ab8ac",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/box.ics.fr/22/dc/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUlNR180NTk5LTYzMzI3OTU2OTE5ODQwMjY2ODcuanBnPzIwMjYxMTE1MjAxNTU0_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Agence Citya Immobilier Atlantis. T2 moderne de 47 m² au 3e étage : séjour lumineux, cuisine, chambre, salle de bain, balcon, parking extérieur inclus. Chauffage électrique individuel. Proche école Carle Vernet et JUNIA."
   },
   {
    "titre": "T2 41,05 m² dernier étage avec balcon de 9 m² et parking en sous-sol, Eysines",
@@ -720,7 +761,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -767,13 +808,56 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "1f65a9e265ab",
    "photos_urls": [],
    "description": "Location appartement meublé à Fronsac - 650 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Fronsac Location Fronsac Location particulier Fronsac Location appartement 43 m² 650 € Appartement T2 meublé avec cuisine équipée à louer à Fronsac entre particuliers 650 € / mois charges comprises Ré"
+  },
+  {
+   "titre": "T2 45 m² rénové avec terrasse, cour privée et parking, Cenon (Directe Location)",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 750,
+   "loyer_cc": 750,
+   "charges": 70,
+   "surface_m2": 45,
+   "pieces": 2,
+   "ville": "Cenon",
+   "code_postal": "33150",
+   "quartier": null,
+   "zone": "Bordeaux Bastide (rive droite)",
+   "trajet_estime_min": 28,
+   "trajet_verifie_min": null,
+   "exterieur": "terrasse et cour privée",
+   "trajet_omnes_min": 25,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram A puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "parking",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": "2026-11-16",
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 750 € légèrement au dessus de 700 €"
+   ],
+   "trouvee_le": "2026-11-16T14:28",
+   "vue_le": "2026-11-16T14:28",
+   "expiree": null,
+   "contact": "Directe Location (service payant)",
+   "signalee": null,
+   "id": "2576eb1fc90c",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/b0/48/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS03NzY5LTEwXzEuanBnPzIwMjYxMTE2MTQxNzM1_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Publié par Directe Location, un service payant de mise en relation (frais de dossier 220 €) et non par le propriétaire ou une agence de gestion : prudence avant de payer quoi que ce soit. T2 rénové de 45 m², 680 € plus 70 € de charges, terrasse, cour privée, parking, séjour, kitchenette équipée, chambre, salle d'eau."
   },
   {
    "titre": "Appartement T2 à louer",
@@ -808,7 +892,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -856,7 +940,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -904,7 +988,7 @@
     "loyer 733.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -913,6 +997,49 @@
     "https://img.locservice.fr/HxMhqN8D5wTwJ68jLw3lz72_O_h2wkT8evD67OfsKXQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFmZmItMDFi/Yy03MzU5LWFiYjMt/NmIxMjRmNGM0NThi/LWFjYTMyODU2MjIz/MWVlOWM3NjMzZjY3/MGYyZTY2MDU1NDBj/YTMyOTIuanBn.jpg"
    ],
    "description": "Location appartement à Bordeaux - 733 € - 45 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 45 m² 733 € Location appartement T2 à Bordeaux 733 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px"
+  },
+  {
+   "titre": "T2 41,81 m² avec terrasse de 7,69 m² et parking, Cenon (tram A Morlette)",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297372556A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 675,
+   "loyer_cc": 675,
+   "charges": 45,
+   "surface_m2": 41.81,
+   "pieces": 2,
+   "ville": "Cenon",
+   "code_postal": "33150",
+   "quartier": "Morlette / gare de Cenon",
+   "zone": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier",
+   "trajet_estime_min": 33,
+   "trajet_verifie_min": null,
+   "exterieur": "terrasse 7,69 m²",
+   "trajet_omnes_min": 30,
+   "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 33,
+   "trajet_link_itineraire": "tram C puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "place de parking privative (38 € inclus dans le loyer)",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": "2026-11-13",
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T14:28",
+   "vue_le": "2026-11-16T14:28",
+   "expiree": null,
+   "contact": "Valority Administration de biens",
+   "signalee": null,
+   "id": "3a7fb74a2d8e",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/17/03/LzY5NDUzOC81NTk1ODc4NjAvcGhvdG9zLzEuanBnPzIwMjYxMTEzMDcyMDM4_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Agence Valority (résidence Gallery 25), rue du Professeur Langevin. T2 de 41,81 m² avec terrasse de 7,69 m², cuisine équipée, chambre, chauffage individuel au gaz, place de parking privative incluse dans les 675 € charges comprises. Tram A Morlette et gare TER à proximité."
   },
   {
    "titre": "T2 45 m² au 2e étage avec balcon et parking, Lormont",
@@ -1092,10 +1219,55 @@
    "description": "Résidence sécurisée, 1er étage : séjour avec coin cuisine, chambre avec placard, salle de bains avec wc, balcon, parking en sous-sol. Eau comprise, chauffage collectif gaz."
   },
   {
+   "titre": "T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297061000A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 559,
+   "loyer_cc": 559,
+   "charges": 41,
+   "surface_m2": 40.5,
+   "pieces": 2,
+   "ville": "Lormont",
+   "code_postal": "33310",
+   "quartier": "Gravières",
+   "zone": "Cenon / Lormont / Floirac (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon 4 m²",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "place de parking intérieure réservée",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": "2026-11-05",
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T14:28",
+   "vue_le": "2026-11-16T14:28",
+   "expiree": null,
+   "contact": "Citya Belvia Bordeaux",
+   "signalee": null,
+   "id": "7513ebee7cd1",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/box.ics.fr/59/f1/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUxBVVJFQS0xODM3Mzg3NzIwNTgwODM4NjcwOC5qcGc_MjAyNjExMDUyMDE2NTQ_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Agence Citya (Belvia Bordeaux). 4e étage avec ascenseur, chambre, kitchenette, salle d'eau, balcon de 4 m², place de parking intérieure. Tram A Gravières à proximité. Dossier soumis à assurance GLI, loi Pinel."
+  },
+  {
    "titre": "Appartement T2 à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
-   "autres_urls": null,
+   "autres_urls": [
+    "https://www.paruvendu.fr/immobilier/location/appartement/1297314031A1KILHAP000"
+   ],
    "loyer_total": 663.0,
    "loyer_cc": 663.0,
    "charges": null,
@@ -1124,7 +1296,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1168,7 +1340,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1216,7 +1388,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1258,7 +1430,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1389,7 +1561,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1490,6 +1662,50 @@
    "description": "Location appartement à Bordeaux - 713 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 44 m² 713 € Location appartement T2 à Bordeaux 713 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px"
   },
   {
+   "titre": "T3 56 m² au 2e étage avec balcon et parking, Cenon",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1295668563A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 748,
+   "loyer_cc": 748,
+   "charges": 70,
+   "surface_m2": 56,
+   "pieces": 3,
+   "ville": "Cenon",
+   "code_postal": "33150",
+   "quartier": null,
+   "zone": "Cenon / Lormont / Floirac (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "parking",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": "2026-10-26",
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 748 € légèrement au dessus de 700 €",
+    "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T14:28",
+   "vue_le": "2026-11-16T14:28",
+   "expiree": null,
+   "contact": "Citya Lanaverre",
+   "signalee": null,
+   "id": "b1137ded1303",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/box.ics.fr/7d/ac/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLU1FWlpPLTc2NjUwODAxMTEwNTY1ODM1MTQuanBnPzIwMjYxMDI2MTI0MDIz_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Agence Citya Lanaverre. T3 récent de 55 m² au 2e étage, deux chambres, balcon, parking, chauffage individuel au gaz. Proche Lidl et Intermarché."
+  },
+  {
    "titre": "Appartement T2 meublé à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
@@ -1523,7 +1739,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1566,7 +1782,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1747,7 +1963,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1838,13 +2054,56 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "d6674ab60027",
    "photos_urls": [],
    "description": "Location appartement à Bordeaux - 705 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 43 m² 705 € Location appartement T2 à Bordeaux 705 € / mois charges comprises 🔥 Moins de 7 jours Bordeaux (33000) 43 m² 2 pièces Non meublé Disponible immédiat"
+  },
+  {
+   "titre": "T2 46 m² au 1er étage avec balcon et place de stationnement, Bordeaux 33300",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297103108A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 733,
+   "loyer_cc": 733,
+   "charges": 25,
+   "surface_m2": 46,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33300",
+   "quartier": null,
+   "zone": "Bordeaux Bassins à flot / Bacalan",
+   "trajet_estime_min": 28,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon 4,4 m²",
+   "trajet_omnes_min": 12,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "place de stationnement réservée",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": "2026-11-06",
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 733 € légèrement au dessus de 700 €"
+   ],
+   "trouvee_le": "2026-11-16T14:28",
+   "vue_le": "2026-11-16T14:28",
+   "expiree": null,
+   "contact": "Citya Belvia Bordeaux",
+   "signalee": null,
+   "id": "d6ee6182fc45",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/box.ics.fr/d9/c8/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUVYVF8yMDE5LTcyNTA0MzQyNzQyMjk0MzI1MTEuanBnPzIwMjYxMTA2MjAxNjEz_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Agence Citya Burdigala (Citya Belvia Bordeaux). 1er étage sans ascenseur : séjour de 20 m², chambre, cuisine avec cellier, salle de bains, balcon de 4,4 m², place de stationnement réservée. Chauffage électrique. Dossier soumis à assurance loyers impayés."
   },
   {
    "titre": "T2 41,5 m² résidence neuve avec terrasse, Mérignac",
@@ -1923,7 +2182,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2101,7 +2360,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2142,7 +2401,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T10:20",
+   "vue_le": "2026-11-16T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,

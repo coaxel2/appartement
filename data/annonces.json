@@ -36,6 +36,46 @@
       "vue_le": "2026-11-13T14:52",
       "zone": "Talence (proche tram B)"
     },
+    "014a8d0ab8ac": {
+      "charges": 61,
+      "code_postal": "33800",
+      "contact": "Citya Immobilier Atlantis",
+      "description": "Agence Citya Immobilier Atlantis. T2 moderne de 47 m² au 3e étage : séjour lumineux, cuisine, chambre, salle de bain, balcon, parking extérieur inclus. Chauffage électrique individuel. Proche école Carle Vernet et JUNIA.",
+      "disponible": null,
+      "exterieur": "balcon",
+      "loyer_cc": 659,
+      "loyer_total": 659,
+      "meuble": false,
+      "parking": "parking extérieur inclus",
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/box.ics.fr/22/dc/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUlNR180NTk5LTYzMzI3OTU2OTE5ODQwMjY2ODcuanBnPzIwMjYxMTE1MjAxNTU0_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [],
+      "publie_le": "2026-11-15",
+      "quartier": "Carle Vernet / Belcier",
+      "raisons_rejet": [],
+      "site": "ParuVendu",
+      "statut": "correspond",
+      "surface_m2": 47,
+      "titre": "T2 47 m² au 3e étage avec balcon et parking, Bordeaux Carle Vernet",
+      "trajet_estime_min": 30,
+      "trajet_link_itineraire": "tram D direct de Carle Vernet à Croix de Seguey, environ 22 min plus marche (estimation réseau)",
+      "trajet_link_itineraire_verifie": "tram D direct de Carle Vernet à Croix de Seguey, environ 22 min plus marche (estimation réseau)",
+      "trajet_link_min": 30,
+      "trajet_link_verifie": true,
+      "trajet_link_verifie_min": 30,
+      "trajet_omnes_itineraire": "tram C direct de Carle Vernet ou Belcier à Cours du Médoc, environ 20 min plus marche (estimation réseau, adresse exacte inconnue)",
+      "trajet_omnes_itineraire_verifie": "tram C direct de Carle Vernet ou Belcier à Cours du Médoc, environ 20 min plus marche (estimation réseau, adresse exacte inconnue)",
+      "trajet_omnes_min": 28,
+      "trajet_omnes_verifie": true,
+      "trajet_omnes_verifie_min": 28,
+      "trouvee_le": "2026-11-16T14:28",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297470374A1KILHAP000",
+      "ville": "Bordeaux",
+      "vue_le": "2026-11-16T14:28",
+      "zone": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier"
+    },
     "0c654dd493f2": {
       "charges": 45,
       "code_postal": "33320",
@@ -200,7 +240,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/p-cf-113073450803",
       "ville": "Bègles",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Bègles (proche tram C)"
     },
     "1f65a9e265ab": {
@@ -231,8 +271,47 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": null
+    },
+    "2576eb1fc90c": {
+      "charges": 70,
+      "code_postal": "33150",
+      "contact": "Directe Location (service payant)",
+      "description": "Publié par Directe Location, un service payant de mise en relation (frais de dossier 220 €) et non par le propriétaire ou une agence de gestion : prudence avant de payer quoi que ce soit. T2 rénové de 45 m², 680 € plus 70 € de charges, terrasse, cour privée, parking, séjour, kitchenette équipée, chambre, salle d'eau.",
+      "disponible": null,
+      "exterieur": "terrasse et cour privée",
+      "loyer_cc": 750,
+      "loyer_hc": 680,
+      "loyer_total": 750,
+      "meuble": false,
+      "parking": "parking",
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/b0/48/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS03NzY5LTEwXzEuanBnPzIwMjYxMTE2MTQxNzM1_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "loyer 750 € légèrement au dessus de 700 €"
+      ],
+      "publie_le": "2026-11-16",
+      "quartier": null,
+      "raisons_rejet": [],
+      "site": "ParuVendu",
+      "statut": "a_verifier",
+      "surface_m2": 45,
+      "titre": "T2 45 m² rénové avec terrasse, cour privée et parking, Cenon (Directe Location)",
+      "trajet_estime_min": 28,
+      "trajet_link_itineraire": "tram A puis tram D",
+      "trajet_link_min": 28,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 25,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T14:28",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000",
+      "ville": "Cenon",
+      "vue_le": "2026-11-16T14:28",
+      "zone": "Bordeaux Bastide (rive droite)"
     },
     "28f98e5645e1": {
       "code_postal": "33150",
@@ -267,7 +346,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/200813",
       "ville": "Cenon",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "2b66ed829479": {
@@ -307,7 +386,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113103084392",
       "ville": "Eysines",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Eysines (proche tram D)"
     },
     "3331658056fe": {
@@ -340,8 +419,47 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
+    },
+    "3a7fb74a2d8e": {
+      "charges": 45,
+      "code_postal": "33150",
+      "contact": "Valority Administration de biens",
+      "description": "Agence Valority (résidence Gallery 25), rue du Professeur Langevin. T2 de 41,81 m² avec terrasse de 7,69 m², cuisine équipée, chambre, chauffage individuel au gaz, place de parking privative incluse dans les 675 € charges comprises. Tram A Morlette et gare TER à proximité.",
+      "disponible": null,
+      "exterieur": "terrasse 7,69 m²",
+      "loyer_cc": 675,
+      "loyer_total": 675,
+      "meuble": false,
+      "parking": "place de parking privative (38 € inclus dans le loyer)",
+      "parking_supplement": 0,
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/17/03/LzY5NDUzOC81NTk1ODc4NjAvcGhvdG9zLzEuanBnPzIwMjYxMTEzMDcyMDM4_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer"
+      ],
+      "publie_le": "2026-11-13",
+      "quartier": "Morlette / gare de Cenon",
+      "raisons_rejet": [],
+      "site": "ParuVendu",
+      "statut": "correspond",
+      "surface_m2": 41.81,
+      "titre": "T2 41,81 m² avec terrasse de 7,69 m² et parking, Cenon (tram A Morlette)",
+      "trajet_estime_min": 33,
+      "trajet_link_itineraire": "tram C puis tram D",
+      "trajet_link_min": 33,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+      "trajet_omnes_min": 30,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T14:28",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297372556A1KILHAP000",
+      "ville": "Cenon",
+      "vue_le": "2026-11-16T14:28",
+      "zone": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier"
     },
     "3b657549125d": {
       "charges": 130,
@@ -502,7 +620,48 @@
       "vue_le": "2026-11-15T18:59",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
+    "7513ebee7cd1": {
+      "charges": 41,
+      "code_postal": "33310",
+      "contact": "Citya Belvia Bordeaux",
+      "description": "Agence Citya (Belvia Bordeaux). 4e étage avec ascenseur, chambre, kitchenette, salle d'eau, balcon de 4 m², place de parking intérieure. Tram A Gravières à proximité. Dossier soumis à assurance GLI, loi Pinel.",
+      "disponible": null,
+      "exterieur": "balcon 4 m²",
+      "loyer_cc": 559,
+      "loyer_total": 559,
+      "meuble": false,
+      "parking": "place de parking intérieure réservée",
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/box.ics.fr/59/f1/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUxBVVJFQS0xODM3Mzg3NzIwNTgwODM4NjcwOC5qcGc_MjAyNjExMDUyMDE2NTQ_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+      ],
+      "publie_le": "2026-11-05",
+      "quartier": "Gravières",
+      "raisons_rejet": [],
+      "site": "ParuVendu",
+      "statut": "correspond",
+      "surface_m2": 40.5,
+      "titre": "T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 35,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T14:28",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297061000A1KILHAP000",
+      "ville": "Lormont",
+      "vue_le": "2026-11-16T14:28",
+      "zone": "Cenon / Lormont / Floirac (proche tram A)"
+    },
     "7a90aa69b983": {
+      "autres_urls": [
+        "https://www.paruvendu.fr/immobilier/location/appartement/1297314031A1KILHAP000"
+      ],
       "code_postal": "33310",
       "description": "Location appartement à Lormont - 663 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Lormont Location Lormont Location appartement Lormont Location appartement 2 pièces Lormont Location appartement 43 m² 663 € Appartement T2 à louer à Lormont 663 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > 1 photo 🔥 Moins de 7 jours Lormont (33310) 43 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-113712483742 Description de l'appartement Tout savoir sur ce bien À LOUER : Un appartement T2 flamboyant situé au cœur de Lormont, prêt à vous accueillir pour des moments de vie mémorables ! Imaginez-vous sur le 6ème étage, profitant d'une vue imprenable tout en savourant votre café du matin sur votre balcon ensoleillé. Voir plus Avec une superficie de 43 mètres carrés, ce bijou vous offre un espace parfaitement agencé pour allier confort et praticité. L’appartement se compose d’une chambre douillette, d’un salon chaleureux et d’une cuisine entièrement équipée qui fera le bonheur des chefs en herbe. Que vous soyez un amateur de gastronomie ou un simple réchauffeur de plats, cette cuisine est prête à relever tous les défis culinaires. Et pour les journées plus fraîches, le chauffage collectif alimenté par radiateurs vous promet un cocon douillet tout au long de l’année. Vous aurez également le plaisir de bénéficier d’un emplacement idéal, avec une multitude de commodités à proximité. Une épicerie turque BIMA à moins de 500 mètres pour vos courses de dernière minute, et plusieurs supermarchés tels qu’Aldi et Carrefour à portée de main. Envie d’un croissant chaud ? Pas de souci, les boulangeries comme \"L'épi de blé\" et \"L'étoile d'or\" ne sont jamais loin ! Pour les familles, la zone est entourée d’écoles, allant de l’école élémentaire aux lycées, permettant à vos enfants de grandir dans un environnement propice à l’apprentissage. Si vous êtes étudiant, la proximité des universités comme l'INSEEC et l'Université de Bordeaux est un atout indéniable. Et parce qu'on ne peut pas tout transporter à la main, un parking est également à votre disposition. Sans compter un lift pour vous éviter de porter vos courses dans les escaliers. Ne laissez pas passer cette opportunité en or ! Pour toute question ou pour organiser une visite, contactez Citya Burdigala au 05 57 14 30 73. Dossier soumis à assurance Gli et loi Pinel. Venez découvrir votre futur chez-vous à Lormont !. Le bien est soumis au statut de la copropriété. Loyer de 663,12 euros par mois charges",
       "exterieur": "d'une vue imprenable tout en savourant votre café du matin sur votre balcon ensoleillé",
@@ -532,7 +691,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
       "ville": "Lormont",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "8a0d1f644ead": {
@@ -570,7 +729,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103007824",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "8f0e184a0859": {
@@ -602,7 +761,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
@@ -639,7 +798,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659",
       "ville": "Mérignac",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "927121ed812e": {
@@ -749,7 +908,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465",
       "ville": "Bruges",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Bruges"
     },
     "a8574356ecf4": {
@@ -826,6 +985,45 @@
       "vue_le": "2026-11-13T14:52",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
+    "b1137ded1303": {
+      "charges": 70,
+      "code_postal": "33150",
+      "contact": "Citya Lanaverre",
+      "description": "Agence Citya Lanaverre. T3 récent de 55 m² au 2e étage, deux chambres, balcon, parking, chauffage individuel au gaz. Proche Lidl et Intermarché.",
+      "disponible": null,
+      "exterieur": "balcon",
+      "loyer_cc": 748,
+      "loyer_total": 748,
+      "meuble": false,
+      "parking": "parking",
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/box.ics.fr/7d/ac/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLU1FWlpPLTc2NjUwODAxMTEwNTY1ODM1MTQuanBnPzIwMjYxMDI2MTI0MDIz_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 3,
+      "points_a_verifier": [
+        "loyer 748 € légèrement au dessus de 700 €",
+        "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+      ],
+      "publie_le": "2026-10-26",
+      "quartier": null,
+      "raisons_rejet": [],
+      "site": "ParuVendu",
+      "statut": "a_verifier",
+      "surface_m2": 56,
+      "titre": "T3 56 m² au 2e étage avec balcon et parking, Cenon",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 35,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T14:28",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1295668563A1KILHAP000",
+      "ville": "Cenon",
+      "vue_le": "2026-11-16T14:28",
+      "zone": "Cenon / Lormont / Floirac (proche tram A)"
+    },
     "b2d4bac6de0e": {
       "code_postal": "33400",
       "description": "Location appartement étudiant Talence - à partir de 690 € - 39 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Location résidence étudiante Gironde Talence Location Talence Location appartement Talence Location appartement 2 pièces Talence Location résidence étudiante Talence Location appartement 39 m² 690 € Location appartement T2 meublé pour étudiant à Talence À partir de 690 € / mois charges comprises Récent Talence (33400) 39 m² 2 pièces Meublé Disponible immédiatement Logement partenaire Résidence étudiante Professionnel Réf. p-ij-1670471 Description de l'appartement T2 grand et moderne dans résidence étudiante à Talence T2 grand et moderne de 39m² moderne meublé et tout équipé (grande chambre, coin bureau, salle de bain, cuisine). Idéalement situé, il convient parfaitement à un étudiant souhaitant poursuivre ses études dans la ville. Cette résidence étudiante à Talence est parfaitement adaptée à un étudiant souhaitant poursuivre ses études à proximité de l'université. Idéalement située en face des vignobles du Château Haut-Brion, à proximité du pôle universitaire et de nombreuses écoles, elle est également tout proche du tramway et des commerces. Elle dispose de nombreux appartements de type T1 et T2 ainsi que des services tels qu'une salle de fitness, une laverie ainsi qu'un parking. Chauffage individuel. Voir la suite À propos du prix Loyer (charges comprises) À partir de 690 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (39 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Stationnement possible Découvrez votre quartier Talence (33400) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? NA Le DPE n’a pas été renseigné. Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : NA Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergie et l'impact environnemental du logement. Échelle DPE à partir de 2024 Logement économe A ≤ 70 kWh/m²/an B 71 à 110 kWh/m²/an C 111 à 180 kWh/m²/an D 181 à 250 kWh/m²/an E 251 à 330 kWh/m²/an F 331 à 420 kWh/m²/an G ≥ 421 kWh/m²/an Logement énergivore Note Consommation (kWh/m²/an) Description A ≤ 70 Logement très économe B 71 à 110 Logement économe C 111 à 180 Logement assez éco",
@@ -855,7 +1053,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -888,7 +1086,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "bb8ac95bdffe": {
@@ -1064,7 +1262,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -1136,8 +1334,46 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
+    },
+    "d6ee6182fc45": {
+      "charges": 25,
+      "code_postal": "33300",
+      "contact": "Citya Belvia Bordeaux",
+      "description": "Agence Citya Burdigala (Citya Belvia Bordeaux). 1er étage sans ascenseur : séjour de 20 m², chambre, cuisine avec cellier, salle de bains, balcon de 4,4 m², place de stationnement réservée. Chauffage électrique. Dossier soumis à assurance loyers impayés.",
+      "disponible": null,
+      "exterieur": "balcon 4,4 m²",
+      "loyer_cc": 733,
+      "loyer_total": 733,
+      "meuble": false,
+      "parking": "place de stationnement réservée",
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/box.ics.fr/d9/c8/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUVYVF8yMDE5LTcyNTA0MzQyNzQyMjk0MzI1MTEuanBnPzIwMjYxMTA2MjAxNjEz_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "loyer 733 € légèrement au dessus de 700 €"
+      ],
+      "publie_le": "2026-11-06",
+      "quartier": null,
+      "raisons_rejet": [],
+      "site": "ParuVendu",
+      "statut": "a_verifier",
+      "surface_m2": 46,
+      "titre": "T2 46 m² au 1er étage avec balcon et place de stationnement, Bordeaux 33300",
+      "trajet_estime_min": 28,
+      "trajet_link_itineraire": "tram B puis tram D",
+      "trajet_link_min": 28,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram B direct",
+      "trajet_omnes_min": 12,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T14:28",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297103108A1KILHAP000",
+      "ville": "Bordeaux",
+      "vue_le": "2026-11-16T14:28",
+      "zone": "Bordeaux Bassins à flot / Bacalan"
     },
     "e1a2f403adb8": {
       "charges": 60,
@@ -1206,7 +1442,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -1357,7 +1593,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -1390,7 +1626,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767",
       "ville": "Mérignac",
-      "vue_le": "2026-11-16T10:20",
+      "vue_le": "2026-11-16T14:25",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     }
   }

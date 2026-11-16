@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (17)
+## Annonces qui cochent tous les critères (20)
 
 ### T2 43,3 m² au 1er étage avec balcon et parking, Lormont
 
@@ -24,6 +24,21 @@
 - Disponible : ?, publiée le 2026-11-04
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/lormont-33310/appartement/331713974.htm)
+
+### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières) (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/59/f1/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUxBVVJFQS0xODM3Mzg3NzIwNTgwODM4NjcwOC5qcGc_MjAyNjExMDUyMDE2NTQ_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **559 €** (CC, parking inclus si en supplément)
+- Surface : 40.5 m², 2 pièce(s)
+- Localisation : Lormont 33310 (Gravières)
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
+- Extérieur : balcon 4 m²
+- Parking : place de parking intérieure réservée
+- Disponible : ?, publiée le 2026-11-05
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297061000A1KILHAP000)
 
 ### T2 38,4 m² avec balcon et parking en sous-sol, Lormont La Ramade
 
@@ -121,6 +136,20 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-cenon/200813)
 
+### T2 47 m² au 3e étage avec balcon et parking, Bordeaux Carle Vernet (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/22/dc/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUlNR180NTk5LTYzMzI3OTU2OTE5ODQwMjY2ODcuanBnPzIwMjYxMTE1MjAxNTU0_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **659 €** (CC, parking inclus si en supplément)
+- Surface : 47 m², 2 pièce(s)
+- Localisation : Bordeaux 33800 (Carle Vernet / Belcier)
+- Trajet Omnes (quai des Chartrons) : 28 min, tram C direct de Carle Vernet ou Belcier à Cours du Médoc, environ 20 min plus marche (estimation réseau, adresse exacte inconnue)
+- Trajet Link (rue de Turenne) : 30 min, tram D direct de Carle Vernet à Croix de Seguey, environ 22 min plus marche (estimation réseau)
+- Extérieur : balcon
+- Parking : parking extérieur inclus
+- Disponible : ?, publiée le 2026-11-15
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297470374A1KILHAP000)
+
 ### Appartement T2 à louer
 
 ![photo](https://img.locservice.fr/p2ZkDYtBosQrYWWN_hUtpMmsNKLXugaWEJ-2TFtEuXc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWM4NzEtMDMx/Zi03N2U5LThiMGIt/YmMxZWE3N2ZkMmYz/LTMxZGY5NDI5YmNm/N2QzMmFhNzBkZmU5/MmFkZjU4YjU4OGEy/OTYyNDIuanBn.jpg)
@@ -135,6 +164,7 @@
 - Disponible : ?, publiée le ?
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742)
+- Aussi publiée ici : [www.paruvendu.fr](https://www.paruvendu.fr/immobilier/location/appartement/1297314031A1KILHAP000)
 
 ### T2 46,49 m² résidence récente avec balcon et parking, Mérignac
 
@@ -170,6 +200,21 @@
 - Parking : place de parking
 - Disponible : immédiate, publiée le 2026-10-16
 - Source : [Foncia](https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm)
+
+### T2 41,81 m² avec terrasse de 7,69 m² et parking, Cenon (tram A Morlette) (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/17/03/LzY5NDUzOC81NTk1ODc4NjAvcGhvdG9zLzEuanBnPzIwMjYxMTEzMDcyMDM4_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **675 €** (CC, parking inclus si en supplément)
+- Surface : 41.81 m², 2 pièce(s)
+- Localisation : Cenon 33150 (Morlette / gare de Cenon)
+- Trajet Omnes (quai des Chartrons) : 30 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 33 min, tram C puis tram D
+- Extérieur : terrasse 7,69 m²
+- Parking : place de parking privative (38 € inclus dans le loyer)
+- Disponible : ?, publiée le 2026-11-13
+- A vérifier : trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297372556A1KILHAP000)
 
 ### Appartement T2 à louer
 
@@ -288,7 +333,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (10)
+## Annonces à vérifier (un seul point incertain) (13)
 
 ### T2 41,5 m² résidence neuve avec terrasse, Mérignac (nouvelle)
 
@@ -406,6 +451,21 @@
 - A vérifier : loyer 720.0 € légèrement au dessus de 700 €, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659)
 
+### T2 46 m² au 1er étage avec balcon et place de stationnement, Bordeaux 33300 (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/d9/c8/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUVYVF8yMDE5LTcyNTA0MzQyNzQyMjk0MzI1MTEuanBnPzIwMjYxMTA2MjAxNjEz_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **733 €** (CC, parking inclus si en supplément)
+- Surface : 46 m², 2 pièce(s)
+- Localisation : Bordeaux 33300
+- Trajet Omnes (quai des Chartrons) : 12 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
+- Extérieur : balcon 4,4 m²
+- Parking : place de stationnement réservée
+- Disponible : ?, publiée le 2026-11-06
+- A vérifier : loyer 733 € légèrement au dessus de 700 €
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297103108A1KILHAP000)
+
 ### Appartement T2 à louer
 
 ![photo](https://img.locservice.fr/HxMhqN8D5wTwJ68jLw3lz72_O_h2wkT8evD67OfsKXQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFmZmItMDFi/Yy03MzU5LWFiYjMt/NmIxMjRmNGM0NThi/LWFjYTMyODU2MjIz/MWVlOWM3NjMzZjY3/MGYyZTY2MDU1NDBj/YTMyOTIuanBn.jpg)
@@ -433,6 +493,36 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 740 € légèrement au dessus de 700 €
 - Source : [Echo Etienne immobilier](https://www.echoetienne.fr/immobilier/appartement-t2-bordeaux-location-fr_LA1994.htm)
+
+### T3 56 m² au 2e étage avec balcon et parking, Cenon (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/7d/ac/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLU1FWlpPLTc2NjUwODAxMTEwNTY1ODM1MTQuanBnPzIwMjYxMDI2MTI0MDIz_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **748 €** (CC, parking inclus si en supplément)
+- Surface : 56 m², 3 pièce(s)
+- Localisation : Cenon 33150
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
+- Extérieur : balcon
+- Parking : parking
+- Disponible : ?, publiée le 2026-10-26
+- A vérifier : loyer 748 € légèrement au dessus de 700 €, trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1295668563A1KILHAP000)
+
+### T2 45 m² rénové avec terrasse, cour privée et parking, Cenon (Directe Location) (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/b0/48/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS03NzY5LTEwXzEuanBnPzIwMjYxMTE2MTQxNzM1_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **750 €** (CC, parking inclus si en supplément)
+- Surface : 45 m², 2 pièce(s)
+- Localisation : Cenon 33150
+- Trajet Omnes (quai des Chartrons) : 25 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 28 min, tram A puis tram D
+- Extérieur : terrasse et cour privée
+- Parking : parking
+- Disponible : ?, publiée le 2026-11-16
+- A vérifier : loyer 750 € légèrement au dessus de 700 €
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
 ## Annonces incomplètes (plusieurs informations manquantes) (7)
 
