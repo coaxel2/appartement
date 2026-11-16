@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-16T11:18:32+01:00",
  "fin": null,
- "etape": "Lecture des fiches : T2 ParuVendu à Lormont, T3 Foncia à Lormont",
+ "etape": "Trajets Omnes et Link : Lormont (tram A puis C ou D, estimation du secteur à confirmer)",
  "etapes": [
   {
    "heure": "2026-11-16T11:18:32+01:00",
@@ -32,6 +32,11 @@
    "heure": "2026-11-16T11:21:55+01:00",
    "texte": "Lecture des fiches : T2 ParuVendu à Lormont, T3 Foncia à Lormont",
    "detail": "ParuVendu, Foncia"
+  },
+  {
+   "heure": "2026-11-16T11:22:19+01:00",
+   "texte": "Trajets Omnes et Link : Lormont (tram A puis C ou D, estimation du secteur à confirmer)",
+   "detail": "Réseau TBM"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond, 3 à vérifier",
@@ -43,5 +48,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T11:21:55+01:00"
+ "maj": "2026-11-16T11:22:19+01:00"
 }
