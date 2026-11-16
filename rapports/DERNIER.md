@@ -7,23 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (20)
-
-### T2 43,3 m² au 1er étage avec balcon et parking, Lormont
-
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e80447bc938e68e8897/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e80aeac99c478469ad1/1/1920/1024)
-
-- Loyer total : **545 €** (CC, parking inclus si en supplément)
-- Surface : 43.3 m², 2 pièce(s)
-- Localisation : Lormont 33310
-- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
-- Extérieur : balcon
-- Parking : place de parking
-- Disponible : ?, publiée le 2026-11-04
-- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/lormont-33310/appartement/331713974.htm)
+## Annonces qui cochent tous les critères (18)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières) (nouvelle)
 
@@ -39,22 +23,6 @@
 - Disponible : ?, publiée le 2026-11-05
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297061000A1KILHAP000)
-
-### T2 38,4 m² avec balcon et parking en sous-sol, Lormont La Ramade
-
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e808dd85f771b4f5fcc/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e80f2e4ac577729cdcc/1/1920/1024)
-
-- Loyer total : **585 €** (CC, parking inclus si en supplément)
-- Surface : 38.4 m², 2 pièce(s)
-- Localisation : Lormont 33310 (La Ramade)
-- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
-- Extérieur : balcon
-- Parking : place en sous-sol
-- Disponible : ?, publiée le 2026-09-24
-- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/lormont-33310/appartement/331715590.htm)
 
 ### T2 40,31 m² avec balcon et parking en sous-sol, Mérignac Les Eyquems (nouvelle)
 
@@ -73,22 +41,6 @@
 - Disponible : immédiate, publiée le 2026-10-28
 - A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/merignac-33700/appartement/331714833.htm)
-
-### T2 42,46 m² en RDC avec terrasse et parking, Mérignac Soleil
-
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e805e6c5e2ccf89a562/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e80bb8ea657f61b925a/1/1920/1024)
-
-- Loyer total : **616.02 €** (CC, parking inclus si en supplément)
-- Surface : 42.46 m², 2 pièce(s)
-- Localisation : Mérignac 33700 (Mérignac Soleil)
-- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
-- Extérieur : terrasse
-- Parking : place de parking
-- Disponible : ?, publiée le 2026-10-14
-- A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/merignac-33700/appartement/331722224.htm)
 
 ### T2 39,85 m² récent (2022) avec balcon et stationnement, Cenon gare
 
@@ -183,6 +135,21 @@
 - Disponible : immédiate, publiée le 2026-10-30
 - A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/merignac-33700/appartement/331720465.htm)
+
+### T2 50,84 m² au dernier étage avec balcon et parking privatif, Bègles rue Pauly (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/d5/83/L29mZmljZTEyL2F2YW50aV8wNzA3MjAyMS9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi81LzUvOC8wLzgvMi80NjU1ODA4MmEuanBnP0RBVEVNQUo9MjMvMDMvMjAyNS0wNDowMTowNiYyMDI2MTExMzA3MjExOA_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **670 €** (CC, parking inclus si en supplément)
+- Surface : 50.84 m², 2 pièce(s)
+- Localisation : Bègles 33130 (Rue Pauly)
+- Trajet Omnes (quai des Chartrons) : 35 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 40 min, tram C puis tram D
+- Extérieur : balcon 4 m²
+- Parking : place de parking privative
+- Disponible : fin septembre (à confirmer), publiée le 2026-11-13
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297298858A1KILHAP000)
 
 ### T2 rénové 55,75 m² avec terrasse et parking, Le Bouscat centre
 
@@ -335,37 +302,6 @@
 
 ## Annonces à vérifier (un seul point incertain) (13)
 
-### T2 41,5 m² résidence neuve avec terrasse, Mérignac (nouvelle)
-
-![photo](https://storage.fonciamillenium.net/thumbnail/6aec922b82feb8cde6e81e62/1/1920/1024)
-
-- Loyer total : **576 €** (CC, parking inclus si en supplément)
-- Surface : 41.5 m², 2 pièce(s)
-- Localisation : Mérignac 33700
-- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
-- Extérieur : terrasse
-- Parking : ?
-- Disponible : 2026-12-06, publiée le 2026-11-05
-- A vérifier : parking non précisé, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/merignac-33700/appartement/331728184.htm)
-
-### T2 41,75 m² programme neuf avec parking, Talence
-
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e8005bde530132ed441/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e801a20dc14194483e0/1/1920/1024)
-
-- Loyer total : **578 €** (CC, parking inclus si en supplément)
-- Surface : 41.75 m², 2 pièce(s)
-- Localisation : Talence 33400
-- Trajet Omnes (quai des Chartrons) : 32 min, tram B direct
-- Trajet Link (rue de Turenne) : 38 min, tram B puis tram D
-- Extérieur : ?
-- Parking : place de parking
-- Disponible : ?, publiée le 2026-10-01
-- A vérifier : extérieur non précisé, trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/talence-33400/appartement/331713062.htm)
-
 ### Appartement T2 meublé à louer
 
 ![photo](https://img.locservice.fr/8uJ8krV8C4gazZfwhCJ6BWhMhjWUoxbaST5mCEjRX7k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0N2YtZWMw/Ni03MTI2LTlkZTIt/NmNkYzM5MjY4MWVl/LTUzOWY3YTdjZTZh/YmY4MzFjZjRlMjJh/NmJlODJjY2E5ZTVi/MWM4ZDMuanBn.jpg)
@@ -380,6 +316,21 @@
 - Disponible : ?, publiée le ?
 - A vérifier : extérieur non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465)
+
+### T2 avec balcon et parking sécurisé, Mérignac Peychotte (Directe Location) (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/cf/93/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMTk1LTI2XzEuanBnPzIwMjYxMTE2MTQxNzU4_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **667 €** (CC, parking inclus si en supplément)
+- Surface : ?, 2 pièce(s)
+- Localisation : Mérignac 33700 (Peychotte)
+- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
+- Extérieur : balcon
+- Parking : parking sécurisé
+- Disponible : ?, publiée le 2026-11-16
+- A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297511993A1KILHAP000)
 
 ### Appartement T2 meublé à louer
 
@@ -419,6 +370,21 @@
 - Disponible : ?, publiée le ?
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [Capifrance](https://www.capifrance.fr/en/realestate/rental/apartment/merignac//595326)
+
+### T2 meublé 45 m² rénové avec loggia et parking, Mérignac stade du Jard (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/16/e2/L29mZmljZTEyL21vbmRlc2lyXzIwMDkxMS9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC8wLzQvOS80LzMvMy80NDA0OTQzM2EuanBnP0RBVEVNQUo9MDEvMDUvMjAyNS0xMzozMzoyMyYyMDI2MTEwNzA4MjcxOQ_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **702.59 €** (CC, parking inclus si en supplément)
+- Surface : 45.03 m², 2 pièce(s)
+- Localisation : Mérignac 33700 (Stade du Jard, résidence Brantôme)
+- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
+- Extérieur : loggia
+- Parking : place de parking extérieure privative
+- Disponible : 2026-12-01, publiée le 2026-11-07
+- A vérifier : loyer 702.59 € légèrement au dessus de 700 €, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297127048A1KILHAP000)
 
 ### Appartement T2 à louer
 

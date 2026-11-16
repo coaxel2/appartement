@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 43,
+   "total": 46,
    "par_statut": {
-    "correspond": 20,
+    "correspond": 21,
+    "a_verifier": 15,
     "rejetee": 3,
-    "a_verifier": 13,
     "incomplete": 7
    }
   },
-  "mise_a_jour": "2026-11-16T14:29"
+  "mise_a_jour": "2026-11-16T18:23"
  },
  "annonces": [
   {
@@ -761,7 +761,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -774,6 +774,50 @@
     "https://img.locservice.fr/nyDZ1cOioLOc_39uEfuJLtxLPZ4Ll0uuGrQttvTleZs/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0ZDItNDlj/My03ZjVkLTk0MDYt/OGQ2Mjk4ZGNhMDgw/LTZmOTk0ZGY1NGM2/NjEyODQwZmI4OTQ4/MGE3NjY5OWVjMzdl/NTQxM2YuanBn.jpg"
    ],
    "description": "Location appartement à Bègles - 678 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bègles Location Bègles Location appartement Bègles Location appartement 2 pièces Bègles Location appartement 44 m² 678 € Location appartement T2 à Bègles 678 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (wi"
+  },
+  {
+   "titre": "T2 meublé 45 m² rénové avec loggia et parking, Mérignac stade du Jard",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297127048A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 702.59,
+   "loyer_cc": 702.59,
+   "charges": 57,
+   "surface_m2": 45.03,
+   "pieces": 2,
+   "ville": "Mérignac",
+   "code_postal": "33700",
+   "quartier": "Stade du Jard, résidence Brantôme",
+   "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "loggia",
+   "trajet_omnes_min": 38,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D ou bus",
+   "trajet_link_verifie": false,
+   "parking": "place de parking extérieure privative",
+   "meuble": true,
+   "disponible": "2026-12-01",
+   "publie_le": "2026-11-07",
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 702.59 € légèrement au dessus de 700 €",
+    "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T18:22",
+   "vue_le": "2026-11-16T18:22",
+   "expiree": null,
+   "contact": "Mondésir Immobilier",
+   "signalee": null,
+   "id": "180b861d7131",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/16/e2/L29mZmljZTEyL21vbmRlc2lyXzIwMDkxMS9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC8wLzQvOS80LzMvMy80NDA0OTQzM2EuanBnP0RBVEVNQUo9MDEvMDUvMjAyNS0xMzozMzoyMyYyMDI2MTEwNzA4MjcxOQ_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Mondésir Immobilier, exclusivité. Meublé rénové en rez-de-chaussée, résidence calme : entrée avec placards, chambre, séjour, cuisine équipée (four, lave-linge) donnant sur une loggia, salle de bains avec WC, place de parking extérieure privative. Dépôt 1 291,18 €, honoraires 585,39 €. DPE en cours."
   },
   {
    "titre": "Appartement T2 meublé à louer",
@@ -808,7 +852,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -892,7 +936,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -940,7 +984,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -988,7 +1032,7 @@
     "loyer 733.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1117,8 +1161,8 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T18:59",
-   "expiree": false,
+   "vue_le": "2026-11-16T18:23",
+   "expiree": true,
    "contact": "Foncia, Ma location facile en ligne",
    "signalee": null,
    "id": "4190951dc430",
@@ -1127,6 +1171,50 @@
     "https://storage.fonciamillenium.net/thumbnail/64850e80aeac99c478469ad1/1/1920/1024"
    ],
    "description": "T2 au 1er étage avec balcon : séjour avec coin cuisine, salle d'eau avec WC, place de parking. Eau froide comprise, chauffage gaz individuel. Location 100 % en ligne (Loi Pinel)."
+  },
+  {
+   "titre": "T2 avec balcon et parking sécurisé, Mérignac Peychotte (Directe Location)",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297511993A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 667,
+   "loyer_cc": 667,
+   "charges": 58,
+   "surface_m2": null,
+   "pieces": 2,
+   "ville": "Mérignac",
+   "code_postal": "33700",
+   "quartier": "Peychotte",
+   "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 38,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D ou bus",
+   "trajet_link_verifie": false,
+   "parking": "parking sécurisé",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": "2026-11-16",
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "surface inconnue",
+    "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T18:22",
+   "vue_le": "2026-11-16T18:22",
+   "expiree": null,
+   "contact": "Directe Location (service payant)",
+   "signalee": null,
+   "id": "4380a930abd3",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/cf/93/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMTk1LTI2XzEuanBnPzIwMjYxMTE2MTQxNzU4_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Publié par Directe Location, un service payant de mise en relation (frais de dossier 220 €) : prudence avant de payer. T2 en très bon état, 609 € plus 58 € de charges, balcon, parking sécurisé, local vélos, résidence avec interphone, salon, chambre, salle d'eau, WC. Surface non indiquée."
   },
   {
    "titre": "T2 40,31 m² avec balcon et parking en sous-sol, Mérignac Les Eyquems",
@@ -1207,8 +1295,8 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T18:59",
-   "expiree": false,
+   "vue_le": "2026-11-16T18:23",
+   "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "58d00cf314fd",
@@ -1217,6 +1305,49 @@
     "https://storage.fonciamillenium.net/thumbnail/64850e80f2e4ac577729cdcc/1/1920/1024"
    ],
    "description": "Résidence sécurisée, 1er étage : séjour avec coin cuisine, chambre avec placard, salle de bains avec wc, balcon, parking en sous-sol. Eau comprise, chauffage collectif gaz."
+  },
+  {
+   "titre": "T2 50,84 m² au dernier étage avec balcon et parking privatif, Bègles rue Pauly",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297298858A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 670,
+   "loyer_cc": 670,
+   "charges": 30,
+   "surface_m2": 50.84,
+   "pieces": 2,
+   "ville": "Bègles",
+   "code_postal": "33130",
+   "quartier": "Rue Pauly",
+   "zone": "Bègles (proche tram C)",
+   "trajet_estime_min": 40,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon 4 m²",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 40,
+   "trajet_link_itineraire": "tram C puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "place de parking privative",
+   "meuble": false,
+   "disponible": "fin septembre (à confirmer)",
+   "publie_le": "2026-11-13",
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T18:22",
+   "vue_le": "2026-11-16T18:22",
+   "expiree": null,
+   "contact": "Avantim Aquitaine",
+   "signalee": null,
+   "id": "61801dd3298a",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/d5/83/L29mZmljZTEyL2F2YW50aV8wNzA3MjAyMS9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi81LzUvOC8wLzgvMi80NjU1ODA4MmEuanBnP0RBVEVNQUo9MjMvMDMvMjAyNS0wNDowMTowNiYyMDI2MTExMzA3MjExOA_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Agence Avantim Aquitaine, résidence La Scala. 2e et dernier étage sans ascenseur, résidence sécurisée de 2005 : entrée avec placard, séjour de 31 m² avec cuisine équipée, chambre avec placard, salle de bains, WC séparés, balcon de 4 m², place de parking privative. Chauffage électrique. Dépôt 640 €, honoraires 525,58 € plus état des lieux 157,83 €. L'annonce annonce une disponibilité fin septembre, à vérifier."
   },
   {
    "titre": "T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)",
@@ -1296,7 +1427,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1340,7 +1471,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1388,7 +1519,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1430,7 +1561,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1476,8 +1607,8 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-15T18:59",
-   "expiree": false,
+   "vue_le": "2026-11-16T18:23",
+   "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "927121ed812e",
@@ -1561,7 +1692,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1739,7 +1870,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1782,7 +1913,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1963,7 +2094,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2010,8 +2141,8 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-15T18:59",
-   "expiree": false,
+   "vue_le": "2026-11-16T18:23",
+   "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "ce5abd9ade5b",
@@ -2054,7 +2185,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2139,8 +2270,8 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-16T07:24",
-   "vue_le": "2026-11-16T07:24",
-   "expiree": null,
+   "vue_le": "2026-11-16T18:23",
+   "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "e1a2f403adb8",
@@ -2182,7 +2313,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2360,7 +2491,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2401,7 +2532,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T14:25",
+   "vue_le": "2026-11-16T18:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
