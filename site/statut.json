@@ -1,52 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-16T11:18:32+01:00",
- "fin": "2026-11-16T11:23:23+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-16T15:23:19+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-16T11:18:32+01:00",
+   "heure": "2026-11-16T15:23:19+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-16T11:18:34+01:00",
-   "texte": "Collecte directe LocService : T2 et T3 de la métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-16T11:20:28+01:00",
-   "texte": "Recherche web 1 à 7 / 25 : T2 et T3 balcon ou terrasse avec parking à Bordeaux, Talence, Bègles, Le Bouscat",
-   "detail": "Foncia, Square Habitat, Guy Hoquet, Century 21, PAP, SeLoger (extraits)"
-  },
-  {
-   "heure": "2026-11-16T11:20:59+01:00",
-   "texte": "Lecture des fiches : T2 Foncia à Bordeaux (Chartrons, Bacalan, Caudéran), T2 Guy Hoquet à Talence, T2 123loger aux Bassins à flot",
-   "detail": "Foncia, Guy Hoquet, 123loger"
-  },
-  {
-   "heure": "2026-11-16T11:21:27+01:00",
-   "texte": "Recherche web 8 à 14 / 25 : T2 et T3 balcon, loggia ou jardin avec parking à Cenon, Lormont, Floirac, Mérignac, Eysines",
-   "detail": "Foncia, Orpi, Laforêt, ParuVendu, Leboncoin (extraits)"
-  },
-  {
-   "heure": "2026-11-16T11:21:55+01:00",
-   "texte": "Lecture des fiches : T2 ParuVendu à Lormont, T3 Foncia à Lormont",
-   "detail": "ParuVendu, Foncia"
-  },
-  {
-   "heure": "2026-11-16T11:22:19+01:00",
-   "texte": "Trajets Omnes et Link : Lormont (tram A puis C ou D, estimation du secteur à confirmer)",
-   "detail": "Réseau TBM"
-  },
-  {
-   "heure": "2026-11-16T11:22:21+01:00",
-   "texte": "Photos et annonces retirées, puis rapport et mise à jour du site",
-   "detail": "outils/photos.py, rapports/DERNIER.md, site/donnees.json"
-  },
-  {
-   "heure": "2026-11-16T11:23:23+01:00",
-   "texte": "Recherche terminée",
-   "detail": "1 nouvelle annonce qui correspond"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond",
@@ -58,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T11:23:23+01:00"
+ "maj": "2026-11-16T15:23:19+01:00"
 }
