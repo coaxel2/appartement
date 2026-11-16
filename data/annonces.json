@@ -200,7 +200,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/p-cf-113073450803",
       "ville": "Bègles",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Bègles (proche tram C)"
     },
     "1f65a9e265ab": {
@@ -231,7 +231,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": null
     },
     "28f98e5645e1": {
@@ -267,7 +267,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/200813",
       "ville": "Cenon",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "2b66ed829479": {
@@ -307,7 +307,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113103084392",
       "ville": "Eysines",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Eysines (proche tram D)"
     },
     "3331658056fe": {
@@ -340,7 +340,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "4190951dc430": {
@@ -382,6 +382,47 @@
       "ville": "Lormont",
       "vue_le": "2026-11-15T18:59",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
+    },
+    "50f0f6ff9805": {
+      "charges": 61,
+      "code_postal": "33700",
+      "contact": "Foncia, dossier sur foncia.com",
+      "description": "Rez-de-chaussée d'une résidence sécurisée : entrée, séjour avec cuisine équipée, chambre avec placard, salle de bain, WC, balcon, parking en sous-sol. Chauffage individuel au gaz. Bien soumis à plafond de ressources. Libre.",
+      "disponible": "immédiate",
+      "exterieur": "balcon",
+      "loyer_cc": 609.41,
+      "loyer_total": 609.41,
+      "meuble": false,
+      "parking": "parking en sous-sol",
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/6ae30d07959e2bf0bf4e4bc0/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/6ae30d0b11be9181e8d67b40/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/6ae30d1211be9181e8d67b44/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/6ae30d1e959e2bf0bf4e4be3/1/1920/1024"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+      ],
+      "publie_le": "2026-10-28",
+      "quartier": "Les Eyquems",
+      "raisons_rejet": [],
+      "site": "Foncia",
+      "statut": "correspond",
+      "surface_m2": 40.31,
+      "titre": "T2 40,31 m² avec balcon et parking en sous-sol, Mérignac Les Eyquems",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D ou bus",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 38,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T07:24",
+      "url": "https://fr.foncia.com/location/merignac-33700/appartement/331714833.htm",
+      "ville": "Mérignac",
+      "vue_le": "2026-11-16T07:24",
+      "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "58d00cf314fd": {
       "charges": 100,
@@ -453,7 +494,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
       "ville": "Lormont",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "8a0d1f644ead": {
@@ -491,7 +532,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103007824",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "8f0e184a0859": {
@@ -523,7 +564,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
@@ -560,7 +601,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659",
       "ville": "Mérignac",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "927121ed812e": {
@@ -603,6 +644,43 @@
       "vue_le": "2026-11-15T18:59",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
+    "a08ba6be9d50": {
+      "charges": 40,
+      "code_postal": "33300",
+      "contact": "Echo Etienne immobilier, Bordeaux",
+      "description": "D'après l'extrait de recherche (site inaccessible depuis l'environnement de recherche) : T2 de 45 m² aux Chartrons, balcon et place de parking, loyer 700 € plus 40 € de provision sur charges. Disponibilité non précisée.",
+      "disponible": null,
+      "exterieur": "balcon",
+      "loyer_cc": 740,
+      "loyer_hc": 700,
+      "loyer_total": 740,
+      "meuble": null,
+      "parking": "place de parking",
+      "photos": [],
+      "pieces": 2,
+      "points_a_verifier": [
+        "loyer 740 € légèrement au dessus de 700 €"
+      ],
+      "publie_le": null,
+      "quartier": "Chartrons",
+      "raisons_rejet": [],
+      "site": "Echo Etienne immobilier",
+      "statut": "a_verifier",
+      "surface_m2": 45,
+      "titre": "T2 45 m² Chartrons avec balcon et parking",
+      "trajet_estime_min": 15,
+      "trajet_link_itineraire": "à pied ou bus",
+      "trajet_link_min": 15,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "à pied ou tram B",
+      "trajet_omnes_min": 10,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T07:24",
+      "url": "https://www.echoetienne.fr/immobilier/appartement-t2-bordeaux-location-fr_LA1994.htm",
+      "ville": "Bordeaux",
+      "vue_le": "2026-11-16T07:24",
+      "zone": "Bordeaux Chartrons / Jardin Public"
+    },
     "a358a5e47dad": {
       "code_postal": "33520",
       "description": "Location appartement meublé à Bruges - 625 € - 45 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bruges Location Bruges Location appartement Bruges Location appartement 2 pièces Bruges Location appartement 45 m² 625 € Appartement T2 meublé à louer à Bruges 625 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > 1 photo Récent Bruges (33520) 45 m² 2 pièces Meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-113066302465 Description de l'appartement Tout savoir sur ce bien À LOUER DISPONIBLE vers le 20/11/2026 Découvrez cet appartement T2 idéalement situé à Bruges, dans le quartier prisé du Tasta. Avec une superficie de 45 m², cet espace de vie lumineux et fonctionnel saura répondre à toutes vos attentes. Voir plus Dès votre entrée, vous serez séduit par son agencement optimisé. L'appartement dispose d'une chambre confortable, parfaite pour se reposer après une longue journée. Le séjour, spacieux et accueillant, est idéal pour recevoir vos amis ou profiter de moments de détente. La cuisine américaine aménagée, vous permettra de concocter de délicieux repas tout en restant en contact avec vos invités. Le chauffage individuel au gaz, avec des radiateurs, garantit un confort thermique optimal tout au long de l'année. Vous apprécierez également la salle d'eau bien agencée, qui offre un espace fonctionnel pour vos routines quotidiennes. Ce bien est situé dans une résidence sécurisée, vous offrant la tranquillité d'esprit. De plus, un emplacement de parking est inclus, un atout précieux dans cette zone. Bien que l'appartement ne soit pas meublé, cela vous laisse la liberté de personnaliser votre espace selon vos goûts et vos envies. N'attendez plus pour visiter cet appartement qui allie confort, praticité et emplacement de choix. Que vous soyez un jeune actif, un couple ou une personne à la recherche d'un nouveau chez-soi, cet appartement est fait pour vous. Contactez-nous dès maintenant pour organiser une visite et laissez-vous charmer par ce bien d'exception à Bruges. Le bien est soumis au statut de la copropriété. Loyer de 625,76 euros par mois charges comprises dont 47,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). Soit avec Assurance Habitation et Assistance* ( 22.42 euros ) : 648,18 euros. Les honoraires charge locataire sont de 597,35 euros ( soit 13,00 euros/m² ) dont 137,85 euros pour état des lieux ( soit 3,00 euros/m² ). Vous pouvez consulter les barèmes d'honoraires à l'adresse suivante : https://www.citya.com/ag",
@@ -633,8 +711,44 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465",
       "ville": "Bruges",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Bruges"
+    },
+    "a8574356ecf4": {
+      "code_postal": "33700",
+      "contact": "Capifrance",
+      "description": "D'après l'extrait de recherche (page protégée contre les robots) : T2 avec balcon et parking dans une résidence sécurisée à Capeyron, 700 € charges comprises. Surface non connue.",
+      "disponible": null,
+      "exterieur": "balcon",
+      "loyer_cc": 700,
+      "loyer_total": 700,
+      "meuble": null,
+      "parking": "parking",
+      "photos": [],
+      "pieces": 2,
+      "points_a_verifier": [
+        "surface inconnue",
+        "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+      ],
+      "publie_le": null,
+      "quartier": "Capeyron",
+      "raisons_rejet": [],
+      "site": "Capifrance",
+      "statut": "a_verifier",
+      "surface_m2": null,
+      "titre": "T2 avec balcon et parking, résidence sécurisée, Mérignac Capeyron",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D ou bus",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 38,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T07:24",
+      "url": "https://www.capifrance.fr/en/realestate/rental/apartment/merignac//595326",
+      "ville": "Mérignac",
+      "vue_le": "2026-11-16T07:24",
+      "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "b07a5dd84b1b": {
       "code_postal": "33000",
@@ -703,7 +817,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -736,7 +850,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "bb8ac95bdffe": {
@@ -912,7 +1026,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -984,8 +1098,47 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
+    },
+    "e1a2f403adb8": {
+      "charges": 60,
+      "code_postal": "33700",
+      "contact": "Foncia, dossier sur foncia.com",
+      "description": "Résidence neuve (Loi Pinel) : séjour avec cuisine, chambre, salle d'eau, terrasse. Parking non mentionné dans l'annonce : à demander à l'agence.",
+      "disponible": "2026-12-06",
+      "exterieur": "terrasse",
+      "loyer_cc": 576,
+      "loyer_total": 576,
+      "meuble": false,
+      "parking": null,
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/6aec922b82feb8cde6e81e62/1/1920/1024"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "parking non précisé",
+        "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+      ],
+      "publie_le": "2026-11-05",
+      "quartier": null,
+      "raisons_rejet": [],
+      "site": "Foncia",
+      "statut": "a_verifier",
+      "surface_m2": 41.5,
+      "titre": "T2 41,5 m² résidence neuve avec terrasse, Mérignac",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D ou bus",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 38,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T07:24",
+      "url": "https://fr.foncia.com/location/merignac-33700/appartement/331728184.htm",
+      "ville": "Mérignac",
+      "vue_le": "2026-11-16T07:24",
+      "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "e970227fa170": {
       "code_postal": "33310",
@@ -1015,7 +1168,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -1132,7 +1285,7 @@
     },
     "fa057336eb66": {
       "code_postal": "33480",
-      "description": "Location appartement à Castelnau-de-Médoc - 700 € - 65 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Castelnau-de-Médoc Location Castelnau-de-Médoc Location particulier Castelnau-de-Médoc Location appartement Castelnau-de-Médoc Location appartement particulier Castelnau-de-Médoc Location appartement 2 pièces Castelnau-de-Médoc Location appartement 65 m² 700 € Appartement T2 avec cuisine équipée à louer à Castelnau de Médoc entre particuliers 700 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°5\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 5 photos 🔥 Moins de 7 jours Castelnau-de-Médoc (33480) 65 m² 2 pièces Disponible à partir du 16 novembre 2026 Particulier Réf. 2624073 Le mot du propriétaire Apparemment style loft très clair donnant sur une cour intérieure fermée, cuisine équipée ouverte sur un grand espace de vie ,murs en pierre, insert bois nombreux rangements dont dressing dans la chambre, petit espace vert indépendant,salle de bain avec baignoire Beaucoup de charme Voir la suite À propos du prix Loyer (charges comprises) 700 € / mois Charges locatives 25 € / mois Montant du dépôt de garantie 675 € Honoraires ? 715 € 0 € Frais d'agence estimés pour un appartement d’une surface moyenne (65 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 11 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Balcon ou terrasse Baignoire Sans vis-à-vis Grand séjour Cuisine équipée Proximité transport Proximité commerce Découvrez votre quartier Castelnau-de-Médoc (33480) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? D Émission de gaz à effet de serre (GES) ? D Diagnostic de Performance Énergétique : D Le Diagnostic de Performanc",
+      "description": "Location appartement à Castelnau-de-Médoc - 700 € - 65 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Castelnau-de-Médoc Location Castelnau-de-Médoc Location particulier Castelnau-de-Médoc Location appartement Castelnau-de-Médoc Location appartement particulier Castelnau-de-Médoc Location appartement 2 pièces Castelnau-de-Médoc Location appartement 65 m² 700 € Appartement T2 avec cuisine équipée à louer à Castelnau de Médoc entre particuliers 700 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°5\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 5 photos 🔥 Moins de 7 jours Castelnau-de-Médoc (33480) 65 m² 2 pièces Disponible immédiatement Particulier Réf. 2624073 Le mot du propriétaire Apparemment style loft très clair donnant sur une cour intérieure fermée, cuisine équipée ouverte sur un grand espace de vie ,murs en pierre, insert bois nombreux rangements dont dressing dans la chambre, petit espace vert indépendant,salle de bain avec baignoire Beaucoup de charme Voir la suite À propos du prix Loyer (charges comprises) 700 € / mois Charges locatives 25 € / mois Montant du dépôt de garantie 675 € Honoraires ? 715 € 0 € Frais d'agence estimés pour un appartement d’une surface moyenne (65 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 11 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Balcon ou terrasse Baignoire Sans vis-à-vis Grand séjour Cuisine équipée Proximité transport Proximité commerce Découvrez votre quartier Castelnau-de-Médoc (33480) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? D Émission de gaz à effet de serre (GES) ? D Diagnostic de Performance Énergétique : D Le Diagnostic de Performance Énergétique (",
       "exterieur": "Les + de cette location Balcon ou terrasse Baignoire Sans vis-à-vis Grand séjour Cuisine équip",
       "loyer_cc": 700.0,
       "loyer_total": 700.0,
@@ -1166,7 +1319,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -1199,7 +1352,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767",
       "ville": "Mérignac",
-      "vue_le": "2026-11-15T18:20",
+      "vue_le": "2026-11-16T07:21",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     }
   }

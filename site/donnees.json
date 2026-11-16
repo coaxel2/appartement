@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 32,
+   "total": 36,
    "par_statut": {
-    "correspond": 15,
+    "correspond": 16,
     "rejetee": 3,
     "incomplete": 7,
-    "a_verifier": 7
+    "a_verifier": 10
    }
   },
-  "mise_a_jour": "2026-11-15T18:59"
+  "mise_a_jour": "2026-11-16T07:25"
  },
  "annonces": [
   {
@@ -720,7 +720,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -767,7 +767,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -808,7 +808,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -856,7 +856,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -904,7 +904,7 @@
     "loyer 733.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -957,6 +957,52 @@
     "https://storage.fonciamillenium.net/thumbnail/64850e80aeac99c478469ad1/1/1920/1024"
    ],
    "description": "T2 au 1er étage avec balcon : séjour avec coin cuisine, salle d'eau avec WC, place de parking. Eau froide comprise, chauffage gaz individuel. Location 100 % en ligne (Loi Pinel)."
+  },
+  {
+   "titre": "T2 40,31 m² avec balcon et parking en sous-sol, Mérignac Les Eyquems",
+   "site": "Foncia",
+   "url": "https://fr.foncia.com/location/merignac-33700/appartement/331714833.htm",
+   "autres_urls": null,
+   "loyer_total": 609.41,
+   "loyer_cc": 609.41,
+   "charges": 61,
+   "surface_m2": 40.31,
+   "pieces": 2,
+   "ville": "Mérignac",
+   "code_postal": "33700",
+   "quartier": "Les Eyquems",
+   "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 38,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D ou bus",
+   "trajet_link_verifie": false,
+   "parking": "parking en sous-sol",
+   "meuble": false,
+   "disponible": "immédiate",
+   "publie_le": "2026-10-28",
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T07:24",
+   "vue_le": "2026-11-16T07:24",
+   "expiree": null,
+   "contact": "Foncia, dossier sur foncia.com",
+   "signalee": null,
+   "id": "50f0f6ff9805",
+   "photos_urls": [
+    "https://storage.fonciamillenium.net/thumbnail/6ae30d07959e2bf0bf4e4bc0/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/6ae30d0b11be9181e8d67b40/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/6ae30d1211be9181e8d67b44/1/1920/1024",
+    "https://storage.fonciamillenium.net/thumbnail/6ae30d1e959e2bf0bf4e4be3/1/1920/1024"
+   ],
+   "description": "Rez-de-chaussée d'une résidence sécurisée : entrée, séjour avec cuisine équipée, chambre avec placard, salle de bain, WC, balcon, parking en sous-sol. Chauffage individuel au gaz. Bien soumis à plafond de ressources. Libre."
   },
   {
    "titre": "T2 38,4 m² avec balcon et parking en sous-sol, Lormont La Ramade",
@@ -1035,7 +1081,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1079,7 +1125,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1127,7 +1173,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1169,7 +1215,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1227,6 +1273,47 @@
    "description": "Résidence récente et sécurisée, rez-de-chaussée : entrée, séjour, cuisine équipée, chambre avec placard, salle d'eau avec wc, terrasse, place de parking. Eau froide incluse, chauffage gaz individuel. Pré-visite virtuelle sur le site Foncia. Trajets à confirmer depuis Mérignac Soleil."
   },
   {
+   "titre": "T2 45 m² Chartrons avec balcon et parking",
+   "site": "Echo Etienne immobilier",
+   "url": "https://www.echoetienne.fr/immobilier/appartement-t2-bordeaux-location-fr_LA1994.htm",
+   "autres_urls": null,
+   "loyer_total": 740,
+   "loyer_cc": 740,
+   "charges": 40,
+   "surface_m2": 45,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33300",
+   "quartier": "Chartrons",
+   "zone": "Bordeaux Chartrons / Jardin Public",
+   "trajet_estime_min": 15,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 10,
+   "trajet_omnes_itineraire": "à pied ou tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 15,
+   "trajet_link_itineraire": "à pied ou bus",
+   "trajet_link_verifie": false,
+   "parking": "place de parking",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 740 € légèrement au dessus de 700 €"
+   ],
+   "trouvee_le": "2026-11-16T07:24",
+   "vue_le": "2026-11-16T07:24",
+   "expiree": null,
+   "contact": "Echo Etienne immobilier, Bordeaux",
+   "signalee": null,
+   "id": "a08ba6be9d50",
+   "photos_urls": [],
+   "description": "D'après l'extrait de recherche (site inaccessible depuis l'environnement de recherche) : T2 de 45 m² aux Chartrons, balcon et place de parking, loyer 700 € plus 40 € de provision sur charges. Disponibilité non précisée."
+  },
+  {
    "titre": "Appartement T2 meublé à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465",
@@ -1259,7 +1346,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1268,6 +1355,48 @@
     "https://img.locservice.fr/8uJ8krV8C4gazZfwhCJ6BWhMhjWUoxbaST5mCEjRX7k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0N2YtZWMw/Ni03MTI2LTlkZTIt/NmNkYzM5MjY4MWVl/LTUzOWY3YTdjZTZh/YmY4MzFjZjRlMjJh/NmJlODJjY2E5ZTVi/MWM4ZDMuanBn.jpg"
    ],
    "description": "Location appartement meublé à Bruges - 625 € - 45 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bruges Location Bruges Location appartement Bruges Location appartement 2 pièces Bruges Location appartement 45 m² 625 € Appartement T2 meublé à louer à Bruges 625 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768p"
+  },
+  {
+   "titre": "T2 avec balcon et parking, résidence sécurisée, Mérignac Capeyron",
+   "site": "Capifrance",
+   "url": "https://www.capifrance.fr/en/realestate/rental/apartment/merignac//595326",
+   "autres_urls": null,
+   "loyer_total": 700,
+   "loyer_cc": 700,
+   "charges": null,
+   "surface_m2": null,
+   "pieces": 2,
+   "ville": "Mérignac",
+   "code_postal": "33700",
+   "quartier": "Capeyron",
+   "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 38,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D ou bus",
+   "trajet_link_verifie": false,
+   "parking": "parking",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "surface inconnue",
+    "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T07:24",
+   "vue_le": "2026-11-16T07:24",
+   "expiree": null,
+   "contact": "Capifrance",
+   "signalee": null,
+   "id": "a8574356ecf4",
+   "photos_urls": [],
+   "description": "D'après l'extrait de recherche (page protégée contre les robots) : T2 avec balcon et parking dans une résidence sécurisée à Capeyron, 700 € charges comprises. Surface non connue."
   },
   {
    "titre": "Appartement T2 à louer",
@@ -1351,7 +1480,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1394,7 +1523,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1575,7 +1704,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1666,13 +1795,57 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "d6674ab60027",
    "photos_urls": [],
    "description": "Location appartement à Bordeaux - 705 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 43 m² 705 € Location appartement T2 à Bordeaux 705 € / mois charges comprises 🔥 Moins de 7 jours Bordeaux (33000) 43 m² 2 pièces Non meublé Disponible immédiat"
+  },
+  {
+   "titre": "T2 41,5 m² résidence neuve avec terrasse, Mérignac",
+   "site": "Foncia",
+   "url": "https://fr.foncia.com/location/merignac-33700/appartement/331728184.htm",
+   "autres_urls": null,
+   "loyer_total": 576,
+   "loyer_cc": 576,
+   "charges": 60,
+   "surface_m2": 41.5,
+   "pieces": 2,
+   "ville": "Mérignac",
+   "code_postal": "33700",
+   "quartier": null,
+   "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "terrasse",
+   "trajet_omnes_min": 38,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D ou bus",
+   "trajet_link_verifie": false,
+   "parking": null,
+   "meuble": false,
+   "disponible": "2026-12-06",
+   "publie_le": "2026-11-05",
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "parking non précisé",
+    "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-16T07:24",
+   "vue_le": "2026-11-16T07:24",
+   "expiree": null,
+   "contact": "Foncia, dossier sur foncia.com",
+   "signalee": null,
+   "id": "e1a2f403adb8",
+   "photos_urls": [
+    "https://storage.fonciamillenium.net/thumbnail/6aec922b82feb8cde6e81e62/1/1920/1024"
+   ],
+   "description": "Résidence neuve (Loi Pinel) : séjour avec cuisine, chambre, salle d'eau, terrasse. Parking non mentionné dans l'annonce : à demander à l'agence."
   },
   {
    "titre": "Appartement T2 à louer",
@@ -1707,7 +1880,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1885,7 +2058,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1926,7 +2099,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-15T18:20",
+   "vue_le": "2026-11-16T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
