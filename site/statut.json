@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-16T08:19:31+01:00",
  "fin": null,
- "etape": "Recherche web 8 à 14 / 25 : T2 et T3 balcon, terrasse ou loggia avec parking à Talence, Bègles, Cenon, Lormont, Floirac",
+ "etape": "Lecture des fiches : T2 Foncia à Lormont, T2 123loger à Cenon",
  "etapes": [
   {
    "heure": "2026-11-16T08:19:31+01:00",
@@ -27,6 +27,11 @@
    "heure": "2026-11-16T08:22:42+01:00",
    "texte": "Recherche web 8 à 14 / 25 : T2 et T3 balcon, terrasse ou loggia avec parking à Talence, Bègles, Cenon, Lormont, Floirac",
    "detail": "Foncia, Laforêt, 123loger, ParuVendu, PAP (extraits)"
+  },
+  {
+   "heure": "2026-11-16T08:23:06+01:00",
+   "texte": "Lecture des fiches : T2 Foncia à Lormont, T2 123loger à Cenon",
+   "detail": "Foncia, 123loger"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond, 1 à vérifier",
@@ -38,5 +43,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T08:22:42+01:00"
+ "maj": "2026-11-16T08:23:06+01:00"
 }
