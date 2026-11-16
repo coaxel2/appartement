@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-16T19:18:46+01:00",
  "fin": null,
- "etape": "Recherche web 1 à 5 : T2 balcon parking sur les sites protégés (extraits seulement)",
+ "etape": "Trajets Omnes et Link : Bègles rue Pauly (tram C), Mérignac stade du Jard et Peychotte (estimations à confirmer)",
  "etapes": [
   {
    "heure": "2026-11-16T19:18:46+01:00",
@@ -27,6 +27,11 @@
    "heure": "2026-11-16T19:21:49+01:00",
    "texte": "Recherche web 1 à 5 : T2 balcon parking sur les sites protégés (extraits seulement)",
    "detail": "SeLoger, Leboncoin, PAP, Logic-Immo, Bien'ici"
+  },
+  {
+   "heure": "2026-11-16T19:22:28+01:00",
+   "texte": "Trajets Omnes et Link : Bègles rue Pauly (tram C), Mérignac stade du Jard et Peychotte (estimations à confirmer)",
+   "detail": "Réseau TBM"
   }
  ],
  "resume": "3 nouvelles annonces qui correspondent, 3 à vérifier",
@@ -38,5 +43,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T19:21:49+01:00"
+ "maj": "2026-11-16T19:22:28+01:00"
 }
