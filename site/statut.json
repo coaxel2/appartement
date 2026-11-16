@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-16T08:19:31+01:00",
  "fin": null,
- "etape": "Trajets Omnes et Link : Chartrons (à pied ou tram B), Mérignac Eyquems et Capeyron (estimations à confirmer)",
+ "etape": "Photos et annonces retirées, puis rapport et mise à jour du site",
  "etapes": [
   {
    "heure": "2026-11-16T08:19:31+01:00",
@@ -47,6 +47,11 @@
    "heure": "2026-11-16T08:24:14+01:00",
    "texte": "Trajets Omnes et Link : Chartrons (à pied ou tram B), Mérignac Eyquems et Capeyron (estimations à confirmer)",
    "detail": "Réseau TBM"
+  },
+  {
+   "heure": "2026-11-16T08:24:16+01:00",
+   "texte": "Photos et annonces retirées, puis rapport et mise à jour du site",
+   "detail": "outils/photos.py, rapports/DERNIER.md, site/donnees.json"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond, 1 à vérifier",
@@ -58,5 +63,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T08:24:14+01:00"
+ "maj": "2026-11-16T08:24:16+01:00"
 }
