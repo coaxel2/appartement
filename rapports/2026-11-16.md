@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (16)
+## Annonces qui cochent tous les critères (17)
 
 ### T2 43,3 m² au 1er étage avec balcon et parking, Lormont
 
@@ -238,6 +238,21 @@
 - Disponible : ?, publiée le ?
 - A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767)
+
+### T2 45 m² au 2e étage avec balcon et parking, Lormont (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/43/3e/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUJBTENPTi02Nzc4OTkxNDY1OTI0NjUyMzMwLmpwZz8yMDI2MTExNTIwMTU1NA_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **690 €** (CC, parking inclus si en supplément)
+- Surface : 45 m², 2 pièce(s)
+- Localisation : Lormont 33310
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
+- Extérieur : balcon, orientation plein sud
+- Parking : place de parking réservée
+- Disponible : ?, publiée le 2026-11-15
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297470376A1KILHAP000)
 
 ### T2 38 m² non meublé avec balcon et parking, Talence
 

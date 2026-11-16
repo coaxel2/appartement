@@ -200,7 +200,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/p-cf-113073450803",
       "ville": "Bègles",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Bègles (proche tram C)"
     },
     "1f65a9e265ab": {
@@ -231,7 +231,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": null
     },
     "28f98e5645e1": {
@@ -267,7 +267,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/200813",
       "ville": "Cenon",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "2b66ed829479": {
@@ -307,7 +307,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113103084392",
       "ville": "Eysines",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Eysines (proche tram D)"
     },
     "3331658056fe": {
@@ -340,8 +340,46 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
+    },
+    "3b657549125d": {
+      "charges": 130,
+      "code_postal": "33310",
+      "contact": "Citya Immobilier Atlantis",
+      "description": "Agence Citya Immobilier Atlantis. 2e étage avec ascenseur, séjour de 22,9 m² plein sud, cuisine aménagée et équipée, chambre, salle d'eau, balcon, place de parking réservée. DPE A. Proche ALDI et Carrefour. Dépôt de garantie 560 €, honoraires 590 €. Annonce mise à jour le 15/11/2026.",
+      "disponible": null,
+      "exterieur": "balcon, orientation plein sud",
+      "loyer_cc": 690,
+      "loyer_total": 690,
+      "meuble": false,
+      "parking": "place de parking réservée",
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/box.ics.fr/43/3e/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUJBTENPTi02Nzc4OTkxNDY1OTI0NjUyMzMwLmpwZz8yMDI2MTExNTIwMTU1NA_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+      ],
+      "publie_le": "2026-11-15",
+      "quartier": null,
+      "raisons_rejet": [],
+      "site": "ParuVendu",
+      "statut": "correspond",
+      "surface_m2": 45,
+      "titre": "T2 45 m² au 2e étage avec balcon et parking, Lormont",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 35,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-16T10:22",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297470376A1KILHAP000",
+      "ville": "Lormont",
+      "vue_le": "2026-11-16T10:23",
+      "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "4190951dc430": {
       "charges": 45,
@@ -494,7 +532,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
       "ville": "Lormont",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "8a0d1f644ead": {
@@ -532,7 +570,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103007824",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "8f0e184a0859": {
@@ -564,7 +602,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
@@ -601,7 +639,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659",
       "ville": "Mérignac",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "927121ed812e": {
@@ -711,7 +749,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465",
       "ville": "Bruges",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Bruges"
     },
     "a8574356ecf4": {
@@ -817,7 +855,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -850,7 +888,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "bb8ac95bdffe": {
@@ -1026,7 +1064,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -1098,7 +1136,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "e1a2f403adb8": {
@@ -1168,7 +1206,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -1319,7 +1357,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -1352,7 +1390,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767",
       "ville": "Mérignac",
-      "vue_le": "2026-11-16T07:21",
+      "vue_le": "2026-11-16T10:20",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     }
   }
