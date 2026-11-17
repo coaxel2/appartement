@@ -667,8 +667,9 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (3)
+## Annonces écartées (4)
 
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314) : commune hors zone de trajet
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
+- [Appartement T2 Bordeaux Caudéran](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/8f385ab5-ec8d-494c-83e2-c5ff08349a3a) : loyer 751.6 € > 750 €
