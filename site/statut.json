@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-17T15:20:21+01:00",
  "fin": null,
- "etape": "Recherche web 1 / 6 : T2 et T3 balcon parking, Bordeaux, Le Bouscat, Bruges, novembre 2026",
+ "etape": "Lecture des fiches Foncia et Laforêt : T2 à Mérignac, Eysines, Le Bouscat",
  "etapes": [
   {
    "heure": "2026-11-17T15:20:21+01:00",
@@ -27,6 +27,11 @@
    "heure": "2026-11-17T15:23:25+01:00",
    "texte": "Recherche web 1 / 6 : T2 et T3 balcon parking, Bordeaux, Le Bouscat, Bruges, novembre 2026",
    "detail": "Sites d'agences et particuliers"
+  },
+  {
+   "heure": "2026-11-17T15:23:45+01:00",
+   "texte": "Lecture des fiches Foncia et Laforêt : T2 à Mérignac, Eysines, Le Bouscat",
+   "detail": "Foncia, Laforêt"
   }
  ],
  "resume": "Aucune nouvelle annonce qui correspond",
@@ -38,5 +43,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-17T15:23:25+01:00"
+ "maj": "2026-11-17T15:23:45+01:00"
 }
