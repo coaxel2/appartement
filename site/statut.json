@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-17T19:18:18+01:00",
  "fin": null,
- "etape": "Lecture des fiches : T2 Square Habitat Bordeaux et Caudéran, T2 Orpi Euratlantique",
+ "etape": "Recherche web 4 à 5 : T2 terrasse ou jardin avec parking, Bruges, Blanquefort, Pessac, Talence",
  "etapes": [
   {
    "heure": "2026-11-17T19:18:18+01:00",
@@ -27,6 +27,11 @@
    "heure": "2026-11-17T19:20:45+01:00",
    "texte": "Lecture des fiches : T2 Square Habitat Bordeaux et Caudéran, T2 Orpi Euratlantique",
    "detail": "Square Habitat, Orpi"
+  },
+  {
+   "heure": "2026-11-17T19:21:10+01:00",
+   "texte": "Recherche web 4 à 5 : T2 terrasse ou jardin avec parking, Bruges, Blanquefort, Pessac, Talence",
+   "detail": "LocService, Orpi, agences locales"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond : T2 44 m² à Floirac, 680 € CC",
@@ -38,5 +43,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-17T19:20:45+01:00"
+ "maj": "2026-11-17T19:21:10+01:00"
 }
