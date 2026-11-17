@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-17T11:18:12+01:00",
  "fin": null,
- "etape": "Collecte directe LocService : T2 et T3 de la métropole",
+ "etape": "Lecture des listes ParuVendu : T2 et T3 à louer dans 12 communes de la métropole",
  "etapes": [
   {
    "heure": "2026-11-17T11:18:12+01:00",
@@ -12,6 +12,11 @@
    "heure": "2026-11-17T11:18:14+01:00",
    "texte": "Collecte directe LocService : T2 et T3 de la métropole",
    "detail": "LocService"
+  },
+  {
+   "heure": "2026-11-17T11:19:59+01:00",
+   "texte": "Lecture des listes ParuVendu : T2 et T3 à louer dans 12 communes de la métropole",
+   "detail": "ParuVendu (pages publiques)"
   }
  ],
  "resume": "0 nouvelle annonce qui correspond, 3 incomplètes ou à vérifier",
@@ -23,5 +28,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-17T11:18:14+01:00"
+ "maj": "2026-11-17T11:19:59+01:00"
 }
