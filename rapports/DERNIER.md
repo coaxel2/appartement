@@ -561,6 +561,11 @@
 
 ### Appartement T2 meublé à louer (nouvelle)
 
+![photo](https://img.locservice.fr/xfwOri7HhizRr9aGyrwnWmoa7pIELLOP_tr7i4pvmn4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU4NGUtODBh/Zi03OWZhLWEwOWEt/MWUwNzFiNGJjODhj/LTgzNDlkOGY4NzIy/NTEwMDEzOTAyOTY0/ZjllNDQyNzBlZTgw/NzEwYmEuanBn.jpg)
+![photo](https://img.locservice.fr/8tHse8OMGOqZt1E7xo4iYVM-tRmQ0IlPWrEvnv0NsHE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU4NGUtODBh/Zi03OWZhLWEwOWEt/MWUwNzFiNGJjODhj/LTA1NTIxYWYwMjcy/NmNmM2JhNzU2ZjRk/Njc0M2VlZmFiNGQ0/NGE1MzEuanBn.jpg)
+![photo](https://img.locservice.fr/_O5gLVu4hOiCmFS2DtYuZM20XZxbLI1ympUE7sJaPPg/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU4NGUtODBh/Zi03OWZhLWEwOWEt/MWUwNzFiNGJjODhj/LWRlZjg1NmRmYTJh/Njk0NzE2MDg5Y2Uz/ZmY2MmIwY2YyOTI2/NWVjOTIuanBn.jpg)
+![photo](https://img.locservice.fr/wFvFgOkTAkHlQ3XCq5ACTfkvOd7Q4jx6zvZ-nF60oEQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU4NGUtODBh/Zi03OWZhLWEwOWEt/MWUwNzFiNGJjODhj/LWFiOGFlNWIxMTUz/MTAxYjI0MmJiM2Q2/MmE5YjA2MTU3Mzc5/MThlY2UuanBn.jpg)
+
 - Loyer total : **715 €** (CC, parking inclus si en supplément)
 - Surface : 43 m², 2 pièce(s)
 - Localisation : Bordeaux 33000
