@@ -1,47 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-16T19:18:46+01:00",
- "fin": "2026-11-16T19:23:48+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-17T08:18:56+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-16T19:18:46+01:00",
+   "heure": "2026-11-17T08:18:56+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-16T19:18:48+01:00",
-   "texte": "Collecte directe LocService : T2 et T3 de la métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-16T19:20:44+01:00",
-   "texte": "Lecture des listes ParuVendu : T2 et T3 à louer dans 12 communes de la métropole",
-   "detail": "ParuVendu (pages publiques)"
-  },
-  {
-   "heure": "2026-11-16T19:21:35+01:00",
-   "texte": "Lecture des fiches ParuVendu : T2 balcon et parking à Bègles, T2 loggia et parking à Mérignac",
-   "detail": "ParuVendu"
-  },
-  {
-   "heure": "2026-11-16T19:21:49+01:00",
-   "texte": "Recherche web 1 à 5 : T2 balcon parking sur les sites protégés (extraits seulement)",
-   "detail": "SeLoger, Leboncoin, PAP, Logic-Immo, Bien'ici"
-  },
-  {
-   "heure": "2026-11-16T19:22:28+01:00",
-   "texte": "Trajets Omnes et Link : Bègles rue Pauly (tram C), Mérignac stade du Jard et Peychotte (estimations à confirmer)",
-   "detail": "Réseau TBM"
-  },
-  {
-   "heure": "2026-11-16T19:22:30+01:00",
-   "texte": "Photos et annonces retirées, puis rapport et mise à jour du site",
-   "detail": "outils/photos.py, rapports/DERNIER.md, site/donnees.json"
-  },
-  {
-   "heure": "2026-11-16T19:23:48+01:00",
-   "texte": "Recherche terminée",
-   "detail": "1 nouvelle annonce qui correspond, 2 à vérifier"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond, 2 à vérifier",
@@ -53,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-16T19:23:48+01:00"
+ "maj": "2026-11-17T08:18:56+01:00"
 }
