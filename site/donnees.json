@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 46,
+   "total": 49,
    "par_statut": {
     "correspond": 21,
-    "a_verifier": 15,
+    "a_verifier": 16,
     "rejetee": 3,
-    "incomplete": 7
+    "incomplete": 9
    }
   },
-  "mise_a_jour": "2026-11-16T18:23"
+  "mise_a_jour": "2026-11-17T07:24"
  },
  "annonces": [
   {
@@ -592,6 +592,48 @@
     "https://img.paruvendu.fr/media_ext/box.ics.fr/22/dc/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUlNR180NTk5LTYzMzI3OTU2OTE5ODQwMjY2ODcuanBnPzIwMjYxMTE1MjAxNTU0_rct?func=crop&w=1000&gravity=auto"
    ],
    "description": "Agence Citya Immobilier Atlantis. T2 moderne de 47 m² au 3e étage : séjour lumineux, cuisine, chambre, salle de bain, balcon, parking extérieur inclus. Chauffage électrique individuel. Proche école Carle Vernet et JUNIA."
+  },
+  {
+   "titre": "T2 avec parking, Mérignac",
+   "site": "RIB Immobilier",
+   "url": "https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html",
+   "autres_urls": null,
+   "loyer_total": 631,
+   "loyer_cc": 631,
+   "charges": null,
+   "surface_m2": null,
+   "pieces": 2,
+   "ville": "Mérignac",
+   "code_postal": "33700",
+   "quartier": null,
+   "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon (d'après l'extrait, à confirmer)",
+   "trajet_omnes_min": 38,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D ou bus",
+   "trajet_link_verifie": false,
+   "parking": "emplacement de parking extérieur",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "surface inconnue",
+    "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-17T07:23",
+   "vue_le": "2026-11-17T07:23",
+   "expiree": null,
+   "contact": "RIB Immobilier",
+   "signalee": null,
+   "id": "085d3d37e963",
+   "photos_urls": [],
+   "description": "D'après un extrait de recherche seulement (site de l'agence inaccessible depuis l'environnement de recherche) : T2 à Mérignac avec cave sécurisée et emplacement de parking extérieur, environ 631 € charges comprises, balcon probable. Loyer et extérieur à confirmer auprès de l'agence."
   },
   {
    "titre": "T2 41,05 m² dernier étage avec balcon de 9 m² et parking en sous-sol, Eysines",
@@ -761,7 +803,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -852,7 +894,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -936,7 +978,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -984,7 +1026,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1032,7 +1074,7 @@
     "loyer 733.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1393,6 +1435,49 @@
    "description": "Agence Citya (Belvia Bordeaux). 4e étage avec ascenseur, chambre, kitchenette, salle d'eau, balcon de 4 m², place de parking intérieure. Tram A Gravières à proximité. Dossier soumis à assurance GLI, loi Pinel."
   },
   {
+   "titre": "Appartement T2 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
+   "autres_urls": null,
+   "loyer_total": 715.0,
+   "loyer_cc": 715.0,
+   "charges": null,
+   "surface_m2": 43.0,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33000",
+   "quartier": null,
+   "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
+   "trajet_estime_min": 28,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "trajet_omnes_min": 25,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
+   "parking": null,
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 715.0 € légèrement au dessus de 700 €",
+    "extérieur non précisé",
+    "parking non précisé"
+   ],
+   "trouvee_le": "2026-11-17T07:20",
+   "vue_le": "2026-11-17T07:20",
+   "expiree": null,
+   "contact": null,
+   "signalee": null,
+   "id": "799c184db56b",
+   "photos_urls": [],
+   "description": "Location appartement meublé à Bordeaux - 715 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 43 m² 715 € Appartement T2 meublé à louer à Bordeaux 715 € / mois charges comprises 🔥 Moins de 7 jours Bordeaux (33000) 43 m² 2 pièces Meublé Disponible"
+  },
+  {
    "titre": "Appartement T2 à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
@@ -1427,7 +1512,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1519,7 +1604,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1561,7 +1646,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1692,7 +1777,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1870,7 +1955,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1913,7 +1998,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2062,6 +2147,48 @@
    "description": "Proche du parc du Cypressat, 1er étage sans ascenseur d'une résidence calme avec piscine (2003) : séjour, cuisine, salle de bains, wc, chambre avec placards, balcon, place de parking. Chauffage électrique. Libre."
   },
   {
+   "titre": "T2 lumineux avec terrasse et parking, résidence récente, Eysines limite Caudéran",
+   "site": "Dolce Immo",
+   "url": "https://www.dolceimmo.com/details-superbe+appartement+t2+lumineux+avec+terrasse+et+parking+dans+residence+recente+a+eysines+limite+bordeaux+cauderan-113",
+   "autres_urls": null,
+   "loyer_total": null,
+   "loyer_cc": null,
+   "charges": null,
+   "surface_m2": null,
+   "pieces": 2,
+   "ville": "Eysines",
+   "code_postal": "33320",
+   "quartier": "limite Bordeaux Caudéran",
+   "zone": "Bordeaux Caudéran",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": "terrasse",
+   "trajet_omnes_min": 30,
+   "trajet_omnes_itineraire": "bus Lianes puis tram",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 20,
+   "trajet_link_itineraire": "bus Lianes",
+   "trajet_link_verifie": false,
+   "parking": "parking",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer inconnu",
+    "surface inconnue"
+   ],
+   "trouvee_le": "2026-11-17T07:23",
+   "vue_le": "2026-11-17T07:23",
+   "expiree": null,
+   "contact": "Dolce Immo",
+   "signalee": null,
+   "id": "c670b169ffe5",
+   "photos_urls": [],
+   "description": "D'après le titre de l'annonce seulement (site de l'agence inaccessible depuis l'environnement de recherche) : T2 lumineux avec terrasse et parking dans une résidence récente à Eysines, en limite de Caudéran. Loyer et surface inconnus, possiblement une vente : à vérifier."
+  },
+  {
    "titre": "Appartement T2 meublé à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
@@ -2094,7 +2221,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2185,7 +2312,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2313,7 +2440,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2491,7 +2618,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2532,7 +2659,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-16T18:20",
+   "vue_le": "2026-11-17T07:20",
    "expiree": null,
    "contact": null,
    "signalee": null,

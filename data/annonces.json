@@ -76,6 +76,42 @@
       "vue_le": "2026-11-16T14:28",
       "zone": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier"
     },
+    "085d3d37e963": {
+      "code_postal": "33700",
+      "contact": "RIB Immobilier",
+      "description": "D'après un extrait de recherche seulement (site de l'agence inaccessible depuis l'environnement de recherche) : T2 à Mérignac avec cave sécurisée et emplacement de parking extérieur, environ 631 € charges comprises, balcon probable. Loyer et extérieur à confirmer auprès de l'agence.",
+      "disponible": null,
+      "exterieur": "balcon (d'après l'extrait, à confirmer)",
+      "loyer_cc": 631,
+      "loyer_total": 631,
+      "meuble": null,
+      "parking": "emplacement de parking extérieur",
+      "photos": [],
+      "pieces": 2,
+      "points_a_verifier": [
+        "surface inconnue",
+        "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+      ],
+      "publie_le": null,
+      "quartier": null,
+      "raisons_rejet": [],
+      "site": "RIB Immobilier",
+      "statut": "a_verifier",
+      "surface_m2": null,
+      "titre": "T2 avec parking, Mérignac",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D ou bus",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 38,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-17T07:23",
+      "url": "https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html",
+      "ville": "Mérignac",
+      "vue_le": "2026-11-17T07:23",
+      "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
+    },
     "0c654dd493f2": {
       "charges": 45,
       "code_postal": "33320",
@@ -240,7 +276,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/p-cf-113073450803",
       "ville": "Bègles",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Bègles (proche tram C)"
     },
     "180b861d7131": {
@@ -310,7 +346,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": null
     },
     "2576eb1fc90c": {
@@ -385,7 +421,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/200813",
       "ville": "Cenon",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "2b66ed829479": {
@@ -425,7 +461,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113103084392",
       "ville": "Eysines",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Eysines (proche tram D)"
     },
     "3331658056fe": {
@@ -458,7 +494,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "3a7fb74a2d8e": {
@@ -776,6 +812,39 @@
       "vue_le": "2026-11-16T14:28",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
+    "799c184db56b": {
+      "code_postal": "33000",
+      "description": "Location appartement meublé à Bordeaux - 715 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 43 m² 715 € Appartement T2 meublé à louer à Bordeaux 715 € / mois charges comprises 🔥 Moins de 7 jours Bordeaux (33000) 43 m² 2 pièces Meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-114321573598 À propos du prix Loyer (charges comprises) 715 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (43 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Découvrez votre quartier Bordeaux (33000) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? NA Le DPE n’a pas été renseigné. Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : NA Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergie et l'impact environnemental du logement. Échelle DPE à partir de 2024 Logement économe A ≤ 70 kWh/m²/an B 71 à 110 kWh/m²/an C 111 à 180 kWh/m²/an D 181 à 250 kWh/m²/an E 251 à 330 kWh/m²/an F 331 à 420 kWh/m²/an G ≥ 421 kWh/m²/an Logement énergivore Note Consommation (kWh/m²/an) Description A ≤ 70 Logement très économe B 71 à 110 Logement économe C 111 à 180 Logement assez économe D 181 à 250 Logement moyen E 251 à 330 Logement peu économe F 331 à 420 Logement énergivore G ≥ 421 Logement très énergivore Émission de Gaz à Effet de Serre : NA L’indicateur GES (Gaz à Effet de Serre) mesure la quantité de gaz à effet de serre émise par le logement, principalement liée au chauffage, à l’eau chaude et à la production d’énergie. La note va de A (peu d’émissions) à G (fortes émissions). Cette information vous permet d’évaluer l’impact environnemental du logement. Échelle GES à partir de 2024 Faible émission de GES A ≤ 6 kg CO²/m²/an B 7 à 11 kg CO²/m²/an C 12 à 30 kg CO²/m²/an D 31 à 50 kg CO²/m²/an E 51 à 70 kg CO²/m²/an F 71 à 100 kg CO²/m²/an G ≥ 101 kg CO²/m²/an Forte émission de GES Note Émission (kg CO²/m²/an) Description A ≤ 6 Faible émission de GES B 7 à 11 Émission modérée de GES C 12 à 30 Émission moyenne de GES D 31 à 50 Émission assez élevée de GES E 51 à 70 Émission élevée de GES F 71 à 100 Émission très élevée de GES",
+      "exterieur": null,
+      "loyer_cc": 715.0,
+      "loyer_total": 715.0,
+      "meuble": true,
+      "parking": null,
+      "photos": [],
+      "pieces": 2,
+      "points_a_verifier": [
+        "loyer 715.0 € légèrement au dessus de 700 €",
+        "extérieur non précisé",
+        "parking non précisé"
+      ],
+      "raisons_rejet": [],
+      "site": "LocService",
+      "statut": "incomplete",
+      "surface_m2": 43.0,
+      "titre": "Appartement T2 meublé à louer",
+      "trajet_estime_min": 28,
+      "trajet_link_itineraire": "tram B puis tram D",
+      "trajet_link_min": 28,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram B direct",
+      "trajet_omnes_min": 25,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-17T07:20",
+      "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
+      "ville": "Bordeaux",
+      "vue_le": "2026-11-17T07:20",
+      "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
+    },
     "7a90aa69b983": {
       "autres_urls": [
         "https://www.paruvendu.fr/immobilier/location/appartement/1297314031A1KILHAP000"
@@ -809,7 +878,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
       "ville": "Lormont",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "8a0d1f644ead": {
@@ -879,12 +948,12 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
       "code_postal": "33700",
-      "description": "Location appartement meublé à Mérignac - 720 € - 47 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Mérignac Location Mérignac Location appartement Mérignac Location appartement 2 pièces Mérignac Location appartement 47 m² 720 € Appartement T2 meublé à louer à Mérignac 720 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 4 photos 🔥 Moins de 7 jours Mérignac (33700) 47 m² 2 pièces Meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-113592213659 Description de l'appartement A louer, au pied du tram, arrêt Peychotte, appartement T2 meublé d'environ 46.57m2, composé d'une entrée, d'un salon sur balcon, d'une cuisine aménagée et équipée (lave-vaisselle, lave-linge), d'une chambre, d'une salle d'eau avec WC. Chauffage électrique. place de parking sécurisée. Loyer 720€ CC (eau froide et communs). Dépôt de garantie 650€, honoraires de location 469.89€, frais d'état des lieux 141.10€. ERA immobilier 06.22.66.09.25 L'Etat des Risques et Pollution peut être consulté sur https://www.georisques.gouv.fr Voir la suite À propos du prix Loyer (charges comprises) 720 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (47 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Balcon ou terrasse Stationnement possible Découvrez votre quartier Mérignac (33700) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? C Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : C Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépen",
+      "description": "Location appartement meublé à Mérignac - 720 € - 47 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Mérignac Location Mérignac Location appartement Mérignac Location appartement 2 pièces Mérignac Location appartement 47 m² 720 € Appartement T2 meublé à louer à Mérignac 720 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 4 photos Récent Mérignac (33700) 47 m² 2 pièces Meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-113592213659 Description de l'appartement A louer, au pied du tram, arrêt Peychotte, appartement T2 meublé d'environ 46.57m2, composé d'une entrée, d'un salon sur balcon, d'une cuisine aménagée et équipée (lave-vaisselle, lave-linge), d'une chambre, d'une salle d'eau avec WC. Chauffage électrique. place de parking sécurisée. Loyer 720€ CC (eau froide et communs). Dépôt de garantie 650€, honoraires de location 469.89€, frais d'état des lieux 141.10€. ERA immobilier 06.22.66.09.25 L'Etat des Risques et Pollution peut être consulté sur https://www.georisques.gouv.fr Voir la suite À propos du prix Loyer (charges comprises) 720 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (47 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Balcon ou terrasse Stationnement possible Découvrez votre quartier Mérignac (33700) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? C Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : C Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergi",
       "exterieur": "nt T2 meublé d'environ 46.57m2, composé d'une entrée, d'un salon sur balcon, d'une cuisine aménagée et équipée (lave-vaisselle, lave-linge)",
       "loyer_cc": 720.0,
       "loyer_total": 720.0,
@@ -916,7 +985,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659",
       "ville": "Mérignac",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "927121ed812e": {
@@ -1026,7 +1095,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465",
       "ville": "Bruges",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Bruges"
     },
     "a8574356ecf4": {
@@ -1171,7 +1240,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -1204,7 +1273,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "bb8ac95bdffe": {
@@ -1347,6 +1416,42 @@
       "vue_le": "2026-11-15T17:42",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
+    "c670b169ffe5": {
+      "code_postal": "33320",
+      "contact": "Dolce Immo",
+      "description": "D'après le titre de l'annonce seulement (site de l'agence inaccessible depuis l'environnement de recherche) : T2 lumineux avec terrasse et parking dans une résidence récente à Eysines, en limite de Caudéran. Loyer et surface inconnus, possiblement une vente : à vérifier.",
+      "disponible": null,
+      "exterieur": "terrasse",
+      "loyer_cc": null,
+      "loyer_total": null,
+      "meuble": null,
+      "parking": "parking",
+      "photos": [],
+      "pieces": 2,
+      "points_a_verifier": [
+        "loyer inconnu",
+        "surface inconnue"
+      ],
+      "publie_le": null,
+      "quartier": "limite Bordeaux Caudéran",
+      "raisons_rejet": [],
+      "site": "Dolce Immo",
+      "statut": "incomplete",
+      "surface_m2": null,
+      "titre": "T2 lumineux avec terrasse et parking, résidence récente, Eysines limite Caudéran",
+      "trajet_estime_min": 30,
+      "trajet_link_itineraire": "bus Lianes",
+      "trajet_link_min": 20,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "bus Lianes puis tram",
+      "trajet_omnes_min": 30,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-17T07:23",
+      "url": "https://www.dolceimmo.com/details-superbe+appartement+t2+lumineux+avec+terrasse+et+parking+dans+residence+recente+a+eysines+limite+bordeaux+cauderan-113",
+      "ville": "Eysines",
+      "vue_le": "2026-11-17T07:23",
+      "zone": "Bordeaux Caudéran"
+    },
     "ca769047a1e2": {
       "code_postal": "33130",
       "description": "Location appartement meublé à Bègles - 700 € - 50 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Bègles Location Bègles Location particulier Bègles Location appartement Bègles Location appartement particulier Bègles Location appartement 2 pièces Bègles Location appartement 50 m² 700 € Location appartement T2 meublé proche transports à Bègles sans frais d'agence 700 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 4 photos Bègles (33130) 50 m² 2 pièces Meublé Réservé aux étudiants Disponible immédiatement Particulier Réf. 2540157 Le mot du propriétaire Logement très calme , belle luminosité, entouré de verdure , Idéal pour étudiant , un couple est le bien venu , l'espace s'y prête .Cuisine avec four et machine à laver le linge en plus du reste . Les transports sont à proximité 10mn à pied ( tram c , bus 5 , bus 15 ) . Commerce le plus proche 10 a 15 mn (Auchan, Biocoop) .l'électricité, l'eau ,les ordures ménagères et internet sont compris dans les charges Voir la suite À propos du prix Loyer (charges comprises) 700 € / mois Charges locatives 170 € / mois Montant du dépôt de garantie 530 € Honoraires ? 650 € 0 € Frais d'agence estimés pour un appartement d’une surface moyenne (50 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Stationnement possible Balcon ou terrasse Sans vis-à-vis Cuisine équipée Proximité transport Proximité commerce Découvrez votre quartier Bègles (33130) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? C Émission de gaz à effet de serre (GES) ? C Diagnostic de Performance Énergétique : C Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe",
@@ -1380,7 +1485,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -1452,7 +1557,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "d6ee6182fc45": {
@@ -1561,7 +1666,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -1678,7 +1783,7 @@
     },
     "fa057336eb66": {
       "code_postal": "33480",
-      "description": "Location appartement à Castelnau-de-Médoc - 700 € - 65 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Castelnau-de-Médoc Location Castelnau-de-Médoc Location particulier Castelnau-de-Médoc Location appartement Castelnau-de-Médoc Location appartement particulier Castelnau-de-Médoc Location appartement 2 pièces Castelnau-de-Médoc Location appartement 65 m² 700 € Appartement T2 avec cuisine équipée à louer à Castelnau de Médoc entre particuliers 700 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°5\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 5 photos 🔥 Moins de 7 jours Castelnau-de-Médoc (33480) 65 m² 2 pièces Disponible immédiatement Particulier Réf. 2624073 Le mot du propriétaire Apparemment style loft très clair donnant sur une cour intérieure fermée, cuisine équipée ouverte sur un grand espace de vie ,murs en pierre, insert bois nombreux rangements dont dressing dans la chambre, petit espace vert indépendant,salle de bain avec baignoire Beaucoup de charme Voir la suite À propos du prix Loyer (charges comprises) 700 € / mois Charges locatives 25 € / mois Montant du dépôt de garantie 675 € Honoraires ? 715 € 0 € Frais d'agence estimés pour un appartement d’une surface moyenne (65 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 11 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Balcon ou terrasse Baignoire Sans vis-à-vis Grand séjour Cuisine équipée Proximité transport Proximité commerce Découvrez votre quartier Castelnau-de-Médoc (33480) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? D Émission de gaz à effet de serre (GES) ? D Diagnostic de Performance Énergétique : D Le Diagnostic de Performance Énergétique (",
+      "description": "Location appartement à Castelnau-de-Médoc - 700 € - 65 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Castelnau-de-Médoc Location Castelnau-de-Médoc Location particulier Castelnau-de-Médoc Location appartement Castelnau-de-Médoc Location appartement particulier Castelnau-de-Médoc Location appartement 2 pièces Castelnau-de-Médoc Location appartement 65 m² 700 € Appartement T2 avec cuisine équipée à louer à Castelnau de Médoc entre particuliers 700 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°5\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 5 photos Récent Castelnau-de-Médoc (33480) 65 m² 2 pièces Disponible immédiatement Particulier Réf. 2624073 Le mot du propriétaire Apparemment style loft très clair donnant sur une cour intérieure fermée, cuisine équipée ouverte sur un grand espace de vie ,murs en pierre, insert bois nombreux rangements dont dressing dans la chambre, petit espace vert indépendant,salle de bain avec baignoire Beaucoup de charme Voir la suite À propos du prix Loyer (charges comprises) 700 € / mois Charges locatives 25 € / mois Montant du dépôt de garantie 675 € Honoraires ? 715 € 0 € Frais d'agence estimés pour un appartement d’une surface moyenne (65 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 11 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Balcon ou terrasse Baignoire Sans vis-à-vis Grand séjour Cuisine équipée Proximité transport Proximité commerce Découvrez votre quartier Castelnau-de-Médoc (33480) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? D Émission de gaz à effet de serre (GES) ? D Diagnostic de Performance Énergétique : D Le Diagnostic de Performance Énergétique (DPE) indique",
       "exterieur": "Les + de cette location Balcon ou terrasse Baignoire Sans vis-à-vis Grand séjour Cuisine équip",
       "loyer_cc": 700.0,
       "loyer_total": 700.0,
@@ -1712,12 +1817,12 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": null
     },
     "fac20ab1b55e": {
       "code_postal": "33700",
-      "description": "Location appartement à Mérignac - 686 € - 48 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Mérignac Location Mérignac Location appartement Mérignac Location appartement 2 pièces Mérignac Location appartement 48 m² 686 € Appartement T2 à louer à Mérignac 686 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > 1 photo 🔥 Moins de 7 jours Mérignac (33700) 48 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-113606433767 Description de l'appartement Tout savoir sur ce bien À LOUER : Appartement T2 situé à Mérignac. Ce bien immobilier dispose d'une superficie de 48 m², idéal pour un couple ou une personne seule à la recherche d'un espace confortable. Voir plus L'appartement se compose d'une entrée avec des placards, des wc séparés, une cuisine ouverte et aménagée donnant sur une pièce de vie avec des rangements. Il comprend également une chambre avec un placard et une salle de bain. Le chauffage est individuel, avec un système électrique par radiateurs. De plus, l'appartement dispose d'un balcon bien orienté. Pour votre confort, une place de parking est incluse, facilitant ainsi le stationnement de votre véhicule. L'appartement fait partie d'une résidence bien entretenue, offrant un cadre de vie agréable et sécurisé. Situé à Mérignac, vous bénéficierez de la proximité des commodités, des transports en commun et des espaces verts, rendant votre quotidien plus facile et agréable. N'attendez plus pour visiter ce bien qui pourrait devenir votre nouveau chez-vous. Le bien est soumis au statut de la copropriété. Loyer de 686,83 euros par mois charges comprises dont 45,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). Soit avec Assurance Habitation et Assistance* ( 22.42 euros ) : 709,25 euros. Les honoraires charge locataire sont de 631,99 euros ( soit 13,12 euros/m² ) dont 145,96 euros pour état des lieux ( soit 3,03 euros/m² ). Vous pouvez consulter les barèmes d'honoraires à l'adresse suivante : https://www.citya.com/agences-immobilieres/talence-33400/184#bareme-location Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 660 et 950 euros. Prix moyens des énergies indexés en 2021. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : https://www.georisques.gouv.fr. *Service facultatif. Contribution annuelle \"attentats\" non comprise. Voir conditions en agence. Voir la suite À propos du prix Loyer (charges comprises) 686 € / mois Des hon",
+      "description": "Location appartement à Mérignac - 686 € - 48 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Mérignac Location Mérignac Location appartement Mérignac Location appartement 2 pièces Mérignac Location appartement 48 m² 686 € Appartement T2 à louer à Mérignac 686 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > 1 photo Récent Mérignac (33700) 48 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-113606433767 Description de l'appartement Tout savoir sur ce bien À LOUER : Appartement T2 situé à Mérignac. Ce bien immobilier dispose d'une superficie de 48 m², idéal pour un couple ou une personne seule à la recherche d'un espace confortable. Voir plus L'appartement se compose d'une entrée avec des placards, des wc séparés, une cuisine ouverte et aménagée donnant sur une pièce de vie avec des rangements. Il comprend également une chambre avec un placard et une salle de bain. Le chauffage est individuel, avec un système électrique par radiateurs. De plus, l'appartement dispose d'un balcon bien orienté. Pour votre confort, une place de parking est incluse, facilitant ainsi le stationnement de votre véhicule. L'appartement fait partie d'une résidence bien entretenue, offrant un cadre de vie agréable et sécurisé. Situé à Mérignac, vous bénéficierez de la proximité des commodités, des transports en commun et des espaces verts, rendant votre quotidien plus facile et agréable. N'attendez plus pour visiter ce bien qui pourrait devenir votre nouveau chez-vous. Le bien est soumis au statut de la copropriété. Loyer de 686,83 euros par mois charges comprises dont 45,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). Soit avec Assurance Habitation et Assistance* ( 22.42 euros ) : 709,25 euros. Les honoraires charge locataire sont de 631,99 euros ( soit 13,12 euros/m² ) dont 145,96 euros pour état des lieux ( soit 3,03 euros/m² ). Vous pouvez consulter les barèmes d'honoraires à l'adresse suivante : https://www.citya.com/agences-immobilieres/talence-33400/184#bareme-location Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 660 et 950 euros. Prix moyens des énergies indexés en 2021. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : https://www.georisques.gouv.fr. *Service facultatif. Contribution annuelle \"attentats\" non comprise. Voir conditions en agence. Voir la suite À propos du prix Loyer (charges comprises) 686 € / mois Des honoraires d'ag",
       "exterieur": "De plus, l'appartement dispose d'un balcon bien orienté",
       "loyer_cc": 686.0,
       "loyer_total": 686.0,
@@ -1745,7 +1850,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767",
       "ville": "Mérignac",
-      "vue_le": "2026-11-16T18:20",
+      "vue_le": "2026-11-17T07:20",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     }
   }

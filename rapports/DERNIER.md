@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-16
+# Rapport de recherche du 2026-11-17
 
 ## Critères
 
@@ -9,7 +9,7 @@
 
 ## Annonces qui cochent tous les critères (18)
 
-### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières) (nouvelle)
+### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/59/f1/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUxBVVJFQS0xODM3Mzg3NzIwNTgwODM4NjcwOC5qcGc_MjAyNjExMDUyMDE2NTQ_rct?func=crop&w=1000&gravity=auto)
 
@@ -24,7 +24,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297061000A1KILHAP000)
 
-### T2 40,31 m² avec balcon et parking en sous-sol, Mérignac Les Eyquems (nouvelle)
+### T2 40,31 m² avec balcon et parking en sous-sol, Mérignac Les Eyquems
 
 ![photo](https://storage.fonciamillenium.net/thumbnail/6ae30d07959e2bf0bf4e4bc0/1/1920/1024)
 ![photo](https://storage.fonciamillenium.net/thumbnail/6ae30d0b11be9181e8d67b40/1/1920/1024)
@@ -88,7 +88,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-cenon/200813)
 
-### T2 47 m² au 3e étage avec balcon et parking, Bordeaux Carle Vernet (nouvelle)
+### T2 47 m² au 3e étage avec balcon et parking, Bordeaux Carle Vernet
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/22/dc/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUlNR180NTk5LTYzMzI3OTU2OTE5ODQwMjY2ODcuanBnPzIwMjYxMTE1MjAxNTU0_rct?func=crop&w=1000&gravity=auto)
 
@@ -136,7 +136,7 @@
 - A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/merignac-33700/appartement/331720465.htm)
 
-### T2 50,84 m² au dernier étage avec balcon et parking privatif, Bègles rue Pauly (nouvelle)
+### T2 50,84 m² au dernier étage avec balcon et parking privatif, Bègles rue Pauly
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/d5/83/L29mZmljZTEyL2F2YW50aV8wNzA3MjAyMS9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi81LzUvOC8wLzgvMi80NjU1ODA4MmEuanBnP0RBVEVNQUo9MjMvMDMvMjAyNS0wNDowMTowNiYyMDI2MTExMzA3MjExOA_rct?func=crop&w=1000&gravity=auto)
 
@@ -168,7 +168,7 @@
 - Disponible : immédiate, publiée le 2026-10-16
 - Source : [Foncia](https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm)
 
-### T2 41,81 m² avec terrasse de 7,69 m² et parking, Cenon (tram A Morlette) (nouvelle)
+### T2 41,81 m² avec terrasse de 7,69 m² et parking, Cenon (tram A Morlette)
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/17/03/LzY5NDUzOC81NTk1ODc4NjAvcGhvdG9zLzEuanBnPzIwMjYxMTEzMDcyMDM4_rct?func=crop&w=1000&gravity=auto)
 
@@ -251,7 +251,7 @@
 - A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767)
 
-### T2 45 m² au 2e étage avec balcon et parking, Lormont (nouvelle)
+### T2 45 m² au 2e étage avec balcon et parking, Lormont
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/43/3e/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUJBTENPTi02Nzc4OTkxNDY1OTI0NjUyMzMwLmpwZz8yMDI2MTExNTIwMTU1NA_rct?func=crop&w=1000&gravity=auto)
 
@@ -300,7 +300,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (13)
+## Annonces à vérifier (un seul point incertain) (14)
 
 ### Appartement T2 meublé à louer
 
@@ -317,7 +317,20 @@
 - A vérifier : extérieur non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465)
 
-### T2 avec balcon et parking sécurisé, Mérignac Peychotte (Directe Location) (nouvelle)
+### T2 avec parking, Mérignac (nouvelle)
+
+- Loyer total : **631 €** (CC, parking inclus si en supplément)
+- Surface : ?, 2 pièce(s)
+- Localisation : Mérignac 33700
+- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
+- Extérieur : balcon (d'après l'extrait, à confirmer)
+- Parking : emplacement de parking extérieur
+- Disponible : ?, publiée le ?
+- A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
+- Source : [RIB Immobilier](https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html)
+
+### T2 avec balcon et parking sécurisé, Mérignac Peychotte (Directe Location)
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/cf/93/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMTk1LTI2XzEuanBnPzIwMjYxMTE2MTQxNzU4_rct?func=crop&w=1000&gravity=auto)
 
@@ -358,7 +371,7 @@
 - A vérifier : extérieur non précisé, trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471)
 
-### T2 avec balcon et parking, résidence sécurisée, Mérignac Capeyron (nouvelle)
+### T2 avec balcon et parking, résidence sécurisée, Mérignac Capeyron
 
 - Loyer total : **700 €** (CC, parking inclus si en supplément)
 - Surface : ?, 2 pièce(s)
@@ -371,7 +384,7 @@
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [Capifrance](https://www.capifrance.fr/en/realestate/rental/apartment/merignac//595326)
 
-### T2 meublé 45 m² rénové avec loggia et parking, Mérignac stade du Jard (nouvelle)
+### T2 meublé 45 m² rénové avec loggia et parking, Mérignac stade du Jard
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/16/e2/L29mZmljZTEyL21vbmRlc2lyXzIwMDkxMS9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNC8wLzQvOS80LzMvMy80NDA0OTQzM2EuanBnP0RBVEVNQUo9MDEvMDUvMjAyNS0xMzozMzoyMyYyMDI2MTEwNzA4MjcxOQ_rct?func=crop&w=1000&gravity=auto)
 
@@ -417,7 +430,7 @@
 - A vérifier : loyer 720.0 € légèrement au dessus de 700 €, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659)
 
-### T2 46 m² au 1er étage avec balcon et place de stationnement, Bordeaux 33300 (nouvelle)
+### T2 46 m² au 1er étage avec balcon et place de stationnement, Bordeaux 33300
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/d9/c8/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUVYVF8yMDE5LTcyNTA0MzQyNzQyMjk0MzI1MTEuanBnPzIwMjYxMTA2MjAxNjEz_rct?func=crop&w=1000&gravity=auto)
 
@@ -447,7 +460,7 @@
 - A vérifier : loyer 733.0 € légèrement au dessus de 700 €
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732)
 
-### T2 45 m² Chartrons avec balcon et parking (nouvelle)
+### T2 45 m² Chartrons avec balcon et parking
 
 - Loyer total : **740 €** (CC, parking inclus si en supplément)
 - Surface : 45 m², 2 pièce(s)
@@ -460,7 +473,7 @@
 - A vérifier : loyer 740 € légèrement au dessus de 700 €
 - Source : [Echo Etienne immobilier](https://www.echoetienne.fr/immobilier/appartement-t2-bordeaux-location-fr_LA1994.htm)
 
-### T3 56 m² au 2e étage avec balcon et parking, Cenon (nouvelle)
+### T3 56 m² au 2e étage avec balcon et parking, Cenon
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/7d/ac/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLU1FWlpPLTc2NjUwODAxMTEwNTY1ODM1MTQuanBnPzIwMjYxMDI2MTI0MDIz_rct?func=crop&w=1000&gravity=auto)
 
@@ -475,7 +488,7 @@
 - A vérifier : loyer 748 € légèrement au dessus de 700 €, trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1295668563A1KILHAP000)
 
-### T2 45 m² rénové avec terrasse, cour privée et parking, Cenon (Directe Location) (nouvelle)
+### T2 45 m² rénové avec terrasse, cour privée et parking, Cenon (Directe Location)
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/b0/48/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS03NzY5LTEwXzEuanBnPzIwMjYxMTE2MTQxNzM1_rct?func=crop&w=1000&gravity=auto)
 
@@ -490,7 +503,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (7)
+## Annonces incomplètes (plusieurs informations manquantes) (9)
 
 ### Appartement T2 à louer
 
@@ -546,6 +559,19 @@
 - A vérifier : loyer 713.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113053569229)
 
+### Appartement T2 meublé à louer (nouvelle)
+
+- Loyer total : **715 €** (CC, parking inclus si en supplément)
+- Surface : 43 m², 2 pièce(s)
+- Localisation : Bordeaux 33000
+- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
+- Extérieur : ?
+- Parking : ?
+- Disponible : ?, publiée le ?
+- A vérifier : loyer 715.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
+- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598)
+
 ### Appartement T2 à louer
 
 - Loyer total : **730 €** (CC, parking inclus si en supplément)
@@ -591,6 +617,19 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 750.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé, trajets estimés (Omnes ~30 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-parempuyre/p-cf-113592213649)
+
+### T2 lumineux avec terrasse et parking, résidence récente, Eysines limite Caudéran (nouvelle)
+
+- Loyer total : **?** (CC, parking inclus si en supplément)
+- Surface : ?, 2 pièce(s)
+- Localisation : Eysines 33320 (limite Bordeaux Caudéran)
+- Trajet Omnes (quai des Chartrons) : 30 min, bus Lianes puis tram
+- Trajet Link (rue de Turenne) : 20 min, bus Lianes
+- Extérieur : terrasse
+- Parking : parking
+- Disponible : ?, publiée le ?
+- A vérifier : loyer inconnu, surface inconnue
+- Source : [Dolce Immo](https://www.dolceimmo.com/details-superbe+appartement+t2+lumineux+avec+terrasse+et+parking+dans+residence+recente+a+eysines+limite+bordeaux+cauderan-113)
 
 ### Appartement à louer à Bruges (signalé à la main)
 
