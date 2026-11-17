@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 49,
+   "total": 50,
    "par_statut": {
-    "correspond": 21,
+    "correspond": 22,
     "a_verifier": 16,
     "rejetee": 3,
     "incomplete": 9
    }
   },
-  "mise_a_jour": "2026-11-17T10:22"
+  "mise_a_jour": "2026-11-17T14:25"
  },
  "annonces": [
   {
@@ -803,7 +803,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -894,7 +894,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -978,7 +978,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1026,7 +1026,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1074,7 +1074,7 @@
     "loyer 733.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1469,7 +1469,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-17T07:20",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1518,7 +1518,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1562,7 +1562,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1610,7 +1610,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1652,7 +1652,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1783,7 +1783,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1961,7 +1961,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2004,7 +2004,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2227,7 +2227,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2318,7 +2318,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2416,6 +2416,54 @@
   {
    "titre": "Appartement T2 à louer",
    "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617",
+   "autres_urls": null,
+   "loyer_total": 680.0,
+   "loyer_cc": 680.0,
+   "charges": null,
+   "surface_m2": 44.0,
+   "pieces": 2,
+   "ville": "Floirac",
+   "code_postal": "33270",
+   "quartier": "allée Francisco de Goya (secteur Dravemont probable, terminus tram A, à confirmer)",
+   "zone": "Cenon / Lormont / Floirac (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "place de parking extérieure privative",
+   "meuble": false,
+   "disponible": "libre de suite",
+   "publie_le": null,
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-17T14:22",
+   "vue_le": "2026-11-17T14:23",
+   "expiree": null,
+   "contact": null,
+   "signalee": null,
+   "id": "e2b311d176ab",
+   "photos_urls": [
+    "https://img.locservice.fr/Y6kEFsdE-zGRgYjf-4eYdEGiOnX531y8tnlRoh6GVuw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg",
+    "https://img.locservice.fr/VAigThPuu4wz-z7iYDnexu7ss3bWFqMiFtH-UmjRfrE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWU4ZmI2N2VhODZl/ZmNhNTgxYTA5Zjk4/NzIzMjEzNWQ1YmNj/YzBiYWUuanBn.jpg",
+    "https://img.locservice.fr/cGGEToPx3oGXlZlDAj20mxjII01ActYCVpRHZTHQN2k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTlhNmRmMjAyMzU5/MTk4NjhiMTY0MDgz/ZTU4N2MwMTM3NzFm/MWYyZGMuanBn.jpg",
+    "https://img.locservice.fr/_0kJTH6G3VNTQdk-Bpa9po3voO5In4a9C_Ej8ypl00k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTkwZmVhMWUyZDRm/YTVkMjZhZTU1ZWE1/YmQ4NDdhODQyZTU0/ZTk1ZDQuanBn.jpg",
+    "https://img.locservice.fr/9gmbmR0tRRVL9DDVo0tHkiO1Hz-6rCiW1rl-QqwThUc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWQ3Y2Q1MjUzMTRh/NGNhZjgzYmRmODMx/YWVmOTFjNjllZjJm/OTk1NWMuanBn.jpg",
+    "https://img.locservice.fr/Z6YwA9STmGLYCYTn5yLXI-3R06t3l-2l-_1Ygwmq8qo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTNlNDNkZWY1NWEx/ZTU5MzQ5ZDQ5Zjcy/ZjU4NzA0NGNkZmFk/ZDQ4MjIuanBn.jpg"
+   ],
+   "description": "Location appartement à Floirac - 680 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Floirac Location Floirac Location appartement Floirac Location appartement 2 pièces Floirac Location appartement 44 m² 680 € Appartement T2 à louer à Floirac 680 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
    "autres_urls": null,
    "loyer_total": 631.0,
@@ -2446,7 +2494,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2624,7 +2672,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2665,7 +2713,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-17T10:19",
+   "vue_le": "2026-11-17T14:22",
    "expiree": null,
    "contact": null,
    "signalee": null,
