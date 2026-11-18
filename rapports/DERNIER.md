@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-17
+# Rapport de recherche du 2026-11-18
 
 ## Critères
 
@@ -201,7 +201,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/p-cf-113073450803)
 
-### Appartement T2 à louer (nouvelle)
+### Appartement T2 à louer
 
 ![photo](https://img.locservice.fr/Y6kEFsdE-zGRgYjf-4eYdEGiOnX531y8tnlRoh6GVuw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg)
 ![photo](https://img.locservice.fr/VAigThPuu4wz-z7iYDnexu7ss3bWFqMiFtH-UmjRfrE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWU4ZmI2N2VhODZl/ZmNhNTgxYTA5Zjk4/NzIzMjEzNWQ1YmNj/YzBiYWUuanBn.jpg)
@@ -318,24 +318,9 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (14)
+## Annonces à vérifier (un seul point incertain) (12)
 
-### Appartement T2 meublé à louer
-
-![photo](https://img.locservice.fr/8uJ8krV8C4gazZfwhCJ6BWhMhjWUoxbaST5mCEjRX7k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWE0N2YtZWMw/Ni03MTI2LTlkZTIt/NmNkYzM5MjY4MWVl/LTUzOWY3YTdjZTZh/YmY4MzFjZjRlMjJh/NmJlODJjY2E5ZTVi/MWM4ZDMuanBn.jpg)
-
-- Loyer total : **625 €** (CC, parking inclus si en supplément)
-- Surface : 45 m², 2 pièce(s)
-- Localisation : Bruges 33520
-- Trajet Omnes (quai des Chartrons) : 22 min, tram C direct (Cours du Médoc)
-- Trajet Link (rue de Turenne) : 30 min, tram C puis bus
-- Extérieur : ?
-- Parking : De plus, un emplacement de parking est inclus, un atout précieux dans cette zone
-- Disponible : ?, publiée le ?
-- A vérifier : extérieur non précisé
-- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-113066302465)
-
-### T2 avec parking, Mérignac (nouvelle)
+### T2 avec parking, Mérignac
 
 - Loyer total : **631 €** (CC, parking inclus si en supplément)
 - Surface : ?, 2 pièce(s)
@@ -375,19 +360,6 @@
 - Disponible : ?, publiée le ?
 - A vérifier : extérieur non précisé, trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604)
-
-### Appartement T2 meublé à louer
-
-- Loyer total : **690 €** (CC, parking inclus si en supplément)
-- Surface : 39 m², 2 pièce(s)
-- Localisation : Talence 33400
-- Trajet Omnes (quai des Chartrons) : 32 min, tram B direct
-- Trajet Link (rue de Turenne) : 38 min, tram B puis tram D
-- Extérieur : ?
-- Parking : e des services tels qu'une salle de fitness, une laverie ainsi qu'un parking
-- Disponible : ?, publiée le ?
-- A vérifier : extérieur non précisé, trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer
-- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471)
 
 ### T2 avec balcon et parking, résidence sécurisée, Mérignac Capeyron
 
@@ -521,7 +493,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (9)
+## Annonces incomplètes (plusieurs informations manquantes) (8)
 
 ### Appartement T2 à louer
 
@@ -577,7 +549,7 @@
 - A vérifier : loyer 713.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113053569229)
 
-### Appartement T2 meublé à louer (nouvelle)
+### Appartement T2 meublé à louer
 
 ![photo](https://img.locservice.fr/xfwOri7HhizRr9aGyrwnWmoa7pIELLOP_tr7i4pvmn4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU4NGUtODBh/Zi03OWZhLWEwOWEt/MWUwNzFiNGJjODhj/LTgzNDlkOGY4NzIy/NTEwMDEzOTAyOTY0/ZjllNDQyNzBlZTgw/NzEwYmEuanBn.jpg)
 ![photo](https://img.locservice.fr/8tHse8OMGOqZt1E7xo4iYVM-tRmQ0IlPWrEvnv0NsHE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU4NGUtODBh/Zi03OWZhLWEwOWEt/MWUwNzFiNGJjODhj/LTA1NTIxYWYwMjcy/NmNmM2JhNzU2ZjRk/Njc0M2VlZmFiNGQ0/NGE1MzEuanBn.jpg)
@@ -608,21 +580,6 @@
 - A vérifier : loyer 730.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032)
 
-### Appartement T2 à louer
-
-![photo](https://img.locservice.fr/BxwfkXw-dnSLxRC8q3eDDfw7ARjik-74unqIh8onnK4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWEwMzUtZDRk/Mi03NWEwLTkzOTUt/ZTVhMDMzYjc0MmFk/LWU2ZTlmYmNiNDA2/OWIzMDRjZDI0NjFj/NzY1NmJhOWQ5YWRi/NDA3YzQuanBn.jpg)
-
-- Loyer total : **731 €** (CC, parking inclus si en supplément)
-- Surface : 44 m², 2 pièce(s)
-- Localisation : Bordeaux 33000
-- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
-- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
-- Extérieur : t savoir sur ce bien À LOUER : APPARTEMENT T2 NON MEUBLE ET RECENT + BALCON - BORDEAUX BASTIDE / AVENUE THIERS Appartement neuf T2 à Bordea
-- Parking : ?
-- Disponible : ?, publiée le ?
-- A vérifier : loyer 731.0 € légèrement au dessus de 700 €, parking non précisé
-- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-112982843187)
-
 ### Appartement T2 meublé à louer
 
 ![photo](https://img.locservice.fr/ypWYMm6GhgMDX8hJn62VyPQMmiTg8VDPqIqBW4iXbuc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LTdlNjIwMjZhYzc2/ZmY4YThmNWZjODk3/MWJkMjIyNmZjNDg1/MWM3MGMuanBn.jpg)
@@ -641,7 +598,7 @@
 - A vérifier : loyer 750.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé, trajets estimés (Omnes ~30 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-parempuyre/p-cf-113592213649)
 
-### T2 lumineux avec terrasse et parking, résidence récente, Eysines limite Caudéran (nouvelle)
+### T2 lumineux avec terrasse et parking, résidence récente, Eysines limite Caudéran
 
 - Loyer total : **?** (CC, parking inclus si en supplément)
 - Surface : ?, 2 pièce(s)
