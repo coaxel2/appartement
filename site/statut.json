@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-18T08:17:44+01:00",
  "fin": null,
- "etape": "Recherche web 4 à 5 : T2 avec loggia ou jardin et garage, Le Bouscat, Bruges, Bordeaux Bastide",
+ "etape": "Photos, annonces retirées, puis rapport et mise à jour du site",
  "etapes": [
   {
    "heure": "2026-11-18T08:17:44+01:00",
@@ -32,6 +32,11 @@
    "heure": "2026-11-18T08:20:41+01:00",
    "texte": "Recherche web 4 à 5 : T2 avec loggia ou jardin et garage, Le Bouscat, Bruges, Bordeaux Bastide",
    "detail": "LocService, PAP (extraits), agences"
+  },
+  {
+   "heure": "2026-11-18T08:21:06+01:00",
+   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
+   "detail": "photos.py, annonces.py rapport"
   }
  ],
  "resume": "0 nouvelle annonce qui correspond",
@@ -43,5 +48,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-18T08:20:41+01:00"
+ "maj": "2026-11-18T08:21:06+01:00"
 }
