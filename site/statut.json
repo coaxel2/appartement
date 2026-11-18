@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-18T15:17:36+01:00",
  "fin": null,
- "etape": "Recherche web 1 à 3 : T2 et T3 balcon ou terrasse avec parking, Eysines, Bruges, Bordeaux Saint Augustin, Talence",
+ "etape": "Lecture des fiches : T2 Square Habitat à Caudéran, T2 Foncia à Eysines",
  "etapes": [
   {
    "heure": "2026-11-18T15:17:36+01:00",
@@ -22,6 +22,11 @@
    "heure": "2026-11-18T15:19:41+01:00",
    "texte": "Recherche web 1 à 3 : T2 et T3 balcon ou terrasse avec parking, Eysines, Bruges, Bordeaux Saint Augustin, Talence",
    "detail": "Agences locales, LocService, Square Habitat"
+  },
+  {
+   "heure": "2026-11-18T15:19:57+01:00",
+   "texte": "Lecture des fiches : T2 Square Habitat à Caudéran, T2 Foncia à Eysines",
+   "detail": "Square Habitat, Foncia"
   }
  ],
  "resume": "0 nouvelle annonce qui correspond",
@@ -33,5 +38,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-18T15:19:41+01:00"
+ "maj": "2026-11-18T15:19:57+01:00"
 }
