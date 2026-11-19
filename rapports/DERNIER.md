@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-18
+# Rapport de recherche du 2026-11-19
 
 ## Critères
 
@@ -493,7 +493,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (8)
+## Annonces incomplètes (plusieurs informations manquantes) (9)
 
 ### Appartement T2 à louer
 
@@ -579,6 +579,24 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 730.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032)
+
+### Appartement T2 48 m² Bordeaux 33200 (nouvelle)
+
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e800af14d4c3de65442/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e802c4fded1838559a8/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e804e063e1bd5df3199/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e80a153e7cf6e190103/1/1920/1024)
+
+- Loyer total : **731 €** (CC, parking inclus si en supplément)
+- Surface : 48.04 m², 2 pièce(s)
+- Localisation : Bordeaux 33200 (Caudéran (33200))
+- Trajet Omnes (quai des Chartrons) : 30 min, bus Lianes puis tram
+- Trajet Link (rue de Turenne) : 20 min, bus Lianes
+- Extérieur : ?
+- Parking : ?
+- Disponible : 03/12/2026, publiée le 2026-11-10
+- A vérifier : loyer 731 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
+- Source : [Foncia](https://fr.foncia.com/location/bordeaux-33/appartement/331729245.htm)
 
 ### Appartement T2 meublé à louer
 
