@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-19T15:17:51+01:00",
  "fin": null,
- "etape": "Lecture des listes ParuVendu : T2 et T3 dans 12 communes",
+ "etape": "Recherche web 1 à 3 : T2 et T3 balcon ou terrasse avec parking, Lormont, Floirac, Eysines, Le Bouscat",
  "etapes": [
   {
    "heure": "2026-11-19T15:17:51+01:00",
@@ -17,6 +17,11 @@
    "heure": "2026-11-19T15:19:42+01:00",
    "texte": "Lecture des listes ParuVendu : T2 et T3 dans 12 communes",
    "detail": "ParuVendu"
+  },
+  {
+   "heure": "2026-11-19T15:19:55+01:00",
+   "texte": "Recherche web 1 à 3 : T2 et T3 balcon ou terrasse avec parking, Lormont, Floirac, Eysines, Le Bouscat",
+   "detail": "Agences locales, Foncia, LocService"
   }
  ],
  "resume": "0 nouvelle annonce qui correspond",
@@ -28,5 +33,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-19T15:19:42+01:00"
+ "maj": "2026-11-19T15:19:55+01:00"
 }
