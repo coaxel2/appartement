@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-19T19:18:03+01:00",
  "fin": null,
- "etape": "Collecte LocService : T2 et T3 sur Bordeaux Métropole",
+ "etape": "Lecture des listes ParuVendu : T2 et T3 dans 12 communes",
  "etapes": [
   {
    "heure": "2026-11-19T19:18:03+01:00",
@@ -12,6 +12,11 @@
    "heure": "2026-11-19T19:18:05+01:00",
    "texte": "Collecte LocService : T2 et T3 sur Bordeaux Métropole",
    "detail": "LocService"
+  },
+  {
+   "heure": "2026-11-19T19:19:55+01:00",
+   "texte": "Lecture des listes ParuVendu : T2 et T3 dans 12 communes",
+   "detail": "ParuVendu"
   }
  ],
  "resume": "0 nouvelle annonce qui correspond",
@@ -23,5 +28,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-19T19:18:05+01:00"
+ "maj": "2026-11-19T19:19:55+01:00"
 }
