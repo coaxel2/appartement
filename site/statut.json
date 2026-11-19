@@ -2,11 +2,16 @@
  "en_cours": true,
  "debut": "2026-11-19T11:18:07+01:00",
  "fin": null,
- "etape": "Démarrage de la recherche",
+ "etape": "Collecte LocService : T2 et T3 sur Bordeaux Métropole",
  "etapes": [
   {
    "heure": "2026-11-19T11:18:07+01:00",
    "texte": "Démarrage de la recherche"
+  },
+  {
+   "heure": "2026-11-19T11:18:08+01:00",
+   "texte": "Collecte LocService : T2 et T3 sur Bordeaux Métropole",
+   "detail": "LocService"
   }
  ],
  "resume": "0 nouvelle annonce qui correspond, 1 incomplète à Caudéran",
@@ -18,5 +23,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-19T11:18:07+01:00"
+ "maj": "2026-11-19T11:18:08+01:00"
 }
