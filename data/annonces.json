@@ -158,6 +158,41 @@
       "vue_le": "2026-11-15T17:42",
       "zone": "Bordeaux Caudéran"
     },
+    "0e66079cf53b": {
+      "adresse": "55 rue de l'Hermitage",
+      "charges": 55,
+      "code_postal": "33200",
+      "description": "T2 de 2019, 1er étage, salon sur balcon, cuisine séparée équipée, cellier, place de parking. Disponible immédiatement.",
+      "disponible": "2026-10-28",
+      "exterieur": "balcon",
+      "loyer_cc": 790,
+      "loyer_hc": 735,
+      "loyer_total": 790,
+      "parking": "place de parking",
+      "photos": [],
+      "pieces": 2,
+      "points_a_verifier": [],
+      "quartier": "Caudéran",
+      "raisons_rejet": [
+        "loyer 790 € > 750 €"
+      ],
+      "site": "Square Habitat",
+      "statut": "rejetee",
+      "surface_m2": 51.72,
+      "titre": "T2 51,72 m² Caudéran, balcon et parking",
+      "trajet_estime_min": 30,
+      "trajet_link_itineraire": "bus Lianes",
+      "trajet_link_min": 20,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "bus Lianes puis tram",
+      "trajet_omnes_min": 30,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-20T07:22",
+      "url": "https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/0941b581-fd51-4765-97c4-dacc4675f1fa",
+      "ville": "Bordeaux",
+      "vue_le": "2026-11-20T07:22",
+      "zone": "Bordeaux Caudéran"
+    },
     "0f1d1ba43bfc": {
       "charges": 52,
       "code_postal": "33110",
@@ -346,7 +381,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": null
     },
     "2576eb1fc90c": {
@@ -421,7 +456,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/200813",
       "ville": "Cenon",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "2b66ed829479": {
@@ -494,7 +529,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "3a7fb74a2d8e": {
@@ -893,7 +928,7 @@
       "trouvee_le": "2026-11-17T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "7a90aa69b983": {
@@ -929,7 +964,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
       "ville": "Lormont",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "8a0d1f644ead": {
@@ -999,7 +1034,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
@@ -1036,7 +1071,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659",
       "ville": "Mérignac",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "927121ed812e": {
@@ -1223,6 +1258,42 @@
       "vue_le": "2026-11-16T07:24",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
+    "aced31f8ba48": {
+      "charges": 95,
+      "code_postal": "33200",
+      "description": "Location courte durée favorisée (1 à 2 mois). Annonce marquée indisponible.",
+      "expiree": true,
+      "exterieur": "balcon",
+      "loyer_cc": 850,
+      "loyer_total": 850,
+      "meuble": true,
+      "parking": "place de parking privative extérieure",
+      "photos": [
+        "https://www.123loger.com/location/uploads/properties/images/6a44d1a79573/7a52e53e66f7d8aeebaaf2507a932956@1200x1050.webp"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [],
+      "quartier": "Caudéran",
+      "raisons_rejet": [
+        "loyer 850 € > 750 €"
+      ],
+      "site": "123Loger",
+      "statut": "rejetee",
+      "surface_m2": 47,
+      "titre": "T2 meublé 47 m² Caudéran, balcon, parking, cave",
+      "trajet_estime_min": 30,
+      "trajet_link_itineraire": "bus Lianes",
+      "trajet_link_min": 20,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "bus Lianes puis tram",
+      "trajet_omnes_min": 30,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-20T07:22",
+      "url": "https://www.123loger.com/location/bordeaux-33000/appartement/6a44d1a79573/",
+      "ville": "Bordeaux",
+      "vue_le": "2026-11-20T07:22",
+      "zone": "Bordeaux Caudéran"
+    },
     "b07a5dd84b1b": {
       "code_postal": "33000",
       "description": "Location appartement à Bordeaux - 713 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 44 m² 713 € Location appartement T2 à Bordeaux 713 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 4 photos Récent Bordeaux (33000) 44 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-113053569229 Description de l'appartement Bordeaux tram François Mitterrand, à louer, appartement T2 d'environ 44m2 situé au 1er et dernier étage d'une petite résidence. Il se compose d'une entrée avec placards, d'un séjour, d'une cuisine séparée, aménagée et équipée (plaques hotte), d'une chambre, d'une salle d'eau, WC séparés. Loyer 713€ CC. Chauffage électrique, eau individuelle. Dépôt de garantie 698€, honoraires de location 443.96€ frais d'état des lieux 133.32€. A 2 pas du CHU. ERA Immobilier 06.22.66.09.25. L'Etat des Risques et Pollution peut être consulté sur https://www.georisques.gouv.fr Voir la suite À propos du prix Loyer (charges comprises) 713 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (44 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Découvrez votre quartier Bordeaux (33000) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? D Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : D Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergie et l'impact environnemental du logeme",
@@ -1330,12 +1401,13 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
       "code_postal": "33000",
       "description": "Location appartement à Bordeaux - 730 € - 48 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 48 m² 730 € Location appartement T2 à Bordeaux 730 € / mois charges comprises Récent Bordeaux (33000) 48 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-113103398032 Description de l'appartement 33100 BORDEAUX BASTIDE - Proche de la place Stalingrad - Appartement en rez-de-chaussée surélevé comprenant une entrée, un séjour avec cuisine ouverte, une chambre avec dressing, une salle d'eau et un WC séparé. Chauffage électrique. Cave privative - Transports en commun, écoles et commerces à proximité. Disponible le 02/11/2026. Votre agence immobilière ERA BORDEAUX RIVE DROITE, située quartier BASTIDE et spécialiste du secteur de BORDEAUX BASTIDE vous offre une Estimation Gratuite de votre bien immobilier. (Transaction- Location - Gestion locative / Agence non-détentrice de fonds). Voir la suite À propos du prix Loyer (charges comprises) 730 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (48 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Découvrez votre quartier Bordeaux (33000) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? D Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : D Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergie et l'impact environnemental du logement. Échelle DPE à partir de 2024 Logement économe A ≤ 70 kWh/m²/an B 71 à 110 kWh/m²/an C 111 à 180 kWh/m²/an D 181 à 250 kWh/m²/an E 251 à 330 kWh/m²/an F 331 à 420 kWh/m²/an G ≥ 421 kWh/m²/an Logement énergivore Note Consommation (kWh/m²/an) Description A ≤ 70 Logement très économe B 71 à 110 Logement économe C 111 à 180 Logement assez économe D 181 à 250 Logement moyen E 251 à 330 Logement peu économe F 331 à 420 Logement énergivore G ≥ 421 Logement très énergivore Émission de Gaz à Effet de Serre : NA L’indicateur GES (Gaz à Effet de Serre) mesure la quantité de gaz à effet de serre émise par le logement, principalement liée au chauffage, à l’eau chaude et à la production d’énergie. La note va de A (peu d’émission",
+      "expiree": true,
       "exterieur": null,
       "loyer_cc": 730.0,
       "loyer_total": 730.0,
@@ -1363,7 +1435,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-18T18:20",
+      "vue_le": "2026-11-20T07:23",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "bb8ac95bdffe": {
@@ -1575,7 +1647,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -1647,7 +1719,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "d6ee6182fc45": {
@@ -1766,7 +1838,7 @@
       "trouvee_le": "2026-11-17T14:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617",
       "ville": "Floirac",
-      "vue_le": "2026-11-19T18:20",
+      "vue_le": "2026-11-20T07:22",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "e970227fa170": {
@@ -1797,7 +1869,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -1949,7 +2021,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -1982,7 +2054,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767",
       "ville": "Mérignac",
-      "vue_le": "2026-11-19T18:19",
+      "vue_le": "2026-11-20T07:20",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     }
   }

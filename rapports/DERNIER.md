@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-19
+# Rapport de recherche du 2026-11-20
 
 ## Critères
 
@@ -493,7 +493,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (9)
+## Annonces incomplètes (plusieurs informations manquantes) (8)
 
 ### Appartement T2 à louer
 
@@ -567,20 +567,7 @@
 - A vérifier : loyer 715.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598)
 
-### Appartement T2 à louer
-
-- Loyer total : **730 €** (CC, parking inclus si en supplément)
-- Surface : 48 m², 2 pièce(s)
-- Localisation : Bordeaux 33000
-- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
-- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
-- Extérieur : ?
-- Parking : ?
-- Disponible : ?, publiée le ?
-- A vérifier : loyer 730.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
-- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103398032)
-
-### Appartement T2 48 m² Bordeaux 33200 (nouvelle)
+### Appartement T2 48 m² Bordeaux 33200
 
 ![photo](https://storage.fonciamillenium.net/thumbnail/64850e800af14d4c3de65442/1/1920/1024)
 ![photo](https://storage.fonciamillenium.net/thumbnail/64850e802c4fded1838559a8/1/1920/1024)
@@ -642,9 +629,10 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (4)
+## Annonces écartées (5)
 
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314) : commune hors zone de trajet
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
 - [Appartement T2 Bordeaux Caudéran](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/8f385ab5-ec8d-494c-83e2-c5ff08349a3a) : loyer 751.6 € > 750 €
+- [T2 51,72 m² Caudéran, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/0941b581-fd51-4765-97c4-dacc4675f1fa) : loyer 790 € > 750 €
