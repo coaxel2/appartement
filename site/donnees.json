@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 54,
+   "total": 55,
    "par_statut": {
     "correspond": 22,
     "a_verifier": 16,
-    "rejetee": 6,
+    "rejetee": 7,
     "incomplete": 10
    }
   },
-  "mise_a_jour": "2026-11-20T07:23"
+  "mise_a_jour": "2026-11-20T10:22"
  },
  "annonces": [
   {
@@ -812,6 +812,49 @@
    "description": "Près de la gare TER et du tram A, 3e étage avec ascenseur d'une résidence de 2022, chambre séparée de 13 m², balcon et place de stationnement. Disponible fin novembre (Loi Pinel)."
   },
   {
+   "titre": "T2 56 m² rénové Eysines, balcon et parking",
+   "site": "123Loger",
+   "url": "https://www.123loger.com/location/eysines-33320/appartement/69ed2305688a/",
+   "autres_urls": null,
+   "loyer_total": 960,
+   "loyer_cc": 960,
+   "charges": 50,
+   "surface_m2": 56,
+   "pieces": 2,
+   "ville": "Eysines",
+   "code_postal": "33320",
+   "quartier": null,
+   "zone": "Eysines (proche tram D)",
+   "trajet_estime_min": 35,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram D puis tram C",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 25,
+   "trajet_link_itineraire": "tram D direct",
+   "trajet_link_verifie": false,
+   "parking": "parking voiture",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "rejetee",
+   "raisons_rejet": [
+    "loyer 960 € > 750 €"
+   ],
+   "points_a_verifier": [
+    "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-20T10:21",
+   "vue_le": "2026-11-20T10:21",
+   "expiree": null,
+   "contact": null,
+   "signalee": null,
+   "id": "11fdfe1e09fb",
+   "photos_urls": [],
+   "description": "T2 non meublé rénové, balcon, parking voiture et vélo."
+  },
+  {
    "titre": "Appartement T2 à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/p-cf-113073450803",
@@ -935,7 +978,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1019,7 +1062,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1115,7 +1158,7 @@
     "loyer 733.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1560,7 +1603,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-17T07:20",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1609,7 +1652,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1701,7 +1744,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1743,7 +1786,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2134,7 +2177,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": true,
    "contact": null,
    "signalee": null,
@@ -2400,7 +2443,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2491,7 +2534,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2619,7 +2662,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-17T14:22",
-   "vue_le": "2026-11-20T07:22",
+   "vue_le": "2026-11-20T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2667,7 +2710,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2845,7 +2888,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2886,7 +2929,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T07:20",
+   "vue_le": "2026-11-20T10:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
