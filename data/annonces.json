@@ -417,7 +417,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": null
     },
     "2576eb1fc90c": {
@@ -492,7 +492,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/200813",
       "ville": "Cenon",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "2b66ed829479": {
@@ -565,8 +565,44 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
+    },
+    "35d7575e9373": {
+      "charges": 38,
+      "code_postal": "33130",
+      "description": "T3 de 2019 au 1er étage, séjour avec coin cuisine sur balcon, 2 chambres, place de parking.",
+      "disponible": "2026-11-17",
+      "exterieur": "balcon",
+      "loyer_cc": 844.31,
+      "loyer_hc": 806.31,
+      "loyer_total": 844.31,
+      "parking": "place de parking",
+      "photos": [],
+      "pieces": 3,
+      "points_a_verifier": [
+        "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
+      ],
+      "quartier": "Mussonville",
+      "raisons_rejet": [
+        "loyer 844.31 € > 750 €"
+      ],
+      "site": "Square Habitat",
+      "statut": "rejetee",
+      "surface_m2": 65.19,
+      "titre": "T3 65 m² Bègles Mussonville, balcon et parking",
+      "trajet_estime_min": 40,
+      "trajet_link_itineraire": "tram C puis tram D",
+      "trajet_link_min": 40,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+      "trajet_omnes_min": 35,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-20T14:21",
+      "url": "https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/begles/162a7a82-6eca-45a9-bffa-a8953e37cd07",
+      "ville": "Bègles",
+      "vue_le": "2026-11-20T14:21",
+      "zone": "Bègles (proche tram C)"
     },
     "3a7fb74a2d8e": {
       "charges": 45,
@@ -736,6 +772,7 @@
       "contact": "Directe Location (service payant)",
       "description": "Publié par Directe Location, un service payant de mise en relation (frais de dossier 220 €) : prudence avant de payer. T2 en très bon état, 609 € plus 58 € de charges, balcon, parking sécurisé, local vélos, résidence avec interphone, salon, chambre, salle d'eau, WC. Surface non indiquée.",
       "disponible": null,
+      "expiree": true,
       "exterieur": "balcon",
       "loyer_cc": 667,
       "loyer_hc": 609,
@@ -767,7 +804,7 @@
       "trouvee_le": "2026-11-16T18:22",
       "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297511993A1KILHAP000",
       "ville": "Mérignac",
-      "vue_le": "2026-11-16T18:22",
+      "vue_le": "2026-11-20T14:22",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "50f0f6ff9805": {
@@ -810,6 +847,40 @@
       "ville": "Mérignac",
       "vue_le": "2026-11-16T07:24",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
+    },
+    "56c6233ec316": {
+      "code_postal": "33440",
+      "description": "Location appartement à Ambarès-et-Lagrave - 650 € - 36 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Ambarès-et-Lagrave Location Ambarès-et-Lagrave Location appartement Ambarès-et-Lagrave Location appartement 2 pièces Ambarès-et-Lagrave Location appartement 36 m² 650 € Location appartement T2 à Ambarès et Lagrave 650 € / mois charges comprises 🔥 Moins de 7 jours Ambarès-et-Lagrave (33440) 36 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-114600603808 Description de l'appartement Agréable appartement T2 situé au rez-de-chaussée d'un immeuble en pierre, bénéficiant d'une entrée indépendante. Il se compose d'une belle pièce de vie avec cuisine américaine ouverte sur le séjour, agrémenté d'une cheminée qui lui confère charme et authenticité. L'espace nuit comprend une chambre donnant accès à une salle de bains. Un appartement plein de caractère, alliant le charme de l'ancien à un agencement fonctionnel. Rends l'annonce plus vendeuseAméliore la fluidité de l'annonce L'Etat des Risques et Pollution peut être consulté sur https://www.georisques.gouv.fr Voir la suite À propos du prix Loyer (charges comprises) 650 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (36 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Découvrez votre quartier Ambarès-et-Lagrave (33440) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? D Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : D Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergie et l'impact environnemental du logement. Échelle DPE à partir de 2024 Logement économe A ≤ 70 kWh/m²/an B 71 à 110 kWh/m²/an C 111 à 180 kWh/m²/an D 181 à 250 kWh/m²/an E 251 à 330 kWh/m²/an F 331 à 420 kWh/m²/an G ≥ 421 kWh/m²/an Logement énergivore Note Consommation (kWh/m²/an) Description A ≤ 70 Logement très économe B 71 à 110 Logement économe C 111 à 180 Logement assez économe D 181 à 250 Logement moyen E 251 à 330 Logement peu économe F 331 à 420 Logement énergivore G ≥ 421 Logement très énergivore Émission de Gaz à Effet de Serre : NA L’indicateur GES (Gaz à Effet de Serre) mesure la quantité de gaz à effet de serre émise par le logement, principalement liée au chauffag",
+      "exterieur": null,
+      "loyer_cc": 650.0,
+      "loyer_total": 650.0,
+      "meuble": false,
+      "parking": null,
+      "photos": [],
+      "pieces": 2,
+      "points_a_verifier": [
+        "extérieur non précisé",
+        "parking non précisé"
+      ],
+      "raisons_rejet": [
+        "trajet estimé Omnes 50 min, Link 55 min"
+      ],
+      "site": "LocService",
+      "statut": "rejetee",
+      "surface_m2": 36.0,
+      "titre": "Appartement T2 à louer",
+      "trajet_estime_min": 55,
+      "trajet_link_itineraire": "bus puis tram",
+      "trajet_link_min": 55,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "bus puis tram",
+      "trajet_omnes_min": 50,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-20T14:20",
+      "url": "https://www.locservice.fr/gironde-33/location-appartement-ambares-et-lagrave/p-cf-114600603808",
+      "ville": "Ambarès-et-Lagrave",
+      "vue_le": "2026-11-20T14:20",
+      "zone": "Bassens / Ambarès / Artigues / Carbon-Blanc"
     },
     "58d00cf314fd": {
       "charges": 100,
@@ -964,7 +1035,7 @@
       "trouvee_le": "2026-11-17T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "7a90aa69b983": {
@@ -1000,7 +1071,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
       "ville": "Lormont",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "8a0d1f644ead": {
@@ -1070,7 +1141,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
@@ -1107,7 +1178,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113592213659",
       "ville": "Mérignac",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "927121ed812e": {
@@ -1437,7 +1508,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -1683,7 +1754,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -1755,7 +1826,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "d6ee6182fc45": {
@@ -1874,7 +1945,7 @@
       "trouvee_le": "2026-11-17T14:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617",
       "ville": "Floirac",
-      "vue_le": "2026-11-20T10:21",
+      "vue_le": "2026-11-20T14:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "e970227fa170": {
@@ -1905,7 +1976,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -2057,7 +2128,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -2090,7 +2161,49 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767",
       "ville": "Mérignac",
-      "vue_le": "2026-11-20T10:19",
+      "vue_le": "2026-11-20T14:20",
+      "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
+    },
+    "fafdb5d0b2c0": {
+      "code_postal": "33700",
+      "description": "Surface inférieure à 35 m².",
+      "exterieur": null,
+      "loyer_cc": 680,
+      "loyer_total": 680,
+      "parking": null,
+      "photos": [
+        "https://storage.fonciamillenium.net/thumbnail/64850e80c14874f4630fe857/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/64850e808970324b9acf8b3a/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/6af2de9efe97fee4e27eec18/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/6af2deb228c4d4609b008ef1/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/6af2debefe97fee4e27eec38/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/6af2dece28c4d4609b008f12/1/1920/1024",
+        "https://storage.fonciamillenium.net/thumbnail/6af2dee34ae4f9ac95a1b7c0/1/1920/1024"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "extérieur non précisé",
+        "parking non précisé",
+        "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
+      ],
+      "raisons_rejet": [
+        "33.69 m² < 35 m²"
+      ],
+      "site": "Foncia",
+      "statut": "rejetee",
+      "surface_m2": 33.69,
+      "titre": "T2 33,69 m² Mérignac",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D ou bus",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 38,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-20T14:21",
+      "url": "https://fr.foncia.com/location/merignac-33700/appartement/331721889.htm",
+      "ville": "Mérignac",
+      "vue_le": "2026-11-20T14:22",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     }
   }

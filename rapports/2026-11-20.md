@@ -318,7 +318,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (12)
+## Annonces à vérifier (un seul point incertain) (11)
 
 ### T2 avec parking, Mérignac
 
@@ -332,21 +332,6 @@
 - Disponible : ?, publiée le ?
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [RIB Immobilier](https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html)
-
-### T2 avec balcon et parking sécurisé, Mérignac Peychotte (Directe Location)
-
-![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/cf/93/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMTk1LTI2XzEuanBnPzIwMjYxMTE2MTQxNzU4_rct?func=crop&w=1000&gravity=auto)
-
-- Loyer total : **667 €** (CC, parking inclus si en supplément)
-- Surface : ?, 2 pièce(s)
-- Localisation : Mérignac 33700 (Peychotte)
-- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
-- Extérieur : balcon
-- Parking : parking sécurisé
-- Disponible : ?, publiée le 2026-11-16
-- A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
-- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297511993A1KILHAP000)
 
 ### Appartement T2 meublé à louer
 
@@ -629,11 +614,14 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (6)
+## Annonces écartées (9)
 
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314) : commune hors zone de trajet
+- [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-ambares-et-lagrave/p-cf-114600603808) : trajet estimé Omnes 50 min, Link 55 min
+- [T2 33,69 m² Mérignac](https://fr.foncia.com/location/merignac-33700/appartement/331721889.htm) : 33.69 m² < 35 m²
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
 - [Appartement T2 Bordeaux Caudéran](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/8f385ab5-ec8d-494c-83e2-c5ff08349a3a) : loyer 751.6 € > 750 €
 - [T2 51,72 m² Caudéran, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/0941b581-fd51-4765-97c4-dacc4675f1fa) : loyer 790 € > 750 €
+- [T3 65 m² Bègles Mussonville, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/begles/162a7a82-6eca-45a9-bffa-a8953e37cd07) : loyer 844.31 € > 750 €
 - [T2 56 m² rénové Eysines, balcon et parking](https://www.123loger.com/location/eysines-33320/appartement/69ed2305688a/) : loyer 960 € > 750 €
