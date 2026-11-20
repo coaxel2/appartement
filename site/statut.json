@@ -1,8 +1,8 @@
 {
- "en_cours": true,
+ "en_cours": false,
  "debut": "2026-11-20T08:18:20+01:00",
- "fin": null,
- "etape": "Photos, annonces retirées, puis rapport et mise à jour du site",
+ "fin": "2026-11-20T08:23:34+01:00",
+ "etape": "Recherche terminée",
  "etapes": [
   {
    "heure": "2026-11-20T08:18:20+01:00",
@@ -27,9 +27,14 @@
    "heure": "2026-11-20T08:22:29+01:00",
    "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
    "detail": "photos.py, annonces.py rapport"
+  },
+  {
+   "heure": "2026-11-20T08:23:34+01:00",
+   "texte": "Recherche terminée",
+   "detail": "Aucune nouvelle annonce qui correspond (2 annonces Caudéran écartées : loyer trop élevé)"
   }
  ],
- "resume": "0 nouvelle annonce qui correspond",
+ "resume": "Aucune nouvelle annonce qui correspond (2 annonces Caudéran écartées : loyer trop élevé)",
  "erreur": null,
  "horaires": [
   "08:17",
@@ -38,5 +43,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-20T08:22:29+01:00"
+ "maj": "2026-11-20T08:23:34+01:00"
 }
