@@ -1,37 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-21T08:17:54+01:00",
- "fin": "2026-11-21T08:22:13+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-21T11:18:15+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-21T08:17:54+01:00",
+   "heure": "2026-11-21T11:18:15+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-21T08:17:56+01:00",
-   "texte": "Collecte LocService : T2 et T3 sur Bordeaux Métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-21T08:19:47+01:00",
-   "texte": "ParuVendu : T2 et T3 sur 12 communes",
-   "detail": "ParuVendu"
-  },
-  {
-   "heure": "2026-11-21T08:20:02+01:00",
-   "texte": "Lecture des fiches : T2 Bordeaux terrasse parking (ParuVendu), T2 Eysines balcon parking, T3 Bordeaux 59 m² (LocService)",
-   "detail": "ParuVendu, LocService"
-  },
-  {
-   "heure": "2026-11-21T08:21:09+01:00",
-   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
-   "detail": "photos.py, annonces.py rapport"
-  },
-  {
-   "heure": "2026-11-21T08:22:13+01:00",
-   "texte": "Recherche terminée",
-   "detail": "0 annonce qui correspond, 2 nouvelles à vérifier (T2 Bordeaux terrasse parking 666 €, T2 Eysines balcon parking 707 €)"
   }
  ],
  "resume": "0 annonce qui correspond, 2 nouvelles à vérifier (T2 Bordeaux terrasse parking 666 €, T2 Eysines balcon parking 707 €)",
@@ -43,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-21T08:22:13+01:00"
+ "maj": "2026-11-21T11:18:15+01:00"
 }
