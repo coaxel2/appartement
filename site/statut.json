@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-21T08:17:54+01:00",
  "fin": null,
- "etape": "Lecture des fiches : T2 Bordeaux terrasse parking (ParuVendu), T2 Eysines balcon parking, T3 Bordeaux 59 m² (LocService)",
+ "etape": "Photos, annonces retirées, puis rapport et mise à jour du site",
  "etapes": [
   {
    "heure": "2026-11-21T08:17:54+01:00",
@@ -22,6 +22,11 @@
    "heure": "2026-11-21T08:20:02+01:00",
    "texte": "Lecture des fiches : T2 Bordeaux terrasse parking (ParuVendu), T2 Eysines balcon parking, T3 Bordeaux 59 m² (LocService)",
    "detail": "ParuVendu, LocService"
+  },
+  {
+   "heure": "2026-11-21T08:21:09+01:00",
+   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
+   "detail": "photos.py, annonces.py rapport"
   }
  ],
  "resume": "Aucune nouvelle annonce qui correspond",
@@ -33,5 +38,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-21T08:20:02+01:00"
+ "maj": "2026-11-21T08:21:09+01:00"
 }
