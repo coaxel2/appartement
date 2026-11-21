@@ -648,15 +648,17 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (11)
+## Annonces écartées (13)
 
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314) : commune hors zone de trajet
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-ambares-et-lagrave/p-cf-114600603808) : trajet estimé Omnes 50 min, Link 55 min
 - [T2 33,69 m² Mérignac](https://fr.foncia.com/location/merignac-33700/appartement/331721889.htm) : 33.69 m² < 35 m²
+- [T2 35 m² Pessac proche université, parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/pessac/37cff9b9-1421-4924-af1b-2bba10357930) : trajet estimé Link 45 min
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
 - [Appartement T3 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686) : commune hors zone de trajet
 - [Appartement T2 Bordeaux Caudéran](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/8f385ab5-ec8d-494c-83e2-c5ff08349a3a) : loyer 751.6 € > 750 €
+- [T2 meublé 32 m² Bas Floirac, parking](https://www.orpi.com/annonce-location-appartement-t2-floirac-33270-246f05b3-2844-4d74-aec2-021c24cdc066) : loyer 760 € > 750 €, 32.37 m² < 35 m²
 - [T2 51,72 m² Caudéran, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/0941b581-fd51-4765-97c4-dacc4675f1fa) : loyer 790 € > 750 €
 - [T3 65 m² Bègles Mussonville, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/begles/162a7a82-6eca-45a9-bffa-a8953e37cd07) : loyer 844.31 € > 750 €
 - [Appartement T3 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-cenon/p-cf-113863563853) : loyer 900 € > 750 €
