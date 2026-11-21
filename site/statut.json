@@ -1,8 +1,8 @@
 {
- "en_cours": true,
+ "en_cours": false,
  "debut": "2026-11-21T15:18:24+01:00",
- "fin": null,
- "etape": "Photos, annonces retirées, puis rapport et mise à jour du site",
+ "fin": "2026-11-21T15:22:36+01:00",
+ "etape": "Recherche terminée",
  "etapes": [
   {
    "heure": "2026-11-21T15:18:24+01:00",
@@ -27,6 +27,11 @@
    "heure": "2026-11-21T15:21:30+01:00",
    "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
    "detail": "photos.py, annonces.py rapport"
+  },
+  {
+   "heure": "2026-11-21T15:22:36+01:00",
+   "texte": "Recherche terminée",
+   "detail": "Aucune nouvelle annonce qui correspond"
   }
  ],
  "resume": "Aucune nouvelle annonce qui correspond",
@@ -38,5 +43,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-21T15:21:30+01:00"
+ "maj": "2026-11-21T15:22:36+01:00"
 }
