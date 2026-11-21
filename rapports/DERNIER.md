@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-20
+# Rapport de recherche du 2026-11-21
 
 ## Critères
 
@@ -318,7 +318,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (11)
+## Annonces à vérifier (un seul point incertain) (12)
 
 ### T2 avec parking, Mérignac
 
@@ -332,6 +332,19 @@
 - Disponible : ?, publiée le ?
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [RIB Immobilier](https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html)
+
+### T2 43 m² Bordeaux, terrasse 17 m² et parking (Citya Burdigala) (nouvelle)
+
+- Loyer total : **666 €** (CC, parking inclus si en supplément)
+- Surface : 43 m², 2 pièce(s)
+- Localisation : Bordeaux
+- Trajet Omnes (quai des Chartrons) : ?, itinéraire à vérifier
+- Trajet Link (rue de Turenne) : ?, itinéraire à vérifier
+- Extérieur : terrasse de 17 m²
+- Parking : place de parking
+- Disponible : ?, publiée le 2026-11-20
+- A vérifier : trajet à vérifier
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297678052A1KILHAP000)
 
 ### Appartement T2 meublé à louer
 
@@ -387,6 +400,21 @@
 - A vérifier : loyer 705.0 € légèrement au dessus de 700 €
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600)
 
+### Appartement T2 à louer (nouvelle)
+
+![photo](https://img.locservice.fr/T0xkyq8ZYN3LH7Vn_nL_itekgVHERNsmBj4-2mrrVQ0/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZiZjAtOTYw/Zi03NzE2LWI0YzUt/ZmQ5NmRhZGVjODYx/LWQxMDhjOTRmODdj/MDUxZmU5OWU1OGFh/NTYxMDZjZGY0MDU1/MDc4MWYuanBn.jpg)
+
+- Loyer total : **707 €** (CC, parking inclus si en supplément)
+- Surface : 43 m², 2 pièce(s)
+- Localisation : Eysines 33320
+- Trajet Omnes (quai des Chartrons) : 35 min, tram D puis tram C
+- Trajet Link (rue de Turenne) : 25 min, tram D direct
+- Extérieur : tement Tout savoir sur ce bien À LOUER : APPARTEMENT T2 NON MEUBLE + BALCON + PARKING - EYSINES Découvrez cet appartement T2 chaleureux sit
+- Parking : ut savoir sur ce bien À LOUER : APPARTEMENT T2 NON MEUBLE + BALCON + PARKING - EYSINES Découvrez cet appartement T2 chaleureux situé à Eysi
+- Disponible : ?, publiée le ?
+- A vérifier : loyer 707.0 € légèrement au dessus de 700 €, trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer
+- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-114749523619)
+
 ### Appartement T2 meublé à louer
 
 ![photo](https://img.locservice.fr/3iEdvXaqZMLRCsl6yn4cSa80cSO4pusarRl-um9klCQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYWZk/MS03MDk0LTk1ZjEt/NGI4YTBkNGFiOTcx/LWVmMzgxZWIwYmQ3/YTA2ODY5MDBjOTVi/YmQzMGJkNmQ0YTY5/NWE2MTYuanBn.jpg)
@@ -419,21 +447,6 @@
 - Disponible : ?, publiée le 2026-11-06
 - A vérifier : loyer 733 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297103108A1KILHAP000)
-
-### Appartement T2 à louer
-
-![photo](https://img.locservice.fr/HxMhqN8D5wTwJ68jLw3lz72_O_h2wkT8evD67OfsKXQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWFmZmItMDFi/Yy03MzU5LWFiYjMt/NmIxMjRmNGM0NThi/LWFjYTMyODU2MjIz/MWVlOWM3NjMzZjY3/MGYyZTY2MDU1NDBj/YTMyOTIuanBn.jpg)
-
-- Loyer total : **733 €** (CC, parking inclus si en supplément)
-- Surface : 45 m², 2 pièce(s)
-- Localisation : Bordeaux 33000
-- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
-- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
-- Extérieur : 4,4 m² de balcon offrent à ce bien de l'espace supplémentaire bienvenu
-- Parking : s : parmi les emplacements disponibles dans l'immeuble, une place de stationnement est réservée pour l'appartement
-- Disponible : ?, publiée le ?
-- A vérifier : loyer 733.0 € légèrement au dessus de 700 €
-- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732)
 
 ### T2 45 m² Chartrons avec balcon et parking
 
@@ -478,7 +491,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (8)
+## Annonces incomplètes (plusieurs informations manquantes) (9)
 
 ### Appartement T2 à louer
 
@@ -497,6 +510,24 @@
 - Disponible : ?, publiée le ?
 - A vérifier : extérieur non précisé, parking non précisé, trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113103084392)
+
+### Appartement T2 à louer (nouvelle)
+
+![photo](https://img.locservice.fr/S1Co_XO1l1qLdRD4MpA0AORBo8_w3qxYCoxkOUfodmo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWY1NTliOWU0YTk5/MTQwOWU0MDI2Njk2/OTE1Nzc2MGQ5NDVl/MWJiYjMuanBn.jpg)
+![photo](https://img.locservice.fr/1jjXzsOgqHy-6iCMiDUWQl-6OFlnzN7tEvBw7zpD2Qo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWE0ZjYxMGI4NzMw/ZmI2ZTFjYjc4ZmY2/YzQxYjI4MTQ2Zjkw/YjVkNzYuanBn.jpg)
+![photo](https://img.locservice.fr/ohN5YocuUp8hrHRAI65jU51jX2v5OlFr2nBTJUAshf4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LTg5OWZhNTA1YTBh/N2RhZDJlYjY5MWEy/ODQzNmQxNjNhOTRj/YTUzNTguanBn.jpg)
+![photo](https://img.locservice.fr/BbENRTOldsGT4P0AosTW8ReIhAKGz8EzepEsTzhI7Hc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LTQyMjYxOWE0N2Q5/MTIzZGRiZWZiNzVm/YjAwOGI2Yjk0NjM5/OTM2Y2MuanBn.jpg)
+
+- Loyer total : **695 €** (CC, parking inclus si en supplément)
+- Surface : 59 m², 2 pièce(s)
+- Localisation : Bordeaux 33000
+- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
+- Extérieur : ?
+- Parking : ?
+- Disponible : ?, publiée le ?
+- A vérifier : extérieur non précisé, parking non précisé
+- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114760653629)
 
 ### Appartement T2 à louer
 
@@ -533,6 +564,7 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 713.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113053569229)
+- Aussi publiée ici : [www.locservice.fr](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114738003828)
 
 ### Appartement T2 meublé à louer
 
@@ -614,13 +646,14 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (10)
+## Annonces écartées (11)
 
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314) : commune hors zone de trajet
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-ambares-et-lagrave/p-cf-114600603808) : trajet estimé Omnes 50 min, Link 55 min
 - [T2 33,69 m² Mérignac](https://fr.foncia.com/location/merignac-33700/appartement/331721889.htm) : 33.69 m² < 35 m²
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
+- [Appartement T3 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686) : commune hors zone de trajet
 - [Appartement T2 Bordeaux Caudéran](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/8f385ab5-ec8d-494c-83e2-c5ff08349a3a) : loyer 751.6 € > 750 €
 - [T2 51,72 m² Caudéran, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/0941b581-fd51-4765-97c4-dacc4675f1fa) : loyer 790 € > 750 €
 - [T3 65 m² Bègles Mussonville, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/begles/162a7a82-6eca-45a9-bffa-a8953e37cd07) : loyer 844.31 € > 750 €

@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 59,
+   "total": 63,
    "par_statut": {
     "correspond": 22,
-    "a_verifier": 16,
-    "rejetee": 11,
-    "incomplete": 10
+    "a_verifier": 18,
+    "rejetee": 12,
+    "incomplete": 11
    }
   },
-  "mise_a_jour": "2026-11-20T18:22"
+  "mise_a_jour": "2026-11-21T07:22"
  },
  "annonces": [
   {
@@ -634,6 +634,47 @@
    "id": "085d3d37e963",
    "photos_urls": [],
    "description": "D'après un extrait de recherche seulement (site de l'agence inaccessible depuis l'environnement de recherche) : T2 à Mérignac avec cave sécurisée et emplacement de parking extérieur, environ 631 € charges comprises, balcon probable. Loyer et extérieur à confirmer auprès de l'agence."
+  },
+  {
+   "titre": "T2 43 m² Bordeaux, terrasse 17 m² et parking (Citya Burdigala)",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297678052A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 666,
+   "loyer_cc": 666,
+   "charges": null,
+   "surface_m2": 43,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": null,
+   "quartier": null,
+   "zone": null,
+   "trajet_estime_min": null,
+   "trajet_verifie_min": null,
+   "exterieur": "terrasse de 17 m²",
+   "trajet_omnes_min": null,
+   "trajet_omnes_itineraire": null,
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": null,
+   "trajet_link_itineraire": null,
+   "trajet_link_verifie": false,
+   "parking": "place de parking",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": "2026-11-20",
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajet à vérifier"
+   ],
+   "trouvee_le": "2026-11-21T07:20",
+   "vue_le": "2026-11-21T07:20",
+   "expiree": null,
+   "contact": "Citya Burdigala, 05 57 14 30 73",
+   "signalee": null,
+   "id": "0a5421e327ba",
+   "photos_urls": [],
+   "description": "À Bordeaux, charmant appartement T2 de 43 m² au 3e étage d'une résidence sécurisée avec ascenseur. Grand séjour, cuisine équipée, chambre, salle d'eau. Terrasse de 17 m² et place de parking. Agence Citya Burdigala. La liste ParuVendu indique 48 m², la description 43 m². Fiche détaillée protégée par captcha : quartier inconnu."
   },
   {
    "titre": "T2 41,05 m² dernier étage avec balcon de 9 m² et parking en sous-sol, Eysines",
@@ -946,6 +987,55 @@
    "description": "Mondésir Immobilier, exclusivité. Meublé rénové en rez-de-chaussée, résidence calme : entrée avec placards, chambre, séjour, cuisine équipée (four, lave-linge) donnant sur une loggia, salle de bains avec WC, place de parking extérieure privative. Dépôt 1 291,18 €, honoraires 585,39 €. DPE en cours."
   },
   {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114760653629",
+   "autres_urls": null,
+   "loyer_total": 695.0,
+   "loyer_cc": 695.0,
+   "charges": null,
+   "surface_m2": 59.0,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33000",
+   "quartier": null,
+   "zone": "Bordeaux Saint-Michel / Capucins / Victoire",
+   "trajet_estime_min": 28,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "trajet_omnes_min": 25,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 28,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
+   "parking": null,
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "extérieur non précisé",
+    "parking non précisé"
+   ],
+   "trouvee_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T07:19",
+   "expiree": null,
+   "contact": null,
+   "signalee": null,
+   "id": "195530fbdb43",
+   "photos_urls": [
+    "https://img.locservice.fr/S1Co_XO1l1qLdRD4MpA0AORBo8_w3qxYCoxkOUfodmo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWY1NTliOWU0YTk5/MTQwOWU0MDI2Njk2/OTE1Nzc2MGQ5NDVl/MWJiYjMuanBn.jpg",
+    "https://img.locservice.fr/1jjXzsOgqHy-6iCMiDUWQl-6OFlnzN7tEvBw7zpD2Qo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWE0ZjYxMGI4NzMw/ZmI2ZTFjYjc4ZmY2/YzQxYjI4MTQ2Zjkw/YjVkNzYuanBn.jpg",
+    "https://img.locservice.fr/ohN5YocuUp8hrHRAI65jU51jX2v5OlFr2nBTJUAshf4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LTg5OWZhNTA1YTBh/N2RhZDJlYjY5MWEy/ODQzNmQxNjNhOTRj/YTUzNTguanBn.jpg",
+    "https://img.locservice.fr/BbENRTOldsGT4P0AosTW8ReIhAKGz8EzepEsTzhI7Hc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LTQyMjYxOWE0N2Q5/MTIzZGRiZWZiNzVm/YjAwOGI2Yjk0NjM5/OTM2Y2MuanBn.jpg",
+    "https://img.locservice.fr/Qu2949U-fvZsW176HBm0ck6Z5TdzKMjuu_jSHhGmwCs/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWRlZjg2Y2I4NjZk/YWM5ZGM4NzhmMWY4/Yjk5ZGU5NDc2NTY4/MzMyODMuanBn.jpg",
+    "https://img.locservice.fr/FKnYx66I9zhFkhDV8gA1euRazL-fQ7VX49UHuDIQVHA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWU1ZjQ5ODNjMjQw/ZmRiOGE0ZTNlYjUw/MmM2NDNjMTRkNWUx/ZWRmNmQuanBn.jpg"
+   ],
+   "description": "Location appartement à Bordeaux - 695 € - 59 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 59 m² 695 € Location appartement T2 à Bordeaux 695 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px"
+  },
+  {
    "titre": "Appartement T2 meublé à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
@@ -978,7 +1068,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1062,7 +1152,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1158,8 +1248,8 @@
     "loyer 733.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
-   "expiree": null,
+   "vue_le": "2026-11-21T07:22",
+   "expiree": true,
    "contact": null,
    "signalee": null,
    "id": "3331658056fe",
@@ -1517,7 +1607,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-20T14:20",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1690,7 +1780,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-17T07:20",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1739,7 +1829,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1831,7 +1921,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1873,7 +1963,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1929,6 +2019,94 @@
     "https://storage.fonciamillenium.net/thumbnail/64850e80bb8ea657f61b925a/1/1920/1024"
    ],
    "description": "Résidence récente et sécurisée, rez-de-chaussée : entrée, séjour, cuisine équipée, chambre avec placard, salle d'eau avec wc, terrasse, place de parking. Eau froide incluse, chauffage gaz individuel. Pré-visite virtuelle sur le site Foncia. Trajets à confirmer depuis Mérignac Soleil."
+  },
+  {
+   "titre": "Appartement T3 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686",
+   "autres_urls": null,
+   "loyer_total": 710.0,
+   "loyer_cc": 710.0,
+   "charges": null,
+   "surface_m2": 60.0,
+   "pieces": 3,
+   "ville": "Vayres",
+   "code_postal": "33870",
+   "quartier": null,
+   "zone": null,
+   "trajet_estime_min": null,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "trajet_omnes_min": null,
+   "trajet_omnes_itineraire": null,
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": null,
+   "trajet_link_itineraire": null,
+   "trajet_link_verifie": false,
+   "parking": "Parking gratuit à proximité du logement, proche de toutes commodités",
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "rejetee",
+   "raisons_rejet": [
+    "commune hors zone de trajet"
+   ],
+   "points_a_verifier": [
+    "loyer 710.0 € légèrement au dessus de 700 €",
+    "extérieur non précisé"
+   ],
+   "trouvee_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T07:19",
+   "expiree": null,
+   "contact": null,
+   "signalee": null,
+   "id": "9443142b572a",
+   "photos_urls": [],
+   "description": "Location appartement meublé à Vayres - 710 € - 60 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Vayres Location Vayres Location appartement Vayres Location appartement 3 pièces Vayres Location appartement 60 m² 710 € Appartement T3 meublé à louer à Vayres 710 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768p"
+  },
+  {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-114749523619",
+   "autres_urls": null,
+   "loyer_total": 707.0,
+   "loyer_cc": 707.0,
+   "charges": null,
+   "surface_m2": 43.0,
+   "pieces": 2,
+   "ville": "Eysines",
+   "code_postal": "33320",
+   "quartier": null,
+   "zone": "Eysines (proche tram D)",
+   "trajet_estime_min": 35,
+   "trajet_verifie_min": null,
+   "exterieur": "tement Tout savoir sur ce bien À LOUER : APPARTEMENT T2 NON MEUBLE + BALCON + PARKING - EYSINES Découvrez cet appartement T2 chaleureux sit",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram D puis tram C",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 25,
+   "trajet_link_itineraire": "tram D direct",
+   "trajet_link_verifie": false,
+   "parking": "ut savoir sur ce bien À LOUER : APPARTEMENT T2 NON MEUBLE + BALCON + PARKING - EYSINES Découvrez cet appartement T2 chaleureux situé à Eysi",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 707.0 € légèrement au dessus de 700 €",
+    "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T07:19",
+   "expiree": null,
+   "contact": null,
+   "signalee": null,
+   "id": "982a94b6236c",
+   "photos_urls": [
+    "https://img.locservice.fr/T0xkyq8ZYN3LH7Vn_nL_itekgVHERNsmBj4-2mrrVQ0/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZiZjAtOTYw/Zi03NzE2LWI0YzUt/ZmQ5NmRhZGVjODYx/LWQxMDhjOTRmODdj/MDUxZmU5OWU1OGFh/NTYxMDZjZGY0MDU1/MDc4MWYuanBn.jpg"
+   ],
+   "description": "Location appartement à Eysines - 707 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Eysines Location Eysines Location appartement Eysines Location appartement 2 pièces Eysines Location appartement 43 m² 707 € Appartement T2 à louer à Eysines 707 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px"
   },
   {
    "titre": "T2 45 m² Chartrons avec balcon et parking",
@@ -2142,7 +2320,9 @@
    "titre": "Appartement T2 à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113053569229",
-   "autres_urls": null,
+   "autres_urls": [
+    "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114738003828"
+   ],
    "loyer_total": 713.0,
    "loyer_cc": 713.0,
    "charges": null,
@@ -2264,7 +2444,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": true,
    "contact": null,
    "signalee": null,
@@ -2530,7 +2710,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2621,13 +2801,13 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "d6674ab60027",
    "photos_urls": [],
-   "description": "Location appartement à Bordeaux - 705 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 43 m² 705 € Location appartement T2 à Bordeaux 705 € / mois charges comprises 🔥 Moins de 7 jours Bordeaux (33000) 43 m² 2 pièces Non meublé Disponible immédiat"
+   "description": "Location appartement à Bordeaux - 705 € - 43 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 43 m² 705 € Location appartement T2 à Bordeaux 705 € / mois charges comprises Récent Bordeaux (33000) 43 m² 2 pièces Non meublé Disponible immédiatement Logeme"
   },
   {
    "titre": "T2 46 m² au 1er étage avec balcon et place de stationnement, Bordeaux 33300",
@@ -2749,7 +2929,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-17T14:22",
-   "vue_le": "2026-11-20T18:21",
+   "vue_le": "2026-11-21T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2797,13 +2977,13 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "e970227fa170",
    "photos_urls": [],
-   "description": "Location appartement à Lormont - 631 € - 42 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Lormont Location Lormont Location appartement Lormont Location appartement 2 pièces Lormont Location appartement 42 m² 631 € Appartement T2 à louer à Lormont 631 € / mois charges comprises 🔥 Moins de 7 jours Lormont (33310) 42 m² 2 pièces Non meublé Disponible immédiatement Lo"
+   "description": "Location appartement à Lormont - 631 € - 42 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Lormont Location Lormont Location appartement Lormont Location appartement 2 pièces Lormont Location appartement 42 m² 631 € Appartement T2 à louer à Lormont 631 € / mois charges comprises Récent Lormont (33310) 42 m² 2 pièces Non meublé Disponible immédiatement Logement parte"
   },
   {
    "titre": "Appartement T2 à louer",
@@ -2975,7 +3155,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3016,7 +3196,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-20T18:20",
+   "vue_le": "2026-11-21T07:19",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3108,7 +3288,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-20T18:20",
-   "vue_le": "2026-11-20T18:21",
+   "vue_le": "2026-11-21T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
