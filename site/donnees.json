@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 63,
+   "total": 64,
    "par_statut": {
     "correspond": 22,
     "a_verifier": 18,
-    "rejetee": 12,
+    "rejetee": 13,
     "incomplete": 11
    }
   },
-  "mise_a_jour": "2026-11-21T07:22"
+  "mise_a_jour": "2026-11-21T10:22"
  },
  "annonces": [
   {
@@ -668,12 +668,14 @@
     "trajet à vérifier"
    ],
    "trouvee_le": "2026-11-21T07:20",
-   "vue_le": "2026-11-21T07:20",
+   "vue_le": "2026-11-21T10:22",
    "expiree": null,
    "contact": "Citya Burdigala, 05 57 14 30 73",
    "signalee": null,
    "id": "0a5421e327ba",
-   "photos_urls": [],
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/box.ics.fr/c5/65/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXBsYXF1ZXR0ZS04NDc0ODkwNzQ3NDAyMzE0NTg5LmpwZz8yMDI2MTEyMDIwMTU1Nw_rct?func=crop&w=1000&gravity=auto"
+   ],
    "description": "À Bordeaux, charmant appartement T2 de 43 m² au 3e étage d'une résidence sécurisée avec ascenseur. Grand séjour, cuisine équipée, chambre, salle d'eau. Terrasse de 17 m² et place de parking. Agence Citya Burdigala. La liste ParuVendu indique 48 m², la description 43 m². Fiche détaillée protégée par captcha : quartier inconnu."
   },
   {
@@ -1020,7 +1022,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1068,7 +1070,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1152,7 +1154,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1607,7 +1609,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-20T14:20",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1780,7 +1782,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-17T07:20",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1829,7 +1831,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1921,13 +1923,13 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "8f0e184a0859",
    "photos_urls": [],
-   "description": "Location appartement meublé à Eysines - 690 € - 40 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Eysines Location Eysines Location appartement Eysines Location appartement 2 pièces Eysines Location appartement 40 m² 690 € Appartement T2 meublé à louer à Eysines 690 € / mois charges comprises 🔥 Moins de 7 jours Eysines (33320) 40 m² 2 pièces Meublé Disponible immédi"
+   "description": "Location appartement meublé à Eysines - 690 € - 40 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Eysines Location Eysines Location appartement Eysines Location appartement 2 pièces Eysines Location appartement 40 m² 690 € Appartement T2 meublé à louer à Eysines 690 € / mois charges comprises Récent Eysines (33320) 40 m² 2 pièces Meublé Disponible immédiatement Loge"
   },
   {
    "titre": "Appartement T2 meublé à louer",
@@ -1963,7 +1965,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2056,7 +2058,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2098,7 +2100,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2444,7 +2446,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": true,
    "contact": null,
    "signalee": null,
@@ -2710,7 +2712,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2801,7 +2803,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2929,7 +2931,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-17T14:22",
-   "vue_le": "2026-11-21T07:21",
+   "vue_le": "2026-11-21T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2977,7 +2979,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3155,7 +3157,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3196,7 +3198,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-21T07:19",
+   "vue_le": "2026-11-21T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3252,6 +3254,47 @@
    "description": "Surface inférieure à 35 m²."
   },
   {
+   "titre": "T2 meublé 43 m² près des Chartrons, terrasse et parking",
+   "site": "123Loger",
+   "url": "https://www.123loger.com/location/bordeaux-33000/appartement/69729d8a21d1/",
+   "autres_urls": null,
+   "loyer_total": 1000,
+   "loyer_cc": 1000,
+   "charges": 50,
+   "surface_m2": 43,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": "33000",
+   "quartier": "Chartrons",
+   "zone": "Bordeaux Chartrons / Jardin Public",
+   "trajet_estime_min": 15,
+   "trajet_verifie_min": null,
+   "exterieur": "terrasse de 6,72 m²",
+   "trajet_omnes_min": 10,
+   "trajet_omnes_itineraire": "à pied ou tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 15,
+   "trajet_link_itineraire": "à pied ou bus",
+   "trajet_link_verifie": false,
+   "parking": "place de parking privative en sous-sol",
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "rejetee",
+   "raisons_rejet": [
+    "loyer 1000 € > 750 €"
+   ],
+   "points_a_verifier": [],
+   "trouvee_le": "2026-11-21T10:21",
+   "vue_le": "2026-11-21T10:21",
+   "expiree": true,
+   "contact": null,
+   "signalee": null,
+   "id": "fce85ed1f4a4",
+   "photos_urls": [],
+   "description": "T2 meublé au 3e étage avec ascenseur, résidence récente près des Chartrons. Annonce marquée indisponible."
+  },
+  {
    "titre": "Appartement T3 meublé à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/p-cf-113863563853",
@@ -3288,7 +3331,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-20T18:20",
-   "vue_le": "2026-11-21T07:21",
+   "vue_le": "2026-11-21T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,

@@ -335,6 +335,8 @@
 
 ### T2 43 m² Bordeaux, terrasse 17 m² et parking (Citya Burdigala) (nouvelle)
 
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/c5/65/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXBsYXF1ZXR0ZS04NDc0ODkwNzQ3NDAyMzE0NTg5LmpwZz8yMDI2MTEyMDIwMTU1Nw_rct?func=crop&w=1000&gravity=auto)
+
 - Loyer total : **666 €** (CC, parking inclus si en supplément)
 - Surface : 43 m², 2 pièce(s)
 - Localisation : Bordeaux
