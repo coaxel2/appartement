@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (19)
+## Annonces qui cochent tous les critères (20)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -87,6 +87,19 @@
 - Disponible : ?, publiée le ?
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-cenon/200813)
+
+### Annonce (nouvelle)
+
+- Loyer total : **654 €** (CC, parking inclus si en supplément)
+- Surface : 40 m², 2 pièce(s)
+- Localisation : Cenon 33150
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
+- Extérieur : loggia
+- Parking : parking
+- Disponible : ?, publiée le 2026-11-07
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
+- Source : [PAP](https://www.pap.fr/annonces/-r444700831)
 
 ### T2 47 m² au 3e étage avec balcon et parking, Bordeaux Carle Vernet
 
