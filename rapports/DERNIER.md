@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-21
+# Rapport de recherche du 2026-11-22
 
 ## Critères
 
@@ -333,7 +333,7 @@
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [RIB Immobilier](https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html)
 
-### T2 43 m² Bordeaux, terrasse 17 m² et parking (Citya Burdigala) (nouvelle)
+### T2 43 m² Bordeaux, terrasse 17 m² et parking (Citya Burdigala)
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/c5/65/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXBsYXF1ZXR0ZS04NDc0ODkwNzQ3NDAyMzE0NTg5LmpwZz8yMDI2MTEyMDIwMTU1Nw_rct?func=crop&w=1000&gravity=auto)
 
@@ -402,7 +402,7 @@
 - A vérifier : loyer 705.0 € légèrement au dessus de 700 €
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600)
 
-### Appartement T2 à louer (nouvelle)
+### Appartement T2 à louer
 
 ![photo](https://img.locservice.fr/T0xkyq8ZYN3LH7Vn_nL_itekgVHERNsmBj4-2mrrVQ0/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZiZjAtOTYw/Zi03NzE2LWI0YzUt/ZmQ5NmRhZGVjODYx/LWQxMDhjOTRmODdj/MDUxZmU5OWU1OGFh/NTYxMDZjZGY0MDU1/MDc4MWYuanBn.jpg)
 
@@ -513,7 +513,7 @@
 - A vérifier : extérieur non précisé, parking non précisé, trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113103084392)
 
-### Appartement T2 à louer (nouvelle)
+### Appartement T2 à louer
 
 ![photo](https://img.locservice.fr/S1Co_XO1l1qLdRD4MpA0AORBo8_w3qxYCoxkOUfodmo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWY1NTliOWU0YTk5/MTQwOWU0MDI2Njk2/OTE1Nzc2MGQ5NDVl/MWJiYjMuanBn.jpg)
 ![photo](https://img.locservice.fr/1jjXzsOgqHy-6iCMiDUWQl-6OFlnzN7tEvBw7zpD2Qo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWE0ZjYxMGI4NzMw/ZmI2ZTFjYjc4ZmY2/YzQxYjI4MTQ2Zjkw/YjVkNzYuanBn.jpg)
@@ -648,7 +648,7 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (14)
+## Annonces écartées (15)
 
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314) : commune hors zone de trajet
@@ -658,6 +658,7 @@
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
 - [Appartement T3 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686) : commune hors zone de trajet
 - [Appartement T2 Bordeaux Caudéran](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/8f385ab5-ec8d-494c-83e2-c5ff08349a3a) : loyer 751.6 € > 750 €
+- [T3 49 m² Blanquefort, parking](https://fr.foncia.com/location/blanquefort-33290/appartement/331725717.htm) : loyer 758 € > 750 €
 - [T2 meublé 32 m² Bas Floirac, parking](https://www.orpi.com/annonce-location-appartement-t2-floirac-33270-246f05b3-2844-4d74-aec2-021c24cdc066) : loyer 760 € > 750 €, 32.37 m² < 35 m²
 - [T2 51,72 m² Caudéran, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/0941b581-fd51-4765-97c4-dacc4675f1fa) : loyer 790 € > 750 €
 - [T2 meublé 33 m² Mérignac centre, balcon et parking](https://www.123loger.com/location/merignac-33700/appartement/6a523ac3b37b/) : loyer 810 € > 750 €, 33 m² < 35 m²
