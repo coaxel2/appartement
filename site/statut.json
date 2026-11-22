@@ -1,37 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-22T11:18:44+01:00",
- "fin": "2026-11-22T11:23:18+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-22T15:18:40+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-22T11:18:44+01:00",
+   "heure": "2026-11-22T15:18:40+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-22T11:18:46+01:00",
-   "texte": "Collecte LocService : T2 et T3 sur Bordeaux Métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-22T11:20:38+01:00",
-   "texte": "ParuVendu : T2 et T3 sur 12 communes",
-   "detail": "ParuVendu"
-  },
-  {
-   "heure": "2026-11-22T11:21:47+01:00",
-   "texte": "Recherche web : T2 et T3 balcon parking (Bruges, Le Bouscat, Lormont)",
-   "detail": "Web"
-  },
-  {
-   "heure": "2026-11-22T11:22:10+01:00",
-   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
-   "detail": "Foncia, LocService"
-  },
-  {
-   "heure": "2026-11-22T11:23:18+01:00",
-   "texte": "Recherche terminée",
-   "detail": "Aucune nouvelle annonce qui correspond"
   }
  ],
  "resume": "Aucune nouvelle annonce qui correspond",
@@ -43,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-22T11:23:18+01:00"
+ "maj": "2026-11-22T15:18:40+01:00"
 }
