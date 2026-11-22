@@ -1,8 +1,8 @@
 {
- "en_cours": true,
+ "en_cours": false,
  "debut": "2026-11-22T19:18:26+01:00",
- "fin": null,
- "etape": "Photos, annonces retirées, puis rapport et mise à jour du site",
+ "fin": "2026-11-22T19:22:18+01:00",
+ "etape": "Recherche terminée",
  "etapes": [
   {
    "heure": "2026-11-22T19:18:26+01:00",
@@ -32,9 +32,14 @@
    "heure": "2026-11-22T19:21:10+01:00",
    "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
    "detail": "Foncia, LocService"
+  },
+  {
+   "heure": "2026-11-22T19:22:18+01:00",
+   "texte": "Recherche terminée",
+   "detail": "1 nouvelle annonce qui correspond"
   }
  ],
- "resume": "Aucune nouvelle annonce qui correspond",
+ "resume": "1 nouvelle annonce qui correspond",
  "erreur": null,
  "horaires": [
   "08:17",
@@ -43,5 +48,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-22T19:21:10+01:00"
+ "maj": "2026-11-22T19:22:18+01:00"
 }
