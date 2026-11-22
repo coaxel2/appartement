@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-22T11:18:44+01:00",
  "fin": null,
- "etape": "Recherche web : T2 et T3 balcon parking (Bruges, Le Bouscat, Lormont)",
+ "etape": "Photos, annonces retirées, puis rapport et mise à jour du site",
  "etapes": [
   {
    "heure": "2026-11-22T11:18:44+01:00",
@@ -22,6 +22,11 @@
    "heure": "2026-11-22T11:21:47+01:00",
    "texte": "Recherche web : T2 et T3 balcon parking (Bruges, Le Bouscat, Lormont)",
    "detail": "Web"
+  },
+  {
+   "heure": "2026-11-22T11:22:10+01:00",
+   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
+   "detail": "Foncia, LocService"
   }
  ],
  "resume": "Aucune nouvelle annonce qui correspond",
@@ -33,5 +38,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-22T11:21:47+01:00"
+ "maj": "2026-11-22T11:22:10+01:00"
 }
