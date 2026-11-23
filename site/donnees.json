@@ -505,7 +505,7 @@
     "incomplete": 11
    }
   },
-  "mise_a_jour": "2026-11-23T07:22"
+  "mise_a_jour": "2026-11-23T10:21"
  },
  "annonces": [
   {
@@ -668,7 +668,7 @@
     "trajet à vérifier"
    ],
    "trouvee_le": "2026-11-21T07:20",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": "Citya Burdigala, 05 57 14 30 73",
    "signalee": null,
@@ -1022,7 +1022,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1114,7 +1114,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1198,7 +1198,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1653,7 +1653,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-20T14:20",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1870,7 +1870,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-17T07:20",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1919,7 +1919,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2011,7 +2011,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2053,7 +2053,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2146,7 +2146,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2188,7 +2188,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2622,7 +2622,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": true,
    "contact": null,
    "signalee": null,
@@ -2888,7 +2888,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2979,7 +2979,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3107,7 +3107,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-17T14:22",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3155,7 +3155,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3374,7 +3374,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3415,7 +3415,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3548,7 +3548,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-20T18:20",
-   "vue_le": "2026-11-23T07:20",
+   "vue_le": "2026-11-23T10:20",
    "expiree": null,
    "contact": null,
    "signalee": null,
