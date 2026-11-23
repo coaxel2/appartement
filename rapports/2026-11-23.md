@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (20)
+## Annonces qui cochent tous les critères (19)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -163,23 +163,6 @@
 - Disponible : fin septembre (à confirmer), publiée le 2026-11-13
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297298858A1KILHAP000)
-
-### T2 rénové 55,75 m² avec terrasse et parking, Le Bouscat centre
-
-![photo](https://storage.fonciamillenium.net/thumbnail/6acd2d44c8ca3cb580276e24/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6acd2d48c8ca3cb580276e27/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6acd2d4f011f8d7d8c68a65e/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6acd2d538ac7b72dbfaecd35/1/1920/1024)
-
-- Loyer total : **674 €** (CC, parking inclus si en supplément)
-- Surface : 55.75 m², 2 pièce(s)
-- Localisation : Le Bouscat 33110 (Centre)
-- Trajet Omnes (quai des Chartrons) : 28 min, tram D jusqu'à Quinconces puis tram B jusqu'à Chartrons
-- Trajet Link (rue de Turenne) : 15 min, tram D direct jusqu'à Fondaudège Muséum ou Croix de Seguey, environ 8 min de trajet plus marche
-- Extérieur : terrasse (séjour avec terrasse, RDC)
-- Parking : place de parking
-- Disponible : immédiate, publiée le 2026-10-16
-- Source : [Foncia](https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm)
 
 ### T2 41,81 m² avec terrasse de 7,69 m² et parking, Cenon (tram A Morlette)
 

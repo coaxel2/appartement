@@ -234,6 +234,7 @@
       "contact": "Foncia Bordeaux, dossier sur foncia.com",
       "description": "Résidence de standing, RDC rénové : entrée, cuisine séparée, séjour avec terrasse, chambre avec placards, salle de bains, wc, cellier, place de parking. Eau froide comprise. Chauffage électrique.",
       "disponible": "immédiate",
+      "expiree": true,
       "exterieur": "terrasse (séjour avec terrasse, RDC)",
       "loyer_cc": 674,
       "loyer_total": 674,
@@ -271,7 +272,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm",
       "ville": "Le Bouscat",
-      "vue_le": "2026-11-15T17:42",
+      "vue_le": "2026-11-23T10:21",
       "zone": "Le Bouscat"
     },
     "0f57c9ee1fba": {
