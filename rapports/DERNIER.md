@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-22
+# Rapport de recherche du 2026-11-23
 
 ## Critères
 
@@ -88,7 +88,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-cenon/200813)
 
-### Annonce (nouvelle)
+### Annonce
 
 - Loyer total : **654 €** (CC, parking inclus si en supplément)
 - Surface : 40 m², 2 pièce(s)
