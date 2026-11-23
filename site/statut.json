@@ -1,42 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-22T19:18:26+01:00",
- "fin": "2026-11-22T19:22:18+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-23T08:18:22+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-22T19:18:26+01:00",
+   "heure": "2026-11-23T08:18:22+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-22T19:18:28+01:00",
-   "texte": "Collecte LocService : T2 et T3 sur Bordeaux Métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-22T19:20:20+01:00",
-   "texte": "ParuVendu : T2 et T3 sur 12 communes",
-   "detail": "ParuVendu"
-  },
-  {
-   "heure": "2026-11-22T19:20:29+01:00",
-   "texte": "Recherche web : T2 et T3 balcon ou jardin parking (Pessac, Cenon, Floirac, Saint-Médard)",
-   "detail": "Web"
-  },
-  {
-   "heure": "2026-11-22T19:21:08+01:00",
-   "texte": "Lecture des fiches et trajets : PAP Cenon (extrait seul, page protégée), Foncia Cenon déjà connue",
-   "detail": "PAP, Foncia"
-  },
-  {
-   "heure": "2026-11-22T19:21:10+01:00",
-   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
-   "detail": "Foncia, LocService"
-  },
-  {
-   "heure": "2026-11-22T19:22:18+01:00",
-   "texte": "Recherche terminée",
-   "detail": "1 nouvelle annonce qui correspond"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond",
@@ -48,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-22T19:22:18+01:00"
+ "maj": "2026-11-23T08:18:22+01:00"
 }
