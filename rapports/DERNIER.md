@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-23
+# Rapport de recherche du 2026-11-24
 
 ## Critères
 
@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (19)
+## Annonces qui cochent tous les critères (18)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -249,21 +249,6 @@
 - Disponible : ?, publiée le 2026-10-09
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/eysines-33320/appartement/331715795.htm)
-
-### Appartement T2 à louer
-
-![photo](https://img.locservice.fr/8endgg1eKYXL9F61vizljpYFUWbr4snAzvKDbU148cc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMzOWQtMDM4/My03Y2Y0LWEwOWIt/ZWY3NGQ2OTQyMGY0/LTNkN2U4ZGNhZDhk/ZDYwODQwNTc5MTJi/OWQ0NGQwMmE4MjE3/NmY5M2UuanBn.jpg)
-
-- Loyer total : **686 €** (CC, parking inclus si en supplément)
-- Surface : 48 m², 2 pièce(s)
-- Localisation : Mérignac 33700
-- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
-- Extérieur : De plus, l'appartement dispose d'un balcon bien orienté
-- Parking : Pour votre confort, une place de parking est incluse, facilitant ainsi le stationnement de votre véhicu
-- Disponible : ?, publiée le ?
-- A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
-- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-merignac/p-cf-113606433767)
 
 ### T2 45 m² au 2e étage avec balcon et parking, Lormont
 
