@@ -282,7 +282,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (12)
+## Annonces à vérifier (un seul point incertain) (13)
 
 ### T2 avec parking, Mérignac
 
@@ -296,6 +296,24 @@
 - Disponible : ?, publiée le ?
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [RIB Immobilier](https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html)
+
+### Annonce (nouvelle)
+
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e80d70bb5e5d56cedd7/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e800275a13103e60696/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e806b876767256ddf90/1/1920/1024)
+![photo](https://storage.fonciamillenium.net/thumbnail/64850e808fec2bc6f7f6dc60/1/1920/1024)
+
+- Loyer total : **651 €** (CC, parking inclus si en supplément)
+- Surface : 39.72 m², 2 pièce(s)
+- Localisation : Bordeaux 33800 (Nansouty)
+- Trajet Omnes (quai des Chartrons) : 30 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 33 min, tram C puis tram D
+- Extérieur : ?
+- Parking : place de parking
+- Disponible : 2026-12-04, publiée le 2026-11-05
+- A vérifier : extérieur non précisé, trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer
+- Source : [Foncia](https://fr.foncia.com/location/bordeaux-33/appartement/331727701.htm)
 
 ### T2 43 m² Bordeaux, terrasse 17 m² et parking (Citya Burdigala)
 
