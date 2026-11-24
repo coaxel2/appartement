@@ -144,7 +144,7 @@
       "trouvee_le": "2026-11-21T07:20",
       "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297678052A1KILHAP000",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-24T07:21",
+      "vue_le": "2026-11-24T14:21",
       "zone": null
     },
     "0c654dd493f2": {
@@ -153,6 +153,7 @@
       "contact": "Foncia, dossier sur foncia.com",
       "description": "2e et dernier étage d'une résidence récente et sécurisée, près de Caudéran : séjour sur balcon de 9 m², cuisine équipée, chambre, salle d'eau avec WC, cellier, parking en sous-sol.",
       "disponible": null,
+      "expiree": true,
       "exterieur": "balcon de 9 m²",
       "loyer_cc": 680,
       "loyer_total": 680,
@@ -190,7 +191,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/eysines-33320/appartement/331725901.htm",
       "ville": "Eysines",
-      "vue_le": "2026-11-15T17:42",
+      "vue_le": "2026-11-24T14:21",
       "zone": "Bordeaux Caudéran"
     },
     "0e66079cf53b": {
@@ -272,7 +273,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm",
       "ville": "Le Bouscat",
-      "vue_le": "2026-11-24T07:21",
+      "vue_le": "2026-11-24T14:21",
       "zone": "Le Bouscat"
     },
     "0f57c9ee1fba": {
@@ -463,7 +464,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114760653629",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "1bf6d2893167": {
@@ -532,7 +533,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": null
     },
     "2576eb1fc90c": {
@@ -995,7 +996,7 @@
       "trouvee_le": "2026-11-20T14:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-ambares-et-lagrave/p-cf-114600603808",
       "ville": "Ambarès-et-Lagrave",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Bassens / Ambarès / Artigues / Carbon-Blanc"
     },
     "58d00cf314fd": {
@@ -1195,7 +1196,7 @@
       "trouvee_le": "2026-11-17T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "7a90aa69b983": {
@@ -1231,7 +1232,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742",
       "ville": "Lormont",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "8a0d1f644ead": {
@@ -1301,7 +1302,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
@@ -1417,7 +1418,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686",
       "ville": "Vayres",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": null
     },
     "982a94b6236c": {
@@ -1451,7 +1452,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-114749523619",
       "ville": "Eysines",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Eysines (proche tram D)"
     },
     "9c24fbc64403": {
@@ -1821,7 +1822,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -2067,7 +2068,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -2139,7 +2140,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "d6ee6182fc45": {
@@ -2222,7 +2223,7 @@
     },
     "e2b311d176ab": {
       "code_postal": "33270",
-      "description": "Location appartement à Floirac - 680 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Floirac Location Floirac Location appartement Floirac Location appartement 2 pièces Floirac Location appartement 44 m² 680 € Appartement T2 à louer à Floirac 680 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°5\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°6\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 6 photos 🔥 Moins de 7 jours Floirac (33270) 44 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-114334083617 Description de l'appartement Situé à Floirac dans l'allée Francisco de Goya au 4e étage d'une résidence sécurisée, ce beau T2 non meublé se compose d'une entrée donnant sur une salle d'eau avec WC, d'une grande chambre avec placard intégré, d'un séjour, d'une cuisine américaine et d'un balcon. Une place de parking extérieure privative complète ce bien. Loyer: 680,00 EUR ( loyer 630,00 EUR + charges de copropriété et provision eau 50,00 EUR ) Honoraires de location charges locataires: 574,34 EUR (441,80 EUR rédactions de bail+ 132,54 EUR état des lieux) Dépôt de garantie: 680,00 EUR (1 mois de loyer H.C) LIBRE DE SUITE. DPE C/ GES C. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr 1 Voir la suite À propos du prix Loyer (charges comprises) 680 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (44 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette lo",
+      "description": "Location appartement à Floirac - 680 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Floirac Location Floirac Location appartement Floirac Location appartement 2 pièces Floirac Location appartement 44 m² 680 € Appartement T2 à louer à Floirac 680 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°5\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°6\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 6 photos Récent Floirac (33270) 44 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-114334083617 Description de l'appartement Situé à Floirac dans l'allée Francisco de Goya au 4e étage d'une résidence sécurisée, ce beau T2 non meublé se compose d'une entrée donnant sur une salle d'eau avec WC, d'une grande chambre avec placard intégré, d'un séjour, d'une cuisine américaine et d'un balcon. Une place de parking extérieure privative complète ce bien. Loyer: 680,00 EUR ( loyer 630,00 EUR + charges de copropriété et provision eau 50,00 EUR ) Honoraires de location charges locataires: 574,34 EUR (441,80 EUR rédactions de bail+ 132,54 EUR état des lieux) Dépôt de garantie: 680,00 EUR (1 mois de loyer H.C) LIBRE DE SUITE. DPE C/ GES C. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : www.georisques.gouv.fr 1 Voir la suite À propos du prix Loyer (charges comprises) 680 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (44 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Balco",
       "disponible": "libre de suite",
       "etage": 4,
       "exterieur": "balcon",
@@ -2258,7 +2259,7 @@
       "trouvee_le": "2026-11-17T14:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617",
       "ville": "Floirac",
-      "vue_le": "2026-11-24T07:21",
+      "vue_le": "2026-11-24T14:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "e970227fa170": {
@@ -2289,7 +2290,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -2477,7 +2478,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-24T07:20",
+      "vue_le": "2026-11-24T14:20",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -2632,7 +2633,7 @@
       "trouvee_le": "2026-11-20T18:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/p-cf-113863563853",
       "ville": "Cenon",
-      "vue_le": "2026-11-24T07:21",
+      "vue_le": "2026-11-24T14:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     }
   }

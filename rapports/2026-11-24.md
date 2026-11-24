@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (18)
+## Annonces qui cochent tous les critères (17)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -214,23 +214,6 @@
 - Disponible : libre de suite, publiée le ?
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617)
-
-### T2 41,05 m² dernier étage avec balcon de 9 m² et parking en sous-sol, Eysines
-
-![photo](https://storage.fonciamillenium.net/thumbnail/6ae0a1c7ca5077f0f1ec41d9/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6ae0a1dc1d43deb25fe0f4e2/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6ae0a1e86f31f4484ef27a14/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6ae0a1f3270f9ee3671cdc39/1/1920/1024)
-
-- Loyer total : **680 €** (CC, parking inclus si en supplément)
-- Surface : 41.05 m², 2 pièce(s)
-- Localisation : Eysines 33320 (Eysines sud, limite Caudéran)
-- Trajet Omnes (quai des Chartrons) : 35 min, tram D jusqu'à Quinconces puis tram B jusqu'à Chartrons, adresse exacte inconnue
-- Trajet Link (rue de Turenne) : 25 min, tram D (arrêt Eysines le plus proche) jusqu'à Croix de Seguey, marche comprise, adresse exacte inconnue
-- Extérieur : balcon de 9 m²
-- Parking : place en sous-sol
-- Disponible : ?, publiée le 2026-10-27
-- Source : [Foncia](https://fr.foncia.com/location/eysines-33320/appartement/331725901.htm)
 
 ### T2 43,45 m² avec terrasse et parking sécurisé, Eysines Pinsan
 
