@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-24
+# Rapport de recherche du 2026-11-25
 
 ## Critères
 
@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (17)
+## Annonces qui cochent tous les critères (18)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -57,6 +57,21 @@
 - A vérifier : trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/cenon-33150/appartement/331726522.htm)
 
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/0f/2c/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTIwMjIwNTA1XzE2MzUyMS04NDI1MDIxMTY1NTY2NDAyMTE3LmpwZz8yMDI2MTExODIwMTY1MQ_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **630 €** (CC, parking inclus si en supplément)
+- Surface : 42.9 m², 2 pièce(s)
+- Localisation : Lormont 33310
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
+- Extérieur : balcon de 18,4 m²
+- Parking : place de parking incluse
+- Disponible : ?, publiée le 2026-11-18
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297596311A1KILHAP000)
+
 ### Appartement T2 à louer
 
 - Loyer total : **631 €** (CC, parking inclus si en supplément)
@@ -69,6 +84,18 @@
 - Disponible : ?, publiée le ?
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659)
+
+### Appartement T2 à louer (nouvelle)
+
+- Loyer total : **636 €** (CC, parking inclus si en supplément)
+- Surface : 41 m², 2 pièce(s)
+- Localisation : Bruges 33520
+- Trajet Omnes (quai des Chartrons) : 22 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 30 min, tram C puis bus
+- Extérieur : Deux terrasses (de 14 et 9 m²) viennent compléter ce logement, un gain d'es
+- Parking : Pour vos véhicules, l'appartement est à louer avec une place de parking en intérieur
+- Disponible : ?, publiée le ?
+- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-115205253671)
 
 ### Appartement T2 à louer
 
@@ -114,22 +141,6 @@
 - Parking : parking extérieur inclus
 - Disponible : ?, publiée le 2026-11-15
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297470374A1KILHAP000)
-
-### Appartement T2 à louer
-
-![photo](https://img.locservice.fr/p2ZkDYtBosQrYWWN_hUtpMmsNKLXugaWEJ-2TFtEuXc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWM4NzEtMDMx/Zi03N2U5LThiMGIt/YmMxZWE3N2ZkMmYz/LTMxZGY5NDI5YmNm/N2QzMmFhNzBkZmU5/MmFkZjU4YjU4OGEy/OTYyNDIuanBn.jpg)
-
-- Loyer total : **663 €** (CC, parking inclus si en supplément)
-- Surface : 43 m², 2 pièce(s)
-- Localisation : Lormont 33310
-- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
-- Extérieur : d'une vue imprenable tout en savourant votre café du matin sur votre balcon ensoleillé
-- Parking : Et parce qu'on ne peut pas tout transporter à la main, un parking est également à votre disposition
-- Disponible : ?, publiée le ?
-- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
-- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113712483742)
-- Aussi publiée ici : [www.paruvendu.fr](https://www.paruvendu.fr/immobilier/location/appartement/1297314031A1KILHAP000)
 
 ### T2 46,49 m² résidence récente avec balcon et parking, Mérignac
 
@@ -282,7 +293,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (13)
+## Annonces à vérifier (un seul point incertain) (15)
 
 ### T2 avec parking, Mérignac
 
@@ -297,7 +308,7 @@
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [RIB Immobilier](https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://storage.fonciamillenium.net/thumbnail/64850e80d70bb5e5d56cedd7/1/1920/1024)
 ![photo](https://storage.fonciamillenium.net/thumbnail/64850e800275a13103e60696/1/1920/1024)
@@ -314,6 +325,21 @@
 - Disponible : 2026-12-04, publiée le 2026-11-05
 - A vérifier : extérieur non précisé, trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/bordeaux-33/appartement/331727701.htm)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/33/32/LzY5NDUzOC81NjIxNTA5NzYvcGhvdG9zLzEuanBnPzIwMjYxMTI0MDcyMTA3_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **665 €** (CC, parking inclus si en supplément)
+- Surface : 47.95 m², 2 pièce(s)
+- Localisation : Mérignac 33700
+- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
+- Extérieur : balcon
+- Parking : ?
+- Disponible : ?, publiée le 2026-11-24
+- A vérifier : parking non précisé, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297816683A1KILHAP000)
 
 ### T2 43 m² Bordeaux, terrasse 17 m² et parking (Citya Burdigala)
 
@@ -383,6 +409,19 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 705.0 € légèrement au dessus de 700 €
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600)
+
+### Appartement T2 à louer (nouvelle)
+
+- Loyer total : **706 €** (CC, parking inclus si en supplément)
+- Surface : 37 m², 2 pièce(s)
+- Localisation : Bordeaux 33000
+- Trajet Omnes (quai des Chartrons) : 25 min, tram B direct
+- Trajet Link (rue de Turenne) : 28 min, tram B puis tram D
+- Extérieur : Pour profiter des beaux jours, cet appartement possède un balcon
+- Parking : Pour vos véhicules, ce bien est loué avec une place de parking
+- Disponible : ?, publiée le ?
+- A vérifier : loyer 706.0 € légèrement au dessus de 700 €
+- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115205253701)
 
 ### Appartement T2 à louer
 
@@ -475,7 +514,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (9)
+## Annonces incomplètes (plusieurs informations manquantes) (11)
 
 ### Appartement T2 à louer
 
@@ -568,6 +607,21 @@
 - A vérifier : loyer 715.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598)
 
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/64/9d/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMDk0LTIwXzEuanBnPzIwMjYxMTI0MTQxODEz_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **725 €** (CC, parking inclus si en supplément)
+- Surface : 40 m², 2 pièce(s)
+- Localisation : Bègles 33130
+- Trajet Omnes (quai des Chartrons) : 35 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 40 min, tram C puis tram D
+- Extérieur : terrasse de 28 m²
+- Parking : ?
+- Disponible : ?, publiée le 2026-11-24
+- A vérifier : loyer 725 € légèrement au dessus de 700 €, parking non précisé, trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297829580A1KILHAP000)
+
 ### Appartement T2 48 m² Bordeaux 33200
 
 ![photo](https://storage.fonciamillenium.net/thumbnail/64850e800af14d4c3de65442/1/1920/1024)
@@ -585,6 +639,21 @@
 - Disponible : 03/12/2026, publiée le 2026-11-10
 - A vérifier : loyer 731 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [Foncia](https://fr.foncia.com/location/bordeaux-33/appartement/331729245.htm)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/28/1d/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS05MDY4LTI2XzEuanBnPzIwMjYxMTI1MDUxNTA3_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **740 €** (CC, parking inclus si en supplément)
+- Surface : 36 m², 2 pièce(s)
+- Localisation : Lormont 33310
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
+- Extérieur : terrasse et jardin
+- Parking : ?
+- Disponible : ?, publiée le 2026-11-25
+- A vérifier : loyer 740 € légèrement au dessus de 700 €, parking non précisé, trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297829519A1KILHAP000)
 
 ### Appartement T2 meublé à louer
 
@@ -630,8 +699,9 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (15)
+## Annonces écartées (18)
 
+- [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-st-loubes/p-cf-115188573803) : trajet vérifié Omnes 55 min, Link 55 min
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314) : commune hors zone de trajet
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-ambares-et-lagrave/p-cf-114600603808) : trajet estimé Omnes 50 min, Link 55 min
@@ -639,6 +709,8 @@
 - [T2 35 m² Pessac proche université, parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/pessac/37cff9b9-1421-4924-af1b-2bba10357930) : trajet estimé Link 45 min
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
 - [Appartement T3 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686) : commune hors zone de trajet
+- [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115205253656) : trajet estimé Link 45 min
+- [https://www.paruvendu.fr/immobilier/location/appartement/1297863770A1KILHAP000](https://www.paruvendu.fr/immobilier/location/appartement/1297863770A1KILHAP000) : loyer 751 € > 750 €
 - [Appartement T2 Bordeaux Caudéran](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/8f385ab5-ec8d-494c-83e2-c5ff08349a3a) : loyer 751.6 € > 750 €
 - [T3 49 m² Blanquefort, parking](https://fr.foncia.com/location/blanquefort-33290/appartement/331725717.htm) : loyer 758 € > 750 €
 - [T2 meublé 32 m² Bas Floirac, parking](https://www.orpi.com/annonce-location-appartement-t2-floirac-33270-246f05b3-2844-4d74-aec2-021c24cdc066) : loyer 760 € > 750 €, 32.37 m² < 35 m²
