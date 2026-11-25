@@ -1,42 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-25T08:19:55+01:00",
- "fin": "2026-11-25T08:26:43+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-25T11:18:10+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-25T08:19:55+01:00",
+   "heure": "2026-11-25T11:18:10+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-25T08:20:30+01:00",
-   "texte": "Collecte directe LocService : T2 et T3 de la métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-25T08:22:17+01:00",
-   "texte": "ParuVendu : T2 et T3 sur 12 communes",
-   "detail": "Bordeaux, Mérignac, Pessac, Talence, Bègles, Le Bouscat, Bruges, Eysines, Blanquefort, Cenon, Lormont, Floirac"
-  },
-  {
-   "heure": "2026-11-25T08:23:34+01:00",
-   "texte": "ParuVendu : 5 annonces nouvelles retenues",
-   "detail": "Lormont, Cenon, Bègles, Mérignac"
-  },
-  {
-   "heure": "2026-11-25T08:23:46+01:00",
-   "texte": "Recherche web 1 et 2 / 2 : T2 balcon parking au Bouscat et à Bruges, novembre 2026",
-   "detail": "Recherche libre, agences locales"
-  },
-  {
-   "heure": "2026-11-25T08:24:53+01:00",
-   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
-   "detail": "photos.py, rapport"
-  },
-  {
-   "heure": "2026-11-25T08:26:43+01:00",
-   "texte": "Recherche terminée",
-   "detail": "2 nouvelles annonces qui correspondent : T2 Bruges 636 €, T2 Lormont 630 €"
   }
  ],
  "resume": "2 nouvelles annonces qui correspondent : T2 Bruges 636 €, T2 Lormont 630 €",
@@ -48,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-25T08:26:43+01:00"
+ "maj": "2026-11-25T11:18:10+01:00"
 }
