@@ -1,42 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-24T19:19:01+01:00",
- "fin": "2026-11-24T19:23:27+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-25T08:19:55+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-24T19:19:01+01:00",
+   "heure": "2026-11-25T08:19:55+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-24T19:19:03+01:00",
-   "texte": "Collecte LocService : T2 et T3 sur Bordeaux Métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-24T19:20:46+01:00",
-   "texte": "ParuVendu : T2 et T3 sur 12 communes",
-   "detail": "ParuVendu"
-  },
-  {
-   "heure": "2026-11-24T19:21:00+01:00",
-   "texte": "Recherche web : T2 et T3 balcon parking (Villenave, Gradignan, Bordeaux Nansouty et Saint-Jean)",
-   "detail": "Web"
-  },
-  {
-   "heure": "2026-11-24T19:22:15+01:00",
-   "texte": "Lecture fiche Foncia Nansouty (651 €, parking, extérieur non mentionné)",
-   "detail": "Foncia"
-  },
-  {
-   "heure": "2026-11-24T19:22:17+01:00",
-   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
-   "detail": "Foncia, LocService"
-  },
-  {
-   "heure": "2026-11-24T19:23:27+01:00",
-   "texte": "Recherche terminée",
-   "detail": "Aucune nouvelle annonce qui correspond, 1 à vérifier"
   }
  ],
  "resume": "Aucune nouvelle annonce qui correspond, 1 à vérifier",
@@ -48,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-24T19:23:27+01:00"
+ "maj": "2026-11-25T08:19:55+01:00"
 }
