@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-25T08:19:55+01:00",
  "fin": null,
- "etape": "ParuVendu : T2 et T3 sur 12 communes",
+ "etape": "ParuVendu : 5 annonces nouvelles retenues",
  "etapes": [
   {
    "heure": "2026-11-25T08:19:55+01:00",
@@ -17,6 +17,11 @@
    "heure": "2026-11-25T08:22:17+01:00",
    "texte": "ParuVendu : T2 et T3 sur 12 communes",
    "detail": "Bordeaux, Mérignac, Pessac, Talence, Bègles, Le Bouscat, Bruges, Eysines, Blanquefort, Cenon, Lormont, Floirac"
+  },
+  {
+   "heure": "2026-11-25T08:23:34+01:00",
+   "texte": "ParuVendu : 5 annonces nouvelles retenues",
+   "detail": "Lormont, Cenon, Bègles, Mérignac"
   }
  ],
  "resume": "Aucune nouvelle annonce qui correspond, 1 à vérifier",
@@ -28,5 +33,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-25T08:22:17+01:00"
+ "maj": "2026-11-25T08:23:34+01:00"
 }
