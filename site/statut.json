@@ -1,42 +1,12 @@
 {
- "en_cours": false,
- "debut": "2026-11-25T11:18:10+01:00",
- "fin": "2026-11-25T11:24:23+01:00",
- "etape": "Recherche terminée",
+ "en_cours": true,
+ "debut": "2026-11-25T15:17:55+01:00",
+ "fin": null,
+ "etape": "Démarrage de la recherche",
  "etapes": [
   {
-   "heure": "2026-11-25T11:18:10+01:00",
+   "heure": "2026-11-25T15:17:55+01:00",
    "texte": "Démarrage de la recherche"
-  },
-  {
-   "heure": "2026-11-25T11:18:12+01:00",
-   "texte": "Collecte directe LocService : T2 et T3 de la métropole",
-   "detail": "LocService"
-  },
-  {
-   "heure": "2026-11-25T11:20:20+01:00",
-   "texte": "Recherche web 1 et 2 / 2 : T3 balcon parking à Talence, T2 terrasse parking à la Bastide",
-   "detail": "Foncia, Square Habitat, iad"
-  },
-  {
-   "heure": "2026-11-25T11:21:46+01:00",
-   "texte": "ParuVendu : T2 et T3 sur 12 communes",
-   "detail": "Bordeaux, Mérignac, Pessac, Talence, Bègles, Le Bouscat, Bruges, Eysines, Blanquefort, Cenon, Lormont, Floirac"
-  },
-  {
-   "heure": "2026-11-25T11:22:44+01:00",
-   "texte": "Lecture des cartes ParuVendu : 2 annonces nouvelles, le reste est remis en ligne",
-   "detail": "Le Bouscat, Bordeaux"
-  },
-  {
-   "heure": "2026-11-25T11:22:53+01:00",
-   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
-   "detail": "photos.py, rapport"
-  },
-  {
-   "heure": "2026-11-25T11:24:23+01:00",
-   "texte": "Recherche terminée",
-   "detail": "1 nouvelle annonce qui correspond : T3 Le Bouscat 580 € (prudence)"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond : T3 Le Bouscat 580 € (prudence)",
@@ -48,5 +18,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-25T11:24:23+01:00"
+ "maj": "2026-11-25T15:17:55+01:00"
 }
