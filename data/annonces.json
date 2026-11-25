@@ -175,7 +175,7 @@
       "trouvee_le": "2026-11-21T07:20",
       "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297678052A1KILHAP000",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T10:22",
+      "vue_le": "2026-11-25T14:20",
       "zone": null
     },
     "0c654dd493f2": {
@@ -222,22 +222,25 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/eysines-33320/appartement/331725901.htm",
       "ville": "Eysines",
-      "vue_le": "2026-11-25T10:22",
+      "vue_le": "2026-11-25T14:20",
       "zone": "Bordeaux Caudéran"
     },
     "0d65e36897b8": {
       "code_postal": "33520",
+      "contact": "Citya Lanaverre (aussi sur ParuVendu 1297881861)",
       "description": "Location appartement à Bruges - 636 € - 41 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bruges Location Bruges Location appartement Bruges Location appartement 2 pièces Bruges Location appartement 41 m² 636 € Appartement T2 à louer à Bruges 636 € / mois charges comprises 🔥 Moins de 7 jours Bruges (33520) 41 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-115205253671 Description de l'appartement Tout savoir sur ce bien EXCLUSIVITÉ - DERNIER ÉTAGE En location : à BRUGES (33520) venez découvrir cet appartement T2 de 41,57 m². Cet appartement, avec vue dégagée, est orienté au nord-est. Voir plus Il propose un séjour avec cuisine américaine équipée, une chambre et une salle d'eau. Le chauffage du logement est individuel fonctionnant au gaz. Deux terrasses (de 14 et 9 m²) viennent compléter ce logement, un gain d'espace et de confort bienvenu. Cet appartement se situe au 4e et dernier étage d'une résidence de standing. Elle est équipée d'un ascenseur. Il est en très bon état général. Pour vos véhicules, l'appartement est à louer avec une place de parking en intérieur. Un deuxième emplacement de parking est loué pour 65 € en sus, indissociable de la location de l'appartement. Le bien se situe dans la commune de Bruges, dans le centre-ville. Il se trouve près des commerces. Il y a des écoles maternelles et élémentaires à moins de 10 minutes du bien. Côté transports, on trouve l'ancienne gare de Bruges à quelques pas de l'appartement, desservie par le tram C. L'aéroport Bordeaux-Merignac est situé à moins de 11 km. Pour vos loisirs, vous pourrez compter sur un théâtre. Il y a aussi un bureau de poste et de nombreux restaurants non loin du logement. Enfin 2 marchés animent le quartier. Le bien est soumis au statut de la copropriété. Loyer de 636,72 euros par mois charges comprises dont 48,00 euros par mois de provision pour charges (soumis à la régularisation annuelle). Soit avec Assurance Habitation et Assistance* ( 22.42 euros ) : 659,14 euros. Les honoraires charge locataire sont de 540,41 euros ( soit 13,00 euros/m² ) dont 125,96 euros pour état des lieux ( soit 3,03 euros/m² ). Vous pouvez consulter les barèmes d'honoraires à l'adresse suivante : https://www.citya.com/agences-immobilieres/talence-33400/184#bareme-location Montant estimé des dépenses annuelles d'énergie pour un usage standard : entre 520 et 740 euros. Prix moyens des énergies indexés en 2023. Les informations sur les risques auxquels ce bien est exposé sont disponibles sur le site Géorisques : https://www.georisques.gouv.fr. *Service facultatif. Contribution annuelle \"attentats\" non comprise. Voir conditions en ag",
       "exterieur": "Deux terrasses (de 14 et 9 m²) viennent compléter ce logement, un gain d'es",
       "loyer_cc": 636.0,
       "loyer_total": 636.0,
       "meuble": false,
       "parking": "Pour vos véhicules, l'appartement est à louer avec une place de parking en intérieur",
-      "photos": [],
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/box.ics.fr/8e/bf/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXNfam91cl8xLTEwMDY4MzAwNzA2NDg0OTcwNzk5LmpwZz8yMDI2MTEyNTEyNDAxMg_rct?func=crop&w=1000&gravity=auto"
+      ],
       "pieces": 2,
       "points_a_verifier": [],
       "raisons_rejet": [],
-      "site": "LocService",
+      "site": "locservice",
       "statut": "correspond",
       "surface_m2": 41.0,
       "titre": "Appartement T2 à louer",
@@ -251,7 +254,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-115205253671",
       "ville": "Bruges",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:20",
       "zone": "Bruges"
     },
     "0e66079cf53b": {
@@ -333,7 +336,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm",
       "ville": "Le Bouscat",
-      "vue_le": "2026-11-25T10:22",
+      "vue_le": "2026-11-25T14:20",
       "zone": "Le Bouscat"
     },
     "0f57c9ee1fba": {
@@ -524,7 +527,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114760653629",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "1bf6d2893167": {
@@ -593,7 +596,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": null
     },
     "24cd94f04db6": {
@@ -635,7 +638,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-st-loubes/p-cf-115188573803",
       "ville": "Saint-Loubès",
-      "vue_le": "2026-11-25T10:22",
+      "vue_le": "2026-11-25T14:20",
       "zone": "Bordeaux Saint-Seurin / Fondaudège"
     },
     "2576eb1fc90c": {
@@ -1448,7 +1451,7 @@
       "trouvee_le": "2026-11-17T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "7a90aa69b983": {
@@ -1555,7 +1558,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
@@ -1665,7 +1668,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115205253656",
       "ville": "Pessac",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Pessac centre (tram B)"
     },
     "9443142b572a": {
@@ -1704,7 +1707,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686",
       "ville": "Vayres",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": null
     },
     "982a94b6236c": {
@@ -1738,8 +1741,39 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-114749523619",
       "ville": "Eysines",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Eysines (proche tram D)"
+    },
+    "9b53a2bc2dd0": {
+      "code_postal": "33520",
+      "contact": "Citya Lanaverre",
+      "description": "T2 de 41,57 m² au dernier étage, séjour avec cuisine américaine, une chambre, salle d'eau, deux terrasses, place de parking intérieure incluse. Même bien que l'annonce LocService p-cf-115205253671.",
+      "exterieur": "deux terrasses (14 et 9 m²)",
+      "loyer_cc": 637,
+      "loyer_total": 637,
+      "parking": "place de parking intérieure incluse",
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/box.ics.fr/8e/bf/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXNfam91cl8xLTEwMDY4MzAwNzA2NDg0OTcwNzk5LmpwZz8yMDI2MTEyNTEyNDAxMg_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [],
+      "publie_le": "2026-11-25",
+      "raisons_rejet": [],
+      "site": "paruvendu",
+      "statut": "correspond",
+      "surface_m2": 41.57,
+      "trajet_estime_min": 30,
+      "trajet_link_itineraire": "tram C puis bus",
+      "trajet_link_min": 30,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+      "trajet_omnes_min": 22,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-25T14:20",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297881861A1KILHAP000",
+      "ville": "Bruges",
+      "vue_le": "2026-11-25T14:20",
+      "zone": "Bruges"
     },
     "9c24fbc64403": {
       "charges": 40,
@@ -1881,7 +1915,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115205253701",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "a7e11fad8a4e": {
@@ -2139,7 +2173,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -2422,7 +2456,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -2494,7 +2528,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "d6ee6182fc45": {
@@ -2648,7 +2682,7 @@
       "trouvee_le": "2026-11-17T14:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617",
       "ville": "Floirac",
-      "vue_le": "2026-11-25T10:22",
+      "vue_le": "2026-11-25T14:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "e39fcd231ab9": {
@@ -2715,7 +2749,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -2903,7 +2937,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-25T10:21",
+      "vue_le": "2026-11-25T14:19",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -3058,7 +3092,7 @@
       "trouvee_le": "2026-11-20T18:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/p-cf-113863563853",
       "ville": "Cenon",
-      "vue_le": "2026-11-25T10:22",
+      "vue_le": "2026-11-25T14:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     }
   }

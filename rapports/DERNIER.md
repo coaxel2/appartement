@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (19)
+## Annonces qui cochent tous les critères (20)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -101,6 +101,8 @@
 
 ### Appartement T2 à louer (nouvelle)
 
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/8e/bf/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXNfam91cl8xLTEwMDY4MzAwNzA2NDg0OTcwNzk5LmpwZz8yMDI2MTEyNTEyNDAxMg_rct?func=crop&w=1000&gravity=auto)
+
 - Loyer total : **636 €** (CC, parking inclus si en supplément)
 - Surface : 41 m², 2 pièce(s)
 - Localisation : Bruges 33520
@@ -109,7 +111,21 @@
 - Extérieur : Deux terrasses (de 14 et 9 m²) viennent compléter ce logement, un gain d'es
 - Parking : Pour vos véhicules, l'appartement est à louer avec une place de parking en intérieur
 - Disponible : ?, publiée le ?
-- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-115205253671)
+- Source : [locservice](https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-115205253671)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/8e/bf/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXNfam91cl8xLTEwMDY4MzAwNzA2NDg0OTcwNzk5LmpwZz8yMDI2MTEyNTEyNDAxMg_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **637 €** (CC, parking inclus si en supplément)
+- Surface : 41.57 m², 2 pièce(s)
+- Localisation : Bruges 33520
+- Trajet Omnes (quai des Chartrons) : 22 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 30 min, tram C puis bus
+- Extérieur : deux terrasses (14 et 9 m²)
+- Parking : place de parking intérieure incluse
+- Disponible : ?, publiée le 2026-11-25
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297881861A1KILHAP000)
 
 ### Appartement T2 à louer
 
