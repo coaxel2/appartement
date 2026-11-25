@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (18)
+## Annonces qui cochent tous les critères (19)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -23,6 +23,20 @@
 - Disponible : ?, publiée le 2026-11-05
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297061000A1KILHAP000)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/68/b6/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMDEwLTI2XzEuanBnPzIwMjYxMTI1MDk0MTMy_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **580 €** (CC, parking inclus si en supplément)
+- Surface : 70 m², 3 pièce(s)
+- Localisation : Le Bouscat 33110
+- Trajet Omnes (quai des Chartrons) : 25 min, tram D puis bus ou tram C
+- Trajet Link (rue de Turenne) : 12 min, tram D direct
+- Extérieur : balcon
+- Parking : parking
+- Disponible : ?, publiée le 2026-11-25
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1296806741A1KILHAP000)
 
 ### T2 40,31 m² avec balcon et parking en sous-sol, Mérignac Les Eyquems
 
@@ -514,7 +528,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (11)
+## Annonces incomplètes (plusieurs informations manquantes) (12)
 
 ### Appartement T2 à louer
 
@@ -569,6 +583,21 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 706.0 € légèrement au dessus de 700 €, extérieur non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103007824)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/80/c8/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8zMC8zMC05MjUyLTI2XzEuanBnPzIwMjYxMTI1MTExNjM0_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **710 €** (CC, parking inclus si en supplément)
+- Surface : 51 m², 2 pièce(s)
+- Localisation : Bordeaux
+- Trajet Omnes (quai des Chartrons) : ?, itinéraire à vérifier
+- Trajet Link (rue de Turenne) : ?, itinéraire à vérifier
+- Extérieur : balcon
+- Parking : ?
+- Disponible : ?, publiée le 2026-11-25
+- A vérifier : loyer 710 € légèrement au dessus de 700 €, parking non précisé, trajet à vérifier
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297874434A1KILHAP000)
 
 ### Appartement T2 à louer
 
