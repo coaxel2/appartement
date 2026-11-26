@@ -175,7 +175,7 @@
       "trouvee_le": "2026-11-21T07:20",
       "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297678052A1KILHAP000",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:21",
       "zone": null
     },
     "0c654dd493f2": {
@@ -222,7 +222,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/eysines-33320/appartement/331725901.htm",
       "ville": "Eysines",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:21",
       "zone": "Bordeaux Caudéran"
     },
     "0d65e36897b8": {
@@ -254,7 +254,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-115205253671",
       "ville": "Bruges",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:21",
       "zone": "Bruges"
     },
     "0e66079cf53b": {
@@ -336,7 +336,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm",
       "ville": "Le Bouscat",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:21",
       "zone": "Le Bouscat"
     },
     "0f57c9ee1fba": {
@@ -527,7 +527,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114760653629",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "1bf6d2893167": {
@@ -596,7 +596,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": null
     },
     "24cd94f04db6": {
@@ -638,7 +638,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-st-loubes/p-cf-115188573803",
       "ville": "Saint-Loubès",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:21",
       "zone": "Bordeaux Saint-Seurin / Fondaudège"
     },
     "2576eb1fc90c": {
@@ -1377,6 +1377,47 @@
       "vue_le": "2026-11-25T07:23",
       "zone": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier"
     },
+    "74c7cc7c481c": {
+      "code_postal": "33100",
+      "contact": "ERA Bordeaux Rive Droite",
+      "description": "T1 bis en duplex à La Bastide, séjour avec cuisine équipée, coin nuit à l'étage avec terrasse tropézienne. Pas de parking mentionné. Disponible immédiatement.",
+      "exterieur": "terrasse tropézienne",
+      "loyer_cc": 720.0,
+      "loyer_total": 720.0,
+      "meuble": false,
+      "parking": null,
+      "photos": [
+        "https://img.locservice.fr/rmGP3A2wf8nSUKqlLXmKdbxxxylsbpl02o-o_sk9HUA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg",
+        "https://img.locservice.fr/VedodbQ72D20KW-pFUjXQIEuMf9UZ3LFBcHRA5xZDoo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNiYzg3ZWEyZTdh/OTZmNzQ4OTg3MDhk/ZmY1NGM2NTU1NzU5/MDIzODAuanBn.jpg",
+        "https://img.locservice.fr/AGCBbgnyqJi8FTyPQBeC1aMc9MkIHpp32g9QX6YRHz4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNlM2Q5Mzk3Y2I1/YzU5Yzg3YzQ5NGFk/YmY3NGViOWE5ZGU0/NDI5NDkuanBn.jpg",
+        "https://img.locservice.fr/ClTplIWllVfqsrihcEzEzKhi1rABqCeXt2ZK-l1EiDI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTBjNGM2MTM4MjIx/NTAzNDNmMGZmODJj/MjRkMjVlOWRmMTBh/ODgwODAuanBn.jpg",
+        "https://img.locservice.fr/l2KscXvJVzWkl5Wt1ZokunKAAh7zWcPP489GHkXYUlU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWEzNzllMWJjNzYw/MWQ3ZDAzOWI0YjVk/Y2M2MmVkOGQ3Zjk2/NDQxOWEuanBn.jpg",
+        "https://img.locservice.fr/OFvIQE7aWbp7Wk5RlX_LKOB6vw6t5VtAIyUkfgoFzd8/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTRmMGNmMGE3NmMw/YWUzYmUzOTM4MjM4/YzBmNjlhNDZlMmE3/NDJlZmIuanBn.jpg"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "loyer 720.0 € légèrement au dessus de 700 €",
+        "parking non précisé"
+      ],
+      "quartier": "La Bastide",
+      "raisons_rejet": [],
+      "site": "locservice",
+      "statut": "incomplete",
+      "surface_m2": 41.0,
+      "titre": "Appartement T2 à louer",
+      "trajet_estime_min": 28,
+      "trajet_link_itineraire": "tram A puis tram D",
+      "trajet_link_min": 28,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 25,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-26T07:20",
+      "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115306744084",
+      "ville": "Bordeaux",
+      "vue_le": "2026-11-26T07:21",
+      "zone": "Bordeaux Bastide (rive droite)"
+    },
     "7513ebee7cd1": {
       "charges": 41,
       "code_postal": "33310",
@@ -1451,7 +1492,7 @@
       "trouvee_le": "2026-11-17T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "7a90aa69b983": {
@@ -1558,7 +1599,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-113999253604",
       "ville": "Eysines",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Eysines (proche tram D)"
     },
     "9064cfc381dc": {
@@ -1668,7 +1709,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115205253656",
       "ville": "Pessac",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Pessac centre (tram B)"
     },
     "9443142b572a": {
@@ -1707,7 +1748,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686",
       "ville": "Vayres",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": null
     },
     "982a94b6236c": {
@@ -1741,7 +1782,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-eysines/p-cf-114749523619",
       "ville": "Eysines",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Eysines (proche tram D)"
     },
     "9b53a2bc2dd0": {
@@ -1915,7 +1956,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115205253701",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "a7e11fad8a4e": {
@@ -2145,7 +2186,7 @@
     },
     "b2d4bac6de0e": {
       "code_postal": "33400",
-      "description": "Location appartement étudiant Talence - à partir de 690 € - 39 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Location résidence étudiante Gironde Talence Location Talence Location appartement Talence Location appartement 2 pièces Talence Location résidence étudiante Talence Location appartement 39 m² 690 € Location appartement T2 meublé pour étudiant à Talence À partir de 690 € / mois charges comprises 🔥 Moins de 7 jours Talence (33400) 39 m² 2 pièces Meublé Disponible immédiatement Logement partenaire Résidence étudiante Professionnel Réf. p-ij-1670471 Description de l'appartement T2 grand et moderne dans résidence étudiante à Talence T2 grand et moderne de 39m² moderne meublé et tout équipé (grande chambre, coin bureau, salle de bain, cuisine). Idéalement situé, il convient parfaitement à un étudiant souhaitant poursuivre ses études dans la ville. Cette résidence étudiante à Talence est parfaitement adaptée à un étudiant souhaitant poursuivre ses études à proximité de l'université. Idéalement située en face des vignobles du Château Haut-Brion, à proximité du pôle universitaire et de nombreuses écoles, elle est également tout proche du tramway et des commerces. Elle dispose de nombreux appartements de type T1 et T2 ainsi que des services tels qu'une salle de fitness, une laverie ainsi qu'un parking. Chauffage individuel. Voir la suite À propos du prix Loyer (charges comprises) À partir de 690 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (39 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Stationnement possible Découvrez votre quartier Talence (33400) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? NA Le DPE n’a pas été renseigné. Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : NA Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergie et l'impact environnemental du logement. Échelle DPE à partir de 2024 Logement économe A ≤ 70 kWh/m²/an B 71 à 110 kWh/m²/an C 111 à 180 kWh/m²/an D 181 à 250 kWh/m²/an E 251 à 330 kWh/m²/an F 331 à 420 kWh/m²/an G ≥ 421 kWh/m²/an Logement énergivore Note Consommation (kWh/m²/an) Description A ≤ 70 Logement très économe B 71 à 110 Logement économe C 111 à 180 Logeme",
+      "description": "Location appartement étudiant Talence - à partir de 690 € - 39 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Location résidence étudiante Gironde Talence Location Talence Location appartement Talence Location appartement 2 pièces Talence Location résidence étudiante Talence Location appartement 39 m² 690 € Location appartement T2 meublé pour étudiant à Talence À partir de 690 € / mois charges comprises Récent Talence (33400) 39 m² 2 pièces Meublé Disponible immédiatement Logement partenaire Résidence étudiante Professionnel Réf. p-ij-1670471 Description de l'appartement T2 grand et moderne dans résidence étudiante à Talence T2 grand et moderne de 39m² moderne meublé et tout équipé (grande chambre, coin bureau, salle de bain, cuisine). Idéalement situé, il convient parfaitement à un étudiant souhaitant poursuivre ses études dans la ville. Cette résidence étudiante à Talence est parfaitement adaptée à un étudiant souhaitant poursuivre ses études à proximité de l'université. Idéalement située en face des vignobles du Château Haut-Brion, à proximité du pôle universitaire et de nombreuses écoles, elle est également tout proche du tramway et des commerces. Elle dispose de nombreux appartements de type T1 et T2 ainsi que des services tels qu'une salle de fitness, une laverie ainsi qu'un parking. Chauffage individuel. Voir la suite À propos du prix Loyer (charges comprises) À partir de 690 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (39 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Stationnement possible Découvrez votre quartier Talence (33400) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? NA Le DPE n’a pas été renseigné. Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : NA Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergie et l'impact environnemental du logement. Échelle DPE à partir de 2024 Logement économe A ≤ 70 kWh/m²/an B 71 à 110 kWh/m²/an C 111 à 180 kWh/m²/an D 181 à 250 kWh/m²/an E 251 à 330 kWh/m²/an F 331 à 420 kWh/m²/an G ≥ 421 kWh/m²/an Logement énergivore Note Consommation (kWh/m²/an) Description A ≤ 70 Logement très économe B 71 à 110 Logement économe C 111 à 180 Logement assez éco",
       "expiree": true,
       "exterieur": null,
       "loyer_cc": 690.0,
@@ -2173,7 +2214,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -2456,7 +2497,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -2528,7 +2569,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "d6ee6182fc45": {
@@ -2682,7 +2723,7 @@
       "trouvee_le": "2026-11-17T14:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617",
       "ville": "Floirac",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "e39fcd231ab9": {
@@ -2749,7 +2790,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -2937,7 +2978,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:20",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -3092,7 +3133,7 @@
       "trouvee_le": "2026-11-20T18:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/p-cf-113863563853",
       "ville": "Cenon",
-      "vue_le": "2026-11-25T18:20",
+      "vue_le": "2026-11-26T07:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     }
   }

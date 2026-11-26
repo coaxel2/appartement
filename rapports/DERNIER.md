@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-25
+# Rapport de recherche du 2026-11-26
 
 ## Critères
 
@@ -24,7 +24,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297061000A1KILHAP000)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/68/b6/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMDEwLTI2XzEuanBnPzIwMjYxMTI1MDk0MTMy_rct?func=crop&w=1000&gravity=auto)
 
@@ -71,7 +71,7 @@
 - A vérifier : trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/cenon-33150/appartement/331726522.htm)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/0f/2c/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTIwMjIwNTA1XzE2MzUyMS04NDI1MDIxMTY1NTY2NDAyMTE3LmpwZz8yMDI2MTExODIwMTY1MQ_rct?func=crop&w=1000&gravity=auto)
 
@@ -99,7 +99,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659)
 
-### Appartement T2 à louer (nouvelle)
+### Appartement T2 à louer
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/8e/bf/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXNfam91cl8xLTEwMDY4MzAwNzA2NDg0OTcwNzk5LmpwZz8yMDI2MTEyNTEyNDAxMg_rct?func=crop&w=1000&gravity=auto)
 
@@ -113,7 +113,7 @@
 - Disponible : ?, publiée le ?
 - Source : [locservice](https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-115205253671)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/8e/bf/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLXNfam91cl8xLTEwMDY4MzAwNzA2NDg0OTcwNzk5LmpwZz8yMDI2MTEyNTEyNDAxMg_rct?func=crop&w=1000&gravity=auto)
 
@@ -356,7 +356,7 @@
 - A vérifier : extérieur non précisé, trajets estimés (Omnes ~30 min, Link ~33 min), à confirmer
 - Source : [Foncia](https://fr.foncia.com/location/bordeaux-33/appartement/331727701.htm)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/photos.ubiflow.net/33/32/LzY5NDUzOC81NjIxNTA5NzYvcGhvdG9zLzEuanBnPzIwMjYxMTI0MDcyMTA3_rct?func=crop&w=1000&gravity=auto)
 
@@ -440,7 +440,7 @@
 - A vérifier : loyer 705.0 € légèrement au dessus de 700 €
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600)
 
-### Appartement T2 à louer (nouvelle)
+### Appartement T2 à louer
 
 - Loyer total : **706 €** (CC, parking inclus si en supplément)
 - Surface : 37 m², 2 pièce(s)
@@ -544,7 +544,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (12)
+## Annonces incomplètes (plusieurs informations manquantes) (13)
 
 ### Appartement T2 à louer
 
@@ -600,7 +600,7 @@
 - A vérifier : loyer 706.0 € légèrement au dessus de 700 €, extérieur non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103007824)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/80/c8/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8zMC8zMC05MjUyLTI2XzEuanBnPzIwMjYxMTI1MTExNjM0_rct?func=crop&w=1000&gravity=auto)
 
@@ -652,7 +652,25 @@
 - A vérifier : loyer 715.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598)
 
-### Annonce (nouvelle)
+### Appartement T2 à louer (nouvelle)
+
+![photo](https://img.locservice.fr/rmGP3A2wf8nSUKqlLXmKdbxxxylsbpl02o-o_sk9HUA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg)
+![photo](https://img.locservice.fr/VedodbQ72D20KW-pFUjXQIEuMf9UZ3LFBcHRA5xZDoo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNiYzg3ZWEyZTdh/OTZmNzQ4OTg3MDhk/ZmY1NGM2NTU1NzU5/MDIzODAuanBn.jpg)
+![photo](https://img.locservice.fr/AGCBbgnyqJi8FTyPQBeC1aMc9MkIHpp32g9QX6YRHz4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNlM2Q5Mzk3Y2I1/YzU5Yzg3YzQ5NGFk/YmY3NGViOWE5ZGU0/NDI5NDkuanBn.jpg)
+![photo](https://img.locservice.fr/ClTplIWllVfqsrihcEzEzKhi1rABqCeXt2ZK-l1EiDI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTBjNGM2MTM4MjIx/NTAzNDNmMGZmODJj/MjRkMjVlOWRmMTBh/ODgwODAuanBn.jpg)
+
+- Loyer total : **720 €** (CC, parking inclus si en supplément)
+- Surface : 41 m², 2 pièce(s)
+- Localisation : Bordeaux 33100 (La Bastide)
+- Trajet Omnes (quai des Chartrons) : 25 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 28 min, tram A puis tram D
+- Extérieur : terrasse tropézienne
+- Parking : ?
+- Disponible : ?, publiée le ?
+- A vérifier : loyer 720.0 € légèrement au dessus de 700 €, parking non précisé
+- Source : [locservice](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115306744084)
+
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/64/9d/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMDk0LTIwXzEuanBnPzIwMjYxMTI0MTQxODEz_rct?func=crop&w=1000&gravity=auto)
 
@@ -685,7 +703,7 @@
 - A vérifier : loyer 731 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [Foncia](https://fr.foncia.com/location/bordeaux-33/appartement/331729245.htm)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/28/1d/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS05MDY4LTI2XzEuanBnPzIwMjYxMTI1MDUxNTA3_rct?func=crop&w=1000&gravity=auto)
 
