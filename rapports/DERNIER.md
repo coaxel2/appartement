@@ -323,7 +323,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (15)
+## Annonces à vérifier (un seul point incertain) (16)
 
 ### T2 avec parking, Mérignac
 
@@ -513,6 +513,21 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 740 € légèrement au dessus de 700 €
 - Source : [Echo Etienne immobilier](https://www.echoetienne.fr/immobilier/appartement-t2-bordeaux-location-fr_LA1994.htm)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/8c/06/L29mZmljZTEyL2FqcGltbW9sb2NfMDUwMjIwMjEvY2F0YWxvZy9pbWFnZXMvcHJfcC80LzYvNi80LzEvOC82LzMvNDY2NDE4NjNhLmpwZz9EQVRFTUFKPTIxLzAzLzIwMjUtMTk6NDc6MzgmMjAyNjExMjUxMTE1NTE_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **745 €** (CC, parking inclus si en supplément)
+- Surface : 55.89 m², 2 pièce(s)
+- Localisation : Eysines 33320
+- Trajet Omnes (quai des Chartrons) : 35 min, tram D puis tram C
+- Trajet Link (rue de Turenne) : 25 min, tram D direct
+- Extérieur : balcon de 4,25 m²
+- Parking : 2 places de parking en sous-sol
+- Disponible : ?, publiée le 2026-11-25
+- A vérifier : loyer 745 € légèrement au dessus de 700 €, trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297867731A1KILHAP000)
 
 ### T3 56 m² au 2e étage avec balcon et parking, Cenon
 
@@ -762,7 +777,7 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (18)
+## Annonces écartées (19)
 
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-st-loubes/p-cf-115188573803) : trajet vérifié Omnes 55 min, Link 55 min
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
@@ -777,6 +792,7 @@
 - [Appartement T2 Bordeaux Caudéran](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/8f385ab5-ec8d-494c-83e2-c5ff08349a3a) : loyer 751.6 € > 750 €
 - [T3 49 m² Blanquefort, parking](https://fr.foncia.com/location/blanquefort-33290/appartement/331725717.htm) : loyer 758 € > 750 €
 - [T2 meublé 32 m² Bas Floirac, parking](https://www.orpi.com/annonce-location-appartement-t2-floirac-33270-246f05b3-2844-4d74-aec2-021c24cdc066) : loyer 760 € > 750 €, 32.37 m² < 35 m²
+- [https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/lormont/62428c90-a76a-4285-878c-9cc217e15cc6](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/lormont/62428c90-a76a-4285-878c-9cc217e15cc6) : loyer 790 € > 750 €
 - [T2 51,72 m² Caudéran, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/bordeaux-cauderan/0941b581-fd51-4765-97c4-dacc4675f1fa) : loyer 790 € > 750 €
 - [T2 meublé 33 m² Mérignac centre, balcon et parking](https://www.123loger.com/location/merignac-33700/appartement/6a523ac3b37b/) : loyer 810 € > 750 €, 33 m² < 35 m²
 - [T3 65 m² Bègles Mussonville, balcon et parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/begles/162a7a82-6eca-45a9-bffa-a8953e37cd07) : loyer 844.31 € > 750 €
