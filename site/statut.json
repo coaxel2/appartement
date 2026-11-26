@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-26T08:18:14+01:00",
  "fin": null,
- "etape": "Collecte directe LocService : T2 et T3 de la métropole",
+ "etape": "Recherche web 1 et 2 / 2 : T2 balcon parking à Floirac, T2 terrasse parking à Blanquefort, puis vérification des fiches",
  "etapes": [
   {
    "heure": "2026-11-26T08:18:14+01:00",
@@ -12,6 +12,11 @@
    "heure": "2026-11-26T08:18:16+01:00",
    "texte": "Collecte directe LocService : T2 et T3 de la métropole",
    "detail": "LocService"
+  },
+  {
+   "heure": "2026-11-26T08:18:46+01:00",
+   "texte": "Recherche web 1 et 2 / 2 : T2 balcon parking à Floirac, T2 terrasse parking à Blanquefort, puis vérification des fiches",
+   "detail": "Orpi, Square Habitat, Foncia"
   }
  ],
  "resume": "0 nouvelle annonce qui correspond",
@@ -23,5 +28,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-26T08:18:16+01:00"
+ "maj": "2026-11-26T08:18:46+01:00"
 }
