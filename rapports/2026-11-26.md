@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (21)
+## Annonces qui cochent tous les critères (20)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -187,24 +187,6 @@
 - Disponible : ?, publiée le 2026-11-15
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297470374A1KILHAP000)
 
-### T2 46,49 m² résidence récente avec balcon et parking, Mérignac
-
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e8030c52998e6b77e78/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e80254e589269827fa9/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e8050bb3a0e2ac271be/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/64850e80deda02594841652d/1/1920/1024)
-
-- Loyer total : **664 €** (CC, parking inclus si en supplément)
-- Surface : 46.49 m², 2 pièce(s)
-- Localisation : Mérignac 33700
-- Trajet Omnes (quai des Chartrons) : 38 min, tram A puis tram B
-- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D ou bus
-- Extérieur : balcon
-- Parking : parking
-- Disponible : immédiate, publiée le 2026-10-30
-- A vérifier : trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/merignac-33700/appartement/331720465.htm)
-
 ### T2 50,84 m² au dernier étage avec balcon et parking privatif, Bègles rue Pauly
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/d5/83/L29mZmljZTEyL2F2YW50aV8wNzA3MjAyMS9jYXRhbG9nL2ltYWdlcy9wcl9wLzQvNi81LzUvOC8wLzgvMi80NjU1ODA4MmEuanBnP0RBVEVNQUo9MjMvMDMvMjAyNS0wNDowMTowNiYyMDI2MTExMzA3MjExOA_rct?func=crop&w=1000&gravity=auto)
@@ -255,7 +237,10 @@
 
 ### Appartement T2 à louer
 
-![photo](https://img.locservice.fr/D5e3KG3FWBg0oDtrQVIXi5wV7B7bjXszC0uMg18IufA/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg)
+![photo](https://img.locservice.fr/Y6kEFsdE-zGRgYjf-4eYdEGiOnX531y8tnlRoh6GVuw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg)
+![photo](https://img.locservice.fr/VAigThPuu4wz-z7iYDnexu7ss3bWFqMiFtH-UmjRfrE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWU4ZmI2N2VhODZl/ZmNhNTgxYTA5Zjk4/NzIzMjEzNWQ1YmNj/YzBiYWUuanBn.jpg)
+![photo](https://img.locservice.fr/cGGEToPx3oGXlZlDAj20mxjII01ActYCVpRHZTHQN2k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTlhNmRmMjAyMzU5/MTk4NjhiMTY0MDgz/ZTU4N2MwMTM3NzFm/MWYyZGMuanBn.jpg)
+![photo](https://img.locservice.fr/_0kJTH6G3VNTQdk-Bpa9po3voO5In4a9C_Ej8ypl00k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTkwZmVhMWUyZDRm/YTVkMjZhZTU1ZWE1/YmQ4NDdhODQyZTU0/ZTk1ZDQuanBn.jpg)
 
 - Loyer total : **680 €** (CC, parking inclus si en supplément)
 - Surface : 44 m², 2 pièce(s)
@@ -467,7 +452,7 @@
 
 ### Appartement T2 à louer
 
-![photo](https://img.locservice.fr/T0xkyq8ZYN3LH7Vn_nL_itekgVHERNsmBj4-2mrrVQ0/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZiZjAtOTYw/Zi03NzE2LWI0YzUt/ZmQ5NmRhZGVjODYx/LWQxMDhjOTRmODdj/MDUxZmU5OWU1OGFh/NTYxMDZjZGY0MDU1/MDc4MWYuanBn.jpg)
+![photo](https://img.locservice.fr/U7oib1cLxzjZ_H6KkPLH4pChwmU4EFpkspA3xS-uPyQ/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZiZjAtOTYw/Zi03NzE2LWI0YzUt/ZmQ5NmRhZGVjODYx/LWQxMDhjOTRmODdj/MDUxZmU5OWU1OGFh/NTYxMDZjZGY0MDU1/MDc4MWYuanBn.jpg)
 
 - Loyer total : **707 €** (CC, parking inclus si en supplément)
 - Surface : 43 m², 2 pièce(s)
@@ -593,7 +578,10 @@
 
 ### Appartement T2 à louer
 
-![photo](https://img.locservice.fr/KQknMIZyAz4S2J-1HrQQgMUdyFt8rL_HdbQTagJLSO0/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWY1NTliOWU0YTk5/MTQwOWU0MDI2Njk2/OTE1Nzc2MGQ5NDVl/MWJiYjMuanBn.jpg)
+![photo](https://img.locservice.fr/S1Co_XO1l1qLdRD4MpA0AORBo8_w3qxYCoxkOUfodmo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWY1NTliOWU0YTk5/MTQwOWU0MDI2Njk2/OTE1Nzc2MGQ5NDVl/MWJiYjMuanBn.jpg)
+![photo](https://img.locservice.fr/1jjXzsOgqHy-6iCMiDUWQl-6OFlnzN7tEvBw7zpD2Qo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LWE0ZjYxMGI4NzMw/ZmI2ZTFjYjc4ZmY2/YzQxYjI4MTQ2Zjkw/YjVkNzYuanBn.jpg)
+![photo](https://img.locservice.fr/ohN5YocuUp8hrHRAI65jU51jX2v5OlFr2nBTJUAshf4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LTg5OWZhNTA1YTBh/N2RhZDJlYjY5MWEy/ODQzNmQxNjNhOTRj/YTUzNTguanBn.jpg)
+![photo](https://img.locservice.fr/BbENRTOldsGT4P0AosTW8ReIhAKGz8EzepEsTzhI7Hc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZjNWUtNWZm/Mi03Y2JjLWE0ZDQt/Nzc3MzA5MWE1OTdm/LTQyMjYxOWE0N2Q5/MTIzZGRiZWZiNzVm/YjAwOGI2Yjk0NjM5/OTM2Y2MuanBn.jpg)
 
 - Loyer total : **695 €** (CC, parking inclus si en supplément)
 - Surface : 59 m², 2 pièce(s)
