@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (20)
+## Annonces qui cochent tous les critères (19)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -253,24 +253,6 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617)
 
-### T2 43,45 m² avec terrasse et parking sécurisé, Eysines Pinsan
-
-![photo](https://storage.fonciamillenium.net/thumbnail/69708f2e2e9ed8fa1427d716/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6ad63d4a143980e8e09973a9/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6ad63d4e07728eb859616765/1/1920/1024)
-![photo](https://storage.fonciamillenium.net/thumbnail/6ad63d513345a53feb53eab7/1/1920/1024)
-
-- Loyer total : **684 €** (CC, parking inclus si en supplément)
-- Surface : 43.45 m², 2 pièce(s)
-- Localisation : Eysines 33320 (Domaine du Pinsan)
-- Trajet Omnes (quai des Chartrons) : 35 min, tram D puis tram C
-- Trajet Link (rue de Turenne) : 25 min, tram D direct
-- Extérieur : terrasse
-- Parking : parking sécurisé en sous-sol
-- Disponible : ?, publiée le 2026-10-09
-- A vérifier : trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer
-- Source : [Foncia](https://fr.foncia.com/location/eysines-33320/appartement/331715795.htm)
-
 ### T2 45 m² au 2e étage avec balcon et parking, Lormont
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/43/3e/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUJBTENPTi02Nzc4OTkxNDY1OTI0NjUyMzMwLmpwZz8yMDI2MTExNTIwMTU1NA_rct?func=crop&w=1000&gravity=auto)
@@ -304,10 +286,7 @@
 
 ### Appartement T2 meublé à louer
 
-![photo](https://img.locservice.fr/Dpxyite3UB0egacwkfEY7f0aQxpAoMh9zk6E7WuK0Fc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg)
-![photo](https://img.locservice.fr/h3sVj-yFm5JlmIGaU3aKr_Q1Ds1YcKDrAaINh5AZVZU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWY4NDIt/NzVkMS1iNWNjLTkw/ZjIyMmZiNmRiMA.jpg)
-![photo](https://img.locservice.fr/YYrJEnWWyCc9sHKu9qJQZIzblUB7GFANFP4lLhujJYI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTAzMDIt/NzY4My1iMTZiLWVk/YWMyOWRhYzIzNQ.jpg)
-![photo](https://img.locservice.fr/Miyz08IFETpEJg95MmTe0PPLuoxZzdOrTnAw0vhQfEM/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTA3OGYt/N2NmZi1iOTQ1LTYx/NzZhYjI5MGFmOA.jpg)
+![photo](https://img.locservice.fr/LL8WZiVlcuKW-6U6Uw3ejqT97AuMWF4lEEKsUxvk1Ao/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg)
 
 - Loyer total : **700 €** (CC, parking inclus si en supplément)
 - Surface : 50 m², 2 pièce(s)

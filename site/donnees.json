@@ -505,7 +505,7 @@
     "incomplete": 15
    }
   },
-  "mise_a_jour": "2026-11-27T07:23"
+  "mise_a_jour": "2026-11-27T10:25"
  },
  "annonces": [
   {
@@ -709,7 +709,7 @@
     "trajet à vérifier"
    ],
    "trouvee_le": "2026-11-21T07:20",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": null,
    "contact": "Citya Burdigala, 05 57 14 30 73",
    "signalee": null,
@@ -750,7 +750,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
@@ -796,7 +796,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": null,
    "contact": "Citya Lanaverre (aussi sur ParuVendu 1297881861)",
    "signalee": null,
@@ -878,7 +878,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": true,
    "contact": "Foncia Bordeaux, dossier sur foncia.com",
    "signalee": null,
@@ -1104,7 +1104,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1239,7 +1239,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2175,7 +2175,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-26T07:20",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": null,
    "contact": "ERA Bordeaux Rive Droite",
    "signalee": null,
@@ -2268,7 +2268,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-17T07:20",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2540,7 +2540,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
@@ -2586,7 +2586,7 @@
     "loyer 750.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2630,7 +2630,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2672,7 +2672,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2885,7 +2885,7 @@
     "loyer 706.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3188,7 +3188,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:21",
    "expiree": true,
    "contact": null,
    "signalee": null,
@@ -3272,8 +3272,8 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-15T17:42",
-   "expiree": null,
+   "vue_le": "2026-11-27T10:23",
+   "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
    "id": "bb8ac95bdffe",
@@ -3499,16 +3499,13 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T07:23",
+   "vue_le": "2026-11-27T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "ca769047a1e2",
    "photos_urls": [
-    "https://img.locservice.fr/Dpxyite3UB0egacwkfEY7f0aQxpAoMh9zk6E7WuK0Fc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg",
-    "https://img.locservice.fr/h3sVj-yFm5JlmIGaU3aKr_Q1Ds1YcKDrAaINh5AZVZU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWY4NDIt/NzVkMS1iNWNjLTkw/ZjIyMmZiNmRiMA.jpg",
-    "https://img.locservice.fr/YYrJEnWWyCc9sHKu9qJQZIzblUB7GFANFP4lLhujJYI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTAzMDIt/NzY4My1iMTZiLWVk/YWMyOWRhYzIzNQ.jpg",
-    "https://img.locservice.fr/Miyz08IFETpEJg95MmTe0PPLuoxZzdOrTnAw0vhQfEM/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTA3OGYt/N2NmZi1iOTQ1LTYx/NzZhYjI5MGFmOA.jpg"
+    "https://img.locservice.fr/LL8WZiVlcuKW-6U6Uw3ejqT97AuMWF4lEEKsUxvk1Ao/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg"
    ],
    "description": "Location appartement meublé à Bègles - 700 € - 50 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Bègles Location Bègles Location particulier Bègles Location appartement Bègles Location appartement particulier Bègles Location appartement 2 pièces Bègles Location appartement 50 m² 700 € Location app"
   },
@@ -3590,7 +3587,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3763,7 +3760,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-17T14:22",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3939,7 +3936,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": true,
    "contact": "Foncia Bordeaux, 61 quai Lawton",
    "signalee": null,
@@ -4116,7 +4113,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T10:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -4290,7 +4287,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-20T18:20",
-   "vue_le": "2026-11-27T07:21",
+   "vue_le": "2026-11-27T10:23",
    "expiree": null,
    "contact": null,
    "signalee": null,
