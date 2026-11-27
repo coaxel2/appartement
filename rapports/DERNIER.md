@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (19)
+## Annonces qui cochent tous les critères (20)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -141,6 +141,21 @@
 - Parking : place de parking intérieure incluse
 - Disponible : ?, publiée le 2026-11-25
 - Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297881861A1KILHAP000)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/8c/2b/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTIwMjEwNzIyXzEwNTIwMi01MjQzMjMxMzkyOTUxODQ5Mzk2LmpwZz8yMDI2MTEyNzExNDM1Nw_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **641 €** (CC, parking inclus si en supplément)
+- Surface : 41 m², 2 pièce(s)
+- Localisation : Lormont 33310
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
+- Extérieur : balcon de 7 m²
+- Parking : place de parking
+- Disponible : ?, publiée le 2026-11-27
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297966218A1KILHAP000)
 
 ### Appartement T2 à louer
 
@@ -286,7 +301,10 @@
 
 ### Appartement T2 meublé à louer
 
-![photo](https://img.locservice.fr/LL8WZiVlcuKW-6U6Uw3ejqT97AuMWF4lEEKsUxvk1Ao/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg)
+![photo](https://img.locservice.fr/Dpxyite3UB0egacwkfEY7f0aQxpAoMh9zk6E7WuK0Fc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg)
+![photo](https://img.locservice.fr/h3sVj-yFm5JlmIGaU3aKr_Q1Ds1YcKDrAaINh5AZVZU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWY4NDIt/NzVkMS1iNWNjLTkw/ZjIyMmZiNmRiMA.jpg)
+![photo](https://img.locservice.fr/YYrJEnWWyCc9sHKu9qJQZIzblUB7GFANFP4lLhujJYI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTAzMDIt/NzY4My1iMTZiLWVk/YWMyOWRhYzIzNQ.jpg)
+![photo](https://img.locservice.fr/Miyz08IFETpEJg95MmTe0PPLuoxZzdOrTnAw0vhQfEM/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTA3OGYt/N2NmZi1iOTQ1LTYx/NzZhYjI5MGFmOA.jpg)
 
 - Loyer total : **700 €** (CC, parking inclus si en supplément)
 - Surface : 50 m², 2 pièce(s)
@@ -299,7 +317,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-begles/2540157)
 
-## Annonces à vérifier (un seul point incertain) (16)
+## Annonces à vérifier (un seul point incertain) (17)
 
 ### T2 avec parking, Mérignac
 
@@ -313,6 +331,21 @@
 - Disponible : ?, publiée le ?
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [RIB Immobilier](https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/6d/cd/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTEtLTI2MzA0ODU0MjU4NTc1NDIyNTUuanBnPzIwMjYxMTI3MTE0NTE4_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **640 €** (CC, parking inclus si en supplément)
+- Surface : 39.2 m², 2 pièce(s)
+- Localisation : Bruges 33520
+- Trajet Omnes (quai des Chartrons) : 22 min, tram C direct (Cours du Médoc)
+- Trajet Link (rue de Turenne) : 30 min, tram C puis bus
+- Extérieur : ?
+- Parking : place de parking incluse
+- Disponible : ?, publiée le ?
+- A vérifier : extérieur non précisé
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297678106A1KILHAP000)
 
 ### Annonce
 
@@ -535,7 +568,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (13)
+## Annonces incomplètes (plusieurs informations manquantes) (14)
 
 ### Appartement T2 à louer
 
@@ -645,10 +678,7 @@
 
 ### Appartement T2 à louer
 
-![photo](https://img.locservice.fr/rmGP3A2wf8nSUKqlLXmKdbxxxylsbpl02o-o_sk9HUA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg)
-![photo](https://img.locservice.fr/VedodbQ72D20KW-pFUjXQIEuMf9UZ3LFBcHRA5xZDoo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNiYzg3ZWEyZTdh/OTZmNzQ4OTg3MDhk/ZmY1NGM2NTU1NzU5/MDIzODAuanBn.jpg)
-![photo](https://img.locservice.fr/AGCBbgnyqJi8FTyPQBeC1aMc9MkIHpp32g9QX6YRHz4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNlM2Q5Mzk3Y2I1/YzU5Yzg3YzQ5NGFk/YmY3NGViOWE5ZGU0/NDI5NDkuanBn.jpg)
-![photo](https://img.locservice.fr/ClTplIWllVfqsrihcEzEzKhi1rABqCeXt2ZK-l1EiDI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTBjNGM2MTM4MjIx/NTAzNDNmMGZmODJj/MjRkMjVlOWRmMTBh/ODgwODAuanBn.jpg)
+![photo](https://img.locservice.fr/8S7rTDOIyXUrCxcw_fxAImG2hWl8aggnMmkCDfv8c4c/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg)
 
 - Loyer total : **720 €** (CC, parking inclus si en supplément)
 - Surface : 41 m², 2 pièce(s)
@@ -660,6 +690,21 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 720.0 € légèrement au dessus de 700 €, parking non précisé
 - Source : [locservice](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115306744084)
+
+### Annonce (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/c8/73/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUVYVC01NDI1NDE4NzA4NjA1NzU4NzMxLmpwZz8yMDI2MTEyNzExNDQyNg_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **723 €** (CC, parking inclus si en supplément)
+- Surface : 44.76 m², 2 pièce(s)
+- Localisation : Bordeaux
+- Trajet Omnes (quai des Chartrons) : ?, itinéraire à vérifier
+- Trajet Link (rue de Turenne) : ?, itinéraire à vérifier
+- Extérieur : balcon
+- Parking : place de parking incluse
+- Disponible : ?, publiée le 2026-11-27
+- A vérifier : loyer 723 € légèrement au dessus de 700 €, trajet à vérifier
+- Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297966217A1KILHAP000)
 
 ### Annonce
 

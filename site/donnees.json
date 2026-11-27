@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 86,
+   "total": 89,
    "par_statut": {
-    "correspond": 28,
-    "a_verifier": 22,
+    "correspond": 29,
+    "a_verifier": 23,
     "rejetee": 21,
-    "incomplete": 15
+    "incomplete": 16
    }
   },
-  "mise_a_jour": "2026-11-27T10:25"
+  "mise_a_jour": "2026-11-27T14:25"
  },
  "annonces": [
   {
@@ -709,7 +709,7 @@
     "trajet à vérifier"
    ],
    "trouvee_le": "2026-11-21T07:20",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": null,
    "contact": "Citya Burdigala, 05 57 14 30 73",
    "signalee": null,
@@ -750,7 +750,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
@@ -796,7 +796,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": null,
    "contact": "Citya Lanaverre (aussi sur ParuVendu 1297881861)",
    "signalee": null,
@@ -878,7 +878,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": true,
    "contact": "Foncia Bordeaux, dossier sur foncia.com",
    "signalee": null,
@@ -1104,7 +1104,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1196,7 +1196,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1239,7 +1239,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T10:25",
+   "vue_le": "2026-11-27T14:23",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1434,7 +1434,9 @@
    "titre": "Appartement T2 à louer",
    "site": "LocService",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113103562732",
-   "autres_urls": null,
+   "autres_urls": [
+    "https://www.paruvendu.fr/immobilier/location/appartement/1297966264A1KILHAP000"
+   ],
    "loyer_total": 733.0,
    "loyer_cc": 733.0,
    "charges": null,
@@ -1787,6 +1789,49 @@
     "https://img.paruvendu.fr/media_ext/_https_/photos.lesannoncesdesproprietaires.com/cf/93/L0RMX3Bob3Rvcy9QaG90b3NSZWR1aXRlcy8yOS8yOS0wMTk1LTI2XzEuanBnPzIwMjYxMTE2MTQxNzU4_rct?func=crop&w=1000&gravity=auto"
    ],
    "description": "Publié par Directe Location, un service payant de mise en relation (frais de dossier 220 €) : prudence avant de payer. T2 en très bon état, 609 € plus 58 € de charges, balcon, parking sécurisé, local vélos, résidence avec interphone, salon, chambre, salle d'eau, WC. Surface non indiquée."
+  },
+  {
+   "titre": null,
+   "site": "paruvendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297678106A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 640,
+   "loyer_cc": 640,
+   "charges": null,
+   "surface_m2": 39.2,
+   "pieces": 2,
+   "ville": "Bruges",
+   "code_postal": "33520",
+   "quartier": null,
+   "zone": "Bruges",
+   "trajet_estime_min": 30,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "trajet_omnes_min": 22,
+   "trajet_omnes_itineraire": "tram C direct (Cours du Médoc)",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 30,
+   "trajet_link_itineraire": "tram C puis bus",
+   "trajet_link_verifie": false,
+   "parking": "place de parking incluse",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "a_verifier",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "extérieur non précisé"
+   ],
+   "trouvee_le": "2026-11-27T14:22",
+   "vue_le": "2026-11-27T14:22",
+   "expiree": null,
+   "contact": "Citya Lanaverre",
+   "signalee": null,
+   "id": "476e228fa842",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/box.ics.fr/6d/cd/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTEtLTI2MzA0ODU0MjU4NTc1NDIyNTUuanBnPzIwMjYxMTI3MTE0NTE4_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "T2 de 39,2 m² avec ascenseur, cuisine américaine équipée, parking inclus. Extérieur non mentionné."
   },
   {
    "titre": null,
@@ -2175,18 +2220,13 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-26T07:20",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": null,
    "contact": "ERA Bordeaux Rive Droite",
    "signalee": null,
    "id": "74c7cc7c481c",
    "photos_urls": [
-    "https://img.locservice.fr/rmGP3A2wf8nSUKqlLXmKdbxxxylsbpl02o-o_sk9HUA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg",
-    "https://img.locservice.fr/VedodbQ72D20KW-pFUjXQIEuMf9UZ3LFBcHRA5xZDoo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNiYzg3ZWEyZTdh/OTZmNzQ4OTg3MDhk/ZmY1NGM2NTU1NzU5/MDIzODAuanBn.jpg",
-    "https://img.locservice.fr/AGCBbgnyqJi8FTyPQBeC1aMc9MkIHpp32g9QX6YRHz4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNlM2Q5Mzk3Y2I1/YzU5Yzg3YzQ5NGFk/YmY3NGViOWE5ZGU0/NDI5NDkuanBn.jpg",
-    "https://img.locservice.fr/ClTplIWllVfqsrihcEzEzKhi1rABqCeXt2ZK-l1EiDI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTBjNGM2MTM4MjIx/NTAzNDNmMGZmODJj/MjRkMjVlOWRmMTBh/ODgwODAuanBn.jpg",
-    "https://img.locservice.fr/l2KscXvJVzWkl5Wt1ZokunKAAh7zWcPP489GHkXYUlU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWEzNzllMWJjNzYw/MWQ3ZDAzOWI0YjVk/Y2M2MmVkOGQ3Zjk2/NDQxOWEuanBn.jpg",
-    "https://img.locservice.fr/OFvIQE7aWbp7Wk5RlX_LKOB6vw6t5VtAIyUkfgoFzd8/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTRmMGNmMGE3NmMw/YWUzYmUzOTM4MjM4/YzBmNjlhNDZlMmE3/NDJlZmIuanBn.jpg"
+    "https://img.locservice.fr/8S7rTDOIyXUrCxcw_fxAImG2hWl8aggnMmkCDfv8c4c/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg"
    ],
    "description": "T1 bis en duplex à La Bastide, séjour avec cuisine équipée, coin nuit à l'étage avec terrasse tropézienne. Pas de parking mentionné. Disponible immédiatement."
   },
@@ -2268,7 +2308,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-17T07:20",
-   "vue_le": "2026-11-27T10:25",
+   "vue_le": "2026-11-27T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2409,7 +2449,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2508,6 +2548,49 @@
    "description": "Location appartement meublé à Mérignac - 720 € - 47 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Mérignac Location Mérignac Location appartement Mérignac Location appartement 2 pièces Mérignac Location appartement 47 m² 720 € Appartement T2 meublé à louer à Mérignac 720 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (w"
   },
   {
+   "titre": null,
+   "site": "paruvendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297966218A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 641,
+   "loyer_cc": 641,
+   "charges": null,
+   "surface_m2": 41,
+   "pieces": 2,
+   "ville": "Lormont",
+   "code_postal": "33310",
+   "quartier": null,
+   "zone": "Cenon / Lormont / Floirac (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon de 7 m²",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "place de parking",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": "2026-11-27",
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-27T14:22",
+   "vue_le": "2026-11-27T14:22",
+   "expiree": null,
+   "contact": "Citya Burdigala",
+   "signalee": null,
+   "id": "917b3fc0cbd1",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/box.ics.fr/8c/2b/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTIwMjEwNzIyXzEwNTIwMi01MjQzMjMxMzkyOTUxODQ5Mzk2LmpwZz8yMDI2MTEyNzExNDM1Nw_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "T2 de 41 m² au 3e étage avec ascenseur, séjour de 23 m², kitchenette, balcon de 7 m², parking. Logement Pinel (plafonds de ressources probables)."
+  },
+  {
    "titre": "T2 42,46 m² en RDC avec terrasse et parking, Mérignac Soleil",
    "site": "Foncia",
    "url": "https://fr.foncia.com/location/merignac-33700/appartement/331722224.htm",
@@ -2540,7 +2623,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
@@ -2586,7 +2669,7 @@
     "loyer 750.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2630,7 +2713,7 @@
     "extérieur non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:25",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2672,7 +2755,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2885,13 +2968,57 @@
     "loyer 706.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "a4b336dd2b83",
    "photos_urls": [],
    "description": "Location appartement à Bordeaux - 706 € - 37 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bordeaux Location Bordeaux Location appartement Bordeaux Location appartement 2 pièces Bordeaux Location appartement 37 m² 706 € Appartement T2 à louer à Bordeaux 706 € / mois charges comprises 🔥 Moins de 7 jours Bordeaux (33000) 37 m² 2 pièces Non meublé Disponible immédiate"
+  },
+  {
+   "titre": null,
+   "site": "paruvendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297966217A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 723,
+   "loyer_cc": 723,
+   "charges": null,
+   "surface_m2": 44.76,
+   "pieces": 2,
+   "ville": "Bordeaux",
+   "code_postal": null,
+   "quartier": null,
+   "zone": null,
+   "trajet_estime_min": null,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": null,
+   "trajet_omnes_itineraire": null,
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": null,
+   "trajet_link_itineraire": null,
+   "trajet_link_verifie": false,
+   "parking": "place de parking incluse",
+   "meuble": null,
+   "disponible": null,
+   "publie_le": "2026-11-27",
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 723 € légèrement au dessus de 700 €",
+    "trajet à vérifier"
+   ],
+   "trouvee_le": "2026-11-27T14:22",
+   "vue_le": "2026-11-27T14:22",
+   "expiree": null,
+   "contact": "Citya Burdigala",
+   "signalee": null,
+   "id": "a74520b4567a",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/box.ics.fr/c8/73/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUVYVC01NDI1NDE4NzA4NjA1NzU4NzMxLmpwZz8yMDI2MTEyNzExNDQyNg_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "T2 de 44,76 m² avec balcon et parking inclus, proche tram B et 6 lignes de bus."
   },
   {
    "titre": "Appartement T2 Bordeaux Caudéran",
@@ -3188,7 +3315,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:21",
    "expiree": true,
    "contact": null,
    "signalee": null,
@@ -3272,7 +3399,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
@@ -3499,13 +3626,16 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "ca769047a1e2",
    "photos_urls": [
-    "https://img.locservice.fr/LL8WZiVlcuKW-6U6Uw3ejqT97AuMWF4lEEKsUxvk1Ao/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg"
+    "https://img.locservice.fr/Dpxyite3UB0egacwkfEY7f0aQxpAoMh9zk6E7WuK0Fc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWYzZWUt/N2VkMy1iYWYxLTgw/NTk5M2M2MzI5MQ.jpg",
+    "https://img.locservice.fr/h3sVj-yFm5JlmIGaU3aKr_Q1Ds1YcKDrAaINh5AZVZU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNhLWY4NDIt/NzVkMS1iNWNjLTkw/ZjIyMmZiNmRiMA.jpg",
+    "https://img.locservice.fr/YYrJEnWWyCc9sHKu9qJQZIzblUB7GFANFP4lLhujJYI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTAzMDIt/NzY4My1iMTZiLWVk/YWMyOWRhYzIzNQ.jpg",
+    "https://img.locservice.fr/Miyz08IFETpEJg95MmTe0PPLuoxZzdOrTnAw0vhQfEM/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/YWNjb21tb2RhdGlv/bi8yNTQwMTU3LzAx/YTAzYzNiLTA3OGYt/N2NmZi1iOTQ1LTYx/NzZhYjI5MGFmOA.jpg"
    ],
    "description": "Location appartement meublé à Bègles - 700 € - 50 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location particulier Gironde Location appartement Gironde Location appartement particulier Gironde Bègles Location Bègles Location particulier Bègles Location appartement Bègles Location appartement particulier Bègles Location appartement 2 pièces Bègles Location appartement 50 m² 700 € Location app"
   },
@@ -3587,7 +3717,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3760,7 +3890,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-17T14:22",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3851,7 +3981,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-27T07:20",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3936,7 +4066,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": true,
    "contact": "Foncia Bordeaux, 61 quai Lawton",
    "signalee": null,
@@ -4113,7 +4243,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T10:21",
+   "vue_le": "2026-11-27T14:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -4287,7 +4417,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-20T18:20",
-   "vue_le": "2026-11-27T10:23",
+   "vue_le": "2026-11-27T14:23",
    "expiree": null,
    "contact": null,
    "signalee": null,
