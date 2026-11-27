@@ -175,7 +175,7 @@
       "trouvee_le": "2026-11-21T07:20",
       "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297678052A1KILHAP000",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": null
     },
     "0c654dd493f2": {
@@ -222,7 +222,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/eysines-33320/appartement/331725901.htm",
       "ville": "Eysines",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Bordeaux Caudéran"
     },
     "0d65e36897b8": {
@@ -254,7 +254,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-115205253671",
       "ville": "Bruges",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Bruges"
     },
     "0e66079cf53b": {
@@ -336,7 +336,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm",
       "ville": "Le Bouscat",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Le Bouscat"
     },
     "0f57c9ee1fba": {
@@ -527,7 +527,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114760653629",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "1bf6d2893167": {
@@ -596,7 +596,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:21",
       "zone": null
     },
     "24cd94f04db6": {
@@ -638,7 +638,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-st-loubes/p-cf-115188573803",
       "ville": "Saint-Loubès",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:25",
       "zone": "Bordeaux Saint-Seurin / Fondaudège"
     },
     "2576eb1fc90c": {
@@ -789,6 +789,49 @@
       "ville": "Eysines",
       "vue_le": "2026-11-19T18:19",
       "zone": "Eysines (proche tram D)"
+    },
+    "2ebcda8a88c4": {
+      "code_postal": "33140",
+      "description": "",
+      "exterieur": null,
+      "loyer_cc": 699.0,
+      "loyer_total": 699.0,
+      "meuble": true,
+      "parking": null,
+      "photos": [
+        "https://img.locservice.fr/-KMFUfJlCPUFcpxgVo8AgEdGQLLzuPofmopv3SuS0Fw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjFkZDctYjk2/My03MTE4LTgwM2Mt/MTllY2M5OTNhNGE0/LTFiY2JjMzViNTdk/YzFhNGNmMTE4Y2I0/MzFlMzIzM2ViYTgx/YjdmYmEuanBn.jpg",
+        "https://img.locservice.fr/n8t3geoCiraFl813cNycwp6PIRBlXWY7Yrq-zH1yZVQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjFkZDctYjk2/My03MTE4LTgwM2Mt/MTllY2M5OTNhNGE0/LWQ4N2U1Y2ZhNzQw/NGZjNGQ4NWU5NTc2/Y2FjMTMzN2RmODRh/YTRlMGIuanBn.jpg",
+        "https://img.locservice.fr/blrec79NeJ7box27hMUF8uUUJVyqWwmv0-RLDSoh-D0/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjFkZDctYjk2/My03MTE4LTgwM2Mt/MTllY2M5OTNhNGE0/LTNmYWE5NjRjYzhh/ZDVlMjIyMDk1MWQ0/YzE4NWYwYmFjNjFm/MThjMjkuanBn.jpg",
+        "https://img.locservice.fr/g9O5KG4Fe5KxaO52y7ydtQxFViFiNXMZw8uSMMlrZaw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjFkZDctYjk2/My03MTE4LTgwM2Mt/MTllY2M5OTNhNGE0/LWEyOTY5ZTQ4OTUy/MTI4ZTBjNmJmODMz/NGYyMzc1Njk0MDNk/NDVhYmQuanBn.jpg",
+        "https://img.locservice.fr/4hCrBl6jhZNT6AUxmbKpb1wVutQweITDBg1Bcta-zVE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjFkZDctYjk2/My03MTE4LTgwM2Mt/MTllY2M5OTNhNGE0/LWRmZWIzNmRjZTc1/YmYwM2M3YWI5NDZk/ZWM4ZjMzMjBjMWNh/ODUyYTIuanBn.jpg",
+        "https://img.locservice.fr/JHWbY5t0IH9NWY8XUzDoUU3pCmw8oSRud3t2zFioM2k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjFkZDctYjk2/My03MTE4LTgwM2Mt/MTllY2M5OTNhNGE0/LWJkODBlYzU2OGY1/MDA0YzU4NTBmZmUy/ZjdjZmYxNTYyNzgx/NGE4MmYuanBn.jpg",
+        "https://img.locservice.fr/oz3msSU9K4uiIgiEbZiUMdDrMPUdQl0bv2z57XlfOZo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjFkZDctYjk2/My03MTE4LTgwM2Mt/MTllY2M5OTNhNGE0/LTY0NzExM2RmZGVi/ZmU0OTJlOGQ0Y2Uz/ZTFjNjYyNzAxOWJk/NWViN2EuanBn.jpg",
+        "https://img.locservice.fr/wAHm5MwCI6bWgFPt7cJPj7JvKlz-gKjFoAIjU-dekxg/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjFkZDctYjk2/My03MTE4LTgwM2Mt/MTllY2M5OTNhNGE0/LWEwOTY2NTg2Mjkz/YWY3NGQwODBkMTZh/NmU5NGMxMjYzZTY1/ZTI1ZjUuanBn.jpg"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "extérieur non précisé",
+        "parking non précisé"
+      ],
+      "raisons_rejet": [
+        "trajet estimé Omnes 50 min, Link 55 min"
+      ],
+      "site": "LocService",
+      "statut": "rejetee",
+      "surface_m2": 37.0,
+      "titre": "Appartement T2 meublé à louer",
+      "trajet_estime_min": 55,
+      "trajet_link_itineraire": "bus puis tram",
+      "trajet_link_min": 55,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "bus puis tram B ou C",
+      "trajet_omnes_min": 50,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-27T18:21",
+      "url": "https://www.locservice.fr/gironde-33/location-appartement-villenave-d-ornon/p-cf-115446633618",
+      "ville": "Villenave-d'Ornon",
+      "vue_le": "2026-11-27T18:25",
+      "zone": "Villenave-d'Ornon / Gradignan"
     },
     "3331658056fe": {
       "autres_urls": [
@@ -1457,7 +1500,12 @@
       "meuble": false,
       "parking": null,
       "photos": [
-        "https://img.locservice.fr/8S7rTDOIyXUrCxcw_fxAImG2hWl8aggnMmkCDfv8c4c/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg"
+        "https://img.locservice.fr/rmGP3A2wf8nSUKqlLXmKdbxxxylsbpl02o-o_sk9HUA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg",
+        "https://img.locservice.fr/VedodbQ72D20KW-pFUjXQIEuMf9UZ3LFBcHRA5xZDoo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNiYzg3ZWEyZTdh/OTZmNzQ4OTg3MDhk/ZmY1NGM2NTU1NzU5/MDIzODAuanBn.jpg",
+        "https://img.locservice.fr/AGCBbgnyqJi8FTyPQBeC1aMc9MkIHpp32g9QX6YRHz4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNlM2Q5Mzk3Y2I1/YzU5Yzg3YzQ5NGFk/YmY3NGViOWE5ZGU0/NDI5NDkuanBn.jpg",
+        "https://img.locservice.fr/ClTplIWllVfqsrihcEzEzKhi1rABqCeXt2ZK-l1EiDI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTBjNGM2MTM4MjIx/NTAzNDNmMGZmODJj/MjRkMjVlOWRmMTBh/ODgwODAuanBn.jpg",
+        "https://img.locservice.fr/l2KscXvJVzWkl5Wt1ZokunKAAh7zWcPP489GHkXYUlU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWEzNzllMWJjNzYw/MWQ3ZDAzOWI0YjVk/Y2M2MmVkOGQ3Zjk2/NDQxOWEuanBn.jpg",
+        "https://img.locservice.fr/OFvIQE7aWbp7Wk5RlX_LKOB6vw6t5VtAIyUkfgoFzd8/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTRmMGNmMGE3NmMw/YWUzYmUzOTM4MjM4/YzBmNjlhNDZlMmE3/NDJlZmIuanBn.jpg"
       ],
       "pieces": 2,
       "points_a_verifier": [
@@ -1480,7 +1528,7 @@
       "trouvee_le": "2026-11-26T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115306744084",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Bordeaux Bastide (rive droite)"
     },
     "7513ebee7cd1": {
@@ -1557,7 +1605,7 @@
       "trouvee_le": "2026-11-17T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T14:25",
+      "vue_le": "2026-11-27T18:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "7a90aa69b983": {
@@ -1811,7 +1859,7 @@
       "trouvee_le": "2026-11-15T18:23",
       "url": "https://fr.foncia.com/location/merignac-33700/appartement/331722224.htm",
       "ville": "Mérignac",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "929d82297814": {
@@ -1844,7 +1892,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115205253656",
       "ville": "Pessac",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:21",
       "zone": "Pessac centre (tram B)"
     },
     "9443142b572a": {
@@ -2091,7 +2139,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115205253701",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "a74520b4567a": {
@@ -2383,7 +2431,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:21",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -2461,7 +2509,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/eysines-33320/appartement/331715795.htm",
       "ville": "Eysines",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Eysines (proche tram D)"
     },
     "c1907a17f3bc": {
@@ -2667,7 +2715,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:21",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -2739,7 +2787,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "d6ee6182fc45": {
@@ -2866,12 +2914,7 @@
       "meuble": false,
       "parking": "place de parking extérieure privative",
       "photos": [
-        "https://img.locservice.fr/Y6kEFsdE-zGRgYjf-4eYdEGiOnX531y8tnlRoh6GVuw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg",
-        "https://img.locservice.fr/VAigThPuu4wz-z7iYDnexu7ss3bWFqMiFtH-UmjRfrE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWU4ZmI2N2VhODZl/ZmNhNTgxYTA5Zjk4/NzIzMjEzNWQ1YmNj/YzBiYWUuanBn.jpg",
-        "https://img.locservice.fr/cGGEToPx3oGXlZlDAj20mxjII01ActYCVpRHZTHQN2k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTlhNmRmMjAyMzU5/MTk4NjhiMTY0MDgz/ZTU4N2MwMTM3NzFm/MWYyZGMuanBn.jpg",
-        "https://img.locservice.fr/_0kJTH6G3VNTQdk-Bpa9po3voO5In4a9C_Ej8ypl00k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTkwZmVhMWUyZDRm/YTVkMjZhZTU1ZWE1/YmQ4NDdhODQyZTU0/ZTk1ZDQuanBn.jpg",
-        "https://img.locservice.fr/9gmbmR0tRRVL9DDVo0tHkiO1Hz-6rCiW1rl-QqwThUc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWQ3Y2Q1MjUzMTRh/NGNhZjgzYmRmODMx/YWVmOTFjNjllZjJm/OTk1NWMuanBn.jpg",
-        "https://img.locservice.fr/Z6YwA9STmGLYCYTn5yLXI-3R06t3l-2l-_1Ygwmq8qo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTNlNDNkZWY1NWEx/ZTU5MzQ5ZDQ5Zjcy/ZjU4NzA0NGNkZmFk/ZDQ4MjIuanBn.jpg"
+        "https://img.locservice.fr/D5e3KG3FWBg0oDtrQVIXi5wV7B7bjXszC0uMg18IufA/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg"
       ],
       "pieces": 2,
       "points_a_verifier": [
@@ -2893,7 +2936,7 @@
       "trouvee_le": "2026-11-17T14:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617",
       "ville": "Floirac",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "e39fcd231ab9": {
@@ -2960,7 +3003,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -3037,7 +3080,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/merignac-33700/appartement/331720465.htm",
       "ville": "Mérignac",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "ee5a7555d98f": {
@@ -3182,7 +3225,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073",
       "ville": "Castelnau-de-Médoc",
-      "vue_le": "2026-11-27T14:21",
+      "vue_le": "2026-11-27T18:25",
       "zone": null
     },
     "fac20ab1b55e": {
@@ -3337,7 +3380,7 @@
       "trouvee_le": "2026-11-20T18:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/p-cf-113863563853",
       "ville": "Cenon",
-      "vue_le": "2026-11-27T14:23",
+      "vue_le": "2026-11-27T18:22",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     }
   }

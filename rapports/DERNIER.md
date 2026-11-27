@@ -252,10 +252,7 @@
 
 ### Appartement T2 à louer
 
-![photo](https://img.locservice.fr/Y6kEFsdE-zGRgYjf-4eYdEGiOnX531y8tnlRoh6GVuw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg)
-![photo](https://img.locservice.fr/VAigThPuu4wz-z7iYDnexu7ss3bWFqMiFtH-UmjRfrE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWU4ZmI2N2VhODZl/ZmNhNTgxYTA5Zjk4/NzIzMjEzNWQ1YmNj/YzBiYWUuanBn.jpg)
-![photo](https://img.locservice.fr/cGGEToPx3oGXlZlDAj20mxjII01ActYCVpRHZTHQN2k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTlhNmRmMjAyMzU5/MTk4NjhiMTY0MDgz/ZTU4N2MwMTM3NzFm/MWYyZGMuanBn.jpg)
-![photo](https://img.locservice.fr/_0kJTH6G3VNTQdk-Bpa9po3voO5In4a9C_Ej8ypl00k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTkwZmVhMWUyZDRm/YTVkMjZhZTU1ZWE1/YmQ4NDdhODQyZTU0/ZTk1ZDQuanBn.jpg)
+![photo](https://img.locservice.fr/D5e3KG3FWBg0oDtrQVIXi5wV7B7bjXszC0uMg18IufA/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg)
 
 - Loyer total : **680 €** (CC, parking inclus si en supplément)
 - Surface : 44 m², 2 pièce(s)
@@ -678,7 +675,10 @@
 
 ### Appartement T2 à louer
 
-![photo](https://img.locservice.fr/8S7rTDOIyXUrCxcw_fxAImG2hWl8aggnMmkCDfv8c4c/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg)
+![photo](https://img.locservice.fr/rmGP3A2wf8nSUKqlLXmKdbxxxylsbpl02o-o_sk9HUA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg)
+![photo](https://img.locservice.fr/VedodbQ72D20KW-pFUjXQIEuMf9UZ3LFBcHRA5xZDoo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNiYzg3ZWEyZTdh/OTZmNzQ4OTg3MDhk/ZmY1NGM2NTU1NzU5/MDIzODAuanBn.jpg)
+![photo](https://img.locservice.fr/AGCBbgnyqJi8FTyPQBeC1aMc9MkIHpp32g9QX6YRHz4/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNlM2Q5Mzk3Y2I1/YzU5Yzg3YzQ5NGFk/YmY3NGViOWE5ZGU0/NDI5NDkuanBn.jpg)
+![photo](https://img.locservice.fr/ClTplIWllVfqsrihcEzEzKhi1rABqCeXt2ZK-l1EiDI/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTBjNGM2MTM4MjIx/NTAzNDNmMGZmODJj/MjRkMjVlOWRmMTBh/ODgwODAuanBn.jpg)
 
 - Loyer total : **720 €** (CC, parking inclus si en supplément)
 - Surface : 41 m², 2 pièce(s)
@@ -798,7 +798,7 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (19)
+## Annonces écartées (20)
 
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-st-loubes/p-cf-115188573803) : trajet vérifié Omnes 55 min, Link 55 min
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
@@ -806,6 +806,7 @@
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-ambares-et-lagrave/p-cf-114600603808) : trajet estimé Omnes 50 min, Link 55 min
 - [T2 33,69 m² Mérignac](https://fr.foncia.com/location/merignac-33700/appartement/331721889.htm) : 33.69 m² < 35 m²
 - [T2 35 m² Pessac proche université, parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/pessac/37cff9b9-1421-4924-af1b-2bba10357930) : trajet estimé Link 45 min
+- [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-villenave-d-ornon/p-cf-115446633618) : trajet estimé Omnes 50 min, Link 55 min
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
 - [Appartement T3 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-vayres/p-cf-114762303686) : commune hors zone de trajet
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115205253656) : trajet estimé Link 45 min
