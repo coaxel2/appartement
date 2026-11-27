@@ -2,7 +2,7 @@
  "en_cours": true,
  "debut": "2026-11-27T19:18:28+01:00",
  "fin": null,
- "etape": "Recherche web 1 et 2 / 2 : T2 balcon parking à Caudéran et Saint-Augustin, au Bouscat et à Bruges, puis vérification des fiches",
+ "etape": "Photos, annonces retirées, puis rapport et mise à jour du site",
  "etapes": [
   {
    "heure": "2026-11-27T19:18:28+01:00",
@@ -22,6 +22,11 @@
    "heure": "2026-11-27T19:22:40+01:00",
    "texte": "Recherche web 1 et 2 / 2 : T2 balcon parking à Caudéran et Saint-Augustin, au Bouscat et à Bruges, puis vérification des fiches",
    "detail": "Foncia, Square Habitat, 123loger"
+  },
+  {
+   "heure": "2026-11-27T19:22:47+01:00",
+   "texte": "Photos, annonces retirées, puis rapport et mise à jour du site",
+   "detail": "photos.py, rapport"
   }
  ],
  "resume": "1 nouvelle annonce qui correspond : T2 Lormont 641 €",
@@ -33,5 +38,5 @@
   "19:17"
  ],
  "fuseau": "Europe/Paris",
- "maj": "2026-11-27T19:22:40+01:00"
+ "maj": "2026-11-27T19:22:47+01:00"
 }
