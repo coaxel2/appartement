@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-26
+# Rapport de recherche du 2026-11-27
 
 ## Critères
 
@@ -99,7 +99,7 @@
 - A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/04/02/L2NpdF9DSVRZQV9BVExBTlRJU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUNhcHR1cmVfZF9jcmFuXzIwMjYtMTEtMThfMTgxNzU1LTEwNjY4MjUwMzEwMTc3ODM1ODEzLmpwZz8yMDI2MTEyNjEyMDUxNw_rct?func=crop&w=1000&gravity=auto)
 
@@ -452,7 +452,7 @@
 
 ### Appartement T2 à louer
 
-![photo](https://img.locservice.fr/U7oib1cLxzjZ_H6KkPLH4pChwmU4EFpkspA3xS-uPyQ/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZiZjAtOTYw/Zi03NzE2LWI0YzUt/ZmQ5NmRhZGVjODYx/LWQxMDhjOTRmODdj/MDUxZmU5OWU1OGFh/NTYxMDZjZGY0MDU1/MDc4MWYuanBn.jpg)
+![photo](https://img.locservice.fr/T0xkyq8ZYN3LH7Vn_nL_itekgVHERNsmBj4-2mrrVQ0/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWZiZjAtOTYw/Zi03NzE2LWI0YzUt/ZmQ5NmRhZGVjODYx/LWQxMDhjOTRmODdj/MDUxZmU5OWU1OGFh/NTYxMDZjZGY0MDU1/MDc4MWYuanBn.jpg)
 
 - Loyer total : **707 €** (CC, parking inclus si en supplément)
 - Surface : 43 m², 2 pièce(s)
@@ -511,7 +511,7 @@
 - A vérifier : loyer 740 € légèrement au dessus de 700 €
 - Source : [Echo Etienne immobilier](https://www.echoetienne.fr/immobilier/appartement-t2-bordeaux-location-fr_LA1994.htm)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/8c/06/L29mZmljZTEyL2FqcGltbW9sb2NfMDUwMjIwMjEvY2F0YWxvZy9pbWFnZXMvcHJfcC80LzYvNi80LzEvOC82LzMvNDY2NDE4NjNhLmpwZz9EQVRFTUFKPTIxLzAzLzIwMjUtMTk6NDc6MzgmMjAyNjExMjUxMTE1NTE_rct?func=crop&w=1000&gravity=auto)
 
@@ -664,7 +664,7 @@
 - A vérifier : loyer 715.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé
 - Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598)
 
-### Appartement T2 à louer (nouvelle)
+### Appartement T2 à louer
 
 ![photo](https://img.locservice.fr/rmGP3A2wf8nSUKqlLXmKdbxxxylsbpl02o-o_sk9HUA/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LTg3MDIzY2JjNjEz/Mjc1MWYxNTVlNTc0/N2E5NTdhNDk4MDM2/NTM3ZDEuanBn.jpg)
 ![photo](https://img.locservice.fr/VedodbQ72D20KW-pFUjXQIEuMf9UZ3LFBcHRA5xZDoo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjE1NDItN2Jh/Zi03OWRmLTg1N2Ut/Y2IzNjNlZDMxOGFh/LWNiYzg3ZWEyZTdh/OTZmNzQ4OTg3MDhk/ZmY1NGM2NTU1NzU5/MDIzODAuanBn.jpg)
