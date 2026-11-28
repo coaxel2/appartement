@@ -497,15 +497,15 @@
    "Pessac"
   ],
   "stats": {
-   "total": 90,
+   "total": 93,
    "par_statut": {
-    "correspond": 29,
+    "correspond": 30,
     "a_verifier": 23,
-    "rejetee": 22,
-    "incomplete": 16
+    "rejetee": 23,
+    "incomplete": 17
    }
   },
-  "mise_a_jour": "2026-11-27T18:25"
+  "mise_a_jour": "2026-11-28T07:26"
  },
  "annonces": [
   {
@@ -709,7 +709,7 @@
     "trajet à vérifier"
    ],
    "trouvee_le": "2026-11-21T07:20",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": "Citya Burdigala, 05 57 14 30 73",
    "signalee": null,
@@ -750,7 +750,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
@@ -796,7 +796,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": "Citya Lanaverre (aussi sur ParuVendu 1297881861)",
    "signalee": null,
@@ -878,7 +878,7 @@
    "raisons_rejet": [],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": true,
    "contact": "Foncia Bordeaux, dossier sur foncia.com",
    "signalee": null,
@@ -1027,6 +1027,47 @@
    "description": "Location appartement à Bègles - 678 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Bègles Location Bègles Location appartement Bègles Location appartement 2 pièces Bègles Location appartement 44 m² 678 € Location appartement T2 à Bègles 678 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (wi"
   },
   {
+   "titre": "Appartement T2 à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115513143605",
+   "autres_urls": null,
+   "loyer_total": 690.0,
+   "loyer_cc": 690.0,
+   "charges": null,
+   "surface_m2": 47.0,
+   "pieces": 2,
+   "ville": "Pessac",
+   "code_postal": "33600",
+   "quartier": null,
+   "zone": "Pessac centre (tram B)",
+   "trajet_estime_min": 45,
+   "trajet_verifie_min": null,
+   "exterieur": "e cuisine indépendante aménagée et équipée, un séjour donnant sur un balcon",
+   "trajet_omnes_min": 40,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 45,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "Place de parking privative en sous-sol",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "rejetee",
+   "raisons_rejet": [
+    "trajet estimé Link 45 min"
+   ],
+   "points_a_verifier": [],
+   "trouvee_le": "2026-11-28T07:21",
+   "vue_le": "2026-11-28T07:21",
+   "expiree": null,
+   "contact": null,
+   "signalee": null,
+   "id": "175e5bd98043",
+   "photos_urls": [],
+   "description": "Location appartement à Pessac - 690 € - 47 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Pessac Location Pessac Location appartement Pessac Location appartement 2 pièces Pessac Location appartement 47 m² 690 € Location appartement T2 à Pessac 690 € / mois charges comprises 🔥 Moins de 7 jours Pessac (33600) 47 m² 2 pièces Non meublé Disponible immédiatement Logement"
+  },
+  {
    "titre": "T2 meublé 45 m² rénové avec loggia et parking, Mérignac stade du Jard",
    "site": "ParuVendu",
    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297127048A1KILHAP000",
@@ -1104,7 +1145,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-21T07:19",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1196,7 +1237,7 @@
    ],
    "points_a_verifier": [],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1239,7 +1280,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T18:25",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -1466,13 +1507,13 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-27T18:21",
-   "vue_le": "2026-11-27T18:25",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "2ebcda8a88c4",
    "photos_urls": [],
-   "description": ""
+   "description": "Location appartement meublé à Villenave-d'Ornon - 699 € - 37 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Villenave-d'Ornon Location Villenave-d'Ornon Location appartement Villenave-d'Ornon Location appartement 2 pièces Villenave-d'Ornon Location appartement 37 m² 699 € Appartement T2 meublé à louer à Villenave d'Ornon 699 € / mois charges comprises = 1400px) 856p"
   },
   {
    "titre": "Appartement T2 à louer",
@@ -1878,6 +1919,52 @@
    "description": "T2 de 39,2 m² avec ascenseur, cuisine américaine équipée, parking inclus. Extérieur non mentionné."
   },
   {
+   "titre": "T2 43 m² résidence récente, balcon et parking, Lormont",
+   "site": "ParuVendu",
+   "url": "https://www.paruvendu.fr/immobilier/location/appartement/1298002292A1KILHAP000",
+   "autres_urls": null,
+   "loyer_total": 586,
+   "loyer_cc": 586,
+   "charges": null,
+   "surface_m2": 43,
+   "pieces": 2,
+   "ville": "Lormont",
+   "code_postal": "33310",
+   "quartier": null,
+   "zone": "Cenon / Lormont / Floirac (proche tram A)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": "balcon",
+   "trajet_omnes_min": 35,
+   "trajet_omnes_itineraire": "tram A puis tram B",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram A puis tram D",
+   "trajet_link_verifie": false,
+   "parking": "place de parking",
+   "meuble": false,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "correspond",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-28T07:23",
+   "vue_le": "2026-11-28T07:23",
+   "expiree": null,
+   "contact": "AJP Immobilier Saint-André-de-Cubzac (via ParuVendu)",
+   "signalee": null,
+   "id": "4b9d99afceee",
+   "photos_urls": [
+    "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/98/79/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRjLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto",
+    "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/af/80/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRhLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto",
+    "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/de/b0/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRkLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto",
+    "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/df/47/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRiLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto"
+   ],
+   "description": "Appartement T2 dans une résidence récente : entrée, cuisine ouverte sur salon, chambre avec placard, salle d'eau, balcon et place de parking. Libre au 01/12/2026. Loyer charges comprises. Agence AJP Immobilier Saint-André-de-Cubzac."
+  },
+  {
    "titre": null,
    "site": "paruvendu",
    "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297874434A1KILHAP000",
@@ -2234,7 +2321,9 @@
    "titre": "Appartement T2 à louer",
    "site": "locservice",
    "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115306744084",
-   "autres_urls": null,
+   "autres_urls": [
+    "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115503483896"
+   ],
    "loyer_total": 720.0,
    "loyer_cc": 720.0,
    "charges": null,
@@ -2264,7 +2353,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-26T07:20",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": "ERA Bordeaux Rive Droite",
    "signalee": null,
@@ -2357,7 +2446,7 @@
     "parking non précisé"
    ],
    "trouvee_le": "2026-11-17T07:20",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -2672,7 +2761,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T18:23",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
@@ -2718,7 +2807,7 @@
     "loyer 750.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3017,7 +3106,7 @@
     "loyer 706.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-25T07:22",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3364,7 +3453,7 @@
     "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": true,
    "contact": null,
    "signalee": null,
@@ -3448,7 +3537,7 @@
     "trajets estimés (Omnes ~35 min, Link ~25 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": true,
    "contact": "Foncia, dossier sur foncia.com",
    "signalee": null,
@@ -3675,7 +3764,7 @@
     "trajets estimés (Omnes ~35 min, Link ~40 min), à confirmer"
    ],
    "trouvee_le": "2026-11-13T14:52",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3766,7 +3855,7 @@
     "loyer 705.0 € légèrement au dessus de 700 €"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -3939,15 +4028,71 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-17T14:22",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
    "id": "e2b311d176ab",
    "photos_urls": [
-    "https://img.locservice.fr/D5e3KG3FWBg0oDtrQVIXi5wV7B7bjXszC0uMg18IufA/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg"
+    "https://img.locservice.fr/Y6kEFsdE-zGRgYjf-4eYdEGiOnX531y8tnlRoh6GVuw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg",
+    "https://img.locservice.fr/VAigThPuu4wz-z7iYDnexu7ss3bWFqMiFtH-UmjRfrE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWU4ZmI2N2VhODZl/ZmNhNTgxYTA5Zjk4/NzIzMjEzNWQ1YmNj/YzBiYWUuanBn.jpg",
+    "https://img.locservice.fr/cGGEToPx3oGXlZlDAj20mxjII01ActYCVpRHZTHQN2k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTlhNmRmMjAyMzU5/MTk4NjhiMTY0MDgz/ZTU4N2MwMTM3NzFm/MWYyZGMuanBn.jpg",
+    "https://img.locservice.fr/_0kJTH6G3VNTQdk-Bpa9po3voO5In4a9C_Ej8ypl00k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTkwZmVhMWUyZDRm/YTVkMjZhZTU1ZWE1/YmQ4NDdhODQyZTU0/ZTk1ZDQuanBn.jpg",
+    "https://img.locservice.fr/9gmbmR0tRRVL9DDVo0tHkiO1Hz-6rCiW1rl-QqwThUc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWQ3Y2Q1MjUzMTRh/NGNhZjgzYmRmODMx/YWVmOTFjNjllZjJm/OTk1NWMuanBn.jpg",
+    "https://img.locservice.fr/Z6YwA9STmGLYCYTn5yLXI-3R06t3l-2l-_1Ygwmq8qo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTNlNDNkZWY1NWEx/ZTU5MzQ5ZDQ5Zjcy/ZjU4NzA0NGNkZmFk/ZDQ4MjIuanBn.jpg"
    ],
    "description": "Location appartement à Floirac - 680 € - 44 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Floirac Location Floirac Location appartement Floirac Location appartement 2 pièces Floirac Location appartement 44 m² 680 € Appartement T2 à louer à Floirac 680 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px"
+  },
+  {
+   "titre": "Appartement T2 meublé à louer",
+   "site": "LocService",
+   "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-cf-115516563707",
+   "autres_urls": null,
+   "loyer_total": 750.0,
+   "loyer_cc": 750.0,
+   "charges": null,
+   "surface_m2": 44.0,
+   "pieces": 2,
+   "ville": "Talence",
+   "code_postal": "33400",
+   "quartier": null,
+   "zone": "Talence (proche tram B)",
+   "trajet_estime_min": 38,
+   "trajet_verifie_min": null,
+   "exterieur": null,
+   "trajet_omnes_min": 32,
+   "trajet_omnes_itineraire": "tram B direct",
+   "trajet_omnes_verifie": false,
+   "trajet_link_min": 38,
+   "trajet_link_itineraire": "tram B puis tram D",
+   "trajet_link_verifie": false,
+   "parking": null,
+   "meuble": true,
+   "disponible": null,
+   "publie_le": null,
+   "statut": "incomplete",
+   "raisons_rejet": [],
+   "points_a_verifier": [
+    "loyer 750.0 € légèrement au dessus de 700 €",
+    "extérieur non précisé",
+    "parking non précisé",
+    "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
+   ],
+   "trouvee_le": "2026-11-28T07:21",
+   "vue_le": "2026-11-28T07:26",
+   "expiree": null,
+   "contact": null,
+   "signalee": null,
+   "id": "e3319bb12f62",
+   "photos_urls": [
+    "https://img.locservice.fr/PTmjVIjZ7ZnQYyQXec_MsjPVTVt483_8uBTQCzwbvEQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTQxZjQ0NmQwNWE2/MzM4ZDBiMmU3ZmE1/ZmYzYzUzMDI2MzBm/YTcxNDAuanBn.jpg",
+    "https://img.locservice.fr/4HbPhhmS9mD3XTQOlGJAHEWBhi3PozymtsOsMc8WG0Y/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTY4ODQ4M2Q1Yjdi/ZjE5NzI0ZTU3NzQz/ZjdlZGNmMGQ0YjU5/ODFlNzkuanBn.jpg",
+    "https://img.locservice.fr/occ4mJNZpIxNIUJz6J8-xCc6jdMpjNMzket6heomOJQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTFlNGI0MjcwMjBm/MTZjYjdmOTY4NmIz/NjdjMzBjZGExNmE1/YmI3NzEuanBn.jpg",
+    "https://img.locservice.fr/ZiMs65GZxccJVe7BdCLAALSlnHFI-2XnBKRLSxBYvqg/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTIyNDE5MDRjYTgx/MzE3Y2QyOTU1Mjlj/ZDkyZWY3ZmYwOWRj/MDgwOGYuanBn.jpg",
+    "https://img.locservice.fr/u6QMgAPg0T7cZzO5Rh-3LOFPMfGQHY_7boBagxGigwU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LWZmOWU3YWQ4NjJj/NjZjNTEzYzUwMTQ2/OTQ3MWU2N2Y2YjZm/NDE1ZjQuanBn.jpg",
+    "https://img.locservice.fr/x2rhofs9AvnGMYpDsyWrqIv4o-Ly8nQaRlL6ysgT_zw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTdhNzg2NGNkZmQw/YmZjYTM5MTc2YTFj/MWQwNGQ2NjJjODRj/YWU5YjkuanBn.jpg"
+   ],
+   "description": ""
   },
   {
    "titre": null,
@@ -4025,7 +4170,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:36",
-   "vue_le": "2026-11-27T18:21",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,
@@ -4110,7 +4255,7 @@
     "trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-15T17:42",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": true,
    "contact": "Foncia Bordeaux, 61 quai Lawton",
    "signalee": null,
@@ -4461,7 +4606,7 @@
     "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
    ],
    "trouvee_le": "2026-11-20T18:20",
-   "vue_le": "2026-11-27T18:22",
+   "vue_le": "2026-11-28T07:21",
    "expiree": null,
    "contact": null,
    "signalee": null,

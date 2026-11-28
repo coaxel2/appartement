@@ -175,7 +175,7 @@
       "trouvee_le": "2026-11-21T07:20",
       "url": "https://www.paruvendu.fr/immobilier/location/appartement/1297678052A1KILHAP000",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": null
     },
     "0c654dd493f2": {
@@ -222,7 +222,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/eysines-33320/appartement/331725901.htm",
       "ville": "Eysines",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bordeaux Caudéran"
     },
     "0d65e36897b8": {
@@ -254,7 +254,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bruges/p-cf-115205253671",
       "ville": "Bruges",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bruges"
     },
     "0e66079cf53b": {
@@ -336,7 +336,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/le-bouscat-33110/appartement/331696191.htm",
       "ville": "Le Bouscat",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Le Bouscat"
     },
     "0f57c9ee1fba": {
@@ -450,6 +450,37 @@
       "vue_le": "2026-11-18T18:20",
       "zone": "Bègles (proche tram C)"
     },
+    "175e5bd98043": {
+      "code_postal": "33600",
+      "description": "Location appartement à Pessac - 690 € - 47 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Pessac Location Pessac Location appartement Pessac Location appartement 2 pièces Pessac Location appartement 47 m² 690 € Location appartement T2 à Pessac 690 € / mois charges comprises 🔥 Moins de 7 jours Pessac (33600) 47 m² 2 pièces Non meublé Disponible immédiatement Logement partenaire Professionnel Réf. p-cf-115513143605 Description de l'appartement A LOUER PESSAC - Face au stade Bellegrave - Appartement de type 2 dans résidence récente comprenant une entrée, un Wc, une salle de bains, une chambre avec placard, une cuisine indépendante aménagée et équipée, un séjour donnant sur un balcon. Place de parking privative en sous-sol. Disponible de suite. LAFORET PESSAC Voir la suite À propos du prix Loyer (charges comprises) 690 € / mois Des honoraires d'agence peuvent être appliqués. Frais d'agence estimés pour un appartement d’une surface moyenne (47 m²) dans votre zone de recherche. Ces honoraires correspondent à maximum 13 € du mètre carré (état des lieux inclus) tel que défini dans la loi Alur. Les + de cette location Balcon ou terrasse Ascenseur Stationnement possible Découvrez votre quartier Pessac (33600) Diagnostic de Performance Énergétique Consommation énergétique (DPE) ? C Émission de gaz à effet de serre (GES) ? NA Le GES n’a pas été renseigné. Diagnostic de Performance Énergétique : C Le Diagnostic de Performance Énergétique (DPE) indique la consommation d'énergie d'un logement et son impact en termes d'émissions de gaz à effet de serre. La note va de A (logement très économe) à G (logement très énergivore). Cette information vous aide à estimer vos futures dépenses d'énergie et l'impact environnemental du logement. Échelle DPE à partir de 2024 Logement économe A ≤ 70 kWh/m²/an B 71 à 110 kWh/m²/an C 111 à 180 kWh/m²/an D 181 à 250 kWh/m²/an E 251 à 330 kWh/m²/an F 331 à 420 kWh/m²/an G ≥ 421 kWh/m²/an Logement énergivore Note Consommation (kWh/m²/an) Description A ≤ 70 Logement très économe B 71 à 110 Logement économe C 111 à 180 Logement assez économe D 181 à 250 Logement moyen E 251 à 330 Logement peu économe F 331 à 420 Logement énergivore G ≥ 421 Logement très énergivore Émission de Gaz à Effet de Serre : NA L’indicateur GES (Gaz à Effet de Serre) mesure la quantité de gaz à effet de serre émise par le logement, principalement liée au chauffage, à l’eau chaude et à la production d’énergie. La note va de A (peu d’émissions) à G (fortes émissions). Cette information vous permet d’évaluer l’impact environnemental du logement. Échelle GES à partir de 2024 Faible émission de GES A ≤ 6 kg CO²/m²/an B 7 à 11 kg CO²/m²/an C",
+      "exterieur": "e cuisine indépendante aménagée et équipée, un séjour donnant sur un balcon",
+      "loyer_cc": 690.0,
+      "loyer_total": 690.0,
+      "meuble": false,
+      "parking": "Place de parking privative en sous-sol",
+      "photos": [],
+      "pieces": 2,
+      "points_a_verifier": [],
+      "raisons_rejet": [
+        "trajet estimé Link 45 min"
+      ],
+      "site": "LocService",
+      "statut": "rejetee",
+      "surface_m2": 47.0,
+      "titre": "Appartement T2 à louer",
+      "trajet_estime_min": 45,
+      "trajet_link_itineraire": "tram B puis tram D",
+      "trajet_link_min": 45,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram B direct",
+      "trajet_omnes_min": 40,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-28T07:21",
+      "url": "https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115513143605",
+      "ville": "Pessac",
+      "vue_le": "2026-11-28T07:21",
+      "zone": "Pessac centre (tram B)"
+    },
     "180b861d7131": {
       "charges": 57,
       "code_postal": "33700",
@@ -527,7 +558,7 @@
       "trouvee_le": "2026-11-21T07:19",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114760653629",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "1bf6d2893167": {
@@ -596,7 +627,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314",
       "ville": "Fronsac",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": null
     },
     "24cd94f04db6": {
@@ -638,7 +669,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-st-loubes/p-cf-115188573803",
       "ville": "Saint-Loubès",
-      "vue_le": "2026-11-27T18:25",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bordeaux Saint-Seurin / Fondaudège"
     },
     "2576eb1fc90c": {
@@ -792,7 +823,7 @@
     },
     "2ebcda8a88c4": {
       "code_postal": "33140",
-      "description": "",
+      "description": "Location appartement meublé à Villenave-d'Ornon - 699 € - 37 m² = 992px)\" srcset=\"/build/shared/logo/logo-locservice-256.77f6b4a6.png\"> Location Colocation Étudiants Logement Étudiant de particulier Résidences Etudiantes Coup de Pouce Logement Étudiant Simulateurs Guides Guide Locataire Guide Propriétaire Guide Colocataire Guide Logement Etudiant Mon espace Accéder à mon Espace Gironde (33) Location Gironde Location appartement Gironde Villenave-d'Ornon Location Villenave-d'Ornon Location appartement Villenave-d'Ornon Location appartement 2 pièces Villenave-d'Ornon Location appartement 37 m² 699 € Appartement T2 meublé à louer à Villenave d'Ornon 699 € / mois charges comprises = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°1\" fetchpriority=\"high\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°2\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°3\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°4\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°5\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°6\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°7\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°8\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°9\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°10\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°11\" loading=\"lazy\" decoding=\"async\" > = 1400px) 856px, (width >= 1200px) 676px, (width >= 992px) 552px, (width >= 768px) 696px, (width >= 576px) 516px, calc(100vw - 24px)\" alt=\"Photo n°12\" loading=\"lazy\" decoding=\"async\" > Précédente Suivante 12 photos 🔥 Moins de 7 jours Villenave-d'Ornon (33140) 37 m² 2 pièces Meublé Disponible immédi",
       "exterieur": null,
       "loyer_cc": 699.0,
       "loyer_total": 699.0,
@@ -830,7 +861,7 @@
       "trouvee_le": "2026-11-27T18:21",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-villenave-d-ornon/p-cf-115446633618",
       "ville": "Villenave-d'Ornon",
-      "vue_le": "2026-11-27T18:25",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Villenave-d'Ornon / Gradignan"
     },
     "3331658056fe": {
@@ -1185,6 +1216,47 @@
       "vue_le": "2026-11-27T14:22",
       "zone": "Bruges"
     },
+    "4b9d99afceee": {
+      "charges": null,
+      "code_postal": "33310",
+      "contact": "AJP Immobilier Saint-André-de-Cubzac (via ParuVendu)",
+      "date_publication": "2026-11-28",
+      "description": "Appartement T2 dans une résidence récente : entrée, cuisine ouverte sur salon, chambre avec placard, salle d'eau, balcon et place de parking. Libre au 01/12/2026. Loyer charges comprises. Agence AJP Immobilier Saint-André-de-Cubzac.",
+      "disponibilite": "2026-12-01",
+      "exterieur": "balcon",
+      "loyer_cc": 586,
+      "loyer_total": 586,
+      "meuble": false,
+      "parking": "place de parking",
+      "photos": [
+        "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/98/79/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRjLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto",
+        "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/af/80/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRhLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto",
+        "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/de/b0/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRkLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto",
+        "https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/df/47/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRiLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer"
+      ],
+      "quartier": null,
+      "raisons_rejet": [],
+      "site": "ParuVendu",
+      "statut": "correspond",
+      "surface_m2": 43,
+      "titre": "T2 43 m² résidence récente, balcon et parking, Lormont",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram A puis tram D",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram A puis tram B",
+      "trajet_omnes_min": 35,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-28T07:23",
+      "url": "https://www.paruvendu.fr/immobilier/location/appartement/1298002292A1KILHAP000",
+      "ville": "Lormont",
+      "vue_le": "2026-11-28T07:23",
+      "zone": "Cenon / Lormont / Floirac (proche tram A)"
+    },
     "4f9a4bf26c8f": {
       "charges": 70,
       "code_postal": null,
@@ -1491,6 +1563,9 @@
       "zone": "Bordeaux Nansouty / Saint-Genès / Gare Saint-Jean / Belcier"
     },
     "74c7cc7c481c": {
+      "autres_urls": [
+        "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115503483896"
+      ],
       "code_postal": "33100",
       "contact": "ERA Bordeaux Rive Droite",
       "description": "T1 bis en duplex à La Bastide, séjour avec cuisine équipée, coin nuit à l'étage avec terrasse tropézienne. Pas de parking mentionné. Disponible immédiatement.",
@@ -1528,7 +1603,7 @@
       "trouvee_le": "2026-11-26T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115306744084",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bordeaux Bastide (rive droite)"
     },
     "7513ebee7cd1": {
@@ -1605,7 +1680,7 @@
       "trouvee_le": "2026-11-17T07:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-114321573598",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "7a90aa69b983": {
@@ -1859,7 +1934,7 @@
       "trouvee_le": "2026-11-15T18:23",
       "url": "https://fr.foncia.com/location/merignac-33700/appartement/331722224.htm",
       "ville": "Mérignac",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "929d82297814": {
@@ -1892,7 +1967,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115205253656",
       "ville": "Pessac",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Pessac centre (tram B)"
     },
     "9443142b572a": {
@@ -2139,7 +2214,7 @@
       "trouvee_le": "2026-11-25T07:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115205253701",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "a74520b4567a": {
@@ -2431,7 +2506,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-ij-1670471",
       "ville": "Talence",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Talence (proche tram B)"
     },
     "b2eab699b18c": {
@@ -2509,7 +2584,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/eysines-33320/appartement/331715795.htm",
       "ville": "Eysines",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Eysines (proche tram D)"
     },
     "c1907a17f3bc": {
@@ -2715,7 +2790,7 @@
       "trouvee_le": "2026-11-13T14:52",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-begles/2540157",
       "ville": "Bègles",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bègles (proche tram C)"
     },
     "ce5abd9ade5b": {
@@ -2787,7 +2862,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-113993073600",
       "ville": "Bordeaux",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Bordeaux Saint-Michel / Capucins / Victoire"
     },
     "d6ee6182fc45": {
@@ -2914,7 +2989,12 @@
       "meuble": false,
       "parking": "place de parking extérieure privative",
       "photos": [
-        "https://img.locservice.fr/D5e3KG3FWBg0oDtrQVIXi5wV7B7bjXszC0uMg18IufA/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg"
+        "https://img.locservice.fr/Y6kEFsdE-zGRgYjf-4eYdEGiOnX531y8tnlRoh6GVuw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg",
+        "https://img.locservice.fr/VAigThPuu4wz-z7iYDnexu7ss3bWFqMiFtH-UmjRfrE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWU4ZmI2N2VhODZl/ZmNhNTgxYTA5Zjk4/NzIzMjEzNWQ1YmNj/YzBiYWUuanBn.jpg",
+        "https://img.locservice.fr/cGGEToPx3oGXlZlDAj20mxjII01ActYCVpRHZTHQN2k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTlhNmRmMjAyMzU5/MTk4NjhiMTY0MDgz/ZTU4N2MwMTM3NzFm/MWYyZGMuanBn.jpg",
+        "https://img.locservice.fr/_0kJTH6G3VNTQdk-Bpa9po3voO5In4a9C_Ej8ypl00k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTkwZmVhMWUyZDRm/YTVkMjZhZTU1ZWE1/YmQ4NDdhODQyZTU0/ZTk1ZDQuanBn.jpg",
+        "https://img.locservice.fr/9gmbmR0tRRVL9DDVo0tHkiO1Hz-6rCiW1rl-QqwThUc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWQ3Y2Q1MjUzMTRh/NGNhZjgzYmRmODMx/YWVmOTFjNjllZjJm/OTk1NWMuanBn.jpg",
+        "https://img.locservice.fr/Z6YwA9STmGLYCYTn5yLXI-3R06t3l-2l-_1Ygwmq8qo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTNlNDNkZWY1NWEx/ZTU5MzQ5ZDQ5Zjcy/ZjU4NzA0NGNkZmFk/ZDQ4MjIuanBn.jpg"
       ],
       "pieces": 2,
       "points_a_verifier": [
@@ -2936,8 +3016,51 @@
       "trouvee_le": "2026-11-17T14:22",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-floirac/p-cf-114334083617",
       "ville": "Floirac",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
+    },
+    "e3319bb12f62": {
+      "code_postal": "33400",
+      "description": "",
+      "exterieur": null,
+      "loyer_cc": 750.0,
+      "loyer_total": 750.0,
+      "meuble": true,
+      "parking": null,
+      "photos": [
+        "https://img.locservice.fr/PTmjVIjZ7ZnQYyQXec_MsjPVTVt483_8uBTQCzwbvEQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTQxZjQ0NmQwNWE2/MzM4ZDBiMmU3ZmE1/ZmYzYzUzMDI2MzBm/YTcxNDAuanBn.jpg",
+        "https://img.locservice.fr/4HbPhhmS9mD3XTQOlGJAHEWBhi3PozymtsOsMc8WG0Y/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTY4ODQ4M2Q1Yjdi/ZjE5NzI0ZTU3NzQz/ZjdlZGNmMGQ0YjU5/ODFlNzkuanBn.jpg",
+        "https://img.locservice.fr/occ4mJNZpIxNIUJz6J8-xCc6jdMpjNMzket6heomOJQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTFlNGI0MjcwMjBm/MTZjYjdmOTY4NmIz/NjdjMzBjZGExNmE1/YmI3NzEuanBn.jpg",
+        "https://img.locservice.fr/ZiMs65GZxccJVe7BdCLAALSlnHFI-2XnBKRLSxBYvqg/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTIyNDE5MDRjYTgx/MzE3Y2QyOTU1Mjlj/ZDkyZWY3ZmYwOWRj/MDgwOGYuanBn.jpg",
+        "https://img.locservice.fr/u6QMgAPg0T7cZzO5Rh-3LOFPMfGQHY_7boBagxGigwU/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LWZmOWU3YWQ4NjJj/NjZjNTEzYzUwMTQ2/OTQ3MWU2N2Y2YjZm/NDE1ZjQuanBn.jpg",
+        "https://img.locservice.fr/x2rhofs9AvnGMYpDsyWrqIv4o-Ly8nQaRlL6ysgT_zw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTdhNzg2NGNkZmQw/YmZjYTM5MTc2YTFj/MWQwNGQ2NjJjODRj/YWU5YjkuanBn.jpg",
+        "https://img.locservice.fr/kfyWJ_Tf5tSkPBeeGQgxm02iQ3TNj7HjvbUACWUGQ5M/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LWY5ZDBmOWNhN2Vl/ZDljOTM5NjNmOTM3/M2E5NzViYTJmNDY2/OWVmMjguanBn.jpg",
+        "https://img.locservice.fr/BJxyjoz812Ehc-_47FymjWcQtVv7uFob36ePdJAFbyo/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LWEwZWEzMDM4ZDNh/ZTdjNjFhMDRiM2Q1/MzI2Y2QzMDg3NmE4/YzVhYTAuanBn.jpg"
+      ],
+      "pieces": 2,
+      "points_a_verifier": [
+        "loyer 750.0 € légèrement au dessus de 700 €",
+        "extérieur non précisé",
+        "parking non précisé",
+        "trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer"
+      ],
+      "raisons_rejet": [],
+      "site": "LocService",
+      "statut": "incomplete",
+      "surface_m2": 44.0,
+      "titre": "Appartement T2 meublé à louer",
+      "trajet_estime_min": 38,
+      "trajet_link_itineraire": "tram B puis tram D",
+      "trajet_link_min": 38,
+      "trajet_link_verifie": false,
+      "trajet_omnes_itineraire": "tram B direct",
+      "trajet_omnes_min": 32,
+      "trajet_omnes_verifie": false,
+      "trouvee_le": "2026-11-28T07:21",
+      "url": "https://www.locservice.fr/gironde-33/location-appartement-talence/p-cf-115516563707",
+      "ville": "Talence",
+      "vue_le": "2026-11-28T07:26",
+      "zone": "Talence (proche tram B)"
     },
     "e39fcd231ab9": {
       "code_postal": "33310",
@@ -3003,7 +3126,7 @@
       "trouvee_le": "2026-11-15T17:36",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-lormont/p-cf-113993073659",
       "ville": "Lormont",
-      "vue_le": "2026-11-27T18:21",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     },
     "eaf01c958cc2": {
@@ -3080,7 +3203,7 @@
       "trouvee_le": "2026-11-15T17:42",
       "url": "https://fr.foncia.com/location/merignac-33700/appartement/331720465.htm",
       "ville": "Mérignac",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Mérignac centre / Arlac / Capeyron (proche tram A)"
     },
     "ee5a7555d98f": {
@@ -3380,7 +3503,7 @@
       "trouvee_le": "2026-11-20T18:20",
       "url": "https://www.locservice.fr/gironde-33/location-appartement-cenon/p-cf-113863563853",
       "ville": "Cenon",
-      "vue_le": "2026-11-27T18:22",
+      "vue_le": "2026-11-28T07:21",
       "zone": "Cenon / Lormont / Floirac (proche tram A)"
     }
   }

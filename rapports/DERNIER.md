@@ -1,4 +1,4 @@
-# Rapport de recherche du 2026-11-27
+# Rapport de recherche du 2026-11-28
 
 ## Critères
 
@@ -7,7 +7,7 @@
 - Extérieur (balcon, terrasse, jardin) et parking
 - Max 40 min en transports pour chacun : Omnes (136 quai des Chartrons) et Link (127 rue de Turenne)
 
-## Annonces qui cochent tous les critères (20)
+## Annonces qui cochent tous les critères (21)
 
 ### T2 40,5 m² au 4e étage avec balcon et parking intérieur, Lormont (tram A Gravières)
 
@@ -37,6 +37,24 @@
 - Parking : parking
 - Disponible : ?, publiée le 2026-11-25
 - Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1296806741A1KILHAP000)
+
+### T2 43 m² résidence récente, balcon et parking, Lormont (nouvelle)
+
+![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/98/79/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRjLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto)
+![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/af/80/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRhLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto)
+![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/de/b0/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRkLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto)
+![photo](https://img.paruvendu.fr/media_ext/_https_/media.immo-facile.com/df/47/L29mZmljZTEyL2FqcGltbV8yMDA2MjMxMTIxL2NhdGFsb2cvaW1hZ2VzL3ByX3dlYi82LzEvNy82LzIvNy8zLzQvNjE3NjI3MzRiLmpwZz9EQVRFTUFKPTI3LzExLzIwMjYtMTI6MDk6MTMmMjAyNjExMjgwNzU4MzY_rct?func=crop&w=1000&gravity=auto)
+
+- Loyer total : **586 €** (CC, parking inclus si en supplément)
+- Surface : 43 m², 2 pièce(s)
+- Localisation : Lormont 33310
+- Trajet Omnes (quai des Chartrons) : 35 min, tram A puis tram B
+- Trajet Link (rue de Turenne) : 38 min, tram A puis tram D
+- Extérieur : balcon
+- Parking : place de parking
+- Disponible : ?, publiée le ?
+- A vérifier : trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
+- Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1298002292A1KILHAP000)
 
 ### T2 40,31 m² avec balcon et parking en sous-sol, Mérignac Les Eyquems
 
@@ -142,7 +160,7 @@
 - Disponible : ?, publiée le 2026-11-25
 - Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297881861A1KILHAP000)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/8c/2b/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTIwMjEwNzIyXzEwNTIwMi01MjQzMjMxMzkyOTUxODQ5Mzk2LmpwZz8yMDI2MTEyNzExNDM1Nw_rct?func=crop&w=1000&gravity=auto)
 
@@ -252,7 +270,10 @@
 
 ### Appartement T2 à louer
 
-![photo](https://img.locservice.fr/D5e3KG3FWBg0oDtrQVIXi5wV7B7bjXszC0uMg18IufA/resize:fill:167:94/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg)
+![photo](https://img.locservice.fr/Y6kEFsdE-zGRgYjf-4eYdEGiOnX531y8tnlRoh6GVuw/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWUxMzdjM2NmODRk/YzA0MGE2ODliN2Q5/ZjRiMDA4YjdiOTcw/NGE0NjEuanBn.jpg)
+![photo](https://img.locservice.fr/VAigThPuu4wz-z7iYDnexu7ss3bWFqMiFtH-UmjRfrE/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LWU4ZmI2N2VhODZl/ZmNhNTgxYTA5Zjk4/NzIzMjEzNWQ1YmNj/YzBiYWUuanBn.jpg)
+![photo](https://img.locservice.fr/cGGEToPx3oGXlZlDAj20mxjII01ActYCVpRHZTHQN2k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTlhNmRmMjAyMzU5/MTk4NjhiMTY0MDgz/ZTU4N2MwMTM3NzFm/MWYyZGMuanBn.jpg)
+![photo](https://img.locservice.fr/_0kJTH6G3VNTQdk-Bpa9po3voO5In4a9C_Ej8ypl00k/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWU5MmEtMTAy/Zi03ZDFkLWJhZGEt/YWEzZWIxMGU4ZGRk/LTkwZmVhMWUyZDRm/YTVkMjZhZTU1ZWE1/YmQ4NDdhODQyZTU0/ZTk1ZDQuanBn.jpg)
 
 - Loyer total : **680 €** (CC, parking inclus si en supplément)
 - Surface : 44 m², 2 pièce(s)
@@ -329,7 +350,7 @@
 - A vérifier : surface inconnue, trajets estimés (Omnes ~38 min, Link ~38 min), à confirmer
 - Source : [RIB Immobilier](https://www.rib-immo.com/fiches/0-1-35_37040874/t2-pkg-merignac-2-piece-s.html)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/6d/cd/L2NpdF9DSVRZQV9HRU5FU190aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLTEtLTI2MzA0ODU0MjU4NTc1NDIyNTUuanBnPzIwMjYxMTI3MTE0NTE4_rct?func=crop&w=1000&gravity=auto)
 
@@ -565,7 +586,7 @@
 - A vérifier : loyer 750 € légèrement au dessus de 700 €
 - Source : [ParuVendu](https://www.paruvendu.fr/immobilier/location/appartement/1297502029A1KILHAP000)
 
-## Annonces incomplètes (plusieurs informations manquantes) (14)
+## Annonces incomplètes (plusieurs informations manquantes) (15)
 
 ### Appartement T2 à louer
 
@@ -690,8 +711,9 @@
 - Disponible : ?, publiée le ?
 - A vérifier : loyer 720.0 € légèrement au dessus de 700 €, parking non précisé
 - Source : [locservice](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115306744084)
+- Aussi publiée ici : [www.locservice.fr](https://www.locservice.fr/gironde-33/location-appartement-bordeaux/p-cf-115503483896)
 
-### Annonce (nouvelle)
+### Annonce
 
 ![photo](https://img.paruvendu.fr/media_ext/box.ics.fr/c8/73/L2NpdF9DSVRZQV9CRUxWSUFCT1JERUFVWF90aWMvbG9jYXRpb24vcGhvdG8vZmlsaWdyYW5lLUVYVC01NDI1NDE4NzA4NjA1NzU4NzMxLmpwZz8yMDI2MTEyNzExNDQyNg_rct?func=crop&w=1000&gravity=auto)
 
@@ -754,6 +776,24 @@
 - A vérifier : loyer 740 € légèrement au dessus de 700 €, parking non précisé, trajets estimés (Omnes ~35 min, Link ~38 min), à confirmer
 - Source : [paruvendu](https://www.paruvendu.fr/immobilier/location/appartement/1297829519A1KILHAP000)
 
+### Appartement T2 meublé à louer (nouvelle)
+
+![photo](https://img.locservice.fr/PTmjVIjZ7ZnQYyQXec_MsjPVTVt483_8uBTQCzwbvEQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTQxZjQ0NmQwNWE2/MzM4ZDBiMmU3ZmE1/ZmYzYzUzMDI2MzBm/YTcxNDAuanBn.jpg)
+![photo](https://img.locservice.fr/4HbPhhmS9mD3XTQOlGJAHEWBhi3PozymtsOsMc8WG0Y/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTY4ODQ4M2Q1Yjdi/ZjE5NzI0ZTU3NzQz/ZjdlZGNmMGQ0YjU5/ODFlNzkuanBn.jpg)
+![photo](https://img.locservice.fr/occ4mJNZpIxNIUJz6J8-xCc6jdMpjNMzket6heomOJQ/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTFlNGI0MjcwMjBm/MTZjYjdmOTY4NmIz/NjdjMzBjZGExNmE1/YmI3NzEuanBn.jpg)
+![photo](https://img.locservice.fr/ZiMs65GZxccJVe7BdCLAALSlnHFI-2XnBKRLSxBYvqg/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMjIwYTEtZDU5/ZS03ZDM0LTgzNTIt/ZThlYjFkNGQ0Yjky/LTIyNDE5MDRjYTgx/MzE3Y2QyOTU1Mjlj/ZDkyZWY3ZmYwOWRj/MDgwOGYuanBn.jpg)
+
+- Loyer total : **750 €** (CC, parking inclus si en supplément)
+- Surface : 44 m², 2 pièce(s)
+- Localisation : Talence 33400
+- Trajet Omnes (quai des Chartrons) : 32 min, tram B direct
+- Trajet Link (rue de Turenne) : 38 min, tram B puis tram D
+- Extérieur : ?
+- Parking : ?
+- Disponible : ?, publiée le ?
+- A vérifier : loyer 750.0 € légèrement au dessus de 700 €, extérieur non précisé, parking non précisé, trajets estimés (Omnes ~32 min, Link ~38 min), à confirmer
+- Source : [LocService](https://www.locservice.fr/gironde-33/location-appartement-talence/p-cf-115516563707)
+
 ### Appartement T2 meublé à louer
 
 ![photo](https://img.locservice.fr/ypWYMm6GhgMDX8hJn62VyPQMmiTg8VDPqIqBW4iXbuc/resize:fit:1280:720/aHR0cHM6Ly9sb2Nz/ZXJ2aWNldjIuczMu/ZXUtd2VzdC0zLmFt/YXpvbmF3cy5jb20v/ZXh0ZXJuYWwtYWNj/b21tb2RhdGlvbnMv/MDFhMWMyZGMtYjAw/MS03ZjVkLTkyOTIt/OTI1MzQ5YTNmM2Ew/LTdlNjIwMjZhYzc2/ZmY4YThmNWZjODk3/MWJkMjIyNmZjNDg1/MWM3MGMuanBn.jpg)
@@ -798,13 +838,14 @@
 - A vérifier : loyer inconnu, nombre de pièces inconnu, surface inconnue, extérieur non précisé, parking non précisé
 - Source : [SeLoger](https://www.seloger.com/annonce/location/nouvelle-aquitaine/gironde-33/bruges-33520/265H172VRXGT)
 
-## Annonces écartées (20)
+## Annonces écartées (21)
 
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-st-loubes/p-cf-115188573803) : trajet vérifié Omnes 55 min, Link 55 min
 - [T2 41,23 m² avec balcon et parking, résidence avec piscine, Cenon](https://fr.foncia.com/location/cenon-33150/appartement/331694919.htm) : trajet vérifié Link 42 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-fronsac/2605314) : commune hors zone de trajet
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-ambares-et-lagrave/p-cf-114600603808) : trajet estimé Omnes 50 min, Link 55 min
 - [T2 33,69 m² Mérignac](https://fr.foncia.com/location/merignac-33700/appartement/331721889.htm) : 33.69 m² < 35 m²
+- [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-pessac/p-cf-115513143605) : trajet estimé Link 45 min
 - [T2 35 m² Pessac proche université, parking](https://www.squarehabitat.fr/square-habitat-aquitaine/annonces/biens/location/appartement/pessac/37cff9b9-1421-4924-af1b-2bba10357930) : trajet estimé Link 45 min
 - [Appartement T2 meublé à louer](https://www.locservice.fr/gironde-33/location-appartement-villenave-d-ornon/p-cf-115446633618) : trajet estimé Omnes 50 min, Link 55 min
 - [Appartement T2 à louer](https://www.locservice.fr/gironde-33/location-appartement-castelnau-de-medoc/2624073) : commune hors zone de trajet
